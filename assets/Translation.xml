@@ -254,18 +254,18 @@
   </entry>
   <entry>
     <key>PLUME: Use caution! A black hole sleeps below. You must not slip.</key>
-    <value>PLUME: Use caution! A black hole sleeps below. You must not slip.</value>
+    <value>PLUME: Farið varlega! Svarthol hvílir að neðan. Forðastu að hrasa.</value>
   </entry>
   <entry>
     <key>Emergency escape hatch</key>
-    <value>Emergency escape hatch</value>
+    <value>Neyðarútgangur</value>
   </entry>
   <entry>
     <key>
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
     <value>
-			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
+			HEFJA FLUGSKRÁ: &lt;color=orange&gt;Björgunarbátur 1&lt;/color&gt;. &lt;color=orange&gt;Skipið&lt;/color&gt; er lífshættulega laskað. Neyðaráætlun virkjuð. Í biðstöðu fyrir brottför frá &lt;color=orange&gt;Skipi&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
