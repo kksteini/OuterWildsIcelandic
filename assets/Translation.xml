@@ -273,7 +273,7 @@
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;.
 		</key>
     <value>
-			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;.
+			Skýt &lt;color=orange&gt;Björgunarbát 3&lt;/color&gt; á loft... Skýt &lt;color=orange&gt;Björgunarbát 2&lt;/color&gt; á loft... Hef skot á &lt;color=orange&gt;Björgunarbát 1&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -281,7 +281,7 @@
 			ALERT. Collision imminent. Preparing for impact.
 		</key>
     <value>
-			ALERT. Collision imminent. Preparing for impact.
+			VIÐVÖRUN. Árekstur yfirvofandi. Undirbý fyrir árekstur.
 		</value>
   </entry>
   <entry>
