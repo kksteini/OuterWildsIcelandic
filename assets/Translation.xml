@@ -290,25 +290,25 @@
 			Verdict: HOSPITABLE.
 		</key>
     <value>
-			Scanning external environment... Scan complete. Minor structural instabilities detected. Pockets of breathable air detected. Adequate solar energy detected.
-			Verdict: HOSPITABLE.
+			Skanna ytra umhverfi... Skimun lokið. Lítilvægur burðaróstöðugleiki fannst. Blettir af hentugu andrúmlsofti fundnir. Fullnægjandi sólarorka fundin.
+			Niðurstaða: LÍFVÆNLEGT.
 		</value>
   </entry>
   <entry>
     <key>CONOY: Cassava’s &lt;color=orange&gt;Construction Yard&lt;/color&gt; has been using the cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; to lift &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking.</key>
-    <value>CONOY: Cassava’s &lt;color=orange&gt;Construction Yard&lt;/color&gt; has been using the cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; to lift &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking.</value>
+    <value>CONOY: &lt;color=orange&gt;Smíðaverkstæðið&lt;/color&gt; hennar Cassava hefur verið að nota hvirfilvindana á &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt; til að hífa upp parta fyrir &lt;color=orange&gt;Geimflaugavörpuna&lt;/color&gt; upp í sporbraut, en einum bútnum var ýtt niðurfyrir strauminn sem vanalega hindrar það að nokkur skapaður hlutur sökkvi.</value>
   </entry>
   <entry>
     <key>CONOY: Spire and I are crafting a model to determine why this happened.</key>
-    <value>CONOY: Spire and I are crafting a model to determine why this happened.</value>
+    <value>CONOY: Ég og Spire erum að búa til módel til að ákvarða afhverju þetta gerðist.</value>
   </entry>
   <entry>
     <key>SPIRE: An update: It’s now clear there are two different types of cyclone.</key>
-    <value>SPIRE: An update: It’s now clear there are two different types of cyclone.</value>
+    <value>SPIRE: Stöðuuppfærsla: Okkur er nú ljóst að það eru tvær tegundir af hvirfilvindum.</value>
   </entry>
   <entry>
     <key>SPIRE: Most cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; rotate clockwise. These are the cyclones Cassava typically uses to send components into orbit.</key>
-    <value>SPIRE: Most cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; rotate clockwise. These are the cyclones Cassava typically uses to send components into orbit.</value>
+    <value>SPIRE: Flestir hvirfilvindar á &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt; snúast réttsælis. Þá hvirfilvinda notar Cassava vanalega til þess að senda parta upp í sporbraut.</value>
   </entry>
   <entry>
     <key>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
