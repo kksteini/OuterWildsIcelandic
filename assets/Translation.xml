@@ -12698,167 +12698,167 @@ LOADING...???
   <table_ui>
     <TranslationTableEntryUI>
       <key>100</key>
-      <value>RESUME EXPEDITION</value>
+      <value>HALDA LEIÐANGRI ÁFRAM</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>101</key>
-      <value>NEW EXPEDITION</value>
+      <value>NÝR LEIÐANGUR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>102</key>
-      <value>QUIT</value>
+      <value>HÆTTA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>103</key>
-      <value>PLAYER PROFILE</value>
+      <value>PRÓFÍLL SPILARA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>104</key>
-      <value>OPTIONS</value>
+      <value>STILLINGAR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>105</key>
-      <value>VIEW CREDITS</value>
+      <value>SJÁ KREDITLISTA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>106</key>
-      <value>YES</value>
+      <value>JÁ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>107</key>
-      <value>NO</value>
+      <value>NEI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>108</key>
-      <value>PRESET</value>
+      <value>FORSTILLINGAR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>109</key>
-      <value>Confirm changes?</value>
+      <value>Samþykkja breytingar?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>110</key>
-      <value>CURRENT PROFILE:</value>
+      <value>NÚVERANDI PRÓFÍLL:</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>111</key>
-      <value>CREATE NEW PROFILE</value>
+      <value>BÚA TIL NÝJAN PRÓFÍL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>112</key>
-      <value>DELETE PROFILE</value>
+      <value>EYÐA PRÓFÍL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>113</key>
-      <value>SWITCH TO</value>
+      <value>SKIPTA YFIR Í</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>114</key>
-      <value>RESET GAME</value>
+      <value>NÚLLSTILLA LEIK</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>115</key>
-      <value>Are you sure? This will delete all progress.</value>
+      <value>Ertu viss/t? Þetta mun eyða allri framvindu.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>116</key>
-      <value>Are you sure?</value>
+      <value>Ertu viss/t?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>117</key>
-      <value>BACK</value>
+      <value>TIL BAKA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>118</key>
-      <value>Enabled</value>
+      <value>Virkjað</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>119</key>
-      <value>Disabled</value>
+      <value>Afvirkjað</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>120</key>
-      <value>GAMEPLAY</value>
+      <value>LEIKUMHVERFI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>121</key>
-      <value>INPUT</value>
+      <value>INNTAK</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>122</key>
-      <value>GRAPHICS</value>
+      <value>GRAFÍK</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>123</key>
-      <value>TEXT/AUDIO</value>
+      <value>TEXTI/HLJÓÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>124</key>
-      <value>Auto</value>
+      <value>Sjálfvirkt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>125</key>
-      <value>Manual</value>
+      <value>Handvirkt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>126</key>
-      <value>Show</value>
+      <value>Sýna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>127</key>
-      <value>Hide</value>
+      <value>Fela</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>128</key>
-      <value>Settings</value>
+      <value>Stillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>129</key>
-      <value>Default Settings</value>
+      <value>Sjálfgefnar stillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>130</key>
-      <value>Display Mode</value>
+      <value>Birtimynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>131</key>
-      <value>Monitor</value>
+      <value>Skjár</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>132</key>
-      <value>Aspect Ratio</value>
+      <value>Sniðhlutfall</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>133</key>
-      <value>Resolution</value>
+      <value>Upplausn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>134</key>
-      <value>Anti Aliasing</value>
+      <value>Afstöllun</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>135</key>
-      <value>Anti Alias Quality</value>
+      <value>Gæði afstöllunar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>136</key>
-      <value>Texture Quality</value>
+      <value>Gæði mynstra</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>137</key>
-      <value>Ocean Quality</value>
+      <value>Gæði sjós</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>138</key>
-      <value>Foliage Quality</value>
+      <value>Gæði laufa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>139</key>
-      <value>Shadow Quality</value>
+      <value>Gæði skugga</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>140</key>
-      <value>SSAO Quality</value>
+      <value>Gæði SSAO</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>141</key>
@@ -12866,123 +12866,123 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>142</key>
-      <value>VSync</value>
+      <value>LSamræmi</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>143</key>
-      <value>Monitor</value>
+      <value>Skjár</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>144</key>
-      <value>Dithering</value>
+      <value>Hvarfl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>145</key>
-      <value>Field of View</value>
+      <value>Sjónsvið</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>146</key>
-      <value>Graphics Preset</value>
+      <value>Grafísk forstilling</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>147</key>
-      <value>DO YOU WISH TO APPLY YOUR CHANGES?</value>
+      <value>VILTU VISTA BREYTINGARNAR ÞÍNAR?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>150</key>
-      <value>Use Auto Boost</value>
+      <value>Nota sjálfvirkan útblástur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>151</key>
-      <value>Look Sensitivity</value>
+      <value>Næmni skimunar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>152</key>
-      <value>Flight Sensitivity</value>
+      <value>Næmni flugs</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>153</key>
-      <value>Text Speed</value>
+      <value>Hraði á texta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>154</key>
-      <value>Meditate Until Next Loop</value>
+      <value>Hugleiða fram að næstu lykkju</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>155</key>
-      <value>Exit to Main Menu</value>
+      <value>Fara í aðalval</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>156</key>
-      <value>APPLY</value>
+      <value>SAMÞYKKJA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>157</key>
-      <value>DISCARD</value>
+      <value>HAFNA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>160</key>
-      <value>Jetpack Boost Mode</value>
+      <value>Útblástursmáti þotubúnaðar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>161</key>
-      <value>Translator Equip Mode</value>
+      <value>Notkunarmáti þýðara</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>162</key>
-      <value>Ship Log Rumor Mode</value>
+      <value>Máti orðróms í skipaskrá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>163</key>
-      <value>Ship Log Notifications</value>
+      <value>Tilkynningar fyrir skipaskrá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>164</key>
-      <value>Autopilot</value>
+      <value>Sjálfstýring</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>165</key>
-      <value>Button Prompts</value>
+      <value>Takkaáminningar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>170</key>
-      <value>Text Speed</value>
+      <value>Hraði texta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>171</key>
-      <value>Freeze Time While Reading</value>
+      <value>Stöða tíma á meðan lesið er</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>172</key>
-      <value>Translator</value>
+      <value>Þýðari</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>173</key>
-      <value>Ship Log</value>
+      <value>Skipaskrá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>174</key>
-      <value>Conversations</value>
+      <value>Samtöl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>175</key>
-      <value>Master Volume</value>
+      <value>Aðalhljóðstyrkur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>176</key>
-      <value>Language</value>
+      <value>Tungumál</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>180</key>
-      <value>Do you want to keep these settings?\\nReverting to previous settings in </value>
+      <value>Viltu halda þessum stillingum?\\nBreyti til baka eftir </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>181</key>
-      <value> seconds...</value>
+      <value> sekúndur...</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>182</key>
-      <value> second...</value>
+      <value> sekúndu...</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>183</key>
