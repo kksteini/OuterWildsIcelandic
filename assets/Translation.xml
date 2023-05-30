@@ -392,18 +392,18 @@
   </entry>
   <entry>
     <key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
-    <value>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</value>
+    <value>BELLS: Eftir að þessir tveir aðskildu hópar sameinuðust á ný, þá varð sameiginlegt markmið ættbálks okkar að finna og heimsækja &lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;. Þetta tók tíma, og margir Nomaiar sem höfðu þann draum að fá að sjá &lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;, dóu áður en við uppgötvuðum hvernig mátti ferðast þangað.</value>
   </entry>
   <entry>
     <key>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</key>
-    <value>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</value>
+    <value>BELLS: Þegar þú nærð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;, skaltu minnast þessa Nomaia, og hafðu meðferðis þeirra.</value>
   </entry>
   <entry>
     <key>
 			PLUME: The &lt;i&gt;trees&lt;/i&gt; are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is &lt;i&gt;not normal&lt;/i&gt;, even for this alien planet. And I never see them move! Is that even possible?!
 		</key>
     <value>
-			PLUME: The &lt;i&gt;trees&lt;/i&gt; are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is &lt;i&gt;not normal&lt;/i&gt;, even for this alien planet. And I never see them move! Is that even possible?!
+			PLUME: &lt;i&gt;Trén&lt;/i&gt; hreyfast! Trén í þessum lundi eru &lt;i&gt;ekki eðlileg&lt;/i&gt;, jafnvel fyrir þessa framandi plánetu. Og ég sé þau aldrei hreyfast! Er þetta í raun eitthvað sem er mögulegt?!
 		</value>
   </entry>
   <entry>
@@ -411,7 +411,7 @@
 			PLUME: If anyone else witnesses this disturbing behavior, I implore you, record your observations here. Either these trees are aberrant, or my brain must be!
 		</key>
     <value>
-			PLUME: If anyone else witnesses this disturbing behavior, I implore you, record your observations here. Either these trees are aberrant, or my brain must be!
+			PLUME: Ef einhver annar verður var við þessa óhugnanlegu hegðun, þá grátbið ég ykkur um að skrá athuganirnar ykkar hérna. Annað hvort eru trén afbrigðileg eða heilinn minn!
 		</value>
   </entry>
   <entry>
@@ -419,7 +419,7 @@
 			THATCH: Plume is right; the trees &lt;i&gt;do&lt;/i&gt; move! I confess I didn’t notice until I read his notes.
 		</key>
     <value>
-			THATCH: Plume is right; the trees &lt;i&gt;do&lt;/i&gt; move! I confess I didn’t notice until I read his notes.
+			THATCH: Plume hefur rétt fyrir sér; trén &lt;i&gt;svo sannarlega&lt;/i&gt; hreyfast! Ég játa þó að ég tók ekki eftir því fyrr en ég las glósurnar hans.
 		</value>
   </entry>
   <entry>
@@ -427,7 +427,7 @@
 			THATCH: Alarmingly, it isn’t only the trees: There is other matter in this area (such as that unusual shard of rock) moving in this same eerie way.
 		</key>
     <value>
-			THATCH: Alarmingly, it isn’t only the trees: There is other matter in this area (such as that unusual shard of rock) moving in this same eerie way.
+			THATCH: Mjög uggandi er að það á ekki bara við um trén: Það eru aðrir hlutir á þessu svæði (eins og þetta óvenjulega grjót) sem hreyfist á sama skuggalega máta.
 		</value>
   </entry>
   <entry>
@@ -435,7 +435,7 @@
 			FILIX: That rock is unusual for another reason, too, Thatch: It possesses color and texture I’ve never seen elsewhere on this planet!
 		</key>
     <value>
-			FILIX: That rock is unusual for another reason, too, Thatch: It possesses color and texture I’ve never seen elsewhere on this planet!
+			FILIX: Þetta grjót er óvenjulegt af annarri ástæðu líka, Thatch: Það hefur lit og áferð sem fyrirfinnst ekki annars á þessari plánetu!
 		</value>
   </entry>
   <entry>
