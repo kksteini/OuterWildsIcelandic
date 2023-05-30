@@ -300,7 +300,7 @@
   </entry>
   <entry>
     <key>CONOY: Spire and I are crafting a model to determine why this happened.</key>
-    <value>CONOY: Ég og Spire erum að búa til módel til að ákvarða afhverju þetta gerðist.</value>
+    <value>CONOY: Ég og Spire erum að búa til líkan til að ákvarða af hverju þetta gerðist.</value>
   </entry>
   <entry>
     <key>SPIRE: An update: It’s now clear there are two different types of cyclone.</key>
@@ -312,83 +312,83 @@
   </entry>
   <entry>
     <key>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
-    <value>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</value>
+    <value>SPIRE: En það eru líka til sjaldgæfari hvirfilvindar sem snúast í öfuga átt og ýta hlutum niður í vatnið og niður fyrir strauminn.</value>
   </entry>
   <entry>
     <key>CASSAVA: My gratitude, Spire. Conoy is showing me your handiwork, and I’m intrigued by this secondary type of cyclone. But was it really necessary to build a model to tell me that?</key>
-    <value>CASSAVA: My gratitude, Spire. Conoy is showing me your handiwork, and I’m intrigued by this secondary type of cyclone. But was it really necessary to build a model to tell me that?</value>
+    <value>CASSAVA: Kærar þakkir, Spire. Conoy er að sýna mér sköpunarverkið þitt, og ég er hugfanginn af þessu afbrigði hvirfilvinda. En var það virkilega nauðsynlegt að smíða líkan til þess að segja mér það?</value>
   </entry>
   <entry>
     <key>SPIRE: The model will be useful as we continue monitoring &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;.</key>
-    <value>SPIRE: The model will be useful as we continue monitoring &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;.</value>
+    <value>SPIRE: Líkanið mun koma að góðum notum á meðan við höldum áfram að vakta &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>SPIRE: Also I very much wanted to make a model.</key>
-    <value>SPIRE: Also I very much wanted to make a model.</value>
+    <value>SPIRE: Mig langaði líka hryllilega til að smíða líkan.</value>
   </entry>
   <entry>
     <key>ILEX: Look out, look out below!</key>
-    <value>ILEX: Look out, look out below!</value>
+    <value>ILEX: Varast mátt því neðanverður!</value>
   </entry>
   <entry>
     <key>ILEX: Look out for the gravity hole!</key>
-    <value>ILEX: Look out for the gravity hole!</value>
+    <value>ILEX: Er mikill massi og töluverður!</value>
   </entry>
   <entry>
     <key>ILEX: For should you slip</key>
-    <value>ILEX: For should you slip</value>
+    <value>ILEX: Ef missir þú tak</value>
   </entry>
   <entry>
     <key>ILEX: And lose your grip,</key>
-    <value>ILEX: And lose your grip,</value>
+    <value>ILEX: Og dettur á bak,</value>
   </entry>
   <entry>
     <key>ILEX: Then into space you’ll go!</key>
-    <value>ILEX: Then into space you’ll go!</value>
+    <value>ILEX: Þá út í geiminn öfugur ferðu!</value>
   </entry>
   <entry>
     <key>PLUME: Of note: Be sure not to wander far from here. Though this area is somewhat unstable, it’s safer than any we’ve found so far.</key>
-    <value>PLUME: Of note: Be sure not to wander far from here. Though this area is somewhat unstable, it’s safer than any we’ve found so far.</value>
+    <value>PLUME: Athugið: Gætið ykkur á því að ráfa ekki langt. Þótt þetta svæði sé dálítið óstöðugt, þá er það öruggara en nokkuð sem við höfum fundið hingað til.</value>
   </entry>
   <entry>
     <key>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</key>
-    <value>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</value>
+    <value>PLUME: Skammtímanýbyggðin er klár, en passið ykkur á grjóthruni og ryki sem skapast af árekstri lofsteina.</value>
   </entry>
   <entry>
     <key>THATCH: I can’t understand. Why did the &lt;color=orange&gt;Vessel&lt;/color&gt; crash in that place?</key>
-    <value>THATCH: I can’t understand. Why did the &lt;color=orange&gt;Vessel&lt;/color&gt; crash in that place?</value>
+    <value>THATCH: Ég get ekki skilið þetta. Af hverju brotlenti &lt;color=orange&gt;Skipið&lt;/color&gt; á þessum stað?</value>
   </entry>
   <entry>
     <key>PLUME: Was the &lt;color=orange&gt;Vessel&lt;/color&gt; unwell in some way?</key>
-    <value>PLUME: Was the &lt;color=orange&gt;Vessel&lt;/color&gt; unwell in some way?</value>
+    <value>PLUME: Var &lt;color=orange&gt;Skipið&lt;/color&gt; ónothæft á einhvern hátt?</value>
   </entry>
   <entry>
     <key>FILIX: No, Annona and I checked before the warp, and the warp core and navigation systems were both well.</key>
-    <value>FILIX: No, Annona and I checked before the warp, and the warp core and navigation systems were both well.</value>
+    <value>FILIX: Nei, ég og Annona athuguðum fyrir varpið, og vörpukjarninn og leiðsögukerfið voru bæði nothæf.</value>
   </entry>
   <entry>
     <key>FILIX: We warped to follow that curious signal from the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. Where we arrived was wrong; it wasn’t where we tried to go.</key>
-    <value>FILIX: We warped to follow that curious signal from the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. Where we arrived was wrong; it wasn’t where we tried to go.</value>
+    <value>FILIX: Við vörpuðum til þess að elta uppi þetta forvitnilega merki frá &lt;color=lightblue&gt;Auga alheimsins&lt;/color&gt;. Við enduðum ekki á réttum stað; þetta var ekki hvert við ætluðum okkur.</value>
   </entry>
   <entry>
     <key>THATCH: Suppose it wasn’t a problem with the &lt;color=orange&gt;Vessel&lt;/color&gt;, but with our destination.</key>
-    <value>THATCH: Suppose it wasn’t a problem with the &lt;color=orange&gt;Vessel&lt;/color&gt;, but with our destination.</value>
+    <value>THATCH: Göngum út frá því að þetta var ekki vandamál með &lt;color=orange&gt;Skipið&lt;/color&gt;, heldur áfangastaðinn okkar.</value>
   </entry>
   <entry>
     <key>FILIX: I’m afraid for our friends in &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;....</key>
-    <value>FILIX: I’m afraid for our friends in &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;....</value>
+    <value>FILIX: Ég óttast um vini okkar í &lt;color=orange&gt;Björgunarbát 3&lt;/color&gt;....</value>
   </entry>
   <entry>
     <key>BELLS: If you’re here to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, you are almost prepared to set out on this deeply significant journey. Before you do, pause, and remember your history.</key>
-    <value>BELLS: If you’re here to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, you are almost prepared to set out on this deeply significant journey. Before you do, pause, and remember your history.</value>
+    <value>BELLS: Ef þú ert hér á þinni fyrstu pílagrímsferð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;, þá ertu næstum undirbúinn til að hefja þetta gífurlega þýðingarmikla ferðalag. Fyrst skaltu taka smá stund til þess að rifja upp sögu okkar.</value>
   </entry>
   <entry>
     <key>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</key>
-    <value>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</value>
+    <value>BELLS: Við leggjum ekki í þetta ferðalag eingöngu fyrir okkur sjálfa, heldur einnig til þess að heiðra meðlimi ættbálksins sem á undan okkur komu: þá sem brotlendu hér í þessu sólkerfi og í kjölfarið urðu strandaglópar á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; og á &lt;color=lightblue&gt;Blossabróður&lt;/color&gt;, með engin samskipti milli þessara tveggja hópa eftirlifenda.</value>
   </entry>
   <entry>
     <key>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</key>
-    <value>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</value>
+    <value>BELLS: Þessir Nomaiar horfðu upp frá tveimur mismunandi plánetum og sáu sama reikitunglið heimsækja himna sína. Það var þetta tungl (&lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;) sem blés áframhaldandi lífi í forvitni þeirra þessi löngu harðindi.</value>
   </entry>
   <entry>
     <key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
