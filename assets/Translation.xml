@@ -411,7 +411,7 @@
 			PLUME: If anyone else witnesses this disturbing behavior, I implore you, record your observations here. Either these trees are aberrant, or my brain must be!
 		</key>
     <value>
-			PLUME: Ef einhver annar verður var við þessa óhugnanlegu hegðun, þá grátbið ég ykkur um að skrá athuganirnar ykkar hérna. Annað hvort eru trén afbrigðileg eða heilinn minn!
+			PLUME: Ef einhver annar verður var við þessa óhugnanlegu hegðun, þá grátbið ég ykkur um að skrá athuganirnar ykkar hérna. Annað hvort eru trén afbrigðileg eða heilinn á mér!
 		</value>
   </entry>
   <entry>
@@ -443,7 +443,7 @@
 			FILIX: Hypothesis: This rock shard’s presence is significant. We should study it! (Could it be what is causing other nearby objects to also move about this area?)
 		</key>
     <value>
-			FILIX: Hypothesis: This rock shard’s presence is significant. We should study it! (Could it be what is causing other nearby objects to also move about this area?)
+			FILIX: Tilgáta: Nærvera þessa grjóts er athyglisverð. Við ættum að rannsaka það! (Gæti verið að það sé að valda hreyfingum annarra hluta á þessu svæði?)
 		</value>
   </entry>
   <entry>
@@ -451,7 +451,7 @@
 			THATCH: Plume, Filix, and I have determined this atypical shard of rock is the reason objects in this grove are behaving in a quantum manner.
 		</key>
     <value>
-			THATCH: Plume, Filix, and I have determined this atypical shard of rock is the reason objects in this grove are behaving in a quantum manner.
+			THATCH: Ég, Plume og Filix höfum ákvarðað að þetta óvenjulega grjót er orsök þess að hlutir í þessum lundi bera með sér skammtahegðun.
 		</value>
   </entry>
   <entry>
@@ -459,7 +459,7 @@
 			THATCH: The only other object we’ve observed displaying this quantum behavior is the &lt;color=lightblue&gt;wandering moon&lt;/color&gt;. I imagine the moon’s behavior and this grove’s are related.
 		</key>
     <value>
-			THATCH: The only other object we’ve observed displaying this quantum behavior is the &lt;color=lightblue&gt;wandering moon&lt;/color&gt;. I imagine the moon’s behavior and this grove’s are related.
+			THATCH: Eini aðri hluturinn sem við höfum séð hafa slíka skammtahegðun er &lt;color=lightblue&gt;reikitunglið&lt;/color&gt;. Ég hugsa mér að hegðun tunglsins tengist hegðun þessa lundar. 
 		</value>
   </entry>
   <entry>
@@ -467,7 +467,7 @@
 			PLUME: In her note from earlier, Filix mentions this strange type of rock isn’t found elsewhere on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. What if it isn’t originally from this planet?
 		</key>
     <value>
-			PLUME: In her note from earlier, Filix mentions this strange type of rock isn’t found elsewhere on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. What if it isn’t originally from this planet?
+			PLUME: Filix minntist á í fyrri glósum að þessi óvenjulega tegund grjóts finnst ekki annars staðar á &lt;color=lightblue&gt;Brotholi&lt;/color&gt;. Hvað ef þetta kemur ekki upprunalega frá þessari plánetu? 
 		</value>
   </entry>
   <entry>
@@ -475,7 +475,7 @@
 			PLUME: Hypothesis: This “quantum shard” is from the &lt;color=lightblue&gt;wandering (quantum) moon&lt;/color&gt;. Perhaps it is even a small piece of the moon itself.
 		</key>
     <value>
-			PLUME: Hypothesis: This “quantum shard” is from the &lt;color=lightblue&gt;wandering (quantum) moon&lt;/color&gt;. Perhaps it is even a small piece of the moon itself.
+			PLUME: Tilgáta: Þetta “skammtagrjót” er frá hinu &lt;color=lightblue&gt;reikandi (skammta)tungli&lt;/color&gt;. Jafnvel bara lítið stykki af sjálfu tunglinu.
 		</value>
   </entry>
   <entry>
@@ -483,7 +483,7 @@
 			FILIX: Of note: A unique signal is coming from this shard! Curiously, our friend the &lt;color=lightblue&gt;wandering moon&lt;/color&gt; sounds the same.
 		</key>
     <value>
-			FILIX: Of note: A unique signal is coming from this shard! Curiously, our friend the &lt;color=lightblue&gt;wandering moon&lt;/color&gt; sounds the same.
+			FILIX: Athugavert: Það kemur einstakt merki frá þessu grjóti! Merkilega þá hljómar vinur okkar, &lt;color=lightblue&gt;reikitunglið&lt;/color&gt;, eins.
 		</value>
   </entry>
   <entry>
@@ -491,7 +491,7 @@
 			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
 		</key>
     <value>
-			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
+			FILIX: Ég hef einnig heyrt eins merki, og þetta grjót býr til, koma frá &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt;,&lt;color=lightblue&gt;Bjálkabóli&lt;/color&gt;, og &lt;color=lightblue&gt;Sandsystkinunum&lt;/color&gt;. Álítum að það séu önnur grjót eins og þetta hér!
 		</value>
   </entry>
   <entry>
@@ -499,7 +499,7 @@
 			BELLS: Welcome, Solanum! Your arrival here means you’ve completed your preparations on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; and are ready to depart for the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.
 		</key>
     <value>
-			BELLS: Welcome, Solanum! Your arrival here means you’ve completed your preparations on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; and are ready to depart for the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.
+			BELLS: Velkomin, Solanum! Koma þín hér þýðir að þú hefur undirbúið þig á &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt; og sért tilbúin að ferðast til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -507,7 +507,7 @@
 			BELLS: On your pilgrimage, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; will carry you, just as it carried me and many in our clan before me, to the moon’s sixth and most secret location.
 		</key>
     <value>
-			BELLS: On your pilgrimage, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; will carry you, just as it carried me and many in our clan before me, to the moon’s sixth and most secret location.
+			BELLS: Á pílagrímsferð þinni, mun &lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt; fara með þig, rétt eins og það fór með mig og marga aðra meðlimi ættbálks okkar, að sjötta og leynilegasta staðar tunglsins.
 		</value>
   </entry>
   <entry>
@@ -515,7 +515,7 @@
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
     <value>
-			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
+			BELLS: Á ferð þinni mun helgiskrínið, byggt af ættbálk okkar hér á &lt;color=lightblue&gt;Skammtatunglinu&lt;/color&gt;, hjálpa þér. En að lokum skaltu hlýða á þessa lokareglu: Til að kanna sjötta svæðið þarf helgiskrínið að vera á norðurpóli tunglsins.
 		</value>
   </entry>
   <entry>
