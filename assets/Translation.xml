@@ -587,43 +587,43 @@
 			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
 		</key>
     <value>
-			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
+			ILEX: Ekki gleyma að gefa steingervingnum að borða fyrst! Ef þú ferð að &lt;color=orange&gt;Skötuselsglugganum&lt;/color&gt; og kastar ljósi í munninn á honum, þá mun hann vísa þér veginn.
 		</value>
   </entry>
   <entry>
     <key>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</key>
-    <value>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</value>
+    <value>LAMI: Taget passar ekki lengur í gegnum &lt;color=orange&gt;Skötuselsgluggann&lt;/color&gt; því hann óx svo mikið! Hann er hærri en Laevi núna.</value>
   </entry>
   <entry>
     <key>LAEVI: Who cares? Ilex is still tallest.</key>
-    <value>LAEVI: Who cares? Ilex is still tallest.</value>
+    <value>LAEVI: Hverjum er ekki sama? Ilex er enn hæst.</value>
   </entry>
   <entry>
     <key>TAGET: Are we playing the fossil fish game tonight?</key>
-    <value>TAGET: Are we playing the fossil fish game tonight?</value>
+    <value>TAGET: Ætlum við í steingervingafiskaleikinn í kvöld?</value>
   </entry>
   <entry>
     <key>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</key>
-    <value>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</value>
+    <value>SOLANUM: Ég mataði steingervinginn með nýjum lampa. Ef þú ferð núna í &lt;color=orange&gt;Staksteinahellinn&lt;/color&gt;, ætti inngangurinn að &lt;color=orange&gt;Helli Steingervingafisksins&lt;/color&gt; að vera auðséður.</value>
   </entry>
   <entry>
     <key>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</key>
-    <value>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</value>
+    <value>LAEVI: Þakka þér, Solanum! Það er gott að þú ert nógu lítil til að klifra í gegnum &lt;color=orange&gt;Skötuselsgluggann&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>LAMI: I’m still small enough!</key>
-    <value>LAMI: I’m still small enough!</value>
+    <value>LAMI: Ég er ennþá nógu lítill!</value>
   </entry>
   <entry>
     <key>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</key>
-    <value>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</value>
+    <value>LAEVI: Þú verður það ekki lengi. Mamma og pabbi eru hávaxin, svo ég og þú verðum líka hávaxin.</value>
   </entry>
   <entry>
     <key>
 			MELORAE: The heat from this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt; is more bearable below the surface.
 		</key>
     <value>
-			MELORAE: The heat from this star system’s sun is more bearable below the surface.
+			MELORAE: Hitinn frá stjörnu þessa stjörnukerfis er þolanlegri neðanjarðar.
 		</value>
   </entry>
   <entry>
@@ -631,7 +631,7 @@
 			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
 		</key>
     <value>
-			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
+			MELORAE: Þegar &lt;color=orange&gt;björgunarbáturinn&lt;/color&gt; okkar gataði yfirborð þessarar plánetu, þá lenti hann í hellakerfi sem skannar okkar sýna að innihalda mun kaldara loft. Ég &lt;i&gt;myndi&lt;/i&gt; mæla með því að við finnum stað innan þeirra fyrir langtímaskjól, Annona, en þessir gangar eru eitt völundarhús!
 		</value>
   </entry>
   <entry>
@@ -639,7 +639,7 @@
 			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
 		</key>
     <value>
-			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
+			ANNONA: Þrátt fyrir þá áhættu eru þeir enn okkar besti valkostur til að lifa af. Við skulum mynda teymi og fara niður í hellana til þess að finna skjólsvæði. Við getum merkt uppgötvanir okkar á veggina til þess að koma í veg fyrir að við villumst fyrir fullt og allt.
 		</value>
   </entry>
   <entry>
@@ -647,7 +647,7 @@
 			ANNONA: Be cautious, everyone.
 		</key>
     <value>
-			ANNONA: Be cautious, everyone.
+			ANNONA: Farið varlega, öllsömul.
 		</value>
   </entry>
   <entry>
@@ -655,7 +655,7 @@
 			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
 		</key>
     <value>
-			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
+			RHUS: Hafið sandinn í huga á meðan þið leitið. Hann virðist vera að hækka smám saman.
 		</value>
   </entry>
   <entry>
@@ -663,7 +663,7 @@
 			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
 		</key>
     <value>
-			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
+			COLEUS: Leiðin að skjólinu er nokkuð flókin, svo fylgið leiðbeiningunum hér framundan vandlega!
 		</value>
   </entry>
   <entry>
@@ -671,7 +671,7 @@
 			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
 		</key>
     <value>
-			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
+			COLEUS: Til að komast í skjólið skaltu fara beint þar til þú kemur að sandfossinum hjá gryfjunni, síðan snýrðu til vinstri. Haltu áfram yfir í herbergið sem er fullt af steinsúlum og klifraðu upp og í gegnum opið fyrir ofan þær.
 		</value>
   </entry>
   <entry>
