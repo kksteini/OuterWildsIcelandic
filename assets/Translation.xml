@@ -563,7 +563,7 @@
 			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
 		</key>
     <value>
-			LAEVI: Við ætlum að hittast í &lt;color=orange&gt;Helli Steingervingafisksins&lt;/color&gt; til að fara í leik! Ef þú ert of stór til þess að klifra í gegnum &lt;color=orange&gt;Skötuselsgluggann&lt;/color&gt;:
+			LAEVI: Við ætlum að hittast í &lt;color=orange&gt;Steingervingahellinum&lt;/color&gt; til að fara í leik! Ef þú ert of stór til þess að klifra í gegnum &lt;color=orange&gt;Fiskskrattagluggann&lt;/color&gt;:
 		</value>
   </entry>
   <entry>
@@ -571,7 +571,7 @@
 			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
 		</key>
     <value>
-			LAEVI: Þá verður þú að fara löngu leiðina, en það er ekki löng leið. Farðu í &lt;color=orange&gt;Staksteinahellinn&lt;/color&gt;, og síðan upp og inn í &lt;color=orange&gt;Helli Steingervingafisksins&lt;/color&gt;.
+			LAEVI: Þá verður þú að fara löngu leiðina, en það er ekki löng leið. Farðu í &lt;color=orange&gt;Staksteinahellinn&lt;/color&gt;, og síðan upp og inn í &lt;color=orange&gt;Steingervingahellinn&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -587,12 +587,12 @@
 			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
 		</key>
     <value>
-			ILEX: Ekki gleyma að gefa steingervingnum að borða fyrst! Ef þú ferð að &lt;color=orange&gt;Skötuselsglugganum&lt;/color&gt; og kastar ljósi í munninn á honum, þá mun hann vísa þér veginn.
+			ILEX: Ekki gleyma að gefa steingervingnum að borða fyrst! Ef þú ferð að &lt;color=orange&gt;Fiskskrattaglugganum&lt;/color&gt; og kastar ljósi í munninn á honum, þá mun hann vísa þér veginn.
 		</value>
   </entry>
   <entry>
     <key>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</key>
-    <value>LAMI: Taget passar ekki lengur í gegnum &lt;color=orange&gt;Skötuselsgluggann&lt;/color&gt; því hann óx svo mikið! Hann er hærri en Laevi núna.</value>
+    <value>LAMI: Taget passar ekki lengur í gegnum &lt;color=orange&gt;Fiskskrattagluggann&lt;/color&gt; því hann óx svo mikið! Hann er hærri en Laevi núna.</value>
   </entry>
   <entry>
     <key>LAEVI: Who cares? Ilex is still tallest.</key>
@@ -604,11 +604,11 @@
   </entry>
   <entry>
     <key>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</key>
-    <value>SOLANUM: Ég mataði steingervinginn með nýjum lampa. Ef þú ferð núna í &lt;color=orange&gt;Staksteinahellinn&lt;/color&gt;, ætti inngangurinn að &lt;color=orange&gt;Helli Steingervingafisksins&lt;/color&gt; að vera auðséður.</value>
+    <value>SOLANUM: Ég mataði steingervinginn með nýjum lampa. Ef þú ferð núna í &lt;color=orange&gt;Staksteinahellinn&lt;/color&gt;, ætti inngangurinn að &lt;color=orange&gt;Steingervingahellinum&lt;/color&gt; að vera auðséður.</value>
   </entry>
   <entry>
     <key>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</key>
-    <value>LAEVI: Þakka þér, Solanum! Það er gott að þú ert nógu lítil til að klifra í gegnum &lt;color=orange&gt;Skötuselsgluggann&lt;/color&gt;.</value>
+    <value>LAEVI: Þakka þér, Solanum! Það er gott að þú ert nógu lítil til að klifra í gegnum &lt;color=orange&gt;Fiskskrattagluggann&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>LAMI: I’m still small enough!</key>
