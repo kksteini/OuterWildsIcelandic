@@ -556,7 +556,7 @@
   </entry>
   <entry>
     <key>Call the &lt;color=orange&gt;shuttle&lt;/color&gt; home</key>
-    <value>Senda &lt;color=orange&gt;flugferjuna&lt;/color&gt; heim</value>
+    <value>Senda &lt;color=orange&gt;geimferjuna&lt;/color&gt; heim</value>
   </entry>
   <entry>
     <key>
@@ -679,7 +679,7 @@
 			COLEUS: The sand here is rising, so you must be cautious but swift.
 		</key>
     <value>
-			COLEUS: The sand here is rising, so you must be cautious but swift.
+			COLEUS: Sandyfirborðið hér er að hækka, svo farðu varlega en vertu snöggur.
 		</value>
   </entry>
   <entry>
@@ -687,7 +687,7 @@
 			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
 		</key>
     <value>
-			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
+			COLEUS: Sýndu varkárni þegar þú ferð yfir gljúfrið hér framundan. Brúin sem ég og Melorae smíðuðum mun gegna sínu hlutverki, en hún er ekki sterkbyggð.
 		</value>
   </entry>
   <entry>
@@ -695,7 +695,7 @@
 			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
 		</key>
     <value>
-			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
+			COLEUS: Þegar þú ert hinum meginn, skaltu litast um eftir göngum sem eru faling á bak við sandfossinn. Fylgdu þeim og þú munt komast í skjólið.
 		</value>
   </entry>
   <entry>
@@ -703,7 +703,7 @@
 			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
 		</key>
     <value>
-			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
+			COLEUS: Þú stendur þig vel! Aðeins lengra og þú ert kominn í skjólið. Þú getur hvílt þig þar. Flýttu þér, áður en sandurinn kemur!
 		</value>
   </entry>
   <entry>
@@ -711,7 +711,7 @@
 			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
 		</key>
     <value>
-			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
+			MELORAE: Ekki fylgja þessum göngum til enda! (Ég og Coleus munum skoða hryllinginn sem bíður á endastöðinni síðar, ef við skyldum lifa þetta af.)
 		</value>
   </entry>
   <entry>
@@ -719,7 +719,7 @@
 			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
 		</key>
     <value>
-			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
+			ANNONA: Athugið: Þessi gangur liggur að öndunarhæfu lofti. Fyllið á loftkútinn ykkar þar (við vitum ekki hve djúpt þessi göng hlykkjast), en staldrið ekki lengi, þar sem svæðið er berskjaldað gegn hita þessarar framandi &lt;color=lightblue&gt;sólu&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -727,7 +727,7 @@
 			ANNONA: Refill your air supply tank and return quickly.
 		</key>
     <value>
-			ANNONA: Refill your air supply tank and return quickly.
+			ANNONA: Fyllið á loftkútinn og snúið við, snarlega.
 		</value>
   </entry>
   <entry>
@@ -735,7 +735,7 @@
 			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
 		</key>
     <value>
-			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
+			RHUS: Haldið áfram, vinir: Það er ekkert áhugavert við enda þessa gangs nema grjót. 
 		</value>
   </entry>
   <entry>
@@ -743,218 +743,218 @@
 			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
 		</key>
     <value>
-			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
+			RHUS: Og þótt þetta grjót sé áhugavert, þá geta þeir beðið betri tíma.
 		</value>
   </entry>
   <entry>
     <key>SOLANUM: The sands go to and fro,</key>
-    <value>SOLANUM: The sands go to and fro,</value>
+    <value>SOLANUM: Sandurinn æðir upp og niður,</value>
   </entry>
   <entry>
     <key>SOLANUM: Reversing their swift flow.</key>
-    <value>SOLANUM: Reversing their swift flow.</value>
+    <value>SOLANUM: Skjótt um áttir skipta skriður.</value>
   </entry>
   <entry>
     <key>SOLANUM: If you’re inside</key>
-    <value>SOLANUM: If you’re inside</value>
+    <value>SOLANUM: Ef inn þú skýst</value>
   </entry>
   <entry>
     <key>SOLANUM: When turns the tide,</key>
-    <value>SOLANUM: When turns the tide,</value>
+    <value>SOLANUM: Er fossinn snýst,</value>
   </entry>
   <entry>
     <key>SOLANUM: Then skyward you should go.</key>
-    <value>SOLANUM: Then skyward you should go.</value>
+    <value>SOLANUM: Þá lyftist þú upp, því miður.</value>
   </entry>
   <entry>
     <key>SOLANUM: Who was it when we last quit:</key>
-    <value>SOLANUM: Who was it when we last quit:</value>
+    <value>SOLANUM: Hver átti að gera þegar við hættum síðast:</value>
   </entry>
   <entry>
     <key>SOLANUM: Me</key>
-    <value>SOLANUM: Me</value>
+    <value>SOLANUM: Ég</value>
   </entry>
   <entry>
     <key>LAEVI: Me</key>
-    <value>LAEVI: Me</value>
+    <value>LAEVI: Ég</value>
   </entry>
   <entry>
     <key>ILEX: I was</key>
-    <value>ILEX: I was</value>
+    <value>ILEX: Ég átti að gera</value>
   </entry>
   <entry>
     <key>ILEX: Me again</key>
-    <value>ILEX: Me again</value>
+    <value>ILEX: Ég aftur</value>
   </entry>
   <entry>
     <key>LAMI: Me!</key>
-    <value>LAMI: Me!</value>
+    <value>LAMI: Ég!</value>
   </entry>
   <entry>
     <key>SOLANUM: Me_test</key>
-    <value>SOLANUM: Me</value>
+    <value>SOLANUM: Ég</value>
   </entry>
   <entry>
     <key>SOLANUM: Me_test2</key>
-    <value>SOLANUM: Me</value>
+    <value>SOLANUM: Ég</value>
   </entry>
   <entry>
     <key>LAMI: Me</key>
-    <value>LAMI: Me</value>
+    <value>LAMI: Ég</value>
   </entry>
   <entry>
     <key>TAGET: It was me</key>
-    <value>TAGET: It was me</value>
+    <value>TAGET: Það var ég</value>
   </entry>
   <entry>
     <key>SOLANUM: Me_test3</key>
-    <value>SOLANUM: Me</value>
+    <value>SOLANUM: Ég</value>
   </entry>
   <entry>
     <key>ILEX: I was_test</key>
-    <value>ILEX: I was</value>
+    <value>ILEX: Ég átti að gera</value>
   </entry>
   <entry>
     <key>TAGET: Me again</key>
-    <value>TAGET: Me again</value>
+    <value>TAGET: Ég aftur</value>
   </entry>
   <entry>
     <key>LAEVI: Me_test</key>
-    <value>LAEVI: Me</value>
+    <value>LAEVI: Ég</value>
   </entry>
   <entry>
     <key>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</key>
-    <value>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</value>
+    <value>PYE: Ég er að fá mun sterkari orkumælingar nú þegar við erum fyrir neðan jarðskorpuna. Hvað sem veldur þessu hlýtur að vera einhversstaðar fyrir innan, nær kjarna &lt;color=lightblue&gt;halastjörnunnar&lt;/color&gt;. Mig grunar nú að það sé hættulegra en við gerðum okkur grein fyrir.</value>
   </entry>
   <entry>
     <key>PYE: Clary, can you hear us?</key>
-    <value>PYE: Clary, can you hear us?</value>
+    <value>PYE: Clary, heyrir þú í okkur?</value>
   </entry>
   <entry>
     <key>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</key>
-    <value>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</value>
+    <value>CLARY: Já, en raddir ykkar eru daufar. Ég óttast að við missum samband algelega ef þið haldið dýpra.</value>
   </entry>
   <entry>
     <key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
-    <value>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</value>
+    <value>POKE: Haltu &lt;color=orange&gt;geimferjunni&lt;/color&gt; heitri fyrir okkur, Clary. Við snúum við um leið og við berum kennsl á uppsprettu orkumælinganna!</value>
   </entry>
   <entry>
     <key>CLARY: I understand, but... Be cautious, both of you.</key>
-    <value>CLARY: I understand, but... Be cautious, both of you.</value>
+    <value>CLARY: Ég skil, en... Farið varlega, báðar tvær.</value>
   </entry>
   <entry>
     <key>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</key>
-    <value>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</value>
+    <value>POKE: Þetta hringlaga steinhylki hérna virðist vera uppspretta orkumælinganna... Nei, réttara sagt, þá er uppsprettan inni í steininum. Ég er að nema einhvers konar framandi efni.</value>
   </entry>
   <entry>
     <key>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</key>
-    <value>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</value>
+    <value>PYE: Steinninn &lt;i&gt;deyfir&lt;/i&gt; orkumælinganar okkar; þær ættu að vera tífalt meiri en það sem við sjáum, að minnsta kosti.</value>
   </entry>
   <entry>
     <key>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</key>
-    <value>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</value>
+    <value>POKE: Pye, ég held að við viljum ekki komast í snertingu við þetta efni. Svo best sem ég veit myndi bein snerting, að öllum líkindum, vera banvæn.</value>
   </entry>
   <entry>
     <key>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</key>
-    <value>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</value>
+    <value>PYE: Ég hef aldrei séð neitt í líkingu við þetta steinhylki, en það er það eina sem verndar okkur frá innihaldinu. Verra er, að þetta efni er óhugnalega óstöðugt.</value>
   </entry>
   <entry>
     <key>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</key>
-    <value>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</value>
+    <value>POKE: ...Pye. Hvað sem efnið er í hylkinu; þá er það ekki bara svakalega óstöðugt, heldur er það undir gríðarlegum þrýstingi. Sjáðu þessa þéttnimælingu. Ég hef aldrei séð &lt;i&gt;neitt&lt;/i&gt; svona ógurlega samþjappað! Hvað &lt;i&gt;er&lt;/i&gt; þetta?</value>
   </entry>
   <entry>
     <key>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</key>
-    <value>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</value>
+    <value>PYE: Þetta er svo langtum verra heldur en ég hafði ímyndað mér. Ef þetta steinhylki skyldi rofna, þá myndi þetta lífshættulega efni fyrir innan þenjast út á leifturhraða og þekja þetta stjörnukerfi nær samstundis. Og þrýstingurinn er enn að aukast er &lt;color=lightblue&gt;halastjarnan&lt;/color&gt; nálgast þetta stjörnukerfi...</value>
   </entry>
   <entry>
     <key>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</key>
-    <value>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</value>
+    <value>PYE: Til baka í geimferjuna, núna strax! Restin af vinum okkar þurfa að vita að þeir eru í stórhættu. Skiljið eftir búnaðinn ykkar og hlaupið!</value>
   </entry>
   <entry>
     <key>POKE: What are you doing, Pye?!</key>
-    <value>POKE: What are you doing, Pye?!</value>
+    <value>POKE: Hvað ertu að gera, Pye?!</value>
   </entry>
   <entry>
     <key>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</key>
-    <value>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</value>
+    <value>PYE: Því meira sem ég veit um þetta framandi efni, því betri eru líkur okkar á að lifa af. Ég rannsaka það sem ég get hérna. Farðu og varaðu hina við; kannski geta þeir smíðað sér skjól einhvern veginn. ...&lt;i&gt;Núna&lt;/i&gt;, Poke!</value>
   </entry>
   <entry>
     <key>
 			CLARY: I fear our situation may be dire:</key>
     <value>
-			CLARY: I fear our situation may be dire:</value>
+			CLARY: Ég óttast að ástandið okkar hérna gæti verið skelfilegt:</value>
   </entry>
   <entry>
     <key>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-    <value>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+    <value>CLARY: Pye, Poke, og ég lentum á þessari &lt;color=lightblue&gt;halastjörnu&lt;/color&gt; ekki löngu eftir komu hennar í þetta stjörnukerfi. Búnaður &lt;color=orange&gt;geimferjunnar&lt;/color&gt; varð var við furðulegar orkumælingar, einhvers staðar fyrir neðan yfirborðið.</value>
   </entry>
   <entry>
     <key>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</key>
-    <value>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</value>
+    <value>CLARY: Pye og Poke báru kennsl á sprungu í ísnum á sólarhlið &lt;color=lightblue&gt;halastjörnunnar&lt;/color&gt;, og þær klöngruðust inn til þess að rannsaka uppsprettu orkumælinganna.</value>
   </entry>
   <entry>
     <key>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</key>
-    <value>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</value>
+    <value>CLARY: En... Pye og systir mín hafa verið að í dágóða stund núna. Þær hafa ekki heldur haft samband síðan þær fóru undir yfirborðið.</value>
   </entry>
   <entry>
     <key>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</key>
-    <value>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</value>
+    <value>CLARY: Ætti ég að fara úr &lt;color=orange&gt;geimferjunni&lt;/color&gt; til þess að leita að þeim? Ég vil fylgja verklaginu, en ég veit ekki hvað ég á að gera ef þær eru í vandræðum...</value>
   </entry>
   <entry>
     <key>CLARY: Poke... Pye... Come back to me safely, my friends.</key>
-    <value>CLARY: Poke... Pye... Come back to me safely, my friends.</value>
+    <value>CLARY: Poke... Pye... Komið til baka til mín heilir á húfi, vinir mínir.</value>
   </entry>
   <entry>
     <key>
 			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
 		</key>
     <value>
-			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
+			CLARY: Ekki gott: Svo virðist sem &lt;color=lightblue&gt;halastjarnan&lt;/color&gt; vilji kaffæra &lt;color=orange&gt;geimferjunni&lt;/color&gt; okkar í ís. Ef við bíðum mikið lengur á yfirborðinu, þá gæti &lt;color=orange&gt;geimferjan&lt;/color&gt; frosið gersamlega.
 		</value>
   </entry>
   <entry>
     <key>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</key>
-    <value>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</value>
+    <value>POKE: Ef það myndi gerast, gæti ekki einhver kallað hana heim í &lt;color=orange&gt;þyngdaraflsbyssuna&lt;/color&gt; á &lt;color=lightblue&gt;Blossabróður&lt;/color&gt;?</value>
   </entry>
   <entry>
     <key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
-    <value>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</value>
+    <value>PYE: Jú, en könnunarleiðangur &lt;color=lightblue&gt;halastjörnunnar&lt;/color&gt; myndi verða mun erfiðari ef við værum án &lt;color=orange&gt;geimferjunnar&lt;/color&gt; þar til einhver afturkallaði hana. Kannski hefðum við ekki átt að lenda á myrku hlið &lt;color=lightblue&gt;halastjörnunnar&lt;/color&gt;...</value>
   </entry>
   <entry>
     <key>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</key>
-    <value>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</value>
+    <value>CLARY: Segjum sem svo að ein okkar yrði eftir í &lt;color=orange&gt;geimferjunni&lt;/color&gt; til að halda henni heitri og til að vakta yfirborðið.</value>
   </entry>
   <entry>
     <key>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</key>
-    <value>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</value>
+    <value>PYE: Ég held það sé æskilegt, Clary. Ef það væsir ekki um þig að bíða með ferjunni, þá getum við Poke haldið áfram að rannsaka yfirborðið.</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</key>
-    <value>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</value>
+    <value>&lt;color=orange&gt;Námusvæði 2b&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>ALIGNMENT 1: the &lt;color=lightblue&gt;sun&lt;/color&gt;</key>
-    <value>ALIGNMENT 1: the &lt;color=lightblue&gt;sun&lt;/color&gt;</value>
+    <value>SAMSTILLING 1: &lt;color=lightblue&gt;sólin&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>ALIGNMENT 2: the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;</key>
-    <value>ALIGNMENT 2: the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;</value>
+    <value>SAMSTILLING 2: &lt;color=lightblue&gt;Sandsystkinin&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>ALIGNMENT 3: &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;</key>
-    <value>ALIGNMENT 3: &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;</value>
+    <value>SAMSTILLING 3: &lt;color=lightblue&gt;Bjálkaból&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>ALIGNMENT 4: &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;</key>
-    <value>ALIGNMENT 4: &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;</value>
+    <value>SAMSTILLING 4: &lt;color=lightblue&gt;Brothol&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>ALIGNMENT 5: &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt;</key>
-    <value>ALIGNMENT 5: &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt;</value>
+    <value>SAMSTILLING 5: &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>Self</key>
-    <value>Self</value>
+    <value>Sjálfið</value>
   </entry>
   <entry>
     <key>Start...Whoa.</key>
