@@ -1318,7 +1318,7 @@
   </entry>
   <entry>
     <key>RealThanks. You seem real to me, too, so... I guess there's just two of us now!</key>
-    <value>Takk. Þú virðist vera raunverlegt líka þannig að... ókei, við erum bara tvö núna!</value>
+    <value>Takk. Þú virðist vera raunverulegt líka þannig að... ókei, við erum bara tvö núna!</value>
   </entry>
   <entry>
     <key>SassAre you being sassy? You can't sass me! You &lt;i&gt;are&lt;/i&gt; me!</key>
@@ -1494,7 +1494,7 @@
   </entry>
   <entry>
     <key>sun station 4That’s fine. It’s kind of nice to hear it said out loud.</key>
-    <value>Ekkert mál. Það er næst að heyra það sagt upphátt.</value>
+    <value>Ekkert mál. Það er næs að heyra það sagt upphátt.</value>
   </entry>
   <entry>
     <key>sun station 5What? ...Oh, come on, don’t take that away from us!</key>
@@ -1518,35 +1518,35 @@
   </entry>
   <entry>
     <key>CLARY: Regarding the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Does each tower have to be perfectly aligned with the center of the astral body to which it’s tuned?</key>
-    <value>CLARY: Regarding the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Does each tower have to be perfectly aligned with the center of the astral body to which it’s tuned?</value>
+    <value>CLARY: Varðandi varpturnana á &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;: Þarf hver turn að vera fullkomlega í línu við miðju þess himintungls sem hann er sniðinn að?</value>
   </entry>
   <entry>
     <key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
-    <value>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</value>
+    <value>CLARY: Rétt eins og næsti Nomai-i kann ég að meta nákvæmni, en segjum sem svo að undirstaða eins turnsins myndi hliðrast ögn, þá myndi sá turn ekki lengur vera í línu við miðju síns himintungls.</value>
   </entry>
   <entry>
     <key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
-    <value>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</value>
+    <value>POKE: Hornið frá turni að himintungli þarf ekki að vera nákvæmt; það þarf bara að vera innan fimm gráðna frá miðju himinhlutarins.</value>
   </entry>
   <entry>
     <key>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</key>
-    <value>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</value>
+    <value>POKE: Taktu eftir: Þetta gefur okkur aðeins lengri varptímaramma. Ég myndi halda að þessi tímarammi teldi einhverjar sekúndur.</value>
   </entry>
   <entry>
     <key>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</key>
-    <value>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</value>
+    <value>POKE: Þar af leiðandi, sérhver Nomai sem stígur fæti á varppallinn á meðan tímaramminn er virkur, myndi varpast samstundis. Við munum þurfa að fara varlega í kringum pallinn á meðan hann er virkur til að forðast fjarflutning af gáleysi.</value>
   </entry>
   <entry>
     <key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
-    <value>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</value>
+    <value>CLARY: Nánar tiltekið, ég kann að meta nákvæmni jafn mikið og næsti Nomai-i svo lengi sem að næsti Nomai-i er ekki Poke.</value>
   </entry>
   <entry>
     <key>ROOT: Where am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</key>
-    <value>ROOT: Where am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</value>
+    <value>ROOT: Hvert á ég að fara með þennan fyrsta svartholskjarna? (Og hvert er ég að fara með restina af kjörnunum þegar þeir eru tilbúnir?))</value>
   </entry>
   <entry>
     <key>CLARY: All of the warp towers are being constructed on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, so the black hole cores will go there.</key>
-    <value>CLARY: All of the warp towers are being constructed on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, so the black hole cores will go there.</value>
+    <value>CLARY: Allir varpturnarnir eru að rísa á &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;, þannig að svartholskjarnarnir munu fara þangað.</value>
   </entry>
   <entry>
     <key>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</key>
