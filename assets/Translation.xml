@@ -34,7 +34,7 @@
   </entry>
   <entry>
     <key>The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</key>
-    <value>&lt;color=orange&gt;Öskusysturverkefnið&lt;/color&gt; þarfnast kraftmikils og háþróaðs vörpukjarna. Hvernig ættum við að verða okkur úti um hann?</value>
+    <value>&lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; þarfnast kraftmikils og háþróaðs vörpukjarna. Hvernig ættum við að verða okkur úti um hann?</value>
   </entry>
   <entry>
     <key>Solution 2: We could craft a new advanced warp core inspired by the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core.</key>
@@ -982,7 +982,7 @@
   </entry>
   <entry>
     <key>Confused1If you're me, then I'm as confused as you are.</key>
-    <value>Ef þú ert ég, þá ert þú alveg jafn ringlaður og ég.</value>
+    <value>Ef þú ert ég, þá ert þú alveg jafn ringlað og ég.</value>
   </entry>
   <entry>
     <key>SelfConfused1Do you think we have the same memories?</key>
@@ -1002,215 +1002,215 @@
   </entry>
   <entry>
     <key>SelfMemories1Me, too. Sounds like our memories diverge at the start of this loop.</key>
-    <value>Me, too. Sounds like our memories diverge at the start of this loop.</value>
+    <value>Ég líka. Hljómar eins og minningar okkar kvíslist í byrjun þessarar lykkju.</value>
   </entry>
   <entry>
     <key>SelfMemories1Same, except I woke up at the campfire, like always.</key>
-    <value>Same, except I woke up at the campfire, like always.</value>
+    <value>Sömuleiðis, nema hvað ég vaknaði við varðeldinn alveg eins og í öll hin skiptin.</value>
   </entry>
   <entry>
     <key>WokeUp1BIt makes sense one of the two versions of us would start at the campfire as usual.</key>
-    <value>It makes sense one of the two versions of us would start at the campfire as usual.</value>
+    <value>Það er rökrétt að ein útgáfan af okkur tveimur skyldi byrja við varðeldinn eins og venjulega.</value>
   </entry>
   <entry>
     <key>WokeUp1CMakes sense to me, seeing how jumping into the black hole is definitely what created two of us.</key>
-    <value>Makes sense to me, seeing how jumping into the black hole is definitely what created two of us.</value>
+    <value>Já, mér finnst ganga upp, miðað við að þessi tvö eintök af okkur eru bersýnilega afleiðing af stökkinu inn í svartholið.</value>
   </entry>
   <entry>
     <key>Excited1Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</key>
-    <value>Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</value>
+    <value>Já, tvö af okkur er frábært en er það &lt;i&gt;frábærast&lt;/i&gt;? Hvað með daginn sem við, þú veist... hvað með þann dag?</value>
   </entry>
   <entry>
     <key>SelfExcited1Are you talking about the day I...?</key>
-    <value>Are you talking about the day I...?</value>
+    <value>Ertu að tala um daginn þar sem ég...?</value>
   </entry>
   <entry>
     <key>SelfExcited1Oh, right. That one's probably still the greatest.</key>
-    <value>Oh, right. That one's probably still the greatest.</value>
+    <value>Ó, já. Sá dagur er líklegast það frábærasta sem gerst hefur.</value>
   </entry>
   <entry>
     <key>Excited2AWhat? No! No, I'm talking about the &lt;i&gt;other&lt;/i&gt; one.</key>
-    <value>What? No! No, I'm talking about the &lt;i&gt;other&lt;/i&gt; one.</value>
+    <value>Ha? Nei! Nei, ég er að tala um &lt;i&gt;hinn&lt;/i&gt; daginn.</value>
   </entry>
   <entry>
     <key>SelfExcited2AOH. Yep, that makes way more sense.</key>
-    <value>OH. Yep, that makes way more sense.</value>
+    <value>Óóó. Já, það er miklu meira vit í því.</value>
   </entry>
   <entry>
     <key>Excited2BHaha, I know, right? But today is probably the next greatest day of our life after that one.</key>
-    <value>Haha, I know, right? But today is probably the next greatest day of our life after that one.</value>
+    <value>Haha, já er það ekki? En á eftir honum, er dagurinn í dag er líklega næstfrábærasti dagurinn í lífi okkar.</value>
   </entry>
   <entry>
     <key>SelfExcited2BWait, can you read my mind?</key>
-    <value>Wait, can you read my mind?</value>
+    <value>Bíddu hægt. Getur þú lesið hugsanir mínar?</value>
   </entry>
   <entry>
     <key>SelfExcited2BWhat other memories do you have?</key>
-    <value>What other memories do you have?</value>
+    <value>Hvaða aðrar minningar hefur þú?</value>
   </entry>
   <entry>
     <key>SelfExcited2BThink it's okay there's two of us?</key>
-    <value>Think it's okay there's two of us?</value>
+    <value>Heldur þú að það sé í lagi að það séu tvö eintök af okkur?</value>
   </entry>
   <entry>
     <key>Excited3BDefinitely no. I just have the same memories as you. ...Except for this loop, I mean.</key>
-    <value>Definitely no. I just have the same memories as you. ...Except for this loop, I mean.</value>
+    <value>Alls ekki. Ég bara, hef sömu minningar og þú. ...Nema fyrir þessa lykkju, þú veist.</value>
   </entry>
   <entry>
     <key>Excited3BI started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</key>
-    <value>I started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</value>
+    <value>Ég byrjaði þessa lykkju á því að skjótast út úr hvítholinu inni í Sótsysturverkefninu, þar sem í lykkjunni á undan þessari hoppaði ég inn í svartholið.</value>
   </entry>
   <entry>
     <key>Excited3AYeah, now you've got it. That was an incredible day.</key>
-    <value>Yeah, now you've got it. That was an incredible day.</value>
+    <value>Já, nú fattarðu. Það var magnaður dagur.</value>
   </entry>
   <entry>
     <key>Excited3ABut today is probably the next greatest day of our life after that one.</key>
-    <value>But today is probably the next greatest day of our life after that one.</value>
+    <value>En á eftir honum, er dagurinn í dag líklega næstfrábærasti dagurinn í lífi okkar.</value>
   </entry>
   <entry>
     <key>SelfExcited3AWait, can you read my mind?</key>
-    <value>Wait, can you read my mind?</value>
+    <value>Bíddu hægt, getur þú lesið hugsanir mínar?</value>
   </entry>
   <entry>
     <key>SelfExcited3AWhat other memories do you have?</key>
-    <value>What other memories do you have?</value>
+    <value>Hvaða aðrar minningar hefur þú?</value>
   </entry>
   <entry>
     <key>SelfExcited3AThink it's okay there's two of us?</key>
-    <value>Think it's okay there's two of us?</value>
+    <value>Heldur þú að það sé í lagi að það séu tvö eintök af okkur?</value>
   </entry>
   <entry>
     <key>Memories0ALet's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</key>
-    <value>Let's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</value>
+    <value>Látum okkur nú sjá... Við ættum að hafa allar sömu minningarnar fyrir þetta "fara-út-í-geim-og-síðan-átta-okkur-á-þessum-geimveru-tímalykkjum" ævintýri.</value>
   </entry>
   <entry>
     <key>Looped1I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</key>
-    <value>I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</value>
+    <value>Ég held það. Ég byrjaði þessa lykkju á því að skjótast út úr hvítholinu inni í Sótsysturverkefninu.</value>
   </entry>
   <entry>
     <key>SelfLooped1I started at the campfire like usual.</key>
-    <value>I started at the campfire like usual.</value>
+    <value>Ég byrjaði við varðeldinn eins og venjulega.</value>
   </entry>
   <entry>
     <key>SelfLooped1What do you remember from before this loop?</key>
-    <value>What do you remember from before this loop?</value>
+    <value>Hvað manstu úr lykkjunni fyrir þessa?</value>
   </entry>
   <entry>
     <key>Wrong1Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</key>
-    <value>Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</value>
+    <value>Já, að margfalda lifandi verur er örugglega ekki það sem Nomaiarnir höfðu í huga þegar þeir byggðu Sótsysturverkefnið.</value>
   </entry>
   <entry>
     <key>SelfWrong1I wonder if we have the same memories.</key>
-    <value>I wonder if we have the same memories.</value>
+    <value>Ég velti því fyrir mér hvort við höfum sömu minningarnar.</value>
   </entry>
   <entry>
     <key>SelfWrong1I wonder if there being two of us screws anything up.</key>
-    <value>I wonder if there being two of us screws anything up.</value>
+    <value>Ég velti því fyrir mér hvort tvö eintök af okkur skapi einhver stórvandræði.</value>
   </entry>
   <entry>
     <key>Wrong2AWell, we're talking to each other and nothing's exploded yet.</key>
-    <value>Well, we're talking to each other and nothing's exploded yet.</value>
+    <value>Já jæja, en við erum þó að tala hvort við annað og ekkert hefur sprungið ennþá.</value>
   </entry>
   <entry>
     <key>SelfWrong2AYeah, it's a pretty novel experience.</key>
-    <value>Yeah, it's a pretty novel experience.</value>
+    <value>Já, þetta er frekar nýstárleg upplifun.</value>
   </entry>
   <entry>
     <key>SelfWrong2AGossan always says that means the date's going well.</key>
-    <value>Gossan always says that means the date's going well.</value>
+    <value>Gossan sagði alltaf að það þýddi að stefnumótið væri á góðu róli.</value>
   </entry>
   <entry>
     <key>SelfWrong2AMaybe the universe doesn't mind two of us.</key>
-    <value>Maybe the universe doesn't mind two of us.</value>
+    <value>Kannski er alheiminum sama um tvö eintök af okkur.</value>
   </entry>
   <entry>
     <key>Wrong2BWell, we're talking to each other and nothing's exploded yet.</key>
-    <value>Well, we're talking to each other and nothing's exploded yet.</value>
+    <value>Ja, sko, við erum að tala hvort við annað og ekkert hefur sprungið ennþá.</value>
   </entry>
   <entry>
     <key>SelfWrong2BThat seems positive.</key>
-    <value>That seems positive.</value>
+    <value>Það virðist vera jákvæður hlutur.</value>
   </entry>
   <entry>
     <key>SelfWrong2BYeah, it's a pretty novel experience.</key>
-    <value>Yeah, it's a pretty novel experience.</value>
+    <value>Já, þetta er frekar nýstárleg upplifun.</value>
   </entry>
   <entry>
     <key>SelfWrong2BGossan always says that means the date's going well.</key>
-    <value>Gossan always says that means the date's going well.</value>
+    <value>Gossan sagði alltaf að það þýddi að stefnumótið væri á góðu róli.</value>
   </entry>
   <entry>
     <key>Wrong3AYeah, but it's Slate's definition of a boring date. Makes sense Gossan and Slate never dated.</key>
-    <value>Yeah, but it's Slate's definition of a boring date. Makes sense Gossan and Slate never dated.</value>
+    <value>Já, en það er skilgreiningin á leiðinlegu stefnumóti samkvæmt Slate's. Kannski þá ekki furða að Gossan og Slate fóru aldrei á stefnumót.</value>
   </entry>
   <entry>
     <key>SelfWrong3AThat and the whole mishap with Gossan's eye.</key>
-    <value>That and the whole mishap with Gossan's eye.</value>
+    <value>Já, það og augnóhappið háns Gossan.</value>
   </entry>
   <entry>
     <key>Wrong3BRight? It's kind of nice!</key>
-    <value>Right? It's kind of nice!</value>
+    <value>Nákvæmlega! Það er eiginlega næs!</value>
   </entry>
   <entry>
     <key>Wrong3CHopefully not. Besides, an extra version of us is definitely better than if we'd created an extra anglerfish or something.</key>
-    <value>Hopefully not. Besides, an extra version of us is definitely better than if we'd created an extra anglerfish or something.</value>
+    <value>Vonandi ekki. Svosem að hafa tvö eintök af okkur er tvímælalaust betra heldur en ef við hefðum búið til auka fiskskratta eða eittvað.</value>
   </entry>
   <entry>
     <key>SelfWrong3CGEH.</key>
-    <value>GEH.</value>
+    <value>Úff.</value>
   </entry>
   <entry>
     <key>SelfWrong3CThat's setting the bar pretty low.</key>
-    <value>That's setting the bar pretty low.</value>
+    <value>Fullgróft að bera okkur saman við þá.</value>
   </entry>
   <entry>
     <key>SelfWrong3CAgreed. We're charming and have fewer teeth.</key>
-    <value>Agreed. We're charming and have fewer teeth.</value>
+    <value>Sammála. Við erum æðisleg og höfum færri tennur.</value>
   </entry>
   <entry>
     <key>Gossan1Oof. Yes. The eye thing.</key>
-    <value>Oof. Yes. The eye thing.</value>
+    <value>Úff, já. Augnóhappið.</value>
   </entry>
   <entry>
     <key>Gossan1Yeah, that's... yeah.</key>
-    <value>Yeah, that's... yeah.</value>
+    <value>Já, það... já.</value>
   </entry>
   <entry>
     <key>SelfGossan1Yep.</key>
-    <value>Yep.</value>
+    <value>Jebb.</value>
   </entry>
   <entry>
     <key>SelfGossan1Sure is.</key>
-    <value>Sure is.</value>
+    <value>Svo sannarlega.</value>
   </entry>
   <entry>
     <key>SelfGossan1I very much do not want to discuss that.</key>
-    <value>I very much do not want to discuss that.</value>
+    <value>Mig langar rosalage ekki til þess að ræða það.</value>
   </entry>
   <entry>
     <key>Wrong4AMy thoughts exactly.</key>
-    <value>My thoughts exactly.</value>
+    <value>Nákvæmlega það sem ég var að hugsa.</value>
   </entry>
   <entry>
     <key>Wrong4BThat's not just setting the bar low, that's setting it at tripping height.</key>
-    <value>That's not just setting the bar low, that's setting it at tripping height.</value>
+    <value>Fullgróft? Ef sandpappír væri svona grófur myndi hann duga til að slétta heilt tré.</value>
   </entry>
   <entry>
     <key>Wrong4CThat probably counts for something.</key>
-    <value>That probably counts for something.</value>
+    <value>Það er eitthvað.</value>
   </entry>
   <entry>
     <key>Segue1AUh huh.</key>
-    <value>Uh huh.</value>
+    <value>Mmm hmm.</value>
   </entry>
   <entry>
     <key>Segue1BNor do I. Hasty segue?</key>
-    <value>Nor do I. Hasty segue?</value>
+    <value>Ekki ég heldur. Skipta um umræðuefni?</value>
   </entry>
   <entry>
     <key>SelfSegue1BHasty segue.</key>
-    <value>Hasty segue.</value>
+    <value>Skipta um umræðuefni.</value>
   </entry>
   <entry>
     <key>Segue2AQuickly changing the subject, you know how I - er, &lt;i&gt;we&lt;/i&gt; - jumped into the black hole that opened up at the end of the last time loop?</key>
