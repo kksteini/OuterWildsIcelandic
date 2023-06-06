@@ -1014,11 +1014,11 @@
   </entry>
   <entry>
     <key>WokeUp1CMakes sense to me, seeing how jumping into the black hole is definitely what created two of us.</key>
-    <value>Já, mér finnst ganga upp, miðað við að þessi tvö eintök af okkur eru bersýnilega afleiðing af stökkinu inn í svartholið.</value>
+    <value>Já, mér finnst það ganga upp, miðað við að þessi tvö eintök af okkur eru bersýnilega afleiðing af stökkinu inn í svartholið.</value>
   </entry>
   <entry>
     <key>Excited1Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</key>
-    <value>Já, tvö af okkur er frábært en er það &lt;i&gt;frábærast&lt;/i&gt;? Hvað með daginn sem við, þú veist... hvað með þann dag?</value>
+    <value>Já, tvö eintök af okkur er best en er þetta það &lt;i&gt;frábærasta&lt;/i&gt; sem gerst hefur? Hvað með daginn sem við, þú veist... hvað með þann dag?</value>
   </entry>
   <entry>
     <key>SelfExcited1Are you talking about the day I...?</key>
@@ -1058,11 +1058,11 @@
   </entry>
   <entry>
     <key>Excited3BI started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</key>
-    <value>Ég byrjaði þessa lykkju á því að skjótast út úr hvítholinu inni í Sótsysturverkefninu, þar sem í lykkjunni á undan þessari hoppaði ég inn í svartholið.</value>
+    <value>Ég byrjaði þessa lykkju á því að skjótast út úr hvítholi inni í Sótsysturverkefninu, þar sem í lykkjunni á undan þessari hoppaði ég inn í svartholið.</value>
   </entry>
   <entry>
     <key>Excited3AYeah, now you've got it. That was an incredible day.</key>
-    <value>Já, nú fattarðu. Það var magnaður dagur.</value>
+    <value>Já, þarna ertu með það. Það var magnaður dagur.</value>
   </entry>
   <entry>
     <key>Excited3ABut today is probably the next greatest day of our life after that one.</key>
@@ -1074,7 +1074,7 @@
   </entry>
   <entry>
     <key>SelfExcited3AWhat other memories do you have?</key>
-    <value>Hvaða aðrar minningar hefur þú?</value>
+    <value>Hvaða aðrar minningar hefurðu?</value>
   </entry>
   <entry>
     <key>SelfExcited3AThink it's okay there's two of us?</key>
@@ -1110,7 +1110,7 @@
   </entry>
   <entry>
     <key>Wrong2AWell, we're talking to each other and nothing's exploded yet.</key>
-    <value>Já jæja, en við erum þó að tala hvort við annað og ekkert hefur sprungið ennþá.</value>
+    <value>Tjaaa..., við erum að tala hvort við annað og ekkert hefur sprungið ennþá.</value>
   </entry>
   <entry>
     <key>SelfWrong2AYeah, it's a pretty novel experience.</key>
@@ -1142,7 +1142,7 @@
   </entry>
   <entry>
     <key>Wrong3AYeah, but it's Slate's definition of a boring date. Makes sense Gossan and Slate never dated.</key>
-    <value>Já, en það er skilgreiningin á leiðinlegu stefnumóti samkvæmt Slate's. Kannski þá ekki furða að Gossan og Slate fóru aldrei á stefnumót.</value>
+    <value>Já, en það er skilgreiningin á leiðinlegu stefnumóti samkvæmt Slate. Kannski þá ekki furða að Gossan og Slate fóru aldrei á stefnumót.</value>
   </entry>
   <entry>
     <key>SelfWrong3AThat and the whole mishap with Gossan's eye.</key>
@@ -1174,7 +1174,7 @@
   </entry>
   <entry>
     <key>Gossan1Yeah, that's... yeah.</key>
-    <value>Já, það... já.</value>
+    <value>Já, það var... já.</value>
   </entry>
   <entry>
     <key>SelfGossan1Yep.</key>
@@ -1186,7 +1186,7 @@
   </entry>
   <entry>
     <key>SelfGossan1I very much do not want to discuss that.</key>
-    <value>Mig langar rosalage ekki til þess að ræða það.</value>
+    <value>Mig langar rosalega mikið að ræða það ekki.</value>
   </entry>
   <entry>
     <key>Wrong4AMy thoughts exactly.</key>
@@ -1322,7 +1322,7 @@
   </entry>
   <entry>
     <key>SassAre you being sassy? You can't sass me! You &lt;i&gt;are&lt;/i&gt; me!</key>
-    <value>Enga stæla, þú þarna! Ég &lt;i&gt;er&lt;/i&gt; þú hérna!</value>
+    <value>Ertu að dissa mig! Þú getur ekki dissað mig, því þá &lt;i&gt;ertu líka&lt;/i&gt; að dissa þig!</value>
   </entry>
   <entry>
     <key>SassDoes kind of prove we're the same person, though.</key>
@@ -1330,7 +1330,7 @@
   </entry>
   <entry>
     <key>IntroEndAt any rate, it's been good talking to you, me. &lt;Pause/&gt; ...Incredibly strange, but good.</key>
-    <value>Jæja, hefur samt verið gott að tala við mig. &lt;Pause/&gt; ...Ofboðslega furðulegt, en gott.</value>
+    <value>Jæja, ég, það var gaman að spjalla við þig. &lt;Pause/&gt; ...Ofboðslega furðulegt, en gaman.</value>
   </entry>
   <entry>
     <key>IntroEndSee you around!</key>
