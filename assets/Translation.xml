@@ -34,11 +34,11 @@
   </entry>
   <entry>
     <key>The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</key>
-    <value>&lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; þarfnast kraftmikils og háþróaðs vörpukjarna. Hvernig ættum við að verða okkur úti um hann?</value>
+    <value>&lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; þarfnast kraftmikils og háþróaðs varpkjarna. Hvernig ættum við að verða okkur úti um hann?</value>
   </entry>
   <entry>
     <key>Solution 2: We could craft a new advanced warp core inspired by the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core.</key>
-    <value>Lausn 2: Við gætum smíðað nýjan háþróaðan vörpukjarna innblásinn af vörpukjarna &lt;color=orange&gt;Skipsins&lt;/color&gt;.</value>
+    <value>Lausn 2: Við gætum smíðað nýjan háþróaðan varpkjarna innblásinn af varpkjarna &lt;color=orange&gt;Skipsins&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</key>
@@ -50,7 +50,7 @@
   </entry>
   <entry>
     <key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
-    <value>POKE: Ég held ég geti komið að notum hérna! Vörpukjarni &lt;color=orange&gt;Skipsins&lt;/color&gt; var búinn til fyrir minn tíma, en Annona útskýrði fyrir mér margar af sínum hönnunum.</value>
+    <value>POKE: Ég held ég geti komið að notum hérna! Varpkjarni &lt;color=orange&gt;Skipsins&lt;/color&gt; var búinn til fyrir minn tíma, en Annona útskýrði fyrir mér margar af sínum hönnunum.</value>
   </entry>
   <entry>
     <key>IDAEA: This is the safest path for our clan.</key>
@@ -66,7 +66,7 @@
   </entry>
   <entry>
     <key>SPIRE: Abandoning the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core and its casing means losing valuable knowledge.</key>
-    <value>SPIRE: Að yfirgefa vörpukjarna &lt;color=orange&gt;Skipsins&lt;/color&gt; og hylki kjarnans þýðir að við missum verðmæta þekkingu.</value>
+    <value>SPIRE: Að yfirgefa varpkjarna &lt;color=orange&gt;Skipsins&lt;/color&gt; og hylki kjarnans þýðir að við missum verðmæta þekkingu.</value>
   </entry>
   <entry>
     <key>MITIS: This is true; however, it’s knowledge we have little hope of recovering. It would be best to relearn, I think.</key>
@@ -113,7 +113,7 @@
 			POKE: I feel strange, trying to recreate Annona’s warp core without him. At times, it still feels strange to no longer be his (very young) apprentice, and for the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; to be in my care and not his.
 		</key>
     <value>
-			POKE: Mér líður furðulega við að reyna að endurgera vörpukjarna Annona, án hans. Öðru hvoru finnst mér skrítið að ég sé ekki lengur (hinn mjög ungi) lærlingur hans, og að &lt;color=orange&gt;Svartholssmiðjan&lt;/color&gt; sé í minni umsjá en ekki hans.
+			POKE: Mér líður furðulega við að reyna að endurgera varpkjarna Annona, án hans. Öðru hvoru finnst mér skrítið að ég sé ekki lengur (hinn mjög ungi) lærlingur hans, og að &lt;color=orange&gt;Svartholssmiðjan&lt;/color&gt; sé í minni umsjá en ekki hans.
 		</value>
   </entry>
   <entry>
@@ -137,7 +137,7 @@
 			POKE: Was I wrong in volunteering to build it...? I was born in this star system, and never saw Annona’s warp core with my own three eyes. I only know what he taught me. What if I’ve bitten off a larger portion than I can consume?
 		</key>
     <value>
-			POKE: Var rangt af mér að bjóðast til þess að byggja hann...? Ég fæddist í þessu stjörnukerfi, og aldrei sáu mín þrjú augu vörpukjarnann hans Annona. Ég kann aðeins það sem hann kenndi mér. Hvað ef ég kyngdi of stórum bita hérna?
+			POKE: Var rangt af mér að bjóðast til þess að byggja hann...? Ég fæddist í þessu stjörnukerfi, og aldrei sáu mín þrjú augu varpkjarnann hans Annona. Ég kann aðeins það sem hann kenndi mér. Hvað ef ég kyngdi of stórum bita hérna?
 		</value>
   </entry>
   <entry>
@@ -233,7 +233,7 @@
 			LAMI: At some festivals, one clan’s big discovery can mean all the Nomai get to advance, too. Like Annona’s warp core, which made it so everyone can warp long distances and explore more.
 		</key>
     <value>
-			LAMI: Á sumum hátíðum getur stóruppgötvun eins ættbálks þýtt að allir Nomaiarnir taki framförum líka. Eins og vörpukjarninn hans Annona, sem nú leyfir öllum að fjarflytjast langar vegalengdir og kanna meira.
+			LAMI: Á sumum hátíðum getur stóruppgötvun eins ættbálks þýtt að allir Nomaiarnir taki framförum líka. Eins og varpkjarninn hans Annona, sem nú leyfir öllum að fjarflytjast langar vegalengdir og kanna meira.
 		</value>
   </entry>
   <entry>
@@ -364,7 +364,7 @@
   </entry>
   <entry>
     <key>FILIX: No, Annona and I checked before the warp, and the warp core and navigation systems were both well.</key>
-    <value>FILIX: Nei, ég og Annona athuguðum fyrir varpið, og vörpukjarninn og leiðsögukerfið voru bæði nothæf.</value>
+    <value>FILIX: Nei, ég og Annona athuguðum fyrir varpið, og varpkjarninn og leiðsögukerfið voru bæði nothæf.</value>
   </entry>
   <entry>
     <key>FILIX: We warped to follow that curious signal from the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. Where we arrived was wrong; it wasn’t where we tried to go.</key>
@@ -1534,7 +1534,7 @@
   </entry>
   <entry>
     <key>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</key>
-    <value>POKE: Þar af leiðandi, sérhver Nomai sem stígur fæti á varppallinn á meðan tímaramminn er virkur, myndi varpast samstundis. Við munum þurfa að fara varlega í kringum pallinn á meðan hann er virkur til að forðast fjarflutning af gáleysi.</value>
+    <value>POKE: Þar af leiðandi, sérhver Nomai sem stígur fæti á varppallinn á meðan tímaramminn er virkur, myndi varpast samstundis. Við munum þurfa að fara varlega í kringum pallinn á meðan virkum tímaramma stendur, til að forðast fjarflutning af gáleysi.</value>
   </entry>
   <entry>
     <key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
@@ -1550,73 +1550,73 @@
   </entry>
   <entry>
     <key>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</key>
-    <value>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</value>
+    <value>POKE: Hvítholskjarnarnir eru fyrir varpmóttakarana. Það er verið að byggja alla sex móttakarana á mismunandi stöðum, þannig að það stóra verk verður að stórum verk fyrir þig.</value>
   </entry>
   <entry>
     <key>ROOT: My gratitude! In that case: Poke, Clary, I’m leaving for delivery! I’ll send Yarrow your regards.</key>
-    <value>ROOT: My gratitude! In that case: Poke, Clary, I’m leaving for delivery! I’ll send Yarrow your regards.</value>
+    <value>ROOT: Þakka þér! Fyrst svo er: Poke og Clary, ég ætla að hendast í að afhenda kjarnana! Ég skal skila kveðjum ykkar til Yarrow.</value>
   </entry>
   <entry>
     <key>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</key>
-    <value>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</value>
+    <value>CLARY: Poke, ég ætla til baka í &lt;color=orange&gt;smiðjuna&lt;/color&gt; eftir smá; ég ætla að ná á Root og hjálpa honum að fara með fyrsta kjarnann á &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;, bara til að sjá til þess að Yarrow fái hann.</value>
   </entry>
   <entry>
     <key>POKE: Of course you are.</key>
-    <value>POKE: Of course you are.</value>
+    <value>POKE: Auðvitað gerir þú það.</value>
   </entry>
   <entry>
     <key>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</key>
-    <value>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</value>
+    <value>POKE: Turnteikningarnar í &lt;color=orange&gt;Stórorkustöðinni&lt;/color&gt; á &lt;color=lightblue&gt;Blóssabróður&lt;/color&gt; sýna hvar móttakararnir eru. Spurðu Yarrow; hann er þekkir þetta ágætlega.</value>
   </entry>
   <entry>
     <key>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</key>
-    <value>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</value>
+    <value>VIÐVÖRUN: Farið varlega nálægt innganginum á meðan &lt;color=orange&gt;Svartholssmiðjan&lt;/color&gt; er virk.</value>
   </entry>
   <entry>
     <key>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</key>
-    <value>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</value>
+    <value>POKE: Athugið: Yarrow telur sig hafa komið auga á galla í hönnun varpturnanna: nánar tiltekið, einn varpturnanna á &lt;color=lightblue&gt;Sótsystur&lt;/color&gt; mun aldrei virkjast, því varpmóttakari hans mun aldrei verða í beinni línu fyrir ofan hann.</value>
   </entry>
   <entry>
     <key>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</key>
-    <value>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</value>
+    <value>POKE: Heldur draumaprinsinn þinn að varpturninn þurfi að snúa beint að &lt;i&gt;móttakaranum&lt;/i&gt; sínum? Veit hann ekki að hver varpturn er stilltur á miðju síns samsvarandi himintungls?</value>
   </entry>
   <entry>
     <key>CLARY: That isn’t an unreasonable belief, given the receiver &lt;i&gt;does&lt;/i&gt; have to be located on (or in close orbit around) the relevant astral body.</key>
-    <value>CLARY: That isn’t an unreasonable belief, given the receiver &lt;i&gt;does&lt;/i&gt; have to be located on (or in close orbit around) the relevant astral body.</value>
+    <value>CLARY: Það er frekar eðlilegt að skilja það þannig, sérstaklega þar sem móttakarinn &lt;i&gt;þarf&lt;/i&gt; að vera staðsettur á (eða í nærsporbaug umhverfis) viðeigandi himintungli.</value>
   </entry>
   <entry>
     <key>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</key>
-    <value>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</value>
+    <value>CLARY: Ef ég man rétt lagðir &lt;i&gt;þú&lt;/i&gt; þann sama skilning í varptækni, í fyrstu.</value>
   </entry>
   <entry>
     <key>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-    <value>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</value>
+    <value>CLARY: Nei, Yarrow skilur muninn. Líklegast fattar hann ekki að &lt;color=lightblue&gt;Sandsystkinin&lt;/color&gt; eru svo nálægt hvort öðru að þau fúnkera eins og eitt himintungl, með sameiginlegan stillipunkt á milli þeirra.</value>
   </entry>
   <entry>
     <key>
 			Exit to surface.
 		</key>
     <value>
-			Exit to surface.
+      Út til yfirborðsins.
 		</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(north 40m)
 		</key>
-    <value>&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(north 40m)
+    <value>&lt;color=orange&gt;Svartholssmiðjan&lt;/color&gt;\\n(norður 40m)
 		</value>
   </entry>
   <entry>
     <key>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</key>
-    <value>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</value>
+    <value>PYE: &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; mun verða eitt af okkar stærstu verkefnum (efnislega &lt;i&gt;og&lt;/i&gt; í umfangi). Til að byggja þetta munum við þurfa leið til þess að ferðast hratt á milli &lt;color=lightblue&gt;Sótsystur&lt;/color&gt; og allra staðanna sem hafa að geyma nauðsynleg efni fyrir verkefnið.</value>
   </entry>
   <entry>
     <key>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</key>
-    <value>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</value>
+    <value>ROOT: Hvað ef við notum varpturna (eins og þann sem við höfum á &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;) til að tengja &lt;color=lightblue&gt;Sótsystur&lt;/color&gt; beint við alla mikilvægustu staðina?</value>
   </entry>
   <entry>
     <key>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</key>
-    <value>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</value>
+    <value>CLARY: Ég, Poke og Root, getum byrjað að vinna að þessu í &lt;color=orange&gt;Svartholssmiðjunni&lt;/color&gt undireins; (það mun halda okkur uppteknum!).</value>
   </entry>
   <entry>
     <key>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</key>
