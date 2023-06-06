@@ -14554,35 +14554,35 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>935</key>
-      <value>Zero-G Cave</value>
+      <value>Þyngdarleysishellirinn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>936</key>
-      <value>Observatory</value>
+      <value>Skoðunarstöð</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>937</key>
-      <value>The quiet shade</value>
+      <value>Dimma dvelur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>938</key>
-      <value>Across old bark</value>
+      <value>Greinar felur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>939</key>
-      <value>In the ancient glade</value>
+      <value>Í fornu rjóðri</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>940</key>
-      <value>It's always dark</value>
+      <value>Á nóttu hljóðri</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>941</key>
-      <value>FUEL</value>
+      <value>ELDSNEYTI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>942</key>
-      <value>TEMP</value>
+      <value>HITI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>943</key>
@@ -14594,103 +14594,103 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>945</key>
-      <value>MASTER\\nALARM</value>
+      <value>AÐAL\\nVIÐVÖRUN</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>946</key>
-      <value>EJECT</value>
+      <value>AÐSKILJAST SKIPI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>947</key>
-      <value>WARNING:\\nUSE ONLY IN\\nEMERGENCY</value>
+      <value>VIÐVÖRUN:\\nNOTIST EINGÖNGU Í\\nNEYÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>948</key>
-      <value>HUD</value>
+      <value>FRAMRÚÐUGLÆJA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>949</key>
-      <value>ON</value>
+      <value>KVEIKT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>950</key>
-      <value>OFF</value>
+      <value>SLÖKKT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>951</key>
-      <value>CAUTION</value>
+      <value>VARÚÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>952</key>
-      <value>WARNING</value>
+      <value>VIÐVÖRUN</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>953</key>
-      <value>DAMAGE</value>
+      <value>SKEMMD/IR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>954</key>
-      <value>ALTIMETER</value>
+      <value>HÆÐARMÆLIR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>955</key>
-      <value>MATCH VELOCITY</value>
+      <value>SAMSTILLA HRAÐA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>956</key>
-      <value>OXYGEN REFILL:</value>
+      <value>FYLLA Á SÚREFNI:</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>957</key>
-      <value>SPOT A TREE</value>
+      <value>FINNDU TRE</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>958</key>
-      <value>WALK TOWARDS IT</value>
+      <value>LABBAÐU AÐ ÞVÍ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>959</key>
-      <value>ENJOY!</value>
+      <value>NJÓTTU!</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>960</key>
-      <value>Loading... </value>
+      <value>Hleð... </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>961</key>
-      <value>UNIDENTIFIED SIGNAL NEARBY</value>
+      <value>ÓÞEKKT MERKI NÁLÆGT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>962</key>
-      <value>UNKNOWN</value>
+      <value>ÓÞEKKT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>963</key>
-      <value>DANGER: GHOST MATTER DETECTED NEARBY</value>
+      <value>VARÚÐ: DULEFNI FINNST NÁLÆGT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>964</key>
-      <value>LOAD PREVIOUS SAVE</value>
+      <value>HLAÐA SÍÐASTA VISTAÐA LEIK</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>965</key>
-      <value> signed out.\\nPlease sign in again to continue.</value>
+      <value> skráð/ur út.\\nVinsamlegast skráðu þig aftur inn til að halda áfram.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>966</key>
-      <value>SWITCH PROFILE</value>
+      <value>SKIPTA UM PRÓFÍL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>967</key>
-      <value>SHIP HULL BREACH DETECTED</value>
+      <value>ROF Á SKIPSSKROKK FANNST</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>968</key>
-      <value>UNABLE TO RETRIEVE SCOUT; TOO MANY TARGETS</value>
+      <value>GET EKKI AFTURKALLAÐ KANNANN; OF MÖRG EINTÖK KOMA TIL GREINA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>969</key>
-      <value>EMERGENCY SCOUT RECALL ACTIVATED</value>
+      <value>NEYÐARAFTURKÖLLUN Á KANNA VIRKJUÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>970</key>
