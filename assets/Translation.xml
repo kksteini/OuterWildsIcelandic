@@ -1620,141 +1620,141 @@
   </entry>
   <entry>
     <key>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</key>
-    <value>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</value>
+    <value>YARROW: Athugið: Hver turn á &lt;color=lightblue&gt;Sótsystur&lt;/color&gt; mun varpa ykkur á mismunandi plánetur.</value>
   </entry>
   <entry>
     <key>PHLOX: We can design each tower to visually reflect its warp destination!</key>
-    <value>PHLOX: We can design each tower to visually reflect its warp destination!</value>
+    <value>PHLOX: Við getum hannað hvern turn til þess að endurspegla áfangastað sinn í útliti!</value>
   </entry>
   <entry>
     <key>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</key>
-    <value>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</value>
+    <value>PHLOX: &lt;color=orange&gt;Jötunsdýpisturninn&lt;/color&gt;, sem dæmi, gæti litið út eins og hvirfilbylur. Og við gætum haft hverafjall sem fyrirmynd að &lt;color=orange&gt;Bjálkabólsturninum&lt;/color&gt;!</value>
   </entry>
   <entry>
     <key>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</key>
-    <value>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</value>
+    <value>YARROW: Ég þakka ykkur sem bentu mér á mitt óskýra orðalag! Já, &lt;color=lightblue&gt;sólin&lt;/color&gt; er ekki pláneta. Ég trúi að þetta ætti að vera ykkur fullkomlega ljóst (vinsamlegast hættið að benda mér á þetta!)</value>
   </entry>
   <entry>
     <key>
 			Retrieving previous launch data from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
 		</key>
     <value>
-			Retrieving previous launch data from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
+			Sæki síðustu skotgögn frá &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
     <key>
 			Total number of probes launched: &lt;NbTimeloops&gt;</key>
     <value>
-			Total number of probes launched: &lt;NbTimeloops&gt;</value>
+			Fjöldi könnunarhnatta skotið: &lt;NbTimeloops&gt;</value>
   </entry>
   <entry>
     <key>
 			Deep space anomaly matching all known criteria for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; found by probe &lt;FirstLoop&gt;.
 		</key>
     <value>
-			Deep space anomaly matching all known criteria for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; found by probe &lt;FirstLoop&gt;.
+			Afbrigðilegt djúpfyrirbæri sem uppfyllir öll þekkt skilyrði &lt;color=lightblue&gt;Auga alheimsins&lt;/color&gt; fundið af könnunarhnetti &lt;FirstLoop&gt;.
 		</value>
   </entry>
   <entry>
     <key>CLARY: I have good news, Yarrow! The advanced warp core is ready to be installed in the central chamber of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-    <value>CLARY: I have good news, Yarrow! The advanced warp core is ready to be installed in the central chamber of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</value>
+    <value>CLARY: Ég hef góðar fréttir, Yarrow! Háþróaði varpkjarninn er tilbúinn til notkunar fyrir miðjuhvelfinguna á &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>YARROW: I’m intrigued, love! Everyone here working on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is excited to see it (Pye is beside herself with joy!).</key>
-    <value>YARROW: I’m intrigued, love! Everyone here working on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is excited to see it (Pye is beside herself with joy!).</value>
+    <value>YARROW: Ég er mjög spenntur, elskan! Við öll, hérna í &lt;color=orange&gt;Sótsysturverkefninu&lt;/color&gt;, erum full eftirvæntingar yfir því að sjá hann (Pye er að rifna úr hamingju!).</value>
   </entry>
   <entry>
     <key>POKE: No, it isn’t!</key>
-    <value>POKE: No, it isn’t!</value>
+    <value>POKE: Nei, hann er það ekki!</value>
   </entry>
   <entry>
     <key>YARROW: Is everything well at the &lt;color=orange&gt;forge&lt;/color&gt;?</key>
-    <value>YARROW: Is everything well at the &lt;color=orange&gt;forge&lt;/color&gt;?</value>
+    <value>YARROW: Er allt í góðu í &lt;color=orange&gt;smiðjunni&lt;/color&gt;?</value>
   </entry>
   <entry>
     <key>CLARY: Don’t worry, love; Poke is only nervous. The core is extraordinary, and her design work is beautifully clever.</key>
-    <value>CLARY: Don’t worry, love; Poke is only nervous. The core is extraordinary, and her design work is beautifully clever.</value>
+    <value>CLARY: Ekki hafa áhyggjur, ástin; Poke er bara stressuð. Kjarninn er makalaus, og hönnunarverkið hennar er dásamlega sniðugt.</value>
   </entry>
   <entry>
     <key>POKE: The core’s durability could still be improved! I need more time!</key>
-    <value>POKE: The core’s durability could still be improved! I need more time!</value>
+    <value>POKE: Endingu kjarnans er ennþá hægt að bæta. Ég þarf meiri tíma!</value>
   </entry>
   <entry>
     <key>CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then &lt;i&gt;she&lt;/i&gt; will be finished, as well.</key>
-    <value>CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then &lt;i&gt;she&lt;/i&gt; will be finished, as well.</value>
+    <value>CLARY: Hunsaðu hana, Yarrow. Kjarnasmíðunum er lokið. Og ef systir mín segir annað þá verður &lt;i&gt;henni&lt;/i&gt; lokið líka.</value>
   </entry>
   <entry>
     <key>YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-    <value>YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</value>
+    <value>YARROW: Kærar þakkir fyrir síðustu sendingu, Oeno! Þetta málmgrýti ætti að vera það síðasta sem við þurfum fyrir &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>YARROW: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).</key>
-    <value>YARROW: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).</value>
+    <value>YARROW: Þegar við höfum lokið við skelina sem innsiglar miðjuhvelfinguna munum við sjá til þess að það séu ekki neinir inngangar eftir. Ég og Ramie munum leita að sprungum að innanverðu og síðan að utanverðu (síðasta öryggisprófunin okkar).</value>
   </entry>
   <entry>
     <key>OENO: This is exciting news! Can I offer an extra set of eyes for this final check (specifically, mine)? If my work here is complete, I’d be delighted to help.</key>
-    <value>OENO: This is exciting news! Can I offer an extra set of eyes for this final check (specifically, mine)? If my work here is complete, I’d be delighted to help.</value>
+    <value>OENO: Spennandi fréttir! Þurfið þið auka augu (til dæmis mín) fyrir þetta lokapróf? Ef vinnunni minni er lokið hérna, væri mér sönn ánægja að hjálpa.</value>
   </entry>
   <entry>
     <key>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</key>
-    <value>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</value>
+    <value>YARROW: Öll hjálp er vel þegin. Því fleiri augu, því betra, þar sem minnstu frávik eða göt í skelinni sem hlífir &lt;color=orange&gt;Sótsysturverkefninu&lt;/color&gt; myndu enda í hörmungum.</value>
   </entry>
   <entry>
     <key>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</key>
-    <value>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</value>
+    <value>OENO: Mér finnst ennþá ótrúlegt hversu mikið málmgrýti &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; þarfnast!</value>
   </entry>
   <entry>
     <key>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</key>
-    <value>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</value>
+    <value>CYCAD: Er þetta ekki málmgrýtið fyrir turnana sem á eftir að klára á &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;? Fullbyggðu turnarnir sem ég hef séð eru frekar stórir!</value>
   </entry>
   <entry>
     <key>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</key>
-    <value>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</value>
+    <value>OENO: Nei, efnið í þá turna er allt saman fengið á &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;. Grýtið sem við erum að grafa upp hérna verður notað til þess að byggja gríðarlega þykka varnarskel sem mun loka af hvelfinguna inni í kjarna &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</key>
-    <value>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</value>
+    <value>COLEUS: Það veitir mér hugarró að ættbálkurinn okkar ákvað að nota málmgrýti &lt;color=lightblue&gt;Bjálkabóls&lt;/color&gt; eingöngu í byggingu á skelinni. Ef lífið á þessari plánetu þróast einhvern tímann alla leið út í nútímalega málmtækni, þá er ég handviss um að við höfum ekki gengið of langt á byrgðir þeirra!</value>
   </entry>
   <entry>
     <key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>
-    <value>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</value>
+    <value>CYCAD: Hvernig geta þau vitað hvort búið sé að innsigla öllu? Ég vona að þau komist að &lt;i&gt;kjarna&lt;/i&gt; málsins!</value>
   </entry>
   <entry>
     <key>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</key>
-    <value>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</value>
+    <value>OENO: Ég hælt þú værir búinn að banna lærlingnum þínum að stunda orðaleiki, Coleus.</value>
   </entry>
   <entry>
     <key>COLEUS: How else would he improve?</key>
-    <value>COLEUS: How else would he improve?</value>
+    <value>COLEUS: Hvernig öðruvísi á honum að fara fram?</value>
   </entry>
   <entry>
     <key>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: All towers online.</key>
-    <value>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: All towers online.</value>
+    <value>Staða á varpneti &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;: Allir turnar tengdir.</value>
   </entry>
   <entry>
     <key>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: &lt;color=orange&gt;Sun tower&lt;/color&gt; offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</key>
-    <value>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: &lt;color=orange&gt;Sun tower&lt;/color&gt; offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</value>
+    <value>Staða á varpneti &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;: &lt;color=orange&gt;Sólturninn&lt;/color&gt; aftengdist fyrir &lt;MinutesSinceRedGiant&gt; mínútum og &lt;SecondsSinceRedGiant&gt; sekúndum síðan.\\nAllir aðrir turnar tengdir.</value>
   </entry>
   <entry>
     <key>Sun tower offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</key>
-    <value>Sun tower offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</value>
+    <value>Sólturninn aftengdist fyrir &lt;MinutesSinceRedGiant&gt; mínútum og &lt;SecondsSinceRedGiant&gt; sekúndum síðan.\\nAllir aðrir turnar tengdir.</value>
   </entry>
   <entry>
     <key>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-    <value>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</value>
+    <value>POKE: Verið velkomin á &lt;color=orange&gt;Hvítholsstöðina&lt;/color&gt;! Ef þú dast fyrir slysni ofan í svartholið (ekki örvænta, þú ert ekki sá fyrsti), þá getur þessi varpturn skilað þér til &lt;color=lightblue&gt;Brothols&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</key>
-    <value>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</value>
+    <value>POKE: Allir varpturnar eru sérstilltir fyrir sitt ákveðna himintungl. Eingöngu er hægt að fjarflytjast frá turninum á þeim stutta tímaramma þegar turninn situr í beinni línu við samsvarandi himintungl (í þessu tilviki, &lt;color=lightblue&gt;Brothol&lt;/color&gt;).</value>
   </entry>
   <entry>
     <key>You must be standing on the warp platform on the floor during this alignment to be warped.</key>
-    <value>You must be standing on the warp platform on the floor during this alignment to be warped.</value>
+    <value>Þú þarft að standa á varppallinum, á gólfinu, þegar turninn snýr rétt til þess að fjarflytjast.</value>
   </entry>
   <entry>
     <key>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</key>
-    <value>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</value>
+    <value>POKE: Ef þú horfir upp á meðan stöðin hringsnýst, þá getur þú séð hvenær snýr rétt, en það er þegar þú sérð viðeigandi himintungl beint fyrir ofan þig.</value>
   </entry>
   <entry>
     <key>Gabbro</key>
@@ -1762,11 +1762,11 @@
   </entry>
   <entry>
     <key>MeetGabbro3FNice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
-    <value>Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</value>
+    <value>Næs, hér ertu. Gott að sjá að þú náðir hingað í heilu lagi. Fyrsta einflugið er svoddan veisla, ekki satt?</value>
   </entry>
   <entry>
     <key>MeetGabbro3FSo hey, don’t freak out or anything, but lately I keep, like, dying repeatedly. I dunno, it’s pretty weird.</key>
-    <value>So hey, don’t freak out or anything, but lately I keep, like, dying repeatedly. I dunno, it’s pretty weird.</value>
+    <value>Hurru, sko, ekki fríka út eða eitthvað, en undanfarið hef ég verið, þú veist, að deyja síendurtekið. Rosa furðulegt.</value>
   </entry>
   <entry>
     <key>MeetGabbro3FWhat about you? Have you died lately, or is it just me?</key>
