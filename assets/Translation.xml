@@ -1874,7 +1874,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_3FWell, what are any of us doing here, really?</key>
-    <value>Tja... í rauninni, hvað er nokkurt okkar að gera hérna til að byrja með?</value>
+    <value>Tja... hvað er eitthvert okkar að gera einhversstaðar í rauninni?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3F...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
@@ -2110,7 +2110,7 @@
   </entry>
   <entry>
     <key>FoundSomething5_3FWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-    <value>Þegar ég er búið að kanna öll ókunn svæði, þá langar mig til þess að skapa skammtalist. Kannski einhvers konar verur sem birtast óvænt og hræða líftóruna úr þér.</value>
+    <value>Þegar ég er búið að kanna öll ókunn svæði, þá langar mig til þess að skapa skammtalist. Kannski einhvers konar skúlptúr af veru sem birtist óvænt og hræðir líftóruna úr þér.</value>
   </entry>
   <entry>
     <key>FoundSomething6AgainYeah, you mentioned that before. Did I look busy in it? I hope I looked busy.</key>
@@ -2138,7 +2138,7 @@
   </entry>
   <entry>
     <key>GabbroFoundSomething6Um. “Ol’ Spacey”?</key>
-    <value>Um... "Gamli Geimarinn"?</value>
+    <value>Ööö... "Gamli Geimarinn"?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething6I have a map?!</key>
@@ -2154,431 +2154,431 @@
   </entry>
   <entry>
     <key>FoundSomething6aAnyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</key>
-    <value>Anyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</value>
+    <value>Allavega, ef þú vilt heimsækja Geimarann Gamla, þá er besta leiðin til þess að fara í skipið þitt og nota sólkerfiskortið til þess að stilla á gervitunglið, rétt eins og fyrir hvert annað himintungl.</value>
   </entry>
   <entry>
     <key>FoundSomething6bI mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</key>
-    <value>I mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</value>
+    <value>Ég meina, gervitunglið er ekki &lt;i&gt;voðalega&lt;/i&gt; gamalt, en það er heldur ekki splunkunýtt. "Gamli" er meira svona eins og gælunafn. ...Þú ert að taka þessu of bókstaflega.</value>
   </entry>
   <entry>
     <key>FoundSomething6bOl’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</key>
-    <value>Ol’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</value>
+    <value>Geimarinn Gamli elskar heimsóknir, bara svo þú vitir! Besta leiðin til þess að finna hann er að fara í skipið þitt og nota sólkerfiskortið til þess að stilla á gervitunglið, rétt eins og fyrir hvert annað himintungl.</value>
   </entry>
   <entry>
     <key>FoundSomething6cYeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</key>
-    <value>Yeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</value>
+    <value>Uuu, já, það er staðlað í öllum geimbúningunum okkar? Þú veist, kortið sem þú hefur haft meðferðis sem opnast ef þú einfaldlega ýtir á takkann? …Það kort?</value>
   </entry>
   <entry>
     <key>FoundSomething6cYou didn’t get conked on the head by a rock or a meteorite or something on your way here, did you? No shame in that. Happens to me all the time!</key>
-    <value>You didn’t get conked on the head by a rock or a meteorite or something on your way here, did you? No shame in that. Happens to me all the time!</value>
+    <value>Skallaðirðu grjót eða loftstein eða eitthvað á leiðinni hingað? Ekkert til að skammast sín fyrir. Er alltaf að koma fyrir mig!</value>
   </entry>
   <entry>
     <key>FoundSomething6cIn case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</key>
-    <value>In case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</value>
+    <value>Bara svona til öryggis, ef þú fékkst einstaklega slæmt höfuðhögg, ekki gleyma að þú getur hoppað inn í skip og notað sólkerfiskortið og stillt það á hvaða himintungl sem er. Líka auðveldasta leiðin til að heimsækja Gamla Geimarann.</value>
   </entry>
   <entry>
     <key>FoundSomethingExitNo worries. Feel free to let me know when you do find something cool, though. You know where to find me.</key>
-    <value>No worries. Feel free to let me know when you do find something cool, though. You know where to find me.</value>
+    <value>Engar áhyggjur. Endilega láttu sjá þig ef þú finnur eitthvað klikkað. Þú veist hvar ég er.</value>
   </entry>
   <entry>
     <key>Gabbro3T_1I was hoping you’d be back - something &lt;i&gt;really&lt;/i&gt; weird is going on.</key>
-    <value>I was hoping you’d be back - something &lt;i&gt;really&lt;/i&gt; weird is going on.</value>
+    <value>Ég var að vonast eftir því að þú kæmir aftur - það er eitthvað &lt;i&gt;verulega&lt;/i&gt; skrítið á seyði.</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_1Do you think we’re in a time loop?</key>
-    <value>Do you think we’re in a time loop?</value>
+    <value>Heldur þú að við séum föst í tímalykkju?</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_1We’re definitely in a time loop.</key>
-    <value>We’re definitely in a time loop.</value>
+    <value>Við erum tvímælalaust í tímalykkju.</value>
   </entry>
   <entry>
     <key>Gabbro3T_2Yeah, a time loop makes the most sense, right? Or at least, it’s some kind of fidgety time business. Hard to say what’s happening to the shape of time, exactly, but let’s go with “loop” for now.</key>
-    <value>Yeah, a time loop makes the most sense, right? Or at least, it’s some kind of fidgety time business. Hard to say what’s happening to the shape of time, exactly, but let’s go with “loop” for now.</value>
+    <value>Já, tímalykkja finnst mér passa best. Eða þá að minnsta kosti einhvers konar úfið tímadæmi. Erfitt að segja hvað er að gerast með lögun tíma og rúms, nákvæmlega, en lýsum því sem "lykkju" í bili.</value>
   </entry>
   <entry>
     <key>Gabbro3T_3Oh. Yeah, that makes sense. Cool.</key>
-    <value>Oh. Yeah, that makes sense. Cool.</value>
+    <value>Já, það gengur upp. Svalt.</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_3You’re taking this pretty well.</key>
-    <value>You’re taking this pretty well.</value>
+    <value>Þú tekur þessu frekar vel.</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_3What did you think it was?</key>
-    <value>What did you think it was?</value>
+    <value>Hvað hélstu að þetta væri?</value>
   </entry>
   <entry>
     <key>Gabbro3T_4Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</key>
-    <value>Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</value>
+    <value>Hehe, sömuleiðis. Persónulega þá fíla ég að prófa eitthvað nýtt og ég hef aldrei prófað að vera í tímalykkju áður.</value>
   </entry>
   <entry>
     <key>Gabbro3T_4Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</key>
-    <value>Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</value>
+    <value>Ég meina, ég &lt;i&gt;held&lt;/i&gt; ég hafi aldrei verið í tímalykkju áður, hins vegar þá er ekki eins og ég geti vitað það fyrir víst.</value>
   </entry>
   <entry>
     <key>Gabbro3T_5I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-    <value>I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</value>
+    <value>Já, ég þóttist vita að þetta væri einhvers konar úfið tímadæmi, en ég var ekki endilega að pæla í hvernig lögun tíminn tæki á sig, skilurðu? En tímalykkja finnst mér passa. Segjum "lykkja" í bili.</value>
   </entry>
   <entry>
     <key>Gabbro3T_6So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</key>
-    <value>So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</value>
+    <value>Lítur út fyrir að við séum þau einu sem erum meðvituð um að vera í tímalykkju. Jafnvel þótt við segjum öðrum frá því, man enginn eftir því í næstu lykkju. Hvað er málið með það?</value>
   </entry>
   <entry>
     <key>Gabbro3T_6Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</key>
-    <value>Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</value>
+    <value>Kannski er það vegna svakalegu störukeppninnar sem við áttum bæði með Nomai styttunni?</value>
   </entry>
   <entry>
     <key>Gabbro3T_6I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</key>
-    <value>I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</value>
+    <value>Ég sé minningarnar mínar spilast til baka alltaf þegar ég dey, alveg eins og þegar ég sá Nomai styttuna opna augun og horfa á mig þarna á ströndinni. Þannig að kannski... engin glóandi stytta, engin tímalykkjuupplifun?</value>
   </entry>
   <entry>
     <key>Gabbro3T_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
-    <value>I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</value>
+    <value>Ég held að það verði aðalkenningin mín, en ef þú uppgötvar eitthvað nýtt varðandi stytturnar eða tímalykkjuna, láttu mig vita okei? Ég verð hér.</value>
   </entry>
   <entry>
     <key>Gabbro3T_SecondaryHey, my time buddy’s back!</key>
-    <value>Hey, my time buddy’s back!</value>
+    <value>Hey, tímaflakksfélaginn minn snýr aftur!</value>
   </entry>
   <entry>
     <key>GabbroMenuSo what’s new?</key>
-    <value>So what’s new?</value>
+    <value>Hvað er títt?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3TWell, what are any of us doing here, really?</key>
-    <value>Well, what are any of us doing here, really?</value>
+    <value>Tja... hvað er eitthvert okkar að gera einhversstaðar í rauninni?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3T...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+    <value>...Neinei, bara grín. Ég er hérna að skoða sólkerfið okkar, alveg eins og þú.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3TBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-    <value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+    <value>En ég segi það satt, útgeimurinn gefur manni gott svigrúm til þess að hugsa sinn gang. Hér er ró og friður.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3THere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-    <value>Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+    <value>Þér gæti líkað þetta - Ég sé alltaf bjart leiftur á himni í byrjun hverrar lykkju. Það er eitthvað í gangi þarna uppi, á braut um þessa plánetu.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nomai &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_3TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-    <value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+    <value>Ég var reyndar á ströndinni á Styttueyju þegar þetta glódæmi átti sér stað. Flott strönd fyrir þannig lagað. Ég gef henni alveg 7 af 10 á Gabbro-Slökunarskalanum.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3TIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-    <value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+    <value>Ef þig langar til þess að skoðu Styttueyju, þá er hún í raun tvær eyjur tengdar saman með náttúrulegum steinboga. Tja... að mestu tengdar, reyndar. Þú sérð það bara.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3THaha, I know, right?</key>
-    <value>Haha, I know, right?</value>
+    <value>Haha já, þvílík pláneta.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3T...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-    <value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+    <value>...Ó, þú meinar hvað er í &lt;i&gt;gangi&lt;/i&gt;, semsagt þú vilt vita meira? Tja... Jötunsdýpi er risastórt og að mestu vatn. Ekkert nýtt þar.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-    <value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+    <value>Það er sterkur straumur svolítið undir yfirborðinu sem kemur í veg fyrir að nokkur hlutur nái að sökkva niður fyrir hann. Í alvörunni, ég hef reynt allt sem mér dettur í hug til að komast framhjá þessum straum, og hvorug hugmynd virkaði.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nomai styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-    <value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</value>
+    <value>Þú hefur séð hvirfilbylina? Þeir fara svosem ekki framhjá manni. Þeir kasta öllu upp í loft sem verður á þeirra vegi, þar á meðal eyjur. Smá ábending - ef þér er kastað upp af einum, reyndu að lenda í vatni. Ólíklegra að það drepi þig.</value>
   </entry>
   <entry>
     <key>FoundSomething1_3TSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-    <value>So the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</value>
+    <value>Þannig að Nomaiarnir bjuggu til þessar styttur til þess að geyma minningar? ...Já, ég sé alveg fyrir mér Nomaiana gera það. Veit ekki af hverju þeir myndu gera það en það er svosem líkt þeim.</value>
   </entry>
   <entry>
     <key>FoundSomething1_3TDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-    <value>Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</value>
+    <value>Heldur þú að stytturnar séu þá að taka upp minningarnar okkar? Því ég man eftir þessari á ströndinni sem horfði á mig skringilega. Það hlýtur að vera minningar-vinur minn!</value>
   </entry>
   <entry>
     <key>FoundSomething2_3TWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</value>
+    <value>Bíddu, ha? Í alvörunni? Nomaiarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er&lt;i&gt;galið&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-    <value>Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</value>
+    <value>Núna vitum við allavega hvað veldur lykkjunni. Samt... ef lykkjan orsakast af þessum búnaði, þá hlýtur einhver að hafa kveikt á honum, ekki satt? Humm...</value>
   </entry>
   <entry>
     <key>FoundSomething2_3THey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-    <value>Hey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</value>
+    <value>Hey, hvað heldur þú að gerist ef þú bara slekkur einfaldlega á tímalykkjunni? Þó, eitthvað segir mér að það er kannski ekki góð hugmynd, þar sem sólin springur og svoleiðis.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3TThen again, who wants to spend eternity being blown up by the sun?</key>
-    <value>Then again, who wants to spend eternity being blown up by the sun?</value>
+    <value>Aftur á móti, hver vill láta sólina sprengja sig í tætlur að eilífu?</value>
   </entry>
   <entry>
     <key>FoundSomething2_3T...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-    <value>...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</value>
+    <value>...Hvað veit ég. Ég er enginn tímalykkjusérfræðingur. Ég ætla bara að sitja hérna og velta fyrir mér hinu flókna eðli tíma og rúms. Kannski leggja mig líka, ef mig langar.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3TYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-    <value>You’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</value>
+    <value>Svo þú ert að segja mér að stytturnar voru gerðar til þess að senda minningar aftur í tímann? Ætli það sé ekki eitthvað vit í því, miðað við að við höfum bæði minningar úr öllum lykkjunum sem við höfum farið í gegnum.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3TWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-    <value>Wait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</value>
+    <value>Bíddu, þannig að það eru bara minningarnar okkar sem ferðast aftur í tímann til okkar, ekki satt? Þannig að... erum við raunverulega að upplifa margar tímalykkjur, eða ekki?</value>
   </entry>
   <entry>
     <key>FoundSomething3_3TThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-    <value>That’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</value>
+    <value>Það er rosalega djúpt... Þannig að, kannski hafa meðvitundir okkar farið í gegnum allar þessar lykkjur, en ekki líkamar okkar þar sem að lykkjurnar hafa tæknilega séð aldrei átt sér stað.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3TMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-    <value>Meaning we’re receiving memories of things that will never happen to us. Cool, huh?</value>
+    <value>Sem þýðir að við erum að fá minningar um hluti sem munu aldrei henda okkur. Svalt!</value>
   </entry>
   <entry>
     <key>FoundSomething4_3TWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-    <value>Whoa, that’s the cannon breaking apart at the start of each time loop? For real?</value>
+    <value>Vá, svo þetta er geimflaugavarpan að mölvast í byrjun hverrar lykkju?</value>
   </entry>
   <entry>
     <key>FoundSomething4_3TDid you figure out why?</key>
-    <value>Did you figure out why?</value>
+    <value>Komstu að því af hverju það gerist?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_3TToo much power.</key>
-    <value>Too much power.</value>
+    <value>Of mikill kraftur.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_3TOverenthusiasm.</key>
-    <value>Overenthusiasm.</value>
+    <value>Eldmóður á yfirsnúningi.</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3T...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-    <value>...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</value>
+    <value>...Það er eiginlega óhugnalegt hve mikið það hljómar eins og eitthvað sem Slate eða Feldspar myndu gera. Kemur mér virkilega á óvart að Nomaiarnir byggðu eitthvað sem síðan bilar með þessum gríðarlegu afleiðingum!</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3TCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-    <value>Come to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</value>
+    <value>Þó, ef maður pælir í því, "að bila" er ekki rétta lýsingin. Úr því að Geimflaugavörpunni tekst jú að skjóta frá sér í byrjun hverrar lykkju.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3TSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
-    <value>So the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</value>
+    <value>Þannig að varpan mölvast um leið og hún skýtur frá sér. Útskýrir að ég sé alltaf eitthvað falla frá himnum í hverri lykkju.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3TI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
-    <value>I’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</value>
+    <value>Kemur mér enn á óvart að Nomaiarnir byggðu eitthvað sem helst ekki saman, skilurðu? Þeir verandi ofursnjallir smiðir og svoleiðis.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3TOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-    <value>On the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</value>
+    <value>Á hinn bóginn ættum við kannski að viðurkenna að það er frekar tilkomumikið að þeim tókst að smíða eitthvað sem entist allan þennan tíma. Og það lítur út fyrir að vörpunni er enn að takast að skjóta í byrjun hverrar lykkju.</value>
   </entry>
   <entry>
     <key>FoundSomething5_3TYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-    <value>Yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</value>
+    <value>Já, þetta í skóginum? Ég man eftir að hafa skrifað það. Finnst þér það ekki skemmtilegt? Held þetta dugi í heil 24 ljóð.</value>
   </entry>
   <entry>
     <key>FoundSomething5_3TWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-    <value>When I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</value>
+    <value>Þegar ég er búið að kanna öll ókunn svæði, þá langar mig til þess að skapa skammtalist. Kannski einhvers konar skúlptúr af veru sem birtist óvænt og hræðir líftóruna úr þér.</value>
   </entry>
   <entry>
     <key>GabbroMainHey, time pal! Nice weather we’re having, huh? &lt;Pause/&gt;...Wait. Have I used that one before?</key>
-    <value>Hey, time pal! Nice weather we’re having, huh? &lt;Pause /&gt;...Wait. Have I used that one before?</value>
+    <value>Hey, tímaflakksféllagi! Gott veður í dag, ha? &lt;Pause /&gt;...Bíddu, hef ég notað þessa línu áður?</value>
   </entry>
   <entry>
     <key>GabbroMainIf it isn’t my time buddy! How’s space treating you this loop?</key>
-    <value>If it isn’t my time buddy! How’s space treating you this loop?</value>
+    <value>Nei, er það ekki tímafélaginn minn! Hvernig er geimurinn að fara með þig þessa lykkju?</value>
   </entry>
   <entry>
     <key>GabbroMainHeyo, time buddy. It’s a good thing I never get bored of rain, huh?</key>
-    <value>Heyo, time buddy. It’s a good thing I never get bored of rain, huh?</value>
+    <value>Sælir, tímafélagi. Það er nú gott að mér leiðist aldrei regnið, ha?</value>
   </entry>
   <entry>
     <key>GabbroMainYou know, I kind of wish I’d built a hammock here before we ended up in this time loop.</key>
-    <value>You know, I kind of wish I’d built a hammock here before we ended up in this time loop.</value>
+    <value>Veistu, ég hefði óskað að mér hefði dottið í hug að byggja hengirúmið hérna áður en við enduðum í tímalykkjunni.</value>
   </entry>
   <entry>
     <key>GabbroMainA few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</key>
-    <value>A few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</value>
+    <value>Fyrir nokkrum lykkjum síðan, þá kom hvirfilbylur og kastaði litlu eyjunni minni út í geim. Að deyja á þann máta var frekar ónotalegt.</value>
   </entry>
   <entry>
     <key>GabbroMain_SecondaryHello again. ...Again.</key>
-    <value>Hello again. ...Again.</value>
+    <value>Hæ aftur. ...Aftur.</value>
   </entry>
   <entry>
     <key>GabbroMenuWhat’s up?</key>
-    <value>What’s up?</value>
+    <value>Hvað er að frétta?</value>
   </entry>
   <entry>
     <key>GabbroGabbroMenuHow do you stay so calm in the face of repeated impending death?</key>
-    <value>How do you stay so calm in the face of repeated impending death?</value>
+    <value>Hvernig ertu svona rólegt andspænis því að vera endalaust kortér frá því að deyja?</value>
   </entry>
   <entry>
     <key>HowDoYouStayCalmDeep breaths... no, seriously, I meditate.</key>
-    <value>Deep breaths... no, seriously, I meditate.</value>
+    <value>Bara draga andann djúpt... nei, í alvörunni, ég hugleiði.</value>
   </entry>
   <entry>
     <key>MeditateMenuWant me to teach you? It'll be the next loop before you know it.</key>
-    <value>Want me to teach you? It'll be the next loop before you know it.</value>
+    <value>Viltu að ég kenni þér? Næsta lykkja mun koma áður en þú veist af því.</value>
   </entry>
   <entry>
     <key>GabbroMeditateMenuSure, why not.</key>
-    <value>Sure, why not.</value>
+    <value>Jájá, afhverju ekki.</value>
   </entry>
   <entry>
     <key>GabbroMeditateMenuNah, I'm good.</key>
-    <value>Nah, I'm good.</value>
+    <value>Nei, ég er gott.</value>
   </entry>
   <entry>
     <key>YesMeditateOk, close your eyes...</key>
-    <value>Ok, close your eyes...</value>
+    <value>Ókei, lokaðu augunum...</value>
   </entry>
   <entry>
     <key>NoMeditateOk, let me know if you change your mind. Time flies when you're in a deep, meditative trance.</key>
-    <value>Ok, let me know if you change your mind. Time flies when you're in a deep, meditative trance.</value>
+    <value>Ókei, láttu mig vita ef þér snýst hugur. Tíminn flýgur þegar þú ert í djúpum hugleiðslutrans.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_mergeWell, what are any of us doing here, really?</key>
-    <value>Well, what are any of us doing here, really?</value>
+    <value>Tja... hvað er eitthvert okkar að gera einhversstaðar í rauninni?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_merge...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+    <value>...Neinei, bara grín. Ég er hérna að skoða sólkerfið okkar, alveg eins og þú.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_mergeBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-    <value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+    <value>En ég segi það satt, útgeimurinn gefur manni gott svigrúm til þess að hugsa sinn gang. Hér er ró og friður.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_mergeI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-    <value>Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+    <value>Þér gæti líkað þetta - Ég sé alltaf bjart leiftur á himni í byrjun hverrar lykkju. Það er eitthvað í gangi þarna uppi, á braut um þessa plánetu.</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nomai &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-    <value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+    <value>Ég var reyndar á ströndinni á Styttueyju þegar þetta glódæmi átti sér stað. Flott strönd fyrir þannig lagað. Ég gef henni alveg 7 af 10 á Gabbro-Slökunarskalanum.</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-    <value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+    <value>Ef þig langar til þess að skoðu Styttueyju, þá er hún í raun tvær eyjur tengdar saman með náttúrulegum steinboga. Tja... að mestu tengdar, reyndar. Þú sérð það bara.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeHaha, I know, right?</key>
-    <value>Haha, I know, right?</value>
+    <value>Haha já, þvílík pláneta.</value>
   </entry>
   <entry>
     <key>ThisPlanet_merge...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-    <value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+    <value>...Ó, þú meinar hvað er í &lt;i&gt;gangi&lt;/i&gt;, semsagt þú vilt vita meira? Tja... Jötunsdýpi er risastórt og að mestu vatn. Ekkert nýtt þar.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-    <value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+    <value>Það er sterkur straumur svolítið undir yfirborðinu sem kemur í veg fyrir að nokkur hlutur nái að sökkva niður fyrir hann. Í alvörunni, ég hef reynt allt sem mér dettur í hug til að komast framhjá þessum straum, og hvorug hugmynd virkaði.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nomai styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-    <value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</value>
+    <value>Þú hefur séð hvirfilbylina? Ekki auðvelt að missa af þeim. Þeir henda öllu upp sem verður á þeirra vegi, þar á meðal eyjum. Smá ábending - ef þeir kasta þér upp, reyndu að lenda í vatni. Ólíklegra að þú deyjir þannig.</value>
   </entry>
   <entry>
     <key>FoundSomething1_mergeSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-    <value>So the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</value>
+    <value>Þannig að Nomaiarnir bjuggu til þessar styttur til þess að geyma minningar? ...Já, ég sé alveg fyrir mér Nomaiana gera það. Veit ekki af hverju þeir myndu gera það en það er svosem líkt þeim.</value>
   </entry>
   <entry>
     <key>FoundSomething1_mergeDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-    <value>Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</value>
+    <value>Heldur þú að stytturnar séu þá að taka upp minningarnar okkar? Því ég man eftir þessari á ströndinni sem horfði á mig skringilega. Það hlýtur að vera minningar-vinur minn!</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</value>
+    <value>Bíddu, ha? Í alvörunni? Nomaiarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er&lt;i&gt;galið&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-    <value>Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</value>
+    <value>Núna vitum við allavega hvað veldur lykkjunni. Samt... ef lykkjan orsakast af þessum búnaði, þá hlýtur einhver að hafa kveikt á honum, ekki satt? Humm...</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-    <value>Hey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</value>
+    <value>Hey, hvað heldur þú að gerist ef þú bara slekkur einfaldlega á tímalykkjunni? Þó, eitthvað segir mér að það er kannski ekki góð hugmynd, þar sem sólin springur og svoleiðis.</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeThen again, who wants to spend eternity being blown up by the sun?</key>
-    <value>Then again, who wants to spend eternity being blown up by the sun?</value>
+    <value>Aftur á móti, hver vill láta sólina sprengja sig í tætlur að eilífu?</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeWell, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-    <value>Well, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</value>
+    <value>...Hvað veit ég. Ég er enginn tímalykkjusérfræðingur. Ég ætla bara að sitja hérna og velta fyrir mér hinu flókna eðli tíma og rúms. Kannski leggja mig líka, ef mig langar.</value>
   </entry>
   <entry>
     <key>FoundSomething3_mergeYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-    <value>You’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</value>
+    <value>Svo þú ert að segja mér að stytturnar voru gerðar til þess að senda minningar aftur í tímann? Ætli það sé ekki eitthvað vit í því, miðað við að við höfum bæði minningar úr öllum lykkjunum sem við höfum farið í gegnum.</value>
   </entry>
   <entry>
     <key>FoundSomething3_mergeWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-    <value>Wait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</value>
+    <value>Bíddu, þannig að það eru bara minningarnar okkar sem ferðast aftur í tímann til okkar, ekki satt? Þannig að... erum við raunverulega að upplifa margar tímalykkjur, eða ekki?</value>
   </entry>
   <entry>
     <key>FoundSomething3_mergeThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-    <value>That’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</value>
+    <value>Það er rosalega djúpt... Þannig að, kannski hafa meðvitundir okkar farið í gegnum allar þessar lykkjur, en ekki líkamar okkar þar sem að lykkjurnar hafa tæknilega séð aldrei átt sér stað.</value>
   </entry>
   <entry>
     <key>FoundSomething3_mergeMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-    <value>Meaning we’re receiving memories of things that will never happen to us. Cool, huh?</value>
+    <value>Sem þýðir að við erum að fá minningar um hluti sem munu aldrei henda okkur. Svalt!</value>
   </entry>
   <entry>
     <key>FoundSomething4_mergeWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-    <value>Whoa, that’s the cannon breaking apart at the start of each time loop? For real?</value>
+    <value>Vá, svo þetta er geimflaugavarpan að mölvast í byrjun hverrar lykkju?</value>
   </entry>
   <entry>
     <key>FoundSomething4_mergeDid you figure out why?</key>
-    <value>Did you figure out why?</value>
+    <value>Komstu að því af hverju það gerist?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_mergeToo much power.</key>
-    <value>Too much power.</value>
+    <value>Of mikill kraftur.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_mergeOverenthusiasm.</key>
-    <value>Overenthusiasm.</value>
+    <value>Eldmóður á yfirsnúningi.</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_merge...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-    <value>...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</value>
+    <value>...Það er eiginlega óhugnalegt hve mikið það hljómar eins og eitthvað sem Slate eða Feldspar myndu gera. Kemur mér virkilega á óvart að Nomaiarnir byggðu eitthvað sem síðan bilar með þessum gríðarlegu afleiðingum!</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_mergeCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-    <value>Come to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</value>
+    <value>Þó, ef maður pælir í því, "að bila" er ekki rétta lýsingin. Úr því að Geimflaugavörpunni tekst jú að skjóta frá sér í byrjun hverrar lykkju.</value>
   </entry>
   <entry>
     <key>FoundSomething5_mergeOh yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-    <value>Oh yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</value>
+    <value>Ó já, þetta í skóginum? Ég man eftir að hafa skrifað það. Finnst þér það ekki skemmtilegt? Held þetta dugi í heil 24 ljóð.</value>
   </entry>
   <entry>
     <key>FoundSomething5_mergeWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up while your back is turned and scares the daylights out of you.</key>
-    <value>When I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up while your back is turned and scares the daylights out of you.</value>
+    <value>Þegar ég er búið að kanna öll ókunn svæði, þá langar mig til þess að skapa skammtalist. Kannski einhvers konar skúlptúr af veru sem birtist þegar þú snýrð baki í hana og hræðir líftóruna úr þér.</value>
   </entry>
   <entry>
     <key>RECORDING</key>
-    <value>RECORDING</value>
+    <value>UPPPTAKA</value>
   </entry>
   <entry>
     <key>RecordingGabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</key>
-    <value>Gabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</value>
+    <value>Gabbro hérna, bara að skoða djúpgervitunglið að beiðni Bjálkabólsstjórnstöðvarinnar, sjá hvort það sé einhver galli í búnaði. Þarna sérðu Hornfels! Ég vinn af og til!</value>
   </entry>
   <entry>
     <key>RecordingYou know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</key>
-    <value>You know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</value>
+    <value>Veistu, ég hefði ekkert á móti því að vera gervitungl. Það er friðsælt hérna úti, á meðal fjarlægra stjarna og hinu mjúka myrkri… Þori að veðja (geisp) að hér sé gott að lúra líka...</value>
   </entry>
   <entry>
     <key>Recording...</key>
@@ -2586,67 +2586,67 @@
   </entry>
   <entry>
     <key>RecordingOh, right. The lens.</key>
-    <value>Oh, right. The lens.</value>
+    <value>Ó já. Linsan</value>
   </entry>
   <entry>
     <key>RecordingAlright, little satellite, let's see what the trouble is.</key>
-    <value>Alright, little satellite, let's see what the trouble is.</value>
+    <value>Jæja litla gervitungl, látum nú okkur sjá hvert vandamálið er.</value>
   </entry>
   <entry>
     <key>Recording...Huh. Everything looks a-okay, ground control. No dust or scratches on the lens, and no evidence of sparking or violent explosions. Guess that rules out an equipment malfunction, after all.</key>
-    <value>...Huh. Everything looks a-okay, ground control. No dust or scratches on the lens, and no evidence of sparking or violent explosions. Guess that rules out an equipment malfunction, after all.</value>
+    <value>...Humm. Það lítur nú bara allt vel, þið þarna á jörðu niðri. Ekkert ryk né skrámur á linsunni, og engar vísbendingar um neista né ofsafengndar sprengingar. Ætli það útiloki ekki tækjabilun eftir allt saman.</value>
   </entry>
   <entry>
     <key>RecordingHear that, pal? You’re in great shape. Keep up the good work out here!</key>
-    <value>Hear that, pal? You’re in great shape. Keep up the good work out here!</value>
+    <value>Heyrirðu það félagi? Þú ert í frábæru standi. Haltu áfram að standa þig vel hérna úti!</value>
   </entry>
   <entry>
     <key>SIGN</key>
-    <value>SIGN</value>
+    <value>SKILTI</value>
   </entry>
   <entry>
     <key>SignCLOSED DUE TO FIRE DAMAGE</key>
-    <value>CLOSED DUE TO FIRE DAMAGE</value>
+    <value>LOKAÐ VEGNA ELDSTJÓNS</value>
   </entry>
   <entry>
     <key>SignThe old radio tower, while an important landmark, is unfortunately closed thanks to the unsanctioned flight testing of an extremely powerful model rocket.</key>
-    <value>The old radio tower, while an important landmark, is unfortunately closed thanks to the unsanctioned flight testing of an extremely powerful model rocket.</value>
+    <value>Þótt gamli útvarpsturninn sé mikilvægt kennileiti, þá er hann því miður lokaður vegna óheimilaðra flugprófanna á gríðaröflugu eldflaugamódeli.</value>
   </entry>
   <entry>
     <key>SignWhile we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory.</key>
-    <value>While we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory.</value>
+    <value>Við erum af vilja gerð til þess að laga turninn í framtíðinni en því miður er áherslan núna á því að stækka safnið í Athugunarstöðinni.</value>
   </entry>
   <entry>
     <key>SignSincerest apologies, except to Slate and Mica,\\n\\nHornfels (museum curator)</key>
-    <value>Sincerest apologies, except to Slate and Mica,\\n\\nHornfels (museum curator)</value>
+    <value>Ég bið ykkur öll afsökunar, nema Slate og Mica,\\n\\nHornfels (safnvörður)</value>
   </entry>
   <entry>
     <key>SignThe radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</key>
-    <value>The radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</value>
+    <value>Útvarpsturninn hér á Bjálkabóli var byggður til þess að taka á móti útsendingum frá djúpgervitunglinu okkar, og enn til þessa dags hýsir hann fyrstu myndirnar sem teknar voru af nokkurn tíma teknar af öllu sólkerfinu í einu.</value>
   </entry>
   <entry>
     <key>SignThese photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</key>
-    <value>These photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</value>
+    <value>Þessi myndataka var aðeins möguleg sökum óvenjulegs sporbaugs djúpgervitunglsins sem ber það fyrir neðan og ofan flöt sólkerfisins.</value>
   </entry>
   <entry>
     <key>SignThanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</key>
-    <value>Thanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</value>
+    <value>Þökk sé nýlegri uppfærslu, þá sér djúpgervitunglið um að kalla fram rauntímakort af sólkerfinu sem notað er af okkar nýjustu geimförum.</value>
   </entry>
   <entry>
     <key>SignOur new expansion was made possible by the generous contributions of esteemed museum visitors like you. Thank you very much for your support!</key>
-    <value>Our new expansion was made possible by the generous contributions of esteemed museum visitors like you. Thank you very much for your support!</value>
+    <value>Nýja stækkunin okkar varð að raunveruleika þökk sé örlátum framlögum hæstvirtra safngesta eins og þér. Hjartanlegar þakkir fyrir stuðning ykkar!</value>
   </entry>
   <entry>
     <key>SignFUTURE SITE OF OUR NEXT EXHIBIT!</key>
-    <value>FUTURE SITE OF OUR NEXT EXHIBIT!</value>
+    <value>FRAMTÍÐARSTAÐUR FYRIR OKKAR NÆSTU SÝNISGRIPI!</value>
   </entry>
   <entry>
     <key>SignIf you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</key>
-    <value>If you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</value>
+    <value>Ef þú kunnir að meta tímann þinn hér í Ytri Óbyggðum, verið svo væn að íhuga að styðja við fyrirhugaða stækkun safnsins okkar.</value>
   </entry>
   <entry>
     <key>SignOur quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</key>
-    <value>Our quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</value>
+    <value>Verkefni okkar, að kanna fjarlægustu kima sólkerfisins okkar, væri ekki mögulegt án örlátra safngesta eins og þér! Okkar dýpstu hjartans þakkir fyrir þinn stuðning, og við vonumst til að sjá þig aftur bráðlega.</value>
   </entry>
   <entry>
     <key>Slate</key>
@@ -2654,7 +2654,7 @@
   </entry>
   <entry>
     <key>Scientist1AThere’s our pilot! Back from your pre-launch campout under the stars, I see.</key>
-    <value>There’s our pilot! Back from your pre-launch campout under the stars, I see.</value>
+    <value>Þarna er flugmaðurinn okkar! Búinn að tjalda undir berum stjörnuhimni, sé ég.</value>
   </entry>
   <entry>
     <key>Scientist1ASo it’s Launch Day, eh? Seems like only yesterday you joined the space program, and suddenly here you are, leaving on your first solo voyage.</key>
@@ -2662,39 +2662,39 @@
   </entry>
   <entry>
     <key>Scientist1AWhat do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</key>
-    <value>What do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</value>
+    <value>Hvað segirðu - tilbúið að koma þessari elsku á loft? Skipið er stútfullt af eldsneyti og tilbúið í slaginn!</value>
   </entry>
   <entry>
     <key>SlateScientist1AAll systems go!</key>
-    <value>All systems go!</value>
+    <value>Allt er klappað og klárt!</value>
   </entry>
   <entry>
     <key>SlateScientist1AI’m ready if you are.</key>
-    <value>I’m ready if you are.</value>
+    <value>Ég er tilbúið ef þú ert tilbúið.</value>
   </entry>
   <entry>
     <key>SlateScientist1AYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-    <value>You’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</value>
+    <value>Ertu &lt;i&gt;visst&lt;/i&gt; um að þú hafir lagað bakhreyflana?</value>
   </entry>
   <entry>
     <key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
-    <value>Hey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</value>
+    <value>Hey, ertu tilbúið að koma skipinu á loft? Það er stútfullt af eldsneyti og tilbúið í slaginn!</value>
   </entry>
   <entry>
     <key>SlateScientist1BDid... did I just... die?</key>
-    <value>Did... did I just... die?</value>
+    <value>Var... var ég rétt í þessu... að deyja?</value>
   </entry>
   <entry>
     <key>SlateScientist1BAll systems go!</key>
-    <value>All systems go!</value>
+    <value>Allt klappað og klárt!</value>
   </entry>
   <entry>
     <key>SlateScientist1BI’m ready if you are.</key>
-    <value>I’m ready if you are.</value>
+    <value>Ég er tilbúið ef þú ert tilbúið.</value>
   </entry>
   <entry>
     <key>SlateScientist1BYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-    <value>You’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</value>
+    <value>Ertu &lt;i&gt;visst&lt;/i&gt; um að þú hafir lagað bakhreyflana?</value>
   </entry>
   <entry>
     <key>ScientistAnswer11Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</key>
@@ -4520,7 +4520,7 @@
   </entry>
   <entry>
     <key>FILIX: Fortunately, the &lt;color=lightblue&gt;Attlerock&lt;/color&gt;’s lack of atmosphere will make calibration simple. After all this time, I’m thrilled to finally resume our search!</key>
-    <value>FILIX: Fortunately, the &lt;color=lightblue&gt;Attlerock&lt;/color&gt;’s lack of atmosphere will make calibration simple. After all this time, I’m thrilled to finally resume our search!</value>
+    <value>FILIX: Sem betur fer mun loftleysið á &lt;color=lightblue&gt;Slakagíg&lt;/color&gt; auðvelda kvarðanir. Eftir allan þennan tíma, þá er ég dauðspennt yfir því að halda áfram leit okkar!</value>
   </entry>
   <entry>
     <key>Caution: You are about to access the core while the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is active.</key>
@@ -9654,7 +9654,7 @@
   </entry>
   <entry>
     <key>MeetGabbroNice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
-    <value>Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</value>
+    <value>Næs, hér ertu. Gott að sjá að þú náðir hingað í heilu lagi. Fyrsta einflugið er svoddan veisla, ekki satt?</value>
   </entry>
   <entry>
     <key>MeetGabbroSo hey, don’t laugh, but I think I might have had some kind of spiritual experience with a rock shaped like a face.</key>
@@ -9726,19 +9726,19 @@
   </entry>
   <entry>
     <key>WhatAreYouDoingWell, what are any of us doing here, really?</key>
-    <value>Well, what are any of us doing here, really?</value>
+    <value>Tja... hvað er eitthvert okkar að gera einhversstaðar í rauninni?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+    <value>...Neinei, bara grín. Ég er hérna að skoða sólkerfið okkar, alveg eins og þú.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoingBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-    <value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+    <value>En ég segi það satt, útgeimurinn gefur manni gott svigrúm til þess að hugsa sinn gang. Hér er ró og friður.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoingI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExploreHere’s something you might like — I saw a bright flash in the sky not too long ago. Something must have happened up there in orbit around the planet.</key>
@@ -9746,39 +9746,39 @@
   </entry>
   <entry>
     <key>WhereToExploreWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nomai &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExploreI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-    <value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+    <value>Ég var reyndar á ströndinni á Styttueyju þegar þetta glódæmi átti sér stað. Flott strönd fyrir þannig lagað. Ég gef henni alveg 7 af 10 á Gabbro-Slökunarskalanum.</value>
   </entry>
   <entry>
     <key>WhereToExploreIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-    <value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+    <value>Ef þig langar til þess að skoðu Styttueyju, þá er hún í raun tvær eyjur tengdar saman með náttúrulegum steinboga. Tja... að mestu tengdar, reyndar. Þú sérð það bara.</value>
   </entry>
   <entry>
     <key>ThisPlanetHaha, I know, right?</key>
-    <value>Haha, I know, right?</value>
+    <value>Haha já, þvílík pláneta.</value>
   </entry>
   <entry>
     <key>ThisPlanet...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-    <value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+    <value>...Ó, þú meinar hvað er í &lt;i&gt;gangi&lt;/i&gt;, semsagt þú vilt vita meira? Tja... Jötunsdýpi er risastórt og að mestu vatn. Ekkert nýtt þar.</value>
   </entry>
   <entry>
     <key>ThisPlanetThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-    <value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+    <value>Það er sterkur straumur svolítið undir yfirborðinu sem kemur í veg fyrir að nokkur hlutur nái að sökkva niður fyrir hann. Í alvörunni, ég hef reynt allt sem mér dettur í hug til að komast framhjá þessum straum, og hvorug hugmynd virkaði.</value>
   </entry>
   <entry>
     <key>ThisPlanetAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nomai styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanetYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-    <value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</value>
+    <value>Þú hefur séð hvirfilbylina? Ekki auðvelt að missa af þeim. Þeir henda öllu upp sem verður á þeirra vegi, þar á meðal eyjum. Smá ábending - ef þeir kasta þér upp, reyndu að lenda í vatni. Ólíklegra að þú deyjir þannig.</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_1Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
-    <value>Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</value>
+    <value>Næs, hér ertu. Gott að sjá að þú náðir hingað í heilu lagi. Fyrsta einflugið er svoddan veisla, ekki satt?</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_1So hey, don’t laugh, but I think I might have just, like, died? Somehow?</key>
@@ -9842,55 +9842,55 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_2FWell, what are any of us doing here, really?</key>
-    <value>Well, what are any of us doing here, really?</value>
+    <value>Tja... hvað er eitthvert okkar að gera einhversstaðar í rauninni?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2F...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+    <value>...Neinei, bara grín. Ég er hérna að skoða sólkerfið okkar, alveg eins og þú.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2FBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-    <value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+    <value>En ég segi það satt, útgeimurinn gefur manni gott svigrúm til þess að hugsa sinn gang. Hér er ró og friður.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2FI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2FWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
-    <value>Well actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+    <value>Heyrðu, reyndar þegar ég vakna frá því að, þú veist, hafa dáið þá sé ég alltaf sama leiftrið á himnum. Það er eitthvað í gangi þarna uppi, á braut um þessa plánetu.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nomai &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_2FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-    <value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+    <value>Ég var reyndar á ströndinni á Styttueyju þegar þetta glódæmi átti sér stað. Flott strönd fyrir þannig lagað. Ég gef henni alveg 7 af 10 á Gabbro-Slökunarskalanum.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2FIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-    <value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+    <value>Ef þig langar til þess að skoðu Styttueyju, þá er hún í raun tvær eyjur tengdar saman með náttúrulegum steinboga. Tja... að mestu tengdar, reyndar. Þú sérð það bara.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2FHaha, I know, right?</key>
-    <value>Haha, I know, right?</value>
+    <value>Haha já, þvílík pláneta.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2F...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-    <value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+    <value>...Ó, þú meinar hvað er í &lt;i&gt;gangi&lt;/i&gt;, semsagt þú vilt vita meira? Tja... Jötunsdýpi er risastórt og að mestu vatn. Ekkert nýtt þar.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-    <value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+    <value>Það er sterkur straumur svolítið undir yfirborðinu sem kemur í veg fyrir að nokkur hlutur nái að sökkva niður fyrir hann. Í alvörunni, ég hef reynt allt sem mér dettur í hug til að komast framhjá þessum straum, og hvorug hugmynd virkaði.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nomai styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-    <value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</value>
+    <value>Þú hefur séð hvirfilbylina? Þeir fara svosem ekki framhjá manni. Þeir kasta öllu upp í loft sem verður á þeirra vegi, þar á meðal eyjur. Smá ábending - ef þér er kastað upp af einum, reyndu að lenda í vatni. Ólíklegra að það drepi þig.</value>
   </entry>
   <entry>
     <key>Gabbro2T_1Okay, here’s a weird one for you — I think I might have just, like, died? Somehow?</key>
@@ -9950,55 +9950,55 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_2TWell, what are any of us doing here, really?</key>
-    <value>Well, what are any of us doing here, really?</value>
+    <value>Tja... hvað er eitthvert okkar að gera einhversstaðar í rauninni?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2T...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+    <value>...Neinei, bara grín. Ég er hérna að skoða sólkerfið okkar, alveg eins og þú.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2TBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-    <value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+    <value>En ég segi það satt, útgeimurinn gefur manni gott svigrúm til þess að hugsa sinn gang. Hér er ró og friður.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2TWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
-    <value>Well actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+    <value>Heyrðu, reyndar þegar ég vakna frá því að, þú veist, hafa dáið þá sé ég alltaf sama leiftrið á himnum. Það er eitthvað í gangi þarna uppi, á braut um þessa plánetu.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nomai &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_2TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-    <value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+    <value>Ég var reyndar á ströndinni á Styttueyju þegar þetta glódæmi átti sér stað. Flott strönd fyrir þannig lagað. Ég gef henni alveg 7 af 10 á Gabbro-Slökunarskalanum.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2TIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-    <value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+    <value>Ef þig langar til þess að skoðu Styttueyju, þá er hún í raun tvær eyjur tengdar saman með náttúrulegum steinboga. Tja... að mestu tengdar, reyndar. Þú sérð það bara.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2THaha, I know, right?</key>
-    <value>Haha, I know, right?</value>
+    <value>Haha já, þvílík pláneta.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2T...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-    <value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+    <value>...Ó, þú meinar hvað er í &lt;i&gt;gangi&lt;/i&gt;, semsagt þú vilt vita meira? Tja... Jötunsdýpi er risastórt og að mestu vatn. Ekkert nýtt þar.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-    <value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+    <value>Það er sterkur straumur svolítið undir yfirborðinu sem kemur í veg fyrir að nokkur hlutur nái að sökkva niður fyrir hann. Í alvörunni, ég hef reynt allt sem mér dettur í hug til að komast framhjá þessum straum, og hvorug hugmynd virkaði.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nomai styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-    <value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</value>
+    <value>Þú hefur séð hvirfilbylina? Þeir fara svosem ekki framhjá manni. Þeir kasta öllu upp í loft sem verður á þeirra vegi, þar á meðal eyjur. Smá ábending - ef þér er kastað upp af einum, reyndu að lenda í vatni. Ólíklegra að það drepi þig.</value>
   </entry>
   <entry>
     <key>WaitingForOthersHey, time pal. So you’re getting the band back together, huh?</key>
