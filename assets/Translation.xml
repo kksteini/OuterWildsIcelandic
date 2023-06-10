@@ -2954,58 +2954,58 @@
   </entry>
   <entry>
     <key>Slate_ShipLog_1aWhen you’re on your ship, open up its log to the location you want to mark. Anywhere’s fine, as long as you’ve been there at least once.</key>
-    <value>When you’re on your ship, open up its log to the location you want to mark. Anywhere’s fine, as long as you’ve been there at least once.</value>
+    <value>Þegar þú ert í skipinu þínu, opnaðu skipaskrána og finndu staðinn sem þú vilt merkja. Hvaða staður sem er virkar, svo lengi sem þú ert búið að koma þangað að minnsta kosti einu sinni.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1aHop in the pilot seat, and the ship will throw up a destination marker on your display. It’s that easy.</key>
-    <value>Hop in the pilot seat, and the ship will throw up a destination marker on your display. It’s that easy.</value>
+    <value>Klöngrastu í flugstjórastólinn og skipið mun sýna þér leiðarmerki á skjánum. Afar einfalt.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1bMinimal! Stars above, you worry too much. If anything’s going to kill you, it’s the autopilot.</key>
-    <value>Minimal! Stars above, you worry too much. If anything’s going to kill you, it’s the autopilot.</value>
+    <value>Hverfandi! Jeminn, þú hefur of miklar áhyggjur. Ef eitthvað mun drepa þig þá verður það sjálfstýringin.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1cOh, sure, I’ll just magically have the system know all the possible locations you plan to discover throughout the entire solar system, shall I?</key>
-    <value>Oh, sure, I’ll just magically have the system know all the possible locations you plan to discover throughout the entire solar system, shall I?</value>
+    <value>Ó, já, alveg sjálfsagt. Lof mér bara að töfra fram kerfi sem einhvern veginn bara veit af öllum ókönnuðum stöðum, ekkert mál!</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2“Wow, Slate! How do you come up with these incredible ideas?” Oh, I do the best I can with what I’ve got. Really, you’re too kind.</key>
-    <value>“Wow, Slate! How do you come up with these incredible ideas?” Oh, I do the best I can with what I’ve got. Really, you’re too kind.</value>
+    <value>"Vá Slate! Hvernig ertu svona uppfullt af ótrúlegum hugmyndum?" Æi láttu ekki svona, ég bara geri mitt besta með það sem ég hef. Þú hrósar mér einum of. </value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_2Slate, you are a technological marvel.</key>
-    <value>Slate, you are a technological marvel.</value>
+    <value>Slate, þú ert afburða tæknifræðingur og snillingur.</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_2This was extraordinarily convenient timing. Thanks!</key>
-    <value>This was extraordinarily convenient timing. Thanks!</value>
+    <value>Mjög hentug tímasetning. Takk!</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_2That’s not what my voice sounds like.</key>
-    <value>That’s not what my voice sounds like.</value>
+    <value>Röddin mín hljómar ekki svona.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2a...Whoa, say that again! Please? That sounds so good when it’s not sarcastic.</key>
-    <value>...Whoa, say that again! Please? That sounds so good when it’s not sarcastic.</value>
+    <value>...Vá, segðu þetta aftur! Gerðu það! Þetta hljómar svo vel þegar það er ekki sagt í kaldhæðni.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2bSure thing, hatchling!</key>
-    <value>Sure thing, hatchling!</value>
+    <value>Ekkert mál, kútur!</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2cEveryone’s a critic.</key>
-    <value>Everyone’s a critic.</value>
+    <value>Allir eru gagnrýnendur.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_3Anyway, I’ve got a fire to enjoy, and you’ve got launch codes to grab. Go wild with the marking feature while you're out there. Just, uh, try not to follow it so directly you fly into the sun, okay?</key>
-    <value>Anyway, I’ve got a fire to enjoy, and you’ve got launch codes to grab. Go wild with the marking feature while you're out there. Just, uh, try not to follow it so directly you fly into the sun, okay?</value>
+    <value>Allavega, ég hef hér eldstæði til þess að njóta og þú hefur flugkóða til þess að sækja. Slepptu svo fram af þér beislinu með leiðarmerkisfídusinn. Bara, ömm, ekki fylgja því í blindni þannig að þú fljúgir beint í sólina!</value>
   </entry>
   <entry>
     <key>
 		    WARNING: Increased solar activity detected.
 		</key>
     <value>
-		    WARNING: Increased solar activity detected.
+		    VARÚÐ: Vart er við aukna sólvirkni. 
 		</value>
   </entry>
   <entry>
@@ -3013,7 +3013,7 @@
 		    WARNING: Increased volcanic activity detected.
 		</key>
     <value>
-		    WARNING: Increased volcanic activity detected.
+		    VARÚÐ: Vart er við aukna eldfjallavirkni.
 		</value>
   </entry>
   <entry>
@@ -3021,7 +3021,7 @@
 		    VERDICT: Location is now inhospitable. Evacuation recommended.
 		</key>
     <value>
-		    VERDICT: Location is now inhospitable. Evacuation recommended.
+		    NIÐURSTAÐA: Staðsetning er nú óbyggileg. Brottflutningur ráðlagður.
 		</value>
   </entry>
   <entry>
@@ -3029,7 +3029,7 @@
 		    ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
     <value>
-		    ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
+		    VILLA: Nei ekki að ákvarða sporbraut. Ekkert merki finnst sem uppfyllir öll skilyrði fyrir Auga Alheimsins.
 		</value>
   </entry>
   <entry>
@@ -3038,131 +3038,131 @@
   </entry>
   <entry>
     <key>Feldspar1Whoa!</key>
-    <value>Whoa!</value>
+    <value>Vó!</value>
   </entry>
   <entry>
     <key>Feldspar1Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</key>
-    <value>Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</value>
+    <value>Hvaðan komst þú? Enginn hefur komið hér í... tja, enginn hefur komið hingað. Þú ert fyrsti Bjálkabælingurinn sem hefur komist til Þokuþyrnis — á eftir mér að sjálfsögðu. Vel gert!</value>
   </entry>
   <entry>
     <key>Feldspar1...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</key>
-    <value>...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</value>
+    <value>...Svo, þetta ert þú! Þú fékkst að verða geimfari? Og þú hefur ekki sprengt þig í loft upp ennþá, gott hjá þér!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1Let me guess: anglerfish?</key>
-    <value>Let me guess: anglerfish?</value>
+    <value>Leyfðu mér að giska: fiskskratti?</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1Feldspar! You’re alive!</key>
-    <value>Feldspar! You’re alive!</value>
+    <value>Feldspar! Þú ert á lífi!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1We all thought you were dead for sure.</key>
-    <value>We all thought you were dead for sure.</value>
+    <value>Við héldum öll að þú værir dautt!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1Have you been here in Dark Bramble all this time?</key>
-    <value>Have you been here in Dark Bramble all this time?</value>
+    <value>Ertu búið að vera hér í Þokuþyrni allan þennan tíma?</value>
   </entry>
   <entry>
     <key>Feldspar2...You never were the brightest hatchling, were you.</key>
-    <value>...You never were the brightest hatchling, were you.</value>
+    <value>...Þú varst aldrei skarpasti hnífurinn í skúffunni, var það?</value>
   </entry>
   <entry>
     <key>Feldspar2Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</key>
-    <value>Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</value>
+    <value>Já, það er rétt, ég er lifandi. Hef gert mér náttstað hér síðan skipið mitt, æ, þú veist. Brotlendi&lt;Pause&gt; Harkalega.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar2Wait, what?</key>
-    <value>Wait, what?</value>
+    <value>Bíddu, ha?</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar2You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</key>
-    <value>You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</value>
+    <value>Þú &lt;i&gt;brotlentir&lt;/i&gt;? En þú ert besti flugmaður í sögu Bjálkabælinga!</value>
   </entry>
   <entry>
     <key>Feldspar2aI haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</key>
-    <value>I haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</value>
+    <value>Ég hef ekki verið meðal fólks í langan tíma þannig að ég ætla bara að gera ráð fyrir að þetta var ekki kaldhæðni.</value>
   </entry>
   <entry>
     <key>Feldspar3What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</key>
-    <value>What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</value>
+    <value>Hvað! Heldur þú að nokkrar þyrnóttar umframvíddarplöntur sem brjóta öll lögmál tíma og rúms ásamt nokkrum risavöxnum ránfiskum með stóra kjafta fulla af gríðarstóðum vígtönnum dugi til að drepa mig? Ekki séns, félagi.</value>
   </entry>
   <entry>
     <key>Feldspar3I set up camp here when my ship got stuck here in Dark Bramble. Been living off the land ever since.</key>
-    <value>I set up camp here when my ship got stuck here in Dark Bramble. Been living off the land ever since.</value>
+    <value>Ég tjaldaði hérna þegar skipið mitt festist hérna í Þokuþyrni. Hef lifað á landsins gæðum allar götur síðan.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar3So what exactly happened to your ship?</key>
-    <value>So what exactly happened to your ship?</value>
+    <value>Hvað nákvæmlega gerðist við skipið þitt?</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar3“Got stuck”? But aren’t you the greatest pilot in Hearthian history?</key>
-    <value>"Got stuck"? But aren’t you the greatest pilot in Hearthian history?</value>
+    <value>"Festist"? En þú ert besti flugmaður í sögu Bjálkabælinga?</value>
   </entry>
   <entry>
     <key>Feldspar4Depends on how long “all this time” is. I’ve been here a while, I guess. Ever since I crashed my ship into — that is, ever since my daring escape from the jaws of an anglerfish!</key>
-    <value>Depends on how long "all this time" is. I’ve been here a while, I guess. Ever since I crashed my ship into — that is, ever since my daring escape from the jaws of an anglerfish!</value>
+    <value>Tja, hve langt nær "sagan". Ætli ég sé ekki búið að vera hérna heillengi. Frá því að ég klessti skipinu mínu inn í — það er að segja, síðan frá dirfskulegri undankomu minni úr kjafti fiskskrattans!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar4Tell me more about your flying prowess!</key>
-    <value>Tell me more about your flying prowess!</value>
+    <value>Segðu mér meira frá yfirburðaflughæfileikum þínum!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar4You crashed your ship, didn’t you.</key>
-    <value>You crashed your ship, didn’t you.</value>
+    <value>Þú brotlentir skipinu þínu, var það ekki?.</value>
   </entry>
   <entry>
     <key>Feldspar4aHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-    <value>Haha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</value>
+    <value>Haha, þú lofar mér um of!&lt;Pause&gt; ...Mér &lt;i&gt;líkar&lt;/i&gt; það!</value>
   </entry>
   <entry>
     <key>Feldspar4b&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</key>
-    <value>&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</value>
+    <value>&lt;i&gt;Augljóslega&lt;/i&gt;, já. Enginn þörf á svona dónaskap.</value>
   </entry>
   <entry>
     <key>Feldspar5...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</key>
-    <value>...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</value>
+    <value>...jæja, eins og ég sagði, ég brotlendi. Búmm! Við höggið byrjar skipið mitt að gefa frá sér hljóð eins og það sé að rifna í sundur innanfrá, og ég hugsa, jæja, þetta er ekki gott. Viti menn, ég kemst rétt svo úr skipinu áður en rafkerfið byrjar að neista á fullu.</value>
   </entry>
   <entry>
     <key>Feldspar5It’s either move fast or die unpleasantly, so I had to put a little distance between me and my poor, fried ship.</key>
-    <value>It’s either move fast or die unpleasantly, so I had to put a little distance between me and my poor, fried ship.</value>
+    <value>Annað hvort flýti ég mér eða dey á ógeðfelldan hátt, þannig að ég kem mér langt í burtu frá litla steikta skipgreyinu.</value>
   </entry>
   <entry>
     <key>Feldspar5I camped out near where I crashed at first. I found this skeleton later — great find, would’ve been stupid not to use it.</key>
-    <value>I camped out near where I crashed at first. I found this skeleton later — great find, would’ve been stupid not to use it.</value>
+    <value>Ég tjaldaði hér nálægt einhversstaðar í fyrstu. Ég fann þessa beinagrind seinna — góður fundur, hefði verið heimskulegt að nýta hana ekki.</value>
   </entry>
   <entry>
     <key>Feldspar5So I moved my setup over here and planted my emergency tree seeds. Been here ever since!</key>
-    <value>So I moved my setup over here and planted my emergency tree seeds. Been here ever since!</value>
+    <value>Þannig að ég færði búnaðinn minn hingað og gróðursetti neyðartrjáfræin mín. Hef verið hér síðan þá!.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar5...Wow.</key>
-    <value>...Wow.</value>
+    <value>...Vá.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar5I can’t believe you didn’t die.</key>
-    <value>I can’t believe you didn’t die.</value>
+    <value>Ég trúi ekki að þú hafir ekki dáið.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar5I can’t believe you destroyed your ship.</key>
-    <value>I can’t believe you destroyed your ship.</value>
+    <value>Ég trúi ekki að þú hafir eyðilagt skipið þitt.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar5No wonder there are so many stories about you back home!</key>
-    <value>No wonder there are so many stories about you back home!</value>
+    <value>Ekki furða að það séu svona margar sögur sem fara af þér heima!</value>
   </entry>
   <entry>
     <key>Feldspar5aMy story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been before.</key>
-    <value>My story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been before.</value>
+    <value>Mín saga er eftirfarandi. Ég var nýbúið að skoða kjarna Jötunsdýpis þegar mig langaði til þess að reyna við Þokuþyrni. Enginn hafði gert slíkt áður.</value>
   </entry>
   <entry>
     <key>Feldspar5aGetting around in Dark Bramble was easy, mind you. Once you’ve dodged one massive, interdimensional vine bristling with thorns, you’ve dodged ’em all.</key>
-    <value>Getting around in Dark Bramble was easy, mind you. Once you’ve dodged one massive, interdimensional vine bristling with thorns, you’ve dodged ’em all.</value>
+    <value>Að rata um Þokuþyrni er auðvelt. Ef þú nærð að forðast eina millivíddar þyrnigrein þá nærðu að forðast þær allar.</value>
   </entry>
   <entry>
     <key>Feldspar5aBut after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-    <value>But after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</value>
+    <value>En eftir einhverja stund byrja ég að rekast á þessa risavöxnu fiskskratta — þú hefur séð þá? Stórir og ægilegir, og þessi var sá stærsti sem ég hef séð. Ég reyni nokkur glæfrabrögð, reyni að losa mig við hann — ekkert of skrautlegt. Ég er á fullri ferð þegar fiskurinn keyrir í hliðina á mér, kastar mér í grein og...</value>
   </entry>
   <entry>
     <key>Feldspar5bOh, this is a good story. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever been inside Dark Bramble, so I think, hey, let’s give that a try.</key>
