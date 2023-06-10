@@ -2662,7 +2662,7 @@
   </entry>
   <entry>
     <key>Scientist1AWhat do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</key>
-    <value>Hvað segirðu - tilbúið að koma þessari elsku á loft? Skipið er stútfullt af eldsneyti og tilbúið í slaginn!</value>
+    <value>Hvað segirðu - klárt í að koma þessari elsku á loft? Skipið er stútfullt af eldsneyti og tilbúið í slaginn!</value>
   </entry>
   <entry>
     <key>SlateScientist1AAll systems go!</key>
@@ -2678,7 +2678,7 @@
   </entry>
   <entry>
     <key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
-    <value>Hey, ertu tilbúið að koma skipinu á loft? Það er stútfullt af eldsneyti og tilbúið í slaginn!</value>
+    <value>Hey, ertu klárt í að koma skipinu á loft? Það er stútfullt af eldsneyti og tilbúið í slaginn!</value>
   </entry>
   <entry>
     <key>SlateScientist1BDid... did I just... die?</key>
@@ -2698,19 +2698,19 @@
   </entry>
   <entry>
     <key>ScientistAnswer11Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</key>
-    <value>Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</value>
+    <value>Vá, slæmur draumur eða eitthvað? Þú virðist vera hálfsofandi, en þú ert svo sannarlega ekki dautt.</value>
   </entry>
   <entry>
     <key>ScientistAnswer11I know it’s tradition to sleep out under the stars the night before a launch, but if you ask me it makes you all a bit jumpy.</key>
-    <value>I know it’s tradition to sleep out under the stars the night before a launch, but if you ask me it makes you all a bit jumpy.</value>
+    <value>Ég veit að það er hefð að sofa undir stjörnubjörtum himni daginn fyrir flugtak, en ég held hreinlegast að það geri ykkur bara auðbrugðið.</value>
   </entry>
   <entry>
     <key>ScientistAnswer12Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</key>
-    <value>Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</value>
+    <value>Gaman að þú sért spennt, en mundu, ef þú klessir skipið þá er ég ekki að fara að smíða nýtt fyrir þig. Það er ekki eins og ég hafi óþrjótandi birgðir af léttum hitaþolnum álblöndum.</value>
   </entry>
   <entry>
     <key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
-    <value>Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</value>
+    <value>Ertu að grínast? Auðvitað er ég tilbúið - tími til kominn að prófa nýja lendingarvökvakerfið með flugmanni frekar en með sjálfsstýringunni.</value>
   </entry>
   <entry>
     <key>ScientistAnswer13...Speaking of pilots, make sure you don’t crash the ship the first time you put it down, you hear?</key>
