@@ -2574,7 +2574,7 @@
   </entry>
   <entry>
     <key>RecordingGabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</key>
-    <value>Gabbro hérna, bara að skoða djúpgervitunglið að beiðni Bjálkabólsstjórnstöðvarinnar, sjá hvort það sé einhver galli í búnaði. Þarna sérðu Hornfels! Ég vinn af og til!</value>
+    <value>Gabbro hérna, bara að skoða djúpgervitunglið að beiðni stjórnstöðvarinnar, sjá hvort það sé einhver galli í búnaði. Þarna sérðu Hornfels! Ég vinn af og til!</value>
   </entry>
   <entry>
     <key>RecordingYou know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</key>
@@ -2990,7 +2990,7 @@
   </entry>
   <entry>
     <key>Slate_ShipLog_2bSure thing, hatchling!</key>
-    <value>Ekkert mál, kútur!</value>
+    <value>Ekkert mál, klaklingur!</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2cEveryone’s a critic.</key>
@@ -3190,239 +3190,239 @@
   </entry>
   <entry>
     <key>Feldspar5cI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-    <value>I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</value>
+    <value>Ég reyni nokkur glæfrabrögð, reyni að losa mig við hann — ekkert of skrautlegt. Ég er á fullri ferð þegar fiskurinn keyrir í hliðina á mér, kastar mér í grein og...</value>
   </entry>
   <entry>
     <key>Feldspar6aYeah, pretty much.</key>
-    <value>Yeah, pretty much.</value>
+    <value>Já, svo gott sem.</value>
   </entry>
   <entry>
     <key>Feldspar6bYou know, in the old days, I used to think the same thing every time I came back from a flight in one piece.</key>
-    <value>You know, in the old days, I used to think the same thing every time I came back from a flight in one piece.</value>
+    <value>Veistu, í gamla daga hugsaði ég það sama í hvert skipti sem ég kom óskaddað til baka úr flugi.</value>
   </entry>
   <entry>
     <key>Feldspar6bThese days, I’m used to it.</key>
-    <value>These days, I’m used to it.</value>
+    <value>Núorðið er ég vant þessu.</value>
   </entry>
   <entry>
     <key>Feldspar6cEasy for you to say. Your ship probably has all kinds of fancy modifications and upgrades, like “working retro boosters” and “non-flammable construction materials.”</key>
-    <value>Easy for you to say. Your ship probably has all kinds of fancy modifications and upgrades, like "working retro boosters" and "non-flammable construction materials."</value>
+    <value>Auðvelt fyrir þig að segja. Þitt skip er líklegast með alls konar flottar breytingar og uppfærslur eins og "bakhreyflar sem virka" og "óeldfimt byggingarefni". </value>
   </entry>
   <entry>
     <key>Feldspar6dHeh. You’re not half-bad yourself, making it here in one piece.</key>
-    <value>Heh. You’re not half-bad yourself, making it here in one piece.</value>
+    <value>Þú ert sjálft ekki svo slæmt, hafandi komist hingað í heilu lagi.</value>
   </entry>
   <entry>
     <key>Feldspar7Anyway, that’s how it all went down, hatchling!</key>
-    <value>Anyway, that’s how it all went down, hatchling!</value>
+    <value>Allavega, þannig skeði þetta allt saman, klaklingur.</value>
   </entry>
   <entry>
     <key>Feldspar7Story’s over, but feel free to stay and enjoy the fire a while.</key>
-    <value>Story’s over, but feel free to stay and enjoy the fire a while.</value>
+    <value>Sögutíminn er búinn, en endilega láttu fara vel um þið hér við eldinn um stund.</value>
   </entry>
   <entry>
     <key>Feldspar7Or don’t. Fire’s not going anywhere.</key>
-    <value>Or don’t. Fire’s not going anywhere.</value>
+    <value>Eða ekki. Eldurinn fer ekki neitt.</value>
   </entry>
   <entry>
     <key>FeldsparSkipHeh, you got it in one. Kind of hard not to, once you’ve seen one of those fish up close and personal-like.</key>
-    <value>Heh, you got it in one. Kind of hard not to, once you’ve seen one of those fish up close and personal-like.</value>
+    <value>Haha, fyrsta gisk. Kannski auðvelt nú þegur þú hefur séð þá í eigin persónu.</value>
   </entry>
   <entry>
     <key>FeldsparSkipWell, take a load off and refill your oxygen tank, hatchling! There’s plenty of fire to go around.</key>
-    <value>Well, take a load off and refill your oxygen tank, hatchling! There’s plenty of fire to go around.</value>
+    <value>Jæja, láttu fara vel um þig og fylltu á súrefnistankinn, klaklingur! Það er nóg af eldi fyrir alla.</value>
   </entry>
   <entry>
     <key>FeldsparPrimaryMenuAnything else you wanted?</key>
-    <value>Anything else you wanted?</value>
+    <value>Var það eitthvað annað sem þú vildir?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuI found something!</key>
-    <value>I found something!</value>
+    <value>Ég fann svolítið!</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuWhere should I explore here?</key>
-    <value>Where should I explore here?</value>
+    <value>Hvað ætti ég að skoða hérna?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuYou reached the core of Giant’s Deep? How’d you do it?</key>
-    <value>You reached the core of Giant’s Deep? How’d you do it?</value>
+    <value>Þú komst inn að kjarna Jötunsdýpis? Hvernig fórstu að því?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuWhere’s your ship?</key>
-    <value>Where’s your ship?</value>
+    <value>Hvar er skipið þitt?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuWhat happened to this anglerfish?</key>
-    <value>What happened to this anglerfish?</value>
+    <value>Hvað gerðist við þennan fiskskratta?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuShouldn’t I tell ground control to come get you?</key>
-    <value>Shouldn’t I tell ground control to come get you?</value>
+    <value>Ætti ég ekki að segja stjórnstöðinni að koma og ná í þig?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuNah, I’m good.</key>
-    <value>Nah, I’m good.</value>
+    <value>Neinei, ég hef það gott.</value>
   </entry>
   <entry>
     <key>FeldsparSecondaryHey, hatchling, pull up a marshmallow stick!</key>
-    <value>Hey, hatchling, pull up a marshmallow stick!</value>
+    <value>Sæll klaklingur, settu sykurpúða á prikið!</value>
   </entry>
   <entry>
     <key>FeldsparSecondaryCome to hear tales of my heroic exploits, have you?</key>
-    <value>Come to hear tales of my heroic exploits, have you?</value>
+    <value>Ertu komið hingað til að heyra sögur af hetjudáðum mínum?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryI found something!</key>
-    <value>I found something!</value>
+    <value>Ég fann svolítið!</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryWhere should I explore here?</key>
-    <value>Where should I explore here?</value>
+    <value>Hvað ætti ég að skoða hérna?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryYou reached the core of Giant’s Deep? How’d you do it?</key>
-    <value>You reached the core of Giant’s Deep? How’d you do it?</value>
+    <value>Þú komst inn að kjarna Jötunsdýpis? Hvernig fórstu að því?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryWhere’s your ship?</key>
-    <value>Where’s your ship?</value>
+    <value>Hvar er skipið þitt?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryWhat happened to this anglerfish?</key>
-    <value>What happened to this anglerfish?</value>
+    <value>Hvað gerðist við þennan fiskskratta?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryShouldn’t I tell ground control to come get you?</key>
-    <value>Shouldn’t I tell ground control to come get you?</value>
+    <value>Ætti ég ekki að segja stjórnstöðinni að koma og ná í þig?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryNah, I’m good.</key>
-    <value>Nah, I’m good.</value>
+    <value>Neinei, ég hef það ágætt.</value>
   </entry>
   <entry>
     <key>FeldsparFishOh, the skeleton? It was like this when I got here.</key>
-    <value>Oh, the skeleton? It was like this when I got here.</value>
+    <value>Ó, beinagrindin? Hún var svona þegar ég kom hingað.</value>
   </entry>
   <entry>
     <key>FeldsparFishAs near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</key>
-    <value>As near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</value>
+    <value>Ef ég ætti að giska þá var fiskskrattinn að kjamsa á greininni, hefur borðað fræ sem síðan óx og óx í maga hans þar til... þetta gerðis.</value>
   </entry>
   <entry>
     <key>FeldsparFishGross, huh?</key>
-    <value>Gross, huh?</value>
+    <value>Ógeðslegt, finnst þér ekki?</value>
   </entry>
   <entry>
     <key>FeldsparFishThis skeleton was a good find. Keeps the fish away. See, they’re territorial, so they mostly avoid each other. That’s why I set up camp here.</key>
-    <value>This skeleton was a good find. Keeps the fish away. See, they’re territorial, so they mostly avoid each other. That’s why I set up camp here.</value>
+    <value>Þessi beinagrind var frábær fundur. Heldur hinum fiskunum fjarri. Þeir eru heimaríkir þannig að þeir forðast hvorn annan að mestu. Þess vegna sló ég upp tjaldbúðum hérna.</value>
   </entry>
   <entry>
     <key>FeldsparCoreGiant’s Deep’s core, huh? Ahhh, that was a wild one.</key>
-    <value>Giant’s Deep’s core, huh? Ahhh, that was a wild one.</value>
+    <value>Kjarni Jötunsdýpis, ha? Óóó já, það var klikkað.</value>
   </entry>
   <entry>
     <key>FeldsparCoreBut since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</key>
-    <value>But since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</value>
+    <value>En fyrst þú spyrð geri ég ráð fyrir að þér hafi ekki tekist að komast þangað innfyrir ennþá, ekki satt? Ef ég segi þér hvernig á að fara að því þá er það pínu svindl.</value>
   </entry>
   <entry>
     <key>FeldsparCoreHm...</key>
-    <value>Hm...</value>
+    <value>Hmm...</value>
   </entry>
   <entry>
     <key>FeldsparCore...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</key>
-    <value>...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</value>
+    <value>...&lt;i&gt;Algjörlega ótengt&lt;/i&gt; þessu, vá hvað greinin sem ég klessti á var stór og hol að innan.&lt;Pause=3&gt; Jább.</value>
   </entry>
   <entry>
     <key>FeldsparCoreIf I were you, I’d go take a walk and see where it ends.</key>
-    <value>If I were you, I’d go take a walk and see where it ends.</value>
+    <value>Ef ég væri þú myndi ég skoða mig um og sjá hvar hún endar.</value>
   </entry>
   <entry>
     <key>FeldsparCoreYou’ll want to go to the tail end of this anglerfish skeleton here and look for a flickering light in the fog — that’ll be my old ship. Path starts there.</key>
-    <value>You’ll want to go to the tail end of this anglerfish skeleton here and look for a flickering light in the fog — that’ll be my old ship. Path starts there.</value>
+    <value>Þú munt vilja fara að sporði þessa fiskskratta og leita eftir flöktandi ljósi í þokunni — það myndi vera gamla skipið mitt. Leiðin byrjar þar.</value>
   </entry>
   <entry>
     <key>FeldsparGoodIf you change your mind, you know where to find me!</key>
-    <value>If you change your mind, you know where to find me!</value>
+    <value>Ef þú skiptir um skoðun, þá veistu hvar má finna mig!</value>
   </entry>
   <entry>
     <key>FeldsparRescueWell... yeah, sure, whenever you have the time.</key>
-    <value>Well... yeah, sure, whenever you have the time.</value>
+    <value>Tja... já, sjálfsagt, bara þegar þér hentar.</value>
   </entry>
   <entry>
     <key>FeldsparRescueFrankly, I kinda like it out here. Quiet, peaceful...ish.</key>
-    <value>Frankly, I kinda like it out here. Quiet, peaceful...ish.</value>
+    <value>Til að vera hreinskilið, þá kann ég vel við mig hérna. Hljóðlátt, friðsamlegt... þannig séð.</value>
   </entry>
   <entry>
     <key>FeldsparRescueYou’re a little young to understand, but it’s a lot of pressure, being the best that ever was. Been nice to have a break.</key>
-    <value>You’re a little young to understand, but it’s a lot of pressure, being the best that ever was. Been nice to have a break.</value>
+    <value>Þú ert ennþá of ungt til að skilja, en það fylgir því rosaleg pressa, að vera það besta allra tíma.</value>
   </entry>
   <entry>
     <key>FeldsparExploreThat’s the spirit!</key>
-    <value>That’s the spirit!</value>
+    <value>Það er rétti andinn!</value>
   </entry>
   <entry>
     <key>FeldsparExploreAnywhere’s good, but you should know that space is weird here. Intensely.</key>
-    <value>Anywhere’s good, but you should know that space is weird here. Intensely.</value>
+    <value>Hvar sem er, í rauninni, en þú skalt vita að rúmið er mjög furðulegt hérna. Alveg einstaklega.</value>
   </entry>
   <entry>
     <key>FeldsparExploreEver tried throwing your scout into one of these weird seeds? See there, with the little opening? It’s just big enough to launch one through.</key>
-    <value>Ever tried throwing your scout into one of these weird seeds? See there, with the little opening? It’s just big enough to launch one through.</value>
+    <value>Hefur þú einvhern tíma prófað að skjóta kannanum þínum inn í þessi litlu skrítnu fræ? Sérðu þarna, með litla gatið? Það er rétt svo nógu stórt til að skjóta einum í gegn.</value>
   </entry>
   <entry>
     <key>FeldsparExploreYour scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger.</key>
-    <value>Your scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger.</value>
+    <value>Kannaskanninn þinn mun segja þér að kanninn sé á tveimur stöðum í einu, en ég held að það sé ekki... endilega rangt, ekki beint. Rúm fúnkerar furðulega hérna inni. Þetta fræ virkar smátt en að innan er það stærra.</value>
   </entry>
   <entry>
     <key>FeldsparExplore&lt;i&gt;Much&lt;/i&gt; bigger.</key>
-    <value>&lt;i&gt;Much&lt;/i&gt; bigger.</value>
+    <value>&lt;i&gt;Mun&lt;/i&gt; stærra.</value>
   </entry>
   <entry>
     <key>FeldsparExploreI’ve had a lot of time to think about this, and my theory is space in Dark Bramble kind of expands as you go through each sphere. That’s why it’s bigger inside those seeds.</key>
-    <value>I’ve had a lot of time to think about this, and my theory is space in Dark Bramble kind of expands as you go through each sphere. That’s why it’s bigger inside those seeds.</value>
+    <value>Ég hef haft dágóðan tíma til þess að hugsa þetta, en kenningin mín er sú að rúmið inni í Þokuþyrnir þenst út fyrir hvert lag sem þú ferð inn í. Þess vegna er mun meira rými innan þessara fræja.</value>
   </entry>
   <entry>
     <key>FeldsparExploreWell, that’s my theory. Keep that in mind while you’re exploring Dark Bramble and maybe you won’t get lost inside forever.</key>
-    <value>Well, that’s my theory. Keep that in mind while you’re exploring Dark Bramble and maybe you won’t get lost inside forever.</value>
+    <value>Tja, það er að minnsta kosti mín kenning. Hafðu það í huga á meðan þú skoðar þig um í Þokuþyrni og kannski villistu ekki að eilífu hér inni.</value>
   </entry>
   <entry>
     <key>FeldsparExploreGood luck!</key>
-    <value>Good luck!</value>
+    <value>Gangi þér vel!</value>
   </entry>
   <entry>
     <key>FeldsparShipwreckNot far from here, as a matter of fact! If you go straight past the tail of this anglerfish skeleton here, you’ll see a flickering light in the fog.</key>
-    <value>Not far from here, as a matter of fact! If you go straight past the tail of this anglerfish skeleton here, you’ll see a flickering light in the fog.</value>
+    <value>Reyndar, ekki langt héðan. Ef þú ferð beint framhjá sporðinum á þessari fiskskrattabeinagrind þá muntu sjá flöktandi ljós í þokunni.</value>
   </entry>
   <entry>
     <key>FeldsparShipwreckFollow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</key>
-    <value>Follow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</value>
+    <value>Fylgdu því ljósi og þá muntu finna gamla skipið mitt.&lt;Pause&gt; Allavega það sem eftir er af því.</value>
   </entry>
   <entry>
     <key>FoundSomethingMenuLay it on me, hatchling!</key>
-    <value>Lay it on me, hatchling!</value>
+    <value>Láttu vaða, klaklingur!</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI went to the core of Giant’s Deep.</key>
-    <value>I went to the core of Giant’s Deep.</value>
+    <value>Ég komst inn í kjarnann á Jötunsdýpi.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found the frozen jellyfish near your ship.</key>
-    <value>I found the frozen jellyfish near your ship.</value>
+    <value>Ég fann frosnu marglyttuna ekki langt frá skipinu þínu.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found the Anglerfish nest.</key>
-    <value>I found the Anglerfish nest.</value>
+    <value>Ég fann fiskskrattahreiðrið.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found a Dark Bramble seed on Timber Hearth.</key>
-    <value>I found a Dark Bramble seed on Timber Hearth.</value>
+    <value>Ég fann Þokuþyrnisfræ á Bjálkabóli.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found Nomai writing saying anglerfish are blind.</key>
-    <value>I found Nomai writing saying anglerfish are blind.</value>
+    <value>Ég fann skriftir Nomaia sem segja að fiskskrattar séu blindir.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found a Nomai shuttle and flew it!</key>
-    <value>I found a Nomai shuttle and flew it!</value>
+    <value>Ég fann Nomaiska geimferju og flaug henni!</value>
   </entry>
   <entry>
   </entry>
@@ -3430,47 +3430,47 @@
     <value>Æji, gleymdu því að ég sagði eitthvað.</value>
   <entry>
     <key>FoundSomething1So you figured out the ol’ tornado trick, did you? Good work!</key>
-    <value>So you figured out the ol’ tornado trick, did you? Good work!</value>
+    <value>Svo þú fattaðir gamla góða hvirfilbylsbragðið? Vel gert!</value>
   </entry>
   <entry>
     <key>FoundSomething1I found that bit out by accident, but let’s keep that between you and me, hey? Hornfels would have my very handsome head if they knew I’d been riding the cyclones again.</key>
-    <value>I found that bit out by accident, but let’s keep that between you and me, hey? Hornfels would have my very handsome head if they knew I’d been riding the cyclones again.</value>
+    <value>Ég komst að því fyrir slysni, en það er bara okkar á milli, ókei? Hornfels myndi láta mitt mjög myndarlega höfuð rúlla ef hán kæmist að því að ég hefði verið að leika mér í hvirfilbyljunum aftur.</value>
   </entry>
   <entry>
     <key>FoundSomething1“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was flying the thing into the sun, now, was I?</key>
-    <value>"The ship is fragile! It can break! You can’t subject it to extreme conditions!" Not like I was flying the thing into the sun, now, was I?</value>
+    <value>"Skipið er viðkvæmt! Það getur brotnað! Þú ferð illa með það ef þú lætur það þola slík ógurleg skilyrði!". Það er ekki eins og ég hafi flogið því inn í sólina?</value>
   </entry>
   <entry>
     <key>FoundSomething1And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</key>
-    <value>And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</value>
+    <value>Og þú fattaðir þetta með marglytturnar líka? Ég segi það eins og er, þú hefur staðið þig óskaplega vel, klaklingur. Þú ert hinn fínasti geimfari og gætir jafnvel orðið flugmaður!</value>
   </entry>
   <entry>
     <key>FoundSomething2Ha! So the old thing still there, is it? That’s where I first camped out after the crash, you know. It was pretty cozy inside!</key>
-    <value>Ha! So the old thing still there, is it? That’s where I first camped out after the crash, you know. It was pretty cozy inside!</value>
+    <value>Haha! Svo hún er þar enn, er það? Sko, þarna tjaldaði ég fyrst, eftir slysið. Frekar notalegt þar að innan!</value>
   </entry>
   <entry>
     <key>FoundSomething2It does lack the structural integrity and indomitable spirit of a camp made in the shelter of the very bones of the species that tried to eat you, I suppose.</key>
-    <value>It does lack the structural integrity and indomitable spirit of a camp made in the shelter of the very bones of the species that tried to eat you, I suppose.</value>
+    <value>Það skortir þó burðarstöðugleika og hinn ósigrandi fíling sem skapast af því að koma sér upp skjóli í beinagrind þeirrar sömu tegundar sem hefur reynt að borða þig, til að segja þér satt.</value>
   </entry>
   <entry>
     <key>FoundSomething2Still. Very cozy.</key>
-    <value>Still. Very cozy.</value>
+    <value>Samt, mjög notalegt.</value>
   </entry>
   <entry>
     <key>FoundSomething3So that’s where the blasted things come from, is it? Stars above, if I still had a working ship, I’d be sorely tempted to go show ’em what’s what!</key>
-    <value>So that’s where the blasted things come from, is it? Stars above, if I still had a working ship, I’d be sorely tempted to go show ’em what’s what!</value>
+    <value>Svo fjárans skepnurnar koma þaðan? Ég sver að ef ég ætti enn skip í góðu ásigkomulagi væri mér skapi næst að fara þangað og láta þá hafa það!</value>
   </entry>
   <entry>
     <key>FoundSomething3&lt;color=grey&gt;Sigh...&lt;/color&gt;</key>
-    <value>&lt;color=grey&gt;Sigh...&lt;/color&gt;</value>
+    <value>&lt;color=grey&gt;O jæja...&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>FoundSomething3Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</key>
-    <value>Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</value>
+    <value>Líklega þó best að láta þá í friði, í rauninni. Ekki þess virði að abbast upp á fiskskrattana.</value>
   </entry>
   <entry>
     <key>FoundSomething4...That’s bad business, hatchling.</key>
-    <value>...That’s bad business, hatchling.</value>
+    <value>...Það er alls ekki gott, klaklingur.</value>
   </entry>
   <entry>
     <key>FoundSomething4As Chert will tell you if you so much as glance in Dark Bramble’s direction, there used to be a fifth planet where the Bramble is now.</key>
@@ -7877,7 +7877,7 @@
   </entry>
   <entry>
     <key>RiebeckQuestionsWhere should I explore here?</key>
-    <value>Where should I explore here?</value>
+    <value>Hvað ætti ég að skoða hérna?</value>
   </entry>
   <entry>
     <key>RiebeckQuestionsWhat are you doing out here?</key>
@@ -8842,7 +8842,7 @@
   </entry>
   <entry>
     <key>ChertQuestionsWhere should I explore here?</key>
-    <value>Where should I explore here?</value>
+    <value>Hvað ætti ég að skoða hérna?</value>
   </entry>
   <entry>
     <key>ChertQuestionsHow dangerous is that big column of falling sand?</key>
