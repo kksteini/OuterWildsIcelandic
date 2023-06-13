@@ -4085,55 +4085,55 @@
   </entry>
   <entry>
     <key>PYE: Ramie and I will be running this experiment until one of us (specifically, me) can prove the other wrong, so although it’s inconvenient, the lab currently can only be accessed by the path from the &lt;color=orange&gt;Sunless City&lt;/color&gt;.</key>
-    <value>PYE: Ég og Ramie ætlum að halda þessari tilraun gangandi þar til önnur okkar (nánar tiltekið ég) nær að afsanna kenningu hinnar. Þannig að, þótt það sé bagalegt, þá er eingöngu hægt að koma inn í stöðina með því að fara slóðann frá &lt;color=orange&gt;Bliklausu Borginni&lt;/color&gt;.</value>
+    <value>PYE: Ég og Ramie ætlum að halda þessari tilraun gangandi þar til önnur okkar (nánar tiltekið ég) nær að afsanna kenningu hinnar. Þannig að, þótt það sé bagalegt, þá er eingöngu hægt að koma inn í stöðina með því að fara slóðann frá &lt;color=orange&gt;Birtulausu Borginni&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>RAMIE: Inviting sand inside would disrupt our setup and could have enormous consequences. (We realize this is an intriguing prospect, but the door must remain closed nonetheless!)</key>
-    <value>RAMIE: Inviting sand inside would disrupt our setup and could have enormous consequences. (We realize this is an intriguing prospect, but the door must remain closed nonetheless!)</value>
+    <value>RAMIE: Ef sandur kæminst hingað inn þá myndi hann raska uppsetningunni okkar og gæti haft verulegar afleiðingar. (Við áttum okkur á því að það væri skemmtilegt rannsóknartækifæri, en hurðin skal vera lokuð þrátt fyrir það!)</value>
   </entry>
   <entry>
     <key>RAMIE: An update: The &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is now being used to design the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! If you’re here to help (or even just to observe), be sure to use the &lt;color=orange&gt;Sunless City&lt;/color&gt; path to the lab.</key>
-    <value>RAMIE: An update: The &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is now being used to design the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! If you’re here to help (or even just to observe), be sure to use the &lt;color=orange&gt;Sunless City&lt;/color&gt; path to the lab.</value>
+    <value>RAMIE: Stöðuuppfærsla: Núna hefur &lt;color=orange&gt;Stórorkustöðin&lt;/color&gt; það hlutverk að hanna &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt;! Ef þú ert hérna til þess að hjálpa (eða jafnvel bara fylgjast með), vinsamlegast notaðu slóðann frá &lt;color=orange&gt;Birtulausu Borginni&lt;/color&gt; hingað í rannsóknarstofuna.</value>
   </entry>
   <entry>
     <key>RAMIE: The &lt;color=orange&gt;Southern Observatory&lt;/color&gt; is asking if creating a 22 minute interval is possible (that is, to have something arrive 22 minutes before it is actually sent through the warp).</key>
-    <value>RAMIE: The &lt;color=orange&gt;Southern Observatory&lt;/color&gt; is asking if creating a 22 minute interval is possible (that is, to have something arrive 22 minutes before it is actually sent through the warp).</value>
+    <value>RAMIE: &lt;color=orange&gt;Suður Athugunarstöðin&lt;/color&gt; spyr hvort hægt sé að búa til 22 mínútna tímamismun (það er að segja, fá eitthvað 22 mínútum áður en því er varpað).</value>
   </entry>
   <entry>
     <key>RAMIE: We’ve learned the negative interval of time between departure and arrival can be increased by adding more energy to the warp core. Problematically, the energy required to extend the interval increases at an exponential rate.</key>
-    <value>RAMIE: We’ve learned the negative interval of time between departure and arrival can be increased by adding more energy to the warp core. Problematically, the energy required to extend the interval increases at an exponential rate.</value>
+    <value>RAMIE: Við höfum komist að því að neikvæða tímamismuninn, milli brottfarar og komu, má lengja með því að auka orkuna sem varpkjarninn fær. Vandamálið við lengingu tímamismunarins er veldisvöxturinn á aukaorkunni sem þyrfti til þess.</value>
   </entry>
   <entry>
     <key>PYE: Hypothesis: Creating a 22-minute-long interval is possible, but we are currently unable to generate the necessary energy.</key>
-    <value>PYE: Hypothesis: Creating a 22-minute-long interval is possible, but we are currently unable to generate the necessary energy.</value>
+    <value>PYE: Tilgáta: Að áorka 22 mínútna tímamismun er mögulegt, en að svo stöddu getum við ekki útbúið orkuna sem til þarf.</value>
   </entry>
   <entry>
     <key>PYE: Ramie and I believe it would be necessary to invent a new method of producing energy, a thrilling but enormous undertaking. We would also require advanced warp technology able to handle such energy.</key>
-    <value>PYE: Ramie and I believe it would be necessary to invent a new method of producing energy, a thrilling but enormous undertaking. We would also require advanced warp technology able to handle such energy.</value>
+    <value>PYE: Ég og Ramie trúum því að nauðsynlegt yrði að finna upp nýrri leið til orkuframleiðslu, spennandi en risastórt verkefni. Við myndum einnig þurfa háþróaða varptækni til þess að höndla slíka orku.</value>
   </entry>
   <entry>
     <key>PYE: We would also likely need an enormous space to fit these proposed new energy and warp technologies together. The only location large enough would be &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-    <value>PYE: We would also likely need an enormous space to fit these proposed new energy and warp technologies together. The only location large enough would be &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</value>
+    <value>PYE: Við þyrftum líklega einnig risavaxið pláss sem rúmar þessa nýju leið til orkuframleiðslu og varptækni á sama stað. Eini staðurinn sem er nógu stór myndi vera &lt;color=lightblue&gt;Sótsystir&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>RAMIE: The energy is &lt;i&gt;currently&lt;/i&gt; unavailable, you say? You’re a gas, Pye!</key>
-    <value>RAMIE: The energy is &lt;i&gt;currently&lt;/i&gt; unavailable, you say? You’re a gas, Pye!</value>
+    <value>RAMIE: Við getum ekki á&lt;i&gt;orkað&lt;/i&gt; því, segirðu? Þú ert nú meiri spéfuglinn, Pye!</value>
   </entry>
   <entry>
     <key>PYE: My pun was unintended, Ramie, so I believe it’s you who’s aeriform!</key>
-    <value>PYE: My pun was unintended, Ramie, so I believe it’s you who’s aeriform!</value>
+    <value>PYE: Þetta var óviljandi orðaleikur, Ramie, þannig að þú skalt ekki ybba gogg!</value>
   </entry>
   <entry>
     <key>PYE: Records show Nomai arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; very slightly before departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. Ramie and I are devising an experiment to test if this is a real phenomenon or simple machine error.</key>
-    <value>PYE: Records show Nomai arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; very slightly before departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. Ramie and I are devising an experiment to test if this is a real phenomenon or simple machine error.</value>
+    <value>PYE: Atburðaskrá sýnir Nomaia lenda á varpmóttakaranum á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; örlítið áður en þeir fara frá &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;. Ég og Ramie ætlum okkur að upphugsa tilraun til þess að komast að því hvort um alvöru fyrirbrigði sé að ræða eða bara einfaldar tækjavillur.</value>
   </entry>
   <entry>
     <key>RAMIE: In theory, what we want to try to reproduce is a negative amount of time elapsing between something entering the black hole and exiting the white hole at its destination.</key>
-    <value>RAMIE: In theory, what we want to try to reproduce is a negative amount of time elapsing between something entering the black hole and exiting the white hole at its destination.</value>
+    <value>RAMIE: Fræðilega, viljum við endurskapa neikvæðan tímamismun milli þess að eitthvað fari inn í svarthol og komi út úr hvítholi á sínum áfangastað.</value>
   </entry>
   <entry>
     <key>PYE: Initial things first: Our experiment setup will first pair a small black hole core with a small white hole core to mimic the setup on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
-    <value>PYE: Initial things first: Our experiment setup will first pair a small black hole core with a small white hole core to mimic the setup on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</value>
+    <value>PYE: Til að byrja með: Fyrirkomulagið á tilrauninni verður fyrst þannig að við pörum saman lítinn svartholskjarna við lítinn hvítholskjarna til þess að herma eftir uppsetningunni á &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>RAMIE: Hypothesis: It is possible for an object to exit a white hole before entering the corresponding black hole.</key>
