@@ -11471,7 +11471,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Stranger</key>
-      <value>The Stranger</value>
+      <value>Gesturinn</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
@@ -15541,115 +15541,116 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1329</key>
-      <value>Open Rebinding Menu</value>
+      <value>Opna Endurstillingarvalmynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1330</key>
-      <value>Continue</value>
+      <value>Halda Áfram</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1331</key>
-      <value>Save Changes?</value>
+      <value>Vista Breytingar?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1332</key>
-      <value>Save Key Bindings</value>
+      <value>Vista Takkastillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1333</key>
-      <value>Discard Key Bindings</value>
+      <value>Hætta við Breytingar á Takkastillingum</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1334</key>
-      <value>Keyboard Layout</value>
+      <value>Hnappaskipan</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1335</key>
-      <value>Update Keyboard Bindings?</value>
+      <value>Uppfæra Takkastillingar?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1336</key>
-      <value>Convert Keys from </value>
+      <value>Breyta Hnöppum frá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1337</key>
-      <value> to </value>
+      <value> til </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1338</key>
-      <value> Layout</value>
+      <value> Hnappaskipans</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1339</key>
-      <value>Keep Keys as-is</value>
+      <value>Halda Tökkum Óbreyttum</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1400</key>
-      <value>Next Tab</value>
+      <value>Næsti Flipi</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1401</key>
-      <value>Reset Current Changes</value>
+      <value>Breyta Úr Núverandi Stillingum</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1402</key>
-      <value>Leave &amp; Save Changes</value>
+      <value>Hætta &amp; Vista Breytingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1403</key>
-      <value>Audio &amp; Language</value>
+      <value>Hljóð &amp; Tungumál</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1404</key>
-      <value>Controls</value>
+      <value>Stillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1405</key>
-      <value>Basic</value>
+      <value>Grunnstillt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1406</key>
-      <value>Active Controller</value>
+      <value>Virk Leikfjöl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1407</key>
-      <value>Advanced</value>
+      <value>Ítarlegt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1408</key>
-      <value>Preflight Checklist</value>
+      <value>Gátlisti Fyrir Flug</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1409</key>
-      <value>(unsupported)</value>
+      <value>(ekki stutt)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1410</key>
-      <value>Reduced Frights</value>
+      <value>Minnka Ótta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1411</key>
-      <value>Reduced Frights (Echoes of the Eye)</value>
+      <value>Minnka Ótta (Endurómar Augans)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1412</key>
       <value>Makes certain frightening sequences easier to navigate</value>
+      <value>Gerir sumar ógnvekjandi atburði auðveldari</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1413</key>
-      <value>The frightening aspects of Echoes of the Eye are part of the intended experience. If they become an obstacle to your enjoyment of Outer Wilds, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+      <value>Ógnvekjandi hliðar á Endurómum Augans eru hluti af upplifuninni. Ef þær standa í vegi fyrir ánægju þinni af Fjarlægum Firnindum, þá mun virkjun þessa valmöguleika minnka hrollvekjuna að einhverju leiti. \\nErtu viss/t?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1414</key>
-      <value>The frightening aspects of Outer Wilds are part of the intended experience. If they become an obstacle to your enjoyment of the game, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+      <value>Ógnvekjandi hliðar á Fjarlægum Firnindum eru hluti af upplifuninni. Ef þær standa í vegi fyrir ánægju þinni af leiknum, þá mun virkjun þessa valmöguleika minnka hrollvekjuna að einhverju leiti. \\nErtu viss/t?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1420</key>
-      <value>Jetpack Auto Boost</value>
+      <value>Sjálfvirkur Knúningur Þotubúnaðar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1421</key>
-      <value>Skipta yfir í þýingartæki sjálfkrafa</value>
+      <value>Skipta yfir í þýðingartæki sjálfkrafa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1422</key>
