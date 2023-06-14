@@ -14353,139 +14353,140 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>735</key>
-      <value>SEE BEYOND THE HORIZON</value>
+      <value>SJÁ HANDAN SJÓNDEILDARHRINGSINS</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>736</key>
-      <value>TEST THE ENVIRONMENT</value>
+      <value>RANNSAKAÐU UMHVERFIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>737</key>
-      <value>PRESENTS</value>
+      <value>KYNNIR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>738</key>
-      <value>POSTCARDS FROM ORBIT</value>
+      <value>PÓSTKORT FRÁ SPORBAUG</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>739</key>
-      <value>This projector is linked to our "Sky Shutter" satellite, which is currently orbiting Timber Hearth.</value>
+      <value>Þessi skjávarpi er tengdur "Himingægju" gervitungli okkar, sem er um þessar mundir á sporbraut umhverfis Bjálkaból.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>740</key>
-      <value>The satellite is equipped with two onboard cameras. See if you can take a snapshot of our village!</value>
+      <value>Gervitunglið er útbúið tveimur myndavélum. Sjáðu hvort þú náir að taka mynd af þorpinu okkar!</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>800</key>
-      <value>Departure Time: </value>
+      <value>Brottfarartími: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>801</key>
-      <value>Arrival Time: </value>
+      <value>Komutími: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>802</key>
-      <value>Return warp status: CHARGED. Step onto warp platform when ready.</value>
+      <value>Staða endurkomuvarps: HLAÐIÐ. Farðu á varppallinn til að varpast.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>810</key>
-      <value>YOU ARE DEAD</value>
+      <value>ÞÚ ERT DAUTT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>811</key>
-      <value>YOU DESTROYED THE FABRIC OF SPACETIME</value>
+      <value>ÞÚ EYÐILAGÐIR UPPBYGGINGU TÍMARÚMS</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>812</key>
-      <value>NOW BEYOND THE REACH OF THE SUPERNOVA,\\nYOU DRIFT THROUGH SPACE UNTIL YOUR SHIP'S RESOURCES ARE FINALLY DEPLETED</value>
+      <value>NÚ UTAN SEILINGAR SPRENGISTJÖRNUNNAR,\\nÞIG REKUR UM TÓMARÚMIÐ ÞAR TIL BIRGÐIR SKIPSINS ÞÍNS AÐ LOKUM KLÁRAST</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>813</key>
-      <value>HOW LONG HAVE YOU BEEN HERE? MINUTES? YEARS?\\nYOU ARE UNSURE BUT IT SEEMS YOUR JOURNEY HAS REACHED ITS END.</value>
+      <value>HVERSU LENGI HEFUR ÞÚ VERIð HÉRNA? MÍNÚTUR? ÁR?\\nÞÚ ERT ÓVISST EN VIRÐIST SEM AÐ FERÐALAG ÞITT SÉ Á ENDA.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>814</key>
       <value>NOW BEYOND THE REACH OF THE SUPERNOVA, YOU FIND YOURSELF THE ONLY INHABITANT OF AN ABANDONED WORLD.\\nSURELY &lt;i&gt;SOMETHING&lt;/i&gt; HERE MUST BE EDIBLE?</value>
+      <value>NÚ UTAN SEILINGAR SPRENGISTJÖRNUNNAR, ERTU STATT Á HRINGHEIMI SEM EINI ÍBÚINN.\\nÞAÐ HLÝTUR AÐ VERA &lt;i&gt;EITTHVAÐ&lt;/i&gt; ÆTT HÉRNA?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>815</key>
-      <value>HOW MUCH TIME HAS PASSED?\\nTHEY DON’T EVEN BOTHER TO HUNT YOU ANYMORE.\\nTIME PASSES, AND PASSES, UNTIL YOUR LIFE BEFORE IS SOME HALF-REMEMBERED DREAM.\\nIF ONLY YOU COULD WAKE UP.</value>
+      <value>HVERS LANGUR TÍMI HEFUR LIÐIÐ?\\nÞAU NENNA EKKI EINU SINNI AÐ ELTA ÞIG LENGUR.\\nTÍMINN LÍÐUR OG LÍÐUR, ÞAR TIL LÍF ÞITT ER ORÐIÐ EINS KONAR FJARLÆGUR DRAUMUR.\\nBARA EF ÞÚ GÆTIR VAKNAÐ.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>900</key>
-      <value>Middle Screen Reticle</value>
+      <value>Kross Fyrir Miðjum Skjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>901</key>
-      <value>Heads Up Display</value>
+      <value>Framrúðuglæja</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>902</key>
-      <value>Vibration</value>
+      <value>Titringur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>903</key>
-      <value>Button Remapping</value>
+      <value>Endurstilling Takka</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>904</key>
-      <value>Mouse Smoothing</value>
+      <value>Músarjöfnun</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>905</key>
-      <value>HUD Notifications</value>
+      <value>Glæjutilkynningar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>906</key>
-      <value>Photo Mode</value>
+      <value>Myndahamur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>907</key>
-      <value>Music Volume</value>
+      <value>Hljóðstyrkur Tónlistar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>908</key>
-      <value>SFX Volume</value>
+      <value>Hljóðstyrkur Hljóðbrellna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>909</key>
-      <value>Target Frame Rate</value>
+      <value>Marmið endurnýjunartíðni</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>910</key>
-      <value>Field of View</value>
+      <value>Sjónsvið</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>911</key>
-      <value>Physics Update Rate</value>
+      <value>Tíðni Eðlisfræðiuppfærslna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>912</key>
-      <value>Ship Auto Orientation</value>
+      <value>Sjálfvirk Afstaða Skips</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>913</key>
-      <value>Ship Center of Mass</value>
+      <value>Massamiðja Skips</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>914</key>
-      <value>Difficulty Modes</value>
+      <value>Erfiðleikastillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>915</key>
-      <value>Easy</value>
+      <value>Auðvelt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>916</key>
-      <value>Medium</value>
+      <value>Miðlungs</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>917</key>
-      <value>Hard</value>
+      <value>Erfitt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>918</key>
-      <value>Impact Wobble</value>
+      <value>Árekstrarrið</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>919</key>
@@ -14493,68 +14494,68 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>920</key>
-      <value>Grappling Hook</value>
+      <value>Slæðingartæki</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>921</key>
-      <value>Jump Multiplier</value>
+      <value>Hoppstuðull</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>922</key>
-      <value>Invincibility</value>
+      <value>Ódauðleiki</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>923</key>
-      <value>Probe Destruction</value>
+      <value>Eyðilegging Könnunarhnattar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>924</key>
-      <value>Infinite Resources</value>
+      <value>Óendanlegar Auðlindir</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>925</key>
-      <value>Limited Ship Fuel</value>
+      <value>Takmarkað Skipseldsneyti</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>926</key>
-      <value>Sprint Speed</value>
+      <value>Spretthraði</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>927</key>
-      <value>FLASHLIGHT</value>
+      <value>LJÓS</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>928</key>
-      <value>FLASHLIGHT</value>
+      <value>LJÓS</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>929</key>
-      <value> LANDING CAM</value>
+      <value> LENDINGARMYNDAVÉL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>930</key>
-      <value>COMPUTER</value>
+      <value>TÖLVA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>931</key>
-      <value>SIGNALSCOPE</value>
+      <value>MERKJASJÁ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>932</key>
-      <value>GRAVITY</value>
+      <value>ÞYNGDARAFL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>933</key>
-      <value>Launch Tower</value>
+      <value>Varpturn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>934</key>
-      <value>Lumber Mill</value>
+      <value>Viðarmylla</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>935</key>
       <value>Þyngdarleysishellirinn</value>
-    </TranslationTableEntryUI>
+    </TranslationTableEntryUI>rear
     <TranslationTableEntryUI>
       <key>936</key>
       <value>Skoðunarstöð</value>
@@ -14641,7 +14642,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>957</key>
-      <value>FINNDU TRE</value>
+      <value>FINNDU TRÉ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>958</key>
@@ -14693,99 +14694,99 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>970</key>
-      <value> DAMAGED</value>
+      <value> SKEMMD</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>971</key>
-      <value> OF 3 REPAIRED</value>
+      <value> AF 3 LAGFÆRÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>972</key>
-      <value>3 OF 3 REPAIRED\\nTRAINING SIMULATION COMPLETE</value>
+      <value>3 AF 3 LAGFÆRÐ\\nÞJÁLFUNARHERMI LOKIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>973</key>
-      <value>&lt;color=orange&gt;There's more to explore here.&lt;/color&gt;</value>
+      <value>&lt;color=orange&gt;Hér má kanna nánar.&lt;/color&gt;</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>974</key>
-      <value>UNTRANSLATED TEXT REMAINING</value>
+      <value>ÓÞÝDDUR TEXTI EFTIR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>975</key>
-      <value>AFT HULL</value>
+      <value>AFTURSKIPSSKROKKUR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>980</key>
-      <value>Low</value>
+      <value>Lítið</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>981</key>
-      <value>Medium</value>
+      <value>Miðlungs</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>982</key>
-      <value>High</value>
+      <value>Hátt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>983</key>
-      <value>Very High</value>
+      <value>Mjög Hátt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>984</key>
-      <value>Full</value>
+      <value>Heilt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>985</key>
-      <value>Half</value>
+      <value>Hálft</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>986</key>
-      <value>Quarter</value>
+      <value>Fjórðungur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>987</key>
-      <value>Eighth</value>
+      <value>Einn Áttundi</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>988</key>
-      <value>Invalid</value>
+      <value>Ógilt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>989</key>
-      <value>Slow</value>
+      <value>Hægt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>990</key>
-      <value>Normal</value>
+      <value>Venjulegt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>991</key>
-      <value>Fast</value>
+      <value>Hratt</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>992</key>
-      <value>Instant</value>
+      <value>Samstundis</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1000</key>
-      <value>Create Profile</value>
+      <value>Búa til Prófíl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1001</key>
-      <value>Enter Profile Name...</value>
+      <value>Færa inn Nafn Prófíls...</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1002</key>
-      <value>Create</value>
+      <value>Búa Til</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1003</key>
-      <value>Cancel And Exit Game</value>
+      <value>Hætta við og Hætta í Leik</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1004</key>
-      <value>Delete the profile </value>
+      <value>Eyða Prófíl </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1005</key>
@@ -14793,7 +14794,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1006</key>
-      <value>Switch to profile </value>
+      <value>Skipta yfir í prófíl </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1007</key>
@@ -14801,123 +14802,123 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1008</key>
-      <value>Switch</value>
+      <value>Skipta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1009</key>
-      <value>Last Saved: </value>
+      <value>Síðast Vistað: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1010</key>
-      <value>Please ensure that \\n- Outer Wilds has permissions to write to the disk \\n- The hard drive is not full</value>
+      <value>Vinsamlegast gakktu úr skugga um að \\n- Fjarlæg Firnindi hafi leyfi til að skrifa á disk \\n- Harði diskurinn er ekki fullur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1011</key>
-      <value>Rebind Controls</value>
+      <value>Endurstilla stýringar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1012</key>
-      <value>Control Rebinding</value>
+      <value>Endurstilling stýringar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1013</key>
-      <value>Gamepad</value>
+      <value>Leikfjöl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1014</key>
-      <value>Keyboard &amp; Mouse</value>
+      <value>Lyklaborð &amp; Mús</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1015</key>
-      <value>Discard and Exit</value>
+      <value>Hætta við og Hætta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1016</key>
-      <value>Save and Exit</value>
+      <value>Vista og Hætta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1017</key>
-      <value>Cancel Rebinding</value>
+      <value>Hætta við Endurstillingu</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1018</key>
-      <value>Confirm</value>
+      <value>Staðfesta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1019</key>
-      <value>Map Zoom In</value>
+      <value>Auka Aðdrátt Korts</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1020</key>
-      <value>Map Zoom Out</value>
+      <value>Minnka Aðdrátt Korts</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1021</key>
-      <value>Move X-Axis</value>
+      <value>Hreyfing með X-Ás</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1022</key>
-      <value>Move Y-Axis</value>
+      <value>Hreyfing með Y-Ás</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1023</key>
-      <value>Look X-Axis</value>
+      <value>Horfa X-Ás</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1024</key>
-      <value>Look Y-Axis</value>
+      <value>Horfa Y-Ás</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1025</key>
-      <value>Launch Scout / Forward Snapshot</value>
+      <value>Varpa Kanna / Taka Skyndimynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1026</key>
-      <value>Scout Rearview Snapshot</value>
+      <value>Taka Bakskyndimynd á Kanna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1027</key>
-      <value>Tool X-Axis</value>
+      <value>Tól X-Ás</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1028</key>
-      <value>Tool Y-Axis</value>
+      <value>Tól Y-Ás</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1029</key>
-      <value>Roll Mode</value>
+      <value>Veltihamur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1030</key>
-      <value>Jetpack Boost</value>
+      <value>Knúningur Þotubúnaðar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1031</key>
-      <value>Landing Camera</value>
+      <value>Lendingarmyndavél</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1032</key>
-      <value>Cockpit Free Look</value>
+      <value>Frjáls Skimun Stjórnklefa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1033</key>
-      <value>Change Ship Log Mode</value>
+      <value>Breyta Ham Skipsskrár</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1034</key>
-      <value>Mark Entry on HUD</value>
+      <value>Merkja Færslu yfir á Skjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1035</key>
-      <value>Scroll Ship Log Text</value>
+      <value>Skruna Texta í Skipsskrá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1036</key>
-      <value>Doze Off</value>
+      <value>Dotta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1037</key>
-      <value>Fall Asleep</value>
+      <value>Sofna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1038</key>
@@ -14929,23 +14930,23 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1040</key>
-      <value>Custom</value>
+      <value>Sérsniðið</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1041</key>
-      <value>Gamepad Preset</value>
+      <value>Forstilling Leikfjalar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1042</key>
-      <value>File Save Error</value>
+      <value>Villa í Vistunarskjali</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1043</key>
-      <value>PS4® (Custom)</value>
+      <value>PS4® (Sérsniðið)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1044</key>
-      <value>Dualshock (Custom)</value>
+      <value>Dualshock (Sérsniðið)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1045</key>
@@ -14953,7 +14954,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1046</key>
-      <value>Xbox (Custom)</value>
+      <value>Xbox (Sérsniðið)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1047</key>
@@ -14961,579 +14962,582 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1048</key>
-      <value>Switch Pro (Custom)</value>
+      <value>Switch Pro (Sérsniðið)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1049</key>
-      <value>Axis #</value>
+      <value>Ás #</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1050</key>
-      <value>Button #</value>
+      <value>Takki #</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1051</key>
-      <value>Found recovered data for profile name &lt;Profile Name&gt;. Restore? </value>
+      <value>Endurheimti gögn fyrir prófíl &lt;Profile Name&gt;. Endurheimta? </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1052</key>
       <value>Overwrite existing data for profile name &lt;Profile Name&gt;?</value>
+      <value>Yfirskrifa núverandi gögn fyrir prófíl &lt;Profile Name&gt;?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1100</key>
-      <value>Gear Options</value>
+      <value>Búnaðarstillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1101</key>
-      <value>Gear Options</value>
+      <value>Búnaðarstillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1102</key>
-      <value>ERROR: SCOUT RECALL FAILED</value>
+      <value>VILLA: NÆ EKKI AÐ ENDURKALLA KANNA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1103</key>
-      <value>FREEZE TIME WHILE READING</value>
+      <value>FRYSTA TÍMA VIÐ LESTUR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1104</key>
-      <value>REBIND CONTROLS</value>
+      <value>ENDURSTILLA STÝRINGAR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1105</key>
-      <value>CONTROL REBINDING</value>
+      <value>ENDURSTILLING STÝRINGAR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1106</key>
-      <value>GAMEPAD</value>
+      <value>LEIKFJÖL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1107</key>
-      <value>KEYBOARD &amp; MOUSE</value>
+      <value>LYKLABORÐ &amp; MÚS</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1108</key>
-      <value>Delete Profile</value>
+      <value>Eyða Prófíl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1109</key>
-      <value>Switch Profile</value>
+      <value>Skipta um Prófíl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1110</key>
-      <value>Select from pre-configured visual quality settings.</value>
+      <value>Velja úr forstilltum myndgæðastillingum</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1111</key>
-      <value>Whether the game should run as windowed, borderless window or fullscreen.</value>
+      <value>Hvort leikurinn skal keyra í glugga, rammalausum glugga eða fylla skjá.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1112</key>
-      <value>Choose which monitor will display the game</value>
+      <value>Val um hvaða skjá leikurinn keyrir í</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1113</key>
-      <value>Determines which resolutions are available in the following option, based on the dimensions of the screen.</value>
+      <value>Ákvarðar hvaða upplausnir eru í boði miðað við mál skjás</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1114</key>
-      <value>The game will render at this pixel resolution.\\nRendering cost: High</value>
+      <value>Leikurinn verður myndbirtur í þessari upplausn pixla.\\nKostnaður myndbirtingar: Hár</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1115</key>
-      <value>Smooths out jagged pixel edges.  SMAA is more precise and higher quality, but FXAA is faster.\\nRendering cost: Low</value>
+      <value>Sléttir út hvassar pixlabrúnir. SMAA er nákvæmara og af hærri gæðum en FXAA er hraðvirkara.\\nKostnaður myndbirtingar: Lágur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1116</key>
-      <value>Quality of the anti-aliasing post-processing effect.  Higher quality is more expensive.</value>
+      <value>Gæði afstöllunar. Hærri gæði eru kostnaðarsamari.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1117</key>
-      <value>Relative resolution of texture maps used throughout the game.\\nMemory cost: Medium</value>
+      <value>Hlutfallsleg upplausn efnismynda sem notuð er í leikheiminum.\\nMinnisnotkun: Miðlungs</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1118</key>
-      <value>Amount of detail in the ocean waves and lighting quality of the water.\\nRendering cost: High</value>
+      <value>Gæði sjávar og ljósgæði í vatni.\\nKostnaður myndbirtingar: Hár</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1119</key>
-      <value>The resolution and accuracy of shadows in the game world, as well as the number of shadow-casting lights.\\nRendering cost: High</value>
+      <value>Upplausn og gæði skugga í leikheiminum, ásamt fjölda ljósa sem varpa skugga.\\nKostnaður myndbirtingar: Hár</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1120</key>
       <value>Calculates ambient occlusion (the soft shadows when objects are close to each other) as a post-processing effect.\\nRendering cost: Medium</value>
+      <value>Reiknar mjúka skugga fyrir hluti nálægt hvor öðrum í eftirvinnsl.\\nKostnaður myndbirtingar: Miðlungs</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1121</key>
       <value>Adjusts the brightness or darkness of the visuals.\\nRendering cost: None</value>
+      <value>Stillir birtustig í grafíkinni.\\nEnginn kostnaður</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1122</key>
-      <value>Prevents screen-tearing by synchronizing the game's framerate with the monitor's refresh rate.\\nRendering cost: None, but will automatically lower your framerate to the closest multiple of the monitor's sync rate</value>
+      <value>Kemur í veg fyrir línusundurslit með því að samstilla tíðni leiks við tíðni skjás.\\nKonaður: Enginn, en mun sjálfkrafa lækka tíðni leiks þar til hún stemmir við margfeldi af tíðni skjás þíns</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1123</key>
-      <value>Dithering improves color blending, but may make compressed video of the game look worse.\\nRendering cost: None</value>
+      <value>Hvarfl (litfléttun) lagar litablöndun, en getur látið samþjöppuð myndbönd af leik líta verr út.\\nKostnaður myndbirtingar: Enginn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1124</key>
-      <value>The vertical field-of-view of the in-game camera.  Warning: changing this might affect certain puzzles in Outer Wilds.\\nRendering cost: Low</value>
+      <value>Lóðrétt sjónsvið leikmyndavélar. Viðvörun: að breyta þessu gæti haft áhrif á ákveðin púsl í Fjarlægum Firnindum.\\nKostnaður myndbirtingar: Lágur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1125</key>
-      <value>Jetpack boost can be triggered with a separate button press (manual) or any time upward thrust is used (auto).</value>
+      <value>Knúningur þotubúnaðar er hægt að virkja með takka (handvirkt) eða hvenær sem knúið er upp (sjálfvirkt).</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1126</key>
-      <value>Translator can be equipped with a button press (manual) or by looking at translatable text (auto).</value>
+      <value>Hægt er að gera þýðingartæki reiðubúið með takka (handvirkt) eða með því að horfa á þýðanlegan texta (sjálfvirkt)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1127</key>
-      <value>Displays a HUD notification when new information is added to the ship log.</value>
+      <value>Sýnir tilkynningu á skjá þegar nýjar upplýsingar eru færðar inn í skipsskrána</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1128</key>
-      <value>Displays rumor connections between ship log entries. Disable to minimize in-game guidance.</value>
+      <value>Sýnir tengingar orðróma á milli færslna í skipsskrá. Afvirkið til þess að minnka leiðarvísun í leikspilun</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1129</key>
-      <value>Disabling this will remove the ability to automatically fly between planets using autopilot.</value>
+      <value>Að afvirkja þetta tekur í burtu möguleikann á því að fljúga sjálfkrafa á milli pláneta með sjálfstýringu.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1130</key>
-      <value>Displays button prompts for available actions.</value>
+      <value>Sýnir takkaáminningar fyrir mögulegar aðgerðir</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1131</key>
-      <value>Change volume for all audio.</value>
+      <value>Breyta hljóðstyrk fyrir allt hljóð.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1132</key>
-      <value>Change volume for non-diegetic music.</value>
+      <value>Breyta tónlist sem leikarar í leiknum heyra ekki.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1133</key>
-      <value>Change the language for all text in the game.</value>
+      <value>Breyta tungumáli texta í öllum leiknum.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1134</key>
-      <value>Change the reveal speed of text during conversation.</value>
+      <value>Breyta hraða á sýndum texta í samtölum.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1135</key>
-      <value>Freezes time while reading translated text (translator must remain stationary).\\nNOTE: There are certain periods when time cannot be frozen.</value>
+      <value>Frystir tíma á meðan þýddur texti er lesinn (þýðingartæki má ekki hreyfast).\\nATHUGIÐ: Í ákveðnum aðstæðum er ekki hægt að frysta tíma.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1136</key>
-      <value>Freezes time while using the ship log.\\nNOTE: There are certain periods when time cannot be frozen.</value>
+      <value>Frystir tíma á þú lest skipsskrá.\\nATHUGIÐ: Í ákveðnum aðstæðum er ekki hægt að frysta tíma.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1137</key>
-      <value>Freezes time while talking to characters and reading journals or signs. This will prevent character animations from playing during conversation.\\nNOTE: There are certain periods when time cannot be frozen.</value>
+      <value>Frystir tíma á meðan talað er við karaktera, dagbækur lesnar eða skilti lesin. Þetta munu stöðva hreyfingar karaktera á meðan samtali stendur.\\nATHUGIÐ: Í ákveðnum aðstæðum er ekki hægt að frysta tíma.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1138</key>
-      <value>Invert look y-axis when on foot.</value>
+      <value>Snúa við y-ás á meðan leikmaður er fótgangandi.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1139</key>
-      <value>Invert look y-axis when piloting your ship.</value>
+      <value>Snúa við y-ás á meðan skipi er flogið.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1140</key>
-      <value>Enables controller vibration (controller only).</value>
+      <value>Virkja titring (leikfjöl eingöngu).</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1141</key>
-      <value>Set look input sensitivity while on foot. A lower look sensitivity will result is a slower look speed that is easier to control.</value>
+      <value>Setja skimunarnæmni á meðan leikmaður er fótgangandi. Minni næmni eykur stjórnunarhæfni.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1142</key>
-      <value>Set look input sensitivity while piloting your ship. A lower look sensitivity will result is a slower look speed that is easier to control.</value>
+      <value>Setja skimunarnæmni á meðan skipi er flogið. Minni næmni eykur stjórnunarhæfni.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1143</key>
-      <value>Determines how far (from center) the left/right stick must be tilted before any input is detected.\\nConsider increasing this dead zone if your character moves or looks around when you're not touching the left/right stick.</value>
+      <value>Ákvarðar hversu langt frá miðju vinstri eða hægri stýripinna inntak virkjast.\\n Nytsamlegt ef leikmaður hreyfist þegar stýripinni er ekki snertur.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1144</key>
-      <value>Determines how far (from full tilt) the left/right stick must be released before maximum input is no longer detected.\\nConsider increasing this dead zone if you are unable to move or look at maximum speed.</value>
+      <value>Ákvarðar hversu langt frá enda vinstri/hægri stýripinna inntak afvirkjast.\\n Nytsamlegt ef leikmaður hreyfist ekki á fullum hraða.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1145</key>
-      <value>Open this menu to modify which buttons are assigned to which in-game actions.</value>
+      <value>Opnaðu þessa valmynd til að breyta takkaskipan fyrir leikaðgerðum.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1150</key>
-      <value>Throw Marshmallow</value>
+      <value>Henda Sykurpúða</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1151</key>
-      <value>Push Off</value>
+      <value>Ýta Frá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1152</key>
-      <value>Your save file was corrupted.</value>
+      <value>Leikskrá þín skemmdist.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1153</key>
-      <value>Load previous save?</value>
+      <value>Hlaða síðustu vistuðu leikskrá?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1154</key>
-      <value>Selects the controller that the game will use.</value>
+      <value>Velur leikfjöl fyrir leikinn.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1155</key>
-      <value>Changes the controller mapping to correspond to the indicated controller.</value>
+      <value>Breytir takkastillingum til að samræmast valinni leikfjöl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1156</key>
-      <value>Changes the displayed button images to that of the indicated controller.</value>
+      <value>Breytir takkamyndum til að samræmast valinni leikfjöl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1157</key>
-      <value>Changes the Keyboard Layout setting. Changes to this setting will prompt you as to whether or not you want to change the currently set keyboard bindings. This will also redefine the default settings for Keyboard &amp; Mouse.</value>
+      <value>Breytir takkaskipan lyklaborðs. Að breyta þessu mun spyrja þig um hvort þú viljir halda núverandi takkaskipan. Þetta mun einnig endurstilla sjálfgefnar stillingar fyrir Lyklaborð &amp; Mús.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1158</key>
-      <value>Pauses the game</value>
+      <value>Pásar Leikinn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1159</key>
-      <value>Menu Confirm</value>
+      <value>Staðfesting í Valmynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1160</key>
-      <value>Menu Cancel</value>
+      <value>Hætta við í Valmynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1161</key>
-      <value>Movement from side to side</value>
+      <value>Hliðarhreyfing</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1162</key>
-      <value>Movement forward and backwards</value>
+      <value>Fram og Afturhreyfing</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1163</key>
-      <value>Camera movement left to right</value>
+      <value>Hreyfing myndavélar hægri og vinstri</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1164</key>
-      <value>Camera movement up and down</value>
+      <value>Hreyfing myndavélar upp og niður</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1165</key>
-      <value>Interact with objects</value>
+      <value>Nota hluti</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1166</key>
-      <value>Jump</value>
+      <value>Hoppa </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1167</key>
-      <value>Turns flashlight on and off</value>
+      <value>Kveikja og slökkva á ljósi</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1168</key>
-      <value>Opens Map View</value>
+      <value>Opna Kortasjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1169</key>
-      <value>Zoom in in map view</value>
+      <value>Auka aðdrátt í kortasjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1170</key>
-      <value>Zoom out in map view</value>
+      <value>Minnka aðdrátt í kortasjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1171</key>
-      <value>Equips Signalscope</value>
+      <value>Gerir merkjasjá reiðubúna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1172</key>
-      <value>Equips, Launches, and Retrieves scout</value>
+      <value>Gerir kanna reiðubúinn, varpar, og endurheimtar hann</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1173</key>
-      <value>Scout: Takes forward snapshot\\nSignalscope: Change view\\nTranslator: Translate</value>
+      <value>Kanni: Taka Skyndimynd fram á við\\nMerkjasjá: Breyta um sýn\\nÞýðingartæki: Þýða</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1174</key>
-      <value>Scout: Takes rear view snapshot</value>
+      <value>Kanni: Taka Baksýnis Skyndimynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1175</key>
-      <value>Generic tool mode left and right</value>
+      <value>Almennur tólhamur vinstri og hægri</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1176</key>
-      <value>Generic tool mode up and down</value>
+      <value>Almennur tólhamur upp og niður</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1177</key>
-      <value>Jetpack and Ship upwards movement</value>
+      <value>Hreyfing uppávið fyrir Þotubúnað og Skip</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1178</key>
-      <value>Jetpack and Ship downwards movement</value>
+      <value>Heyfing niðurávið fyrir Þotubúnað og Skip</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1179</key>
-      <value>When pressed, Move X-Axis will roll you about the forward direction</value>
+      <value>Hreyfir þig um X-Ás þegar þrýst er á.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1180</key>
-      <value>Triggers manual Jetpack Boost</value>
+      <value>Virkjar andvirkan Þotubúnaðarknúning</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1181</key>
-      <value>Locks on to an indicated target</value>
+      <value>Festir fyrir valið skotmark</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1182</key>
-      <value>When locked on, activates thrusters to match the velocity of the locked on target</value>
+      <value>Þegar val er fest, virkjar hreyfla til að jafna hraða mót völdum hlut</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1183</key>
-      <value>Toggles the Ship landing camera</value>
+      <value>Af/Virkjar lendingarmyndavél Skipsins</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1184</key>
-      <value>When locked on, activates ship autopilot</value>
+      <value>Virkjar sjálfstýringu þegar hlutur er festur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1185</key>
-      <value>Toggles free look while buckled into the ship cockpit seat</value>
+      <value>Af/virkjar frjálsa skimun þegar sætisbelti eru spennt í stjórnklefa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1186</key>
-      <value>In the ship log, toggles between map and discovery mode</value>
+      <value>Í skipsskrá, skiptir á milli korthams og uppgötvunarhams</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1187</key>
-      <value>In the ship log, turns on a HUD Marker for the indicated ship log item</value>
+      <value>Í skipsskrá, virkjar merkingu á skjá fyrir valda færslu</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1188</key>
-      <value>In the ship log, scrolls through long log entries</value>
+      <value>Í skipsskrá, skrunar í gegnum langar færslur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1189</key>
-      <value>Enables wireless controller vibration function (wireless controller only).</value>
+      <value>Virkjar titring fyrir þráðlausa leikfjöl.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1190</key>
-      <value>Enables controller vibration (controller only).</value>
+      <value>Virkjar titring (leikfjalir eingöngu).</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1191</key>
-      <value>Determines how far (from center) the left/right stick must be tilted before any input is detected. Consider increasing this dead zone if your character moves or looks around when you're not touching the left/right stick.</value>
+      <value>Ákvarðar hversu langt frá miðju vinstri eða hægri stýripinna inntak virkjast. Nytsamlegt ef leikmaður hreyfist þegar stýripinni er ekki snertur.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1192</key>
-      <value>Determines how far (from full tilt) the left/right stick must be released before maximum input is no longer detected. Consider increasing this dead zone if you are unable to move or look at maximum speed.</value>
+      <value>Ákvarðar hversu langt frá enda vinstri eða hægri stýripinna inntak afvirkjast. Nytsamlegt ef leikmaður hreyfist ekki á fullum hraða þegar stýripinni er ekki snertur.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1200</key>
-      <value>The Stranger</value>
+      <value>Gesturinn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1201</key>
-      <value>THE PRISONER</value>
+      <value>FANGINN</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1210</key>
-      <value>Artifact</value>
+      <value>Gripur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1212</key>
-      <value>Lantern</value>
+      <value>Ljósker</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1213</key>
-      <value>Slide Reel</value>
+      <value>Slæðuspóla</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1220</key>
-      <value>Push Raft</value>
+      <value>Ýta Fleka</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1221</key>
-      <value>Rotate</value>
+      <value>Snúa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1222</key>
-      <value>Use Interface</value>
+      <value>Nota Viðmót</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1223</key>
-      <value>Release Raft</value>
+      <value>Sleppa Fleka</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1224</key>
-      <value>View Slideshow</value>
+      <value>Horfa á Skyggnusýningu</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1225</key>
-      <value>Look</value>
+      <value>Horfa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1226</key>
-      <value>Rotate Up</value>
+      <value>Snúa Upp</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1227</key>
-      <value>Rotate Down</value>
+      <value>Snúa Niður</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1228</key>
-      <value>Rotate Up / Down</value>
+      <value>Snúa Upp / Niður</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1229</key>
-      <value>Open</value>
+      <value>Opna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1230</key>
-      <value>Close</value>
+      <value>Loka</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1231</key>
-      <value>Give</value>
+      <value>Gefa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1232</key>
-      <value>Take</value>
+      <value>Taka</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1233</key>
-      <value>Vision Torch</value>
+      <value>Sýnakyndill</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1234</key>
-      <value>Rotate Left / Right</value>
+      <value>Snúa til Vinstri / Hægri</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1235</key>
-      <value>Project</value>
+      <value>Varpa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1236</key>
-      <value>Project Vision</value>
+      <value>Varpa Sjón</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1237</key>
-      <value>Rewatch Vision</value>
+      <value>Horfa aftur á Sýn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1238</key>
-      <value>Scan</value>
+      <value>Skanna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1250</key>
-      <value>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</value>
+      <value>&lt;color=red&gt;VILLA: Óþekkt Tungumál&lt;/color&gt;</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1251</key>
-      <value>ERROR:\\nMAP OFFLINE</value>
+      <value>VILLA:\\nKORT EKKI TENGT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1260</key>
-      <value>Focus</value>
+      <value>Fókusa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1261</key>
-      <value>Conceal</value>
+      <value>Fela</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1265</key>
-      <value>Forward</value>
+      <value>Áfram</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1266</key>
-      <value>Reverse</value>
+      <value>Afturábak</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1300</key>
-      <value>Return warp status: CHARGED. Step onto warp receiver platform to activate return warp.</value>
+      <value>Staða endurkomuvarps: HLAÐIÐ. Farðu á varppallinn til að varpast.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1310</key>
-      <value>Set Default Controller</value>
+      <value>Stilla á sjálfgefna leikfjöl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1311</key>
-      <value>Don't show this again</value>
+      <value>Ekki sýna þetta aftur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1312</key>
-      <value>Controller Profile</value>
+      <value>Prófíll Leikfjalar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1313</key>
-      <value>Button Prompt Images</value>
+      <value>Myndtákn fyrir Takkaáminningar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1314</key>
-      <value> (Auto Detect)</value>
+      <value> (Finna Sjálfkrafa)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1315</key>
-      <value> (Custom)</value>
+      <value> (Sérsniðið)</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1316</key>
-      <value>Unknown Input Detected</value>
+      <value>Óþekkt Inntak Fannst</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1317</key>
-      <value>Joystick Axis</value>
+      <value>Ás Stýripinna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1318</key>
-      <value>Designate Joystick Type</value>
+      <value>Velja Týpu Stýripinna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1319</key>
-      <value>Normal [-1, 1]</value>
+      <value>Venjulegt [-1, 1]</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1320</key>
-      <value>Trigger [-1, 1]</value>
+      <value>Gikkur [-1, 1]</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1321</key>
-      <value>Action</value>
+      <value>Aðgerð</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1322</key>
-      <value>Retrieve Scout</value>
+      <value>Endurheimta Kanna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1323</key>
-      <value>Primary Tool Action</value>
+      <value>Aðgerð Aðaltóls</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1324</key>
-      <value>Secondary Tool Action</value>
+      <value>Aðgerð Aukatóls</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1325</key>
-      <value>Launch/Retrieve Scout</value>
+      <value>Varpa/Endurheimta Kanna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1326</key>
-      <value>V1.x.8 Key Binding Update</value>
+      <value>V1.x.8 Uppfærsla á Takkastillingum</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1327</key>
-      <value>Old Key Bindings</value>
+      <value>Gamlar Takkastillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1328</key>
-      <value>New Key Bindings</value>
+      <value>Nýjar Takkastillingar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1329</key>
@@ -15822,7 +15826,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1543</key>
-      <value>Kanni: Baksýnisskyndimynd</value>
+      <value>Kanni: Baksýnis Skyndimynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1544</key>
