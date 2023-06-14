@@ -13909,251 +13909,251 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>550</key>
-      <value>Interact</value>
+      <value>Nota</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>551</key>
-      <value>Jump</value>
+      <value>Hoppa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>552</key>
-      <value>Match Velocity</value>
+      <value>Jafna Hraða</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>553</key>
-      <value>Mark Entry</value>
+      <value>Merkja Færslu</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>554</key>
-      <value>Cancel</value>
+      <value>Hætta Við</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>555</key>
-      <value>Signalscope</value>
+      <value>Merkjasjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>556</key>
-      <value>Ship Log Mode</value>
+      <value>Hamur Skipsskrár</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>557</key>
-      <value>Lock On</value>
+      <value>Festa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>558</key>
-      <value>Flashlight</value>
+      <value>Vasaljós</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>559</key>
-      <value>Roll</value>
+      <value>Velta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>560</key>
-      <value>Walk</value>
+      <value>Labba</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>561</key>
-      <value>Rearview Snapshot</value>
+      <value>Baksýnis Skyndimynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>562</key>
-      <value>Scout</value>
+      <value>Kanni</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>563</key>
-      <value>Scope View</value>
+      <value>Kannasýn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>564</key>
-      <value>Translate</value>
+      <value>Þýða</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>565</key>
-      <value>Map</value>
+      <value>Kort</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>566</key>
-      <value>Pause</value>
+      <value>Pása</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>567</key>
-      <value>Look / Move</value>
+      <value>Horfa / Hreyfa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>568</key>
-      <value>Default</value>
+      <value>Sjálfgefið</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>569</key>
-      <value>Southpaw</value>
+      <value>Örvhent</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>570</key>
-      <value>Up / Down / Zoom</value>
+      <value>Upp / Niður / Aðdráttur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>571</key>
-      <value>Forward</value>
+      <value>Áfram</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>572</key>
-      <value>Backward</value>
+      <value>Afturábak</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>573</key>
-      <value>Left</value>
+      <value>Vinstri</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>574</key>
-      <value>Right</value>
+      <value>Hægri</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>575</key>
-      <value>Thrust Up</value>
+      <value>Knýja upp</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>576</key>
-      <value>Thrust Down</value>
+      <value>Knýja niður</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>577</key>
-      <value>Retrieve Scout</value>
+      <value>Endurkalla Kanna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>578</key>
-      <value>Change Frequency</value>
+      <value>Breyta Tíðni</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>579</key>
-      <value>Signalscope Zoom</value>
+      <value>Aðdráttur Merkjasjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>580</key>
-      <value>Map Zoom</value>
+      <value>Aðdráttur Kort</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>581</key>
-      <value>Ship Log Zoom</value>
+      <value>Aðdráttur Skipsskrá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>582</key>
-      <value>Scout Camera Up / Down</value>
+      <value>Myndavél Kanna Upp / Niður</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>583</key>
-      <value>Scout Camera Left / Right</value>
+      <value>Myndavél Kanna Vinstri / Hægri</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>584</key>
-      <value>Translator Scroll</value>
+      <value>Skruna í Þýðingartæki</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>585</key>
-      <value>Translator Page</value>
+      <value>Síðuval í Þýðingartæki</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>586</key>
-      <value>Autopilot</value>
+      <value>Sjálfstýring</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>587</key>
-      <value>Ship Log Scroll</value>
+      <value>Skruna í Skipsskrá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>588</key>
-      <value>Free Look</value>
+      <value>Frjáls Skimun</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>589</key>
-      <value>Scout Mode</value>
+      <value>Kannahamur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>600</key>
-      <value>Sun Station</value>
+      <value>Sólstöðin</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>601</key>
-      <value>Ash Twin</value>
+      <value>Sótsystir</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>602</key>
-      <value>Ember Twin</value>
+      <value>Blossabróðir</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>603</key>
-      <value>Hourglass Twins</value>
+      <value>Sandsystkinin</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>604</key>
-      <value>Timber Hearth</value>
+      <value>Bjálkaból</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>605</key>
-      <value>Brittle Hollow</value>
+      <value>Brothol</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>606</key>
-      <value>Hollow's Lantern</value>
+      <value>Brotholsbálið</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>607</key>
-      <value>Giant's Deep</value>
+      <value>Jötunsdýpi</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>608</key>
-      <value>Orbital Probe Cannon</value>
+      <value>Geimflaugavarpan</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>609</key>
-      <value>Control Module</value>
+      <value>Stjórneining</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>610</key>
-      <value>Launch Module</value>
+      <value>Vörpueining</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>611</key>
-      <value>Probe Tracking Module</value>
+      <value>Rakningareining könnunarhnatta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>612</key>
-      <value>Dark Bramble</value>
+      <value>Þokyþyrnir</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>613</key>
-      <value>The Interloper</value>
+      <value>Raskarinn</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>614</key>
-      <value>White Hole</value>
+      <value>Hvíthol</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>615</key>
-      <value>Quantum Moon</value>
+      <value>Skammtatungl</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>616</key>
-      <value>Sun</value>
+      <value>Sólin</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>617</key>
-      <value>The Attlerock</value>
+      <value>Slakigígur</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>618</key>
-      <value>The Eye of the universe</value>
+      <value>Auga Alheimsins</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>650</key>
-      <value>ESCAPE POD 1</value>
+      <value>BJÖRGUNARBÁTUR 1</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>651</key>
-      <value>ESCAPE POD 2</value>
+      <value>BJÖRGUNARBÁTUR 2</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>652</key>
-      <value>ESCAPE POD 3</value>
+      <value>BJÖRGUNARBÁTUR 3</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>653</key>
@@ -14169,27 +14169,27 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>656</key>
-      <value>GROVE SHARD</value>
+      <value>LUNDGRJÓTIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>657</key>
-      <value>MUSEUM SHARD</value>
+      <value>SAFNGRJÓTIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>658</key>
-      <value>TOWER SHARD</value>
+      <value>TURNGRJÓTIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>659</key>
-      <value>CAVE SHARD</value>
+      <value>HELLAGRJÓTIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>660</key>
-      <value>ISLAND SHARD</value>
+      <value>EYJUGRJÓTIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>661</key>
-      <value>QUANTUM MOON</value>
+      <value>SKAMMTATUNGLIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>662</key>
@@ -14217,63 +14217,63 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>668</key>
-      <value>WHITE HOLE</value>
+      <value>HVÍTHOL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>669</key>
-      <value>WHITE HOLE CORE</value>
+      <value>HVÍTHOLSKJARNI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>680</key>
-      <value>UNIDENTIFIED</value>
+      <value>ÓÞEKKT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>681</key>
-      <value>OUTER WILDS VENTURES</value>
+      <value>VEGFERÐ FJARLÆGRA FIRNINDA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>682</key>
-      <value>QUANTUM FLUCTUATIONS</value>
+      <value>SKAMMTAFLÖKT</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>683</key>
-      <value>DISTRESS BEACON</value>
+      <value>NEYÐARMERKI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>684</key>
-      <value>WHITE HOLE</value>
+      <value>HVÍTHOL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>685</key>
-      <value>HIDE AND SEEK</value>
+      <value>FELULEIKUR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>700</key>
-      <value>SUN STATION</value>
+      <value>SÓLSTÖÐIN</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>701</key>
-      <value>ASH TWIN</value>
+      <value>SÓTSYSTIR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>702</key>
-      <value>EMBER TWIN</value>
+      <value>BLOSSABRÓÐIR</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>703</key>
-      <value>THE HOURGLASS TWINS</value>
+      <value>SANDSYSTKININ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>704</key>
-      <value>TIMBER HEARTH</value>
+      <value>BJÁLKABÓL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>705</key>
-      <value>BRITTLE HOLLOW</value>
+      <value>BROTHOL</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>706</key>
-      <value>HOLLOW'S LANTERN</value>
+      <value>BROTHOLSBÁLIÐ</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>707</key>
