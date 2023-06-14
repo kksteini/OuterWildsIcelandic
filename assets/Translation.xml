@@ -4251,87 +4251,87 @@
   </entry>
   <entry>
     <key>NEEM: Not yet, we aren’t, but nearly. We found trouble during our warp: The triple suns of the Bright Spark star system exploded, and it was only a lucky coincidence we weren’t caught in the blast. We’ll meet you soon, Canna!</key>
-    <value>NEEM: Not yet, we aren’t, but nearly. We found trouble during our warp: The triple suns of the Bright Spark star system exploded, and it was only a lucky coincidence we weren’t caught in the blast. We’ll meet you soon, Canna!</value>
+    <value>NEEM: Ekki alveg, en næstum. Við lentum í vandræðum í miðju varpi: Þrístirnið í Bjartabáli sprakk, og fyrir einskæra heppni þá sluppum við frá höggbylgjunni. Sjáumst bráðlega, Canna!</value>
   </entry>
   <entry>
     <key>CANNA: I’m relieved your clan is safe, Neem! It’s good to hear your words. Any Vessels nearby, remember to be extremely cautious of potentially unstable stars (which is most of them, now).</key>
-    <value>CANNA: I’m relieved your clan is safe, Neem! It’s good to hear your words. Any Vessels nearby, remember to be extremely cautious of potentially unstable stars (which is most of them, now).</value>
+    <value>CANNA: Ég er feginn að heyra að ættbálkurinn þinn sé óhultur, Neem! Gott að heyra í þér. Öll Skip í kallfæri, munið að vera virkilega varkar í kringum óstöðugar stjörnur (verandi flestar stjörnur, núorðið).</value>
   </entry>
   <entry>
     <key>FILIX: This is Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt;; something went badly wrong during our warp, and our &lt;color=orange&gt;Vessel&lt;/color&gt; is mortally wounded. We need help as quickly as possible!</key>
-    <value>FILIX: This is Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt;; something went badly wrong during our warp, and our &lt;color=orange&gt;Vessel&lt;/color&gt; is mortally wounded. We need help as quickly as possible!</value>
+    <value>FILIX: Þetta er &lt;color=orange&gt;Skip&lt;/color&gt; Escall; eitthvað fór hræðilega úrskeiðis í varpinu okkar, og &lt;color=orange&gt;Skip&lt;/color&gt; okkar er helsært. Við þörfnumst hjálpar eins fljótt og auðið er!</value>
   </entry>
   <entry>
     <key>FILIX: Our &lt;color=orange&gt;Vessel&lt;/color&gt; appears to have... has it &lt;i&gt;fused&lt;/i&gt; with the local environment, somehow? There are vines that are now part of the &lt;color=orange&gt;Vessel&lt;/color&gt;! It’s been torn apart from inside itself!</key>
-    <value>FILIX: Our &lt;color=orange&gt;Vessel&lt;/color&gt; appears to have... has it &lt;i&gt;fused&lt;/i&gt; with the local environment, somehow? There are vines that are now part of the &lt;color=orange&gt;Vessel&lt;/color&gt;! It’s been torn apart from inside itself!</value>
+    <value>FILIX: &lt;color=orange&gt;Skip&lt;/color&gt; okkar virðist hafa... hefur það &lt;i&gt;bráðnað saman&lt;/i&gt; við umhverfið hérna, einhvern veginn? Einhverjir vínviðir hafa runnið saman við &lt;color=orange&gt;Skipið&lt;/color&gt;! Það hefur rifnað í sundur innanfrá!</value>
   </entry>
   <entry>
     <key>FILIX: We... we are abandoning our &lt;color=orange&gt;Vessel&lt;/color&gt;. Any Nomai clans or spaceflight-capable species receiving this message, I implore you, we need your help!</key>
-    <value>FILIX: We... we are abandoning our &lt;color=orange&gt;Vessel&lt;/color&gt;. Any Nomai clans or spaceflight-capable species receiving this message, I implore you, we need your help!</value>
+    <value>FILIX: Við... við erum að yfirgefa &lt;color=orange&gt;Skipið&lt;/color&gt; okkar. Allir Nomai ættbálkar í kallfæri eða geimferðarhæfar tegundir, ég grátbið ykkur, við þörfnumst hjálpar!</value>
   </entry>
   <entry>
     <key>FILIX: Is this broken? Can anyone hear me? Our &lt;color=orange&gt;Vessel&lt;/color&gt; is dying! We need immediate assistance!</key>
-    <value>FILIX: Is this broken? Can anyone hear me? Our &lt;color=orange&gt;Vessel&lt;/color&gt; is dying! We need immediate assistance!</value>
+    <value>FILIX: Er þetta brotið? Heyrir einhver í mér? &lt;color=orange&gt;Skipið&lt;/color&gt; okkar er að deyja! Við þörfnumst tafarlausrar aðstoðar!</value>
   </entry>
   <entry>
     <key>FILIX: I’m recording now — I’ve never encountered anything like this! The signal the &lt;color=orange&gt;Vessel&lt;/color&gt; is receiving appears to be &lt;i&gt;older than the universe itself&lt;/i&gt;!</key>
-    <value>FILIX: I’m recording now — I’ve never encountered anything like this! The signal the &lt;color=orange&gt;Vessel&lt;/color&gt; is receiving appears to be &lt;i&gt;older than the universe itself&lt;/i&gt;!</value>
+    <value>FILIX: Ég er byrjaður að taka upp — Ég hef aldrei séð nokkuð þessu líkt. Merkið sem &lt;color=orange&gt;Skipið&lt;/color&gt; nemur virðist vera &lt;i&gt;eldra en sjálfur alheimurinn&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>ESCALL: This is our first contact with anything of this nature. Everyone, prepare to warp immediately!</key>
-    <value>ESCALL: This is our first contact with anything of this nature. Everyone, prepare to warp immediately!</value>
+    <value>ESCALL: Þetta er í fyrsta sinn sem við rekumst á eitthvað af þessu eðli. Búið ykkur undireins fyrir varp, öllsömul!</value>
   </entry>
   <entry>
     <key>FILIX: Escall, wait, I need more time to send an outgoing message! Shouldn’t we tell another clan where we’re going?</key>
-    <value>FILIX: Escall, wait, I need more time to send an outgoing message! Shouldn’t we tell another clan where we’re going?</value>
+    <value>FILIX: Escall, bíddu, ég þarf meiri tíma til þess að senda frá okkur tíðindin! Ættum við ekki að hinum ættbálkunum hvert við ætlum?</value>
   </entry>
   <entry>
     <key>ESCALL: We can send the message upon our arrival. This extraordinary signal appeared suddenly; it may disappear just as quickly, and we can’t lose a discovery this incredible! Focus on preparing for the warp, instead.</key>
-    <value>ESCALL: We can send the message upon our arrival. This extraordinary signal appeared suddenly; it may disappear just as quickly, and we can’t lose a discovery this incredible! Focus on preparing for the warp, instead.</value>
+    <value>ESCALL: Við getum sent skilaboðin þegar við komum þangað. Þetta ótrúlega merki birtist skjótt, það gæti horfið jafnskjótt og við skulum ekki hætta á að missa af þessari stórmerkilegu uppgötvun! Einbeittu þér að undirbúningi fyrir varpið í staðinn.</value>
   </entry>
   <entry>
     <key>FILIX: I understand!</key>
-    <value>FILIX: I understand!</value>
+    <value>FILIX: Ég skil!</value>
   </entry>
   <entry>
     <key>ESCALL: Annona, is the &lt;color=orange&gt;Vessel&lt;/color&gt; ready to warp to the signal’s approximate coordinates?</key>
-    <value>ESCALL: Annona, is the &lt;color=orange&gt;Vessel&lt;/color&gt; ready to warp to the signal’s approximate coordinates?</value>
+    <value>ESCALL: Annona, er &lt;color=orange&gt;Skipið&lt;/color&gt; tilbúið til þess að varpa að áætluðum hnitum merkisins?</value>
   </entry>
   <entry>
     <key>ANNONA: The warp core is powered, but this will be a significant jump. Afterward, we’ll need time to recharge the core.</key>
-    <value>ANNONA: The warp core is powered, but this will be a significant jump. Afterward, we’ll need time to recharge the core.</value>
+    <value>ANNONA: Varpkjarninn er tilbúinn, en þetta er heillangt stökk. Eftir þetta mun kjarninn þurfa tíma til þess að endurhlaða sig.</value>
   </entry>
   <entry>
     <key>ESCALL: That shouldn’t create a problem, provided we arrive at or near the signal’s source. Everyone, we’re ready to warp!</key>
-    <value>ESCALL: That shouldn’t create a problem, provided we arrive at or near the signal’s source. Everyone, we’re ready to warp!</value>
+    <value>ESCALL: Ætti ekki að koma að sök, gefið að við lendum hjá eða nálægt upptökum merkisins. Öllsömul, við erum tilbúin í varp!</value>
   </entry>
   <entry>
     <key>CASSAVA: This is it: We’ve finished building the final &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; module and are ready to send it into orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; for assembly!</key>
-    <value>CASSAVA: This is it: We’ve finished building the final &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; module and are ready to send it into orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; for assembly!</value>
+    <value>CASSAVA: Þá er það komið: Við höfum klárað að byggja lokaeininguna fyrir &lt;color=orange&gt;Geimflaugavörpuna&lt;/color&gt; og erum tilbúin að senda hana á sporbraut umhverfis &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt; til samsetningar!</value>
   </entry>
   <entry>
     <key>CASSAVA: To all my friends here at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, my gratitude for your tireless work. I had given up hope, but I truly believe this cannon may actually succeed where many other attempts have not.</key>
-    <value>CASSAVA: To all my friends here at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, my gratitude for your tireless work. I had given up hope, but I truly believe this cannon may actually succeed where many other attempts have not.</value>
+    <value>CASSAVA: Ég vil þakka ykkur öllum, vinir, hér á &lt;color=orange&gt;Smíðaverkstæðinu&lt;/color&gt; fyrir þrotlausa vinnu ykkar. Ég var tilbúinn í að gefa upp vonina, en ég trúi svo sannarlega að þessari vörpu mun takast það sem öðrum tilraunum tókst ekki.</value>
   </entry>
   <entry>
     <key>DAZ: Are you going gelatinous on us, love? I’m delighted by your words, but they’re atypical for you!</key>
-    <value>DAZ: Are you going gelatinous on us, love? I’m delighted by your words, but they’re atypical for you!</value>
+    <value>DAZ: Ertu ekki full mjúkur, elskan? Orð þín veita mér ánægju en þau er ódæmigerð fyrir þig!</value>
   </entry>
   <entry>
     <key>CASSAVA: If I’m ever half as gooey as Mallow and Avens behave together, Daz, you may launch &lt;i&gt;me&lt;/i&gt; from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-    <value>CASSAVA: If I’m ever half as gooey as Mallow and Avens behave together, Daz, you may launch &lt;i&gt;me&lt;/i&gt; from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</value>
+    <value>CASSAVA: Ef ég verð einhvern tímann jafn linur og Mallog og Avens þegar þau eru hvort öðru nærri, Daz, þá máttu skjóta &lt;i&gt;mér&lt;/i&gt; úr &lt;color=orange&gt;Geimflaugavörpunni&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>CASSAVA: Our next step will be to send Privet up to the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to install the probe tracking system.</key>
-    <value>CASSAVA: Our next step will be to send Privet up to the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to install the probe tracking system.</value>
+    <value>CASSAVA: Okkar næsta skref verður að senda Privet upp í &lt;color=orange&gt;Geimflaugavörpuna&lt;/color&gt; til þess að setja upp rakningarkerfið fyrir könnunarhnettina.</value>
   </entry>
   <entry>
     <key>DAZ: If I know my brother, Avens (and his spouse) will want to launch the probe with as much power as possible. I’m worried the cannon would break under the strain.</key>
-    <value>DAZ: If I know my brother, Avens (and his spouse) will want to launch the probe with as much power as possible. I’m worried the cannon would break under the strain.</value>
+    <value>DAZ: Ef þú þekkir bróður minn<, Avens (og maki hans) þá mun hnan vilja gefa vörpunni eins mikinn kraft og mögulegt er. Ég er hræddur um að varpan muni brotna undir álaginu.</value>
   </entry>
   <entry>
     <key>DAZ: I propose we give Avens and Mallow a slightly lower maximum power setting than the absolute maximum possible to create room for their enthusiasm.</key>
-    <value>DAZ: I propose we give Avens and Mallow a slightly lower maximum power setting than the absolute maximum possible to create room for their enthusiasm.</value>
+    <value>DAZ: Ég legg til að við gefum Avens og Mallow lægri tölur fyrir hámarksaflið, frekar en raunverulegt hámark, til þess stemma stigu við eldmóð þeirra.</value>
   </entry>
   <entry>
     <key>Be welcomed in this place. This tower shares with all who ask the knowledge needed to make his or her first quantum journey.</key>
