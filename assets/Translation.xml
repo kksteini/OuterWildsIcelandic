@@ -4137,121 +4137,117 @@
   </entry>
   <entry>
     <key>RAMIE: Hypothesis: It is possible for an object to exit a white hole before entering the corresponding black hole.</key>
-    <value>RAMIE: Hypothesis: It is possible for an object to exit a white hole before entering the corresponding black hole.</value>
+    <value>RAMIE: Tilgáta: Það er mögulegt fyrir hlut að fara út úr hvítholi áður en hann fer inn í hliðstætt svarthol.</value>
   </entry>
   <entry>
     <key>RAMIE: An update: Our experiment here reproduced the anomaly in arrival and departure times, but Pye is unconvinced it’s more than an equipment error. I hope to strengthen the effect to render it visible to the unaided eyes.</key>
-    <value>RAMIE: An update: Our experiment here reproduced the anomaly in arrival and departure times, but Pye is unconvinced it’s more than an equipment error. I hope to strengthen the effect to render it visible to the unaided eyes.</value>
+    <value>RAMIE: Uppfærsla: Tilraun okkar hefur leikið eftir þetta afbrigðilega fyrirbæri með komu og brottfarartíma, en Pye er ekki sannfærð um að hér sé að ræða eitthvað meira en tækjavillur. Ég vonast til þess að efla verkunina þannig að hún sjáist með berum augum.</value>
   </entry>
   <entry>
     <key>PYE: To that end, we’ve decided to try adding more energy. I imagine the &lt;color=orange&gt;Sunless City&lt;/color&gt;’s energy supply should prove sufficient.</key>
-    <value>PYE: To that end, we’ve decided to try adding more energy. I imagine the &lt;color=orange&gt;Sunless City&lt;/color&gt;’s energy supply should prove sufficient.</value>
+    <value>PYE: Til þess höfum við ákveðið að auka orkuna. Ég held að orkubirgðir &lt;color=orange&gt;Birtulausu Borgarinnar&lt;/color&gt; dugi til.</value>
   </entry>
   <entry>
     <key>PYE: Of note, Ramie: Yarrow requests that we let him know before we reroute energy to the experiment.</key>
-    <value>PYE: Of note, Ramie: Yarrow requests that we let him know before we reroute energy to the experiment.</value>
+    <value>PYE: Athugaðu, Ramie: Yarrow biður okkur um að láta hann vita áður en breytum flutningsleið orkunnar frá borginni og hingað.</value>
   </entry>
   <entry>
     <key>RAMIE: I’d hate to leave him in the dark!</key>
-    <value>RAMIE: I’d hate to leave him in the dark!</value>
+    <value>RAMIE: Já, væri leiðinlegt ef breytingin yrði &lt;i&gt;óljós&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>PYE: All available energy has been rerouted from the city to our experiment. Ramie and I are about to run a new test.</key>
-    <value>PYE: All available energy has been rerouted from the city to our experiment. Ramie and I are about to run a new test.</value>
+    <value>PYE: Öll fáanleg orka flæðir nú frá borginni yfir í tilraunina okkar. Ég or Ramie erum í þann mund að keyra upp nýja tilraun.</value>
   </entry>
   <entry>
     <key>RAMIE: Hypothesis confirmed! Hypothesis confirmed! I saw it! Pye saw it! &lt;i&gt;Hypothesis confirmed&lt;/i&gt;!</key>
-    <value>RAMIE: Hypothesis confirmed! Hypothesis confirmed! I saw it! Pye saw it! &lt;i&gt;Hypothesis confirmed&lt;/i&gt;!</value>
+    <value>RAMIE: Tilgáta staðfest! Tilgáta staðfest! Ég sá þetta! Pye sá þetta! &lt;i&gt;Tilgáta staðfest&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>PYE: This is beyond extraordinary! This changes &lt;i&gt;everything&lt;/i&gt;! What a beautiful day for the intersection of abstract theory and practical application!</key>
-    <value>PYE: This is beyond extraordinary! This changes &lt;i&gt;everything&lt;/i&gt;! What a beautiful day for the intersection of abstract theory and practical application!</value>
+    <value>PYE: Þetta er alveg ótrúlegt! Þetta breytir &lt;i&gt;öllu&lt;/i&gt;! Það er svo fallegt þegar hugræn fræði og áþreifanlegar hagnýtar aðferðir mætast!</value>
   </entry>
   <entry>
     <key>SECCA: Our &lt;color=orange&gt;escape pod&lt;/color&gt; crashed as we tried to flee this place, destroying our movement and communication capabilities in the process.
 		</key>
-    <value>SECCA: Our &lt;color=orange&gt;escape pod&lt;/color&gt; crashed as we tried to flee this place, destroying our movement and communication capabilities in the process.
-		</value>
+    <value>SECCA: &lt;color=orange&gt;Björgunarbáturinn &lt;/color&gt; okkar brotlendi þegar við reyndum að flýja þennan stað, og gerði þannig út af við ferða- og samskiptagetu okkar í leiðinni.</value>
   </entry>
   <entry>
     <key>
 			SECCA: We’ve held out as long as we could here, but this pod’s supply of breathable air is nearly depleted, and the anglerfish attack more and more frequently.
 		</key>
     <value>
-			SECCA: We’ve held out as long as we could here, but this pod’s supply of breathable air is nearly depleted, and the anglerfish attack more and more frequently.
-		</value>
+			SECCA: Við höfum þraukað hérna eins lengi og við getum en súrefnisbirgðirnar eru að þrotum komnar og fiskskrattarnir sækja að okkur æ oftar.</value>
   </entry>
   <entry>
     <key>
 			SECCA: Our best chance at survival is to return to the &lt;color=orange&gt;Vessel&lt;/color&gt; to either repair the damage or, more probably, await rescue.
 		</key>
     <value>
-			SECCA: Our best chance at survival is to return to the &lt;color=orange&gt;Vessel&lt;/color&gt; to either repair the damage or, more probably, await rescue.
-		</value>
+			SECCA: Ef við viljum lifa þá er það besta í stöðunni að snúa til baka í &lt;color=orange&gt;Skipið&lt;/color&gt; og annað hvort gera við skaðann, eða þá líklegri kosturinn, að bíða eftir að okkur verði bjargað.</value>
   </entry>
   <entry>
     <key>
 			ESCALL: Secca, is the message finished? The &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is already growing fainter; it will be gone in a matter of hours. We need to leave here, quickly.
 		</key>
     <value>
-			ESCALL: Secca, is the message finished? The &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is already growing fainter; it will be gone in a matter of hours. We need to leave here, quickly.
-		</value>
+			ESCALL: Secca, ertu búin með skilaboðin? Merkið frá vita &lt;color=orange&gt;Skipsins&lt;/color&gt; er nú þegar að dofna; það verður farið á fáeinum klukkustundum. Við verðum að koma okkur héðan og það með hraði.</value>
   </entry>
   <entry>
     <key>CANNA: To any Nomai clans whose Vessels can hear this message:</key>
-    <value>CANNA: To any Nomai clans whose Vessels can hear this message:</value>
+    <value>CANNA: Til allra Nomai ættbálka. Ef skip ykkar geta heyrt þessi skilaboð:</value>
   </entry>
   <entry>
     <key>CANNA: It’s clear the universe is dying. There are fewer and fewer resources and safe places within space now, so my clan and I believe the best option is for all of our clans to stay together.</key>
-    <value>CANNA: It’s clear the universe is dying. There are fewer and fewer resources and safe places within space now, so my clan and I believe the best option is for all of our clans to stay together.</value>
+    <value>CANNA: Það er klárt mál að alheimurinn er að deyja. Auðlindum fækkar ásamt öruggum stöðum. Ég og ættbálkur minn trúum því nú að það besta í stöðunni sé að allir ættbálkarnir haldi hópinn.</value>
   </entry>
   <entry>
     <key>CANNA: If you can reach the Gloaming Galaxy, we’ve found that Blackrock’s suns are fairly stable, and life in this star system is (comparatively) thriving. We live in relative safety.</key>
-    <value>CANNA: If you can reach the Gloaming Galaxy, we’ve found that Blackrock’s suns are fairly stable, and life in this star system is (comparatively) thriving. We live in relative safety.</value>
+    <value>CANNA: Ef þið náið að komast í Rökkurþokuna, þá höfum við komist að því að sólir Svörtuklappar eru frekar stöðugar og líf í því stjörnukerfi dafnar (þannig séð) vel. Við búum tiltölulega öruggt.</value>
   </entry>
   <entry>
     <key>CANNA: If you prefer to continue exploring alone, know you will be on your own.</key>
-    <value>CANNA: If you prefer to continue exploring alone, know you will be on your own.</value>
+    <value>CANNA: Ef þið viljið heldur halda áfram að kanna, þá munuð þið verða ein á báti.</value>
   </entry>
   <entry>
     <key>BROMI: Canna, we’re making our way to you.</key>
-    <value>BROMI: Canna, we’re making our way to you.</value>
+    <value>BROMI: Canna, við erum að koma til þín.</value>
   </entry>
   <entry>
     <key>CANNA: It’s good to hear from you, Bromi! We’ll watch for your Vessel.</key>
-    <value>CANNA: It’s good to hear from you, Bromi! We’ll watch for your Vessel.</value>
+    <value>CANNA: Það er gott að heyra frá þér, Bromi! Við höfum augun opin fyrir Skipinu ykkar.</value>
   </entry>
   <entry>
     <key>CANNA: Has anyone heard from Neem? His clan was on its way to our Vessel, but they never arrived, and he hasn’t sent any messages. I’m beginning to worry.</key>
-    <value>CANNA: Has anyone heard from Neem? His clan was on its way to our Vessel, but they never arrived, and he hasn’t sent any messages. I’m beginning to worry.</value>
+    <value>CANNA: Hefur einhver heyrt frá Neem. Ættbálkurinn hans var á leiðinni í Skipið okkar, en þau komu aldrei, og hann hefur ekki sent nein skilaboð. Ég er farinn að hafa áhyggjur.</value>
   </entry>
   <entry>
     <key>BROMI: That &lt;i&gt;is&lt;/i&gt; unsettling. It reminds me of that old myth my grandfather used to tell, the Disappearance of Escall.</key>
-    <value>BROMI: That &lt;i&gt;is&lt;/i&gt; unsettling. It reminds me of that old myth my grandfather used to tell, the Disappearance of Escall.</value>
+    <value>BROMI: Það &lt;i&gt;er&lt;/i&gt; óþægilegt að heyra. Minnir mig á gömlu þjóðsöguna sem afi minn sagði okkur oft, Hvarf Escall.</value>
   </entry>
   <entry>
     <key>CLEM: I remember hearing that story as a child! One day, Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt; simply stopped responding. The other clans searched and searched, but found no trace. It was as if their missing friends had warped out of existence.</key>
-    <value>CLEM: I remember hearing that story as a child! One day, Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt; simply stopped responding. The other clans searched and searched, but found no trace. It was as if their missing friends had warped out of existence.</value>
+    <value>CLEM: Ég man eftir að hafa heyrt þá sögu sem barn! Dag einn hætti &lt;color=orange&gt;Skip&lt;/color&gt; Escall einfaldlega að svara. Hinir ættbálkarnir leituðu og leituðu en Skipið hafði horfið sporlaust. Það var eins og vinir þeirra hafi varpað út úr tilverunni.</value>
   </entry>
   <entry>
     <key>HYSSOP: That’s no myth, friends; Escall’s clan existed, and their story was real.</key>
-    <value>HYSSOP: That’s no myth, friends; Escall’s clan existed, and their story was real.</value>
+    <value>HYSSOP: Þetta er engin þjóðsaga, vinir; ættbálkur Escall var til í alvörunni og saga þeirra sönn.</value>
   </entry>
   <entry>
     <key>BROMI: What a curious event to have passed into myth! Our ancestors’ ancestors were told that story when they were young. Are you sure it’s true, Hyssop?</key>
-    <value>BROMI: What a curious event to have passed into myth! Our ancestors’ ancestors were told that story when they were young. Are you sure it’s true, Hyssop?</value>
+    <value>BROMI: En furðulegur atburður til þess að verða að þjóðsögu! Forfeður forfeðra okkar heyrðu þessa sögu þegar þeir voru ungir. Ertu viss um að sagan sé sönn, Hyssop?</value>
   </entry>
   <entry>
     <key>HYSSOP: It was a very long time ago, but yes. My clan’s ancestors searched for Escall’s clan for a long time, but in the end, none of them were ever seen again. (It’s the only time in our history a Vessel has ever disappeared this way.)</key>
-    <value>HYSSOP: It was a very long time ago, but yes. My clan’s ancestors searched for Escall’s clan for a long time, but in the end, none of them were ever seen again. (It’s the only time in our history a Vessel has ever disappeared this way.)</value>
+    <value>HYSSOP: Þetta var fyrir langalöngu síðan, en já. Forfeður ættbálks míns leituðu að ættbálki Escall í langan tíma, en að lokum, þá heyrðist ekkert frá þeim. (Þetta er eina skiptið í sögu okkar sem Skip hverfur á þennan hátt.)</value>
   </entry>
   <entry>
     <key>NEEM: Hyssop, I hope you aren’t comparing Escall’s story to my clan’s Vessel!</key>
-    <value>NEEM: Hyssop, I hope you aren’t comparing Escall’s story to my clan’s Vessel!</value>
+    <value>NEEM: Hyssop, vonandi ertu ekki að minnast á Escall Skips okkar vegna!</value>
   </entry>
   <entry>
     <key>CLEM: Neem, my friend! We feared you were gone!</key>
-    <value>CLEM: Neem, my friend! We feared you were gone!</value>
+    <value>CLEM: Neem, kæri vinur! Við vorum hrædd um að þú værir horfinn!</value>
   </entry>
   <entry>
     <key>NEEM: Not yet, we aren’t, but nearly. We found trouble during our warp: The triple suns of the Bright Spark star system exploded, and it was only a lucky coincidence we weren’t caught in the blast. We’ll meet you soon, Canna!</key>
