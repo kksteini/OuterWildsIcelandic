@@ -4431,34 +4431,34 @@
   </entry>
   <entry>
     <key>PYE: Kindly refrain from going supernova on me before the &lt;color=lightblue&gt;sun&lt;/color&gt; does, Idaea.</key>
-    <value>PYE: Vinsamlegast ekki springa (úr reiði) á undan &lt;color=lightblue&gt;sólinni&lt;/color&gt;, Idaea.</value>
+    <value>PYE: Vinsamlegast ekki springa á undan &lt;color=lightblue&gt;sólinni&lt;/color&gt;, Idaea.</value>
   </entry>
   <entry>
     <key>THATCH: Where should this new, more sophisticated locator be built? It may need to be larger than this &lt;color=orange&gt;Eye signal locator&lt;/color&gt; is.</key>
-    <value>THATCH: Where should this new, more sophisticated locator be built? It may need to be larger than this &lt;color=orange&gt;Eye signal locator&lt;/color&gt; is.</value>
+    <value>THATCH: Hvar á að smíða þennan nýja og fágaða staðsetjara? Hann gæti þurft að taka meira pláss heldur en núverandi &lt;color=orange&gt;Staðsetjari fyrir merki Augans&lt;/color&gt; gerir.</value>
   </entry>
   <entry>
     <key>PLUME: The southern glacier on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; has ample available space. I could construct a new building to house this proposed locator.</key>
-    <value>PLUME: The southern glacier on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; has ample available space. I could construct a new building to house this proposed locator.</value>
+    <value>PLUME: Suðurjökullinn á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; er með nóg af plássi. Ég gæti byggt nýja byggingu til að hýsa þennan fyrirhugaða staðsetjara.</value>
   </entry>
   <entry>
     <key>FILIX: Yes, let’s build there! I imagine our young friend Conoy would enjoy that immensely. He’s always held a great interest in the &lt;color=lightblue&gt;Eye&lt;/color&gt;, especially for a child born so long after the crash.</key>
-    <value>FILIX: Yes, let’s build there! I imagine our young friend Conoy would enjoy that immensely. He’s always held a great interest in the &lt;color=lightblue&gt;Eye&lt;/color&gt;, especially for a child born so long after the crash.</value>
+    <value>FILIX: Já, byggjum þetta þar! Mig grunar að vinur okkar hann Conoy myndi njóta þess í botn. Hann hefur ætíð sýnt &lt;color=lightblue&gt;Auganu&lt;/color&gt; mikinn áhuga, sérstaklega fyrir barn sem fæðist svo löngu eftir brotlendinguna.</value>
   </entry>
   <entry>
     <key>PLUME: I will begin construction on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s south pole immediately, then!</key>
-    <value>PLUME: I will begin construction on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s south pole immediately, then!</value>
+    <value>PLUME: Ég byrja þá smíðarnar á suðurpóli &lt;color=lightblue&gt;Brothols&lt;/color&gt;undireins!</value>
   </entry>
   <entry>
     <key>COLEUS: Annona and those of us originally stranded on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; built a &lt;color=orange&gt;Quantum Moon locator&lt;/color&gt; there, but the heat of the &lt;color=lightblue&gt;sun&lt;/color&gt; made its construction challenging. I wouldn’t recommend building on that planet.</key>
-    <value>COLEUS: Annona and those of us originally stranded on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; built a &lt;color=orange&gt;Quantum Moon locator&lt;/color&gt; there, but the heat of the &lt;color=lightblue&gt;sun&lt;/color&gt; made its construction challenging. I wouldn’t recommend building on that planet.</value>
+    <value>COLEUS: Annona og þau okkar sem voru upprunalega strandaglópar á &lt;color=lightblue&gt;Blossabróður&lt;/color&gt; byggðum &lt;color=orange&gt;Staðsetjara fyrir Skammtatunglið&lt;/color&gt; þar, en hiti &lt;color=lightblue&gt;sólarinnar&lt;/color&gt; gerði okkur erfitt fyrir. Ég myndi ekki mæla með þeirri plánetu.</value>
   </entry>
   <entry>
     <key>
 		    COLEUS: After closer observation, mining site 2a wouldn’t be safe for the native life dwelling in some of this cave’s pools, so (unfortunately) we’ll have to mine one of the other sites.
 		</key>
     <value>
-		    COLEUS: After closer observation, mining site 2a wouldn’t be safe for the native life dwelling in some of this cave’s pools, so (unfortunately) we’ll have to mine one of the other sites.
+		    COLEUS: Eftir nánari athuganir, kemur í ljós að notkun á námusvæði 2a myndi raska því náttúrulega lífríki sem er að finna í vatni sumra hellanna, þannig að (því miður) við þurfum þá að nota eitthvert hinna svæðanna.
 		</value>
   </entry>
   <entry>
@@ -4466,7 +4466,7 @@
 		    COLEUS: On the opposite hand, new life! This species is semi-aquatic, and very hardy. The ecosystem here is quite robust, so I believe they’ll thrive in the long run. Be cautious near the pools if you visit 2a to meet them.
 		</key>
     <value>
-		    COLEUS: On the opposite hand, new life! This species is semi-aquatic, and very hardy. The ecosystem here is quite robust, so I believe they’ll thrive in the long run. Be cautious near the pools if you visit 2a to meet them.
+		    COLEUS: Samt sem áður, nýtt líf! Þessi dýrategund er hálfgert lagardýr og mjög harðger. Lífríkið hérna er frekar stöðugt, þannig að ég trúi því að þrífast ágætlega til lengri tíma. Farið varlega nálægt laugunum ef þið heimsækið 2a til þess að skoða þessa dýrategund.
 		</value>
   </entry>
   <entry>
@@ -4474,7 +4474,7 @@
 		    CYCAD: There are a few other cave sites that look promising. What about site 2b (it shares similar formations and strata)?
 		</key>
     <value>
-		    CYCAD: There are a few other cave sites that look promising. What about site 2b (it shares similar formations and strata)?
+		    CYCAD: Það eru nokkur önnur hellasvæði sem lofa góðu. Hvað með svæði 2b (svipuð jarðlög og myndanir)?
 		</value>
   </entry>
   <entry>
@@ -4482,7 +4482,7 @@
 		    OENO: This sounds promising! Will you and your mentor investigate? If mining site 2b proves safe for this native species, we’ll move our work there.
 		</key>
     <value>
-		    OENO: This sounds promising! Will you and your mentor investigate? If mining site 2b proves safe for this native species, we’ll move our work there.
+		    OENO: Hljómar vel! Munt þú ásamt leiðbeinenda þínum kanna málið? Ef námusvæði 2b stefnir ekki þessari dýrategund í hættu, þá munum við færa vinnu okkar þangað. 
 		</value>
   </entry>
   <entry>
@@ -4490,7 +4490,7 @@
 		    CYCAD: Site 2b is safe! Coleus says we’ll continue to monitor our activity and its effect on life here.
 		</key>
     <value>
-		    CYCAD: Site 2b is safe! Coleus says we’ll continue to monitor our activity and its effect on life here.
+		    CYCAD: Svæði 2b er öruggt! Coleus segir að við munum fylgjast vel með áhrifum aðgerða okkar á lífið hérna. 
 		</value>
   </entry>
   <entry>
@@ -4498,7 +4498,7 @@
 		    CYCAD: I was watching them once during a rest, and the hours escaped from me. They’re fascinating (I wonder what their fourth eye does)!
 		</key>
     <value>
-		    CYCAD: I was watching them once during a rest, and the hours escaped from me. They’re fascinating (I wonder what their fourth eye does)!
+		    CYCAD: Ég var að fylgjast með þeim þegar ég tók mér langa pásu og tíminn eiginlega rann á milli handanna á mér. Stórmerkileg dýr (Hvað ætli fjórða augað þeirra gerir)! 
 		</value>
   </entry>
   <entry>
@@ -4506,52 +4506,52 @@
 		    COLEUS: They remind me of a subterranean species that my mentor, Melorae, once told me about (from when our clan used to travel across this universe). I imagine she would have enjoyed these lifeforms greatly.
 		</key>
     <value>
-		    COLEUS: They remind me of a subterranean species that my mentor, Melorae, once told me about (from when our clan used to travel across this universe). I imagine she would have enjoyed these lifeforms greatly.
+		    COLEUS: Þau minna mig á neðanjarðardýrin sem leiðbeinandi minn, Melorae, sagði mér frá (þegar ættbálkur okkar átti það til að ferðast þennan alheim). Ég ímynda mér að henni myndi finnast þessi dýr stórskemmtileg.
 		</value>
   </entry>
   <entry>
     <key>CASSAVA: We’re nearly ready! Filix and I have finished construction, and she says calibrating the device won’t take long.</key>
-    <value>CASSAVA: We’re nearly ready! Filix and I have finished construction, and she says calibrating the device won’t take long.</value>
+    <value>CASSAVA: Við erum nánast tilbúin! Ég og Filix höfum klárað byggingarverkið, og hún segir að kvörðun tækisins muni ekki taka langan tíma.</value>
   </entry>
   <entry>
     <key>FILIX: Fortunately, the &lt;color=lightblue&gt;Attlerock&lt;/color&gt;’s lack of atmosphere will make calibration simple. After all this time, I’m thrilled to finally resume our search!</key>
-    <value>FILIX: Sem betur fer mun loftleysið á &lt;color=lightblue&gt;Slakagíg&lt;/color&gt; auðvelda kvarðanir. Eftir allan þennan tíma, þá er ég dauðspennt yfir því að halda áfram leit okkar!</value>
+    <value>FILIX: Sem betur fer mun loftleysið á &lt;color=lightblue&gt;Slakagíg&lt;/color&gt; auðvelda fínstillingar. Eftir allan þennan tíma, þá er ég dauðspennt yfir því að halda áfram leit okkar!</value>
   </entry>
   <entry>
     <key>Caution: You are about to access the core while the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is active.</key>
-    <value>Caution: You are about to access the core while the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is active.</value>
+    <value>Aðvörun: Þú ert við það að nálgast kjarnann á meðan &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; er enn virkt.</value>
   </entry>
   <entry>
     <key>WARNING: Removing the core will disable the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-    <value>WARNING: Removing the core will disable the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</value>
+    <value>VIÐVÖRUN: Fjarlæging kjarnans mun afvirkja &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>
 			Artificial gravity control
 		</key>
     <value>
-			Artificial gravity control
+      Stjórntæki fyrir gerviþyngdarafl
 		</value>
   </entry>
   <entry>
     <key>YARROW: Today we finished the excavation of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. Here, in this space we carved, we will craft our most ambitious project yet: the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, powerful enough to send information back in time.</key>
-    <value>YARROW: Today we finished the excavation of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. Here, in this space we carved, we will craft our most ambitious project yet: the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, powerful enough to send information back in time.</value>
+    <value>YARROW: Við kláruðum að grafa út &lt;color=lightblue&gt;Sótsystur&lt;/color&gt; í dag. Hér, í þessu rými sem við höfum skorið út fyrir okkur, munum við byggja eitt metnaðargjarnasta verkefni hingað til: &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt;, nægilega öflugt til að senda upplýsingar aftur í tímann.</value>
   </entry>
   <entry>
     <key>COLEUS: We’ve also finished relocating all subterranean plants we met while digging.</key>
-    <value>COLEUS: We’ve also finished relocating all subterranean plants we met while digging.</value>
+    <value>COLEUS: Við höfum einnig fært til allar neðanjarðarplönturnar sem urðu á vegi okkar í greftrinum.</value>
   </entry>
   <entry>
     <key>RAMIE: We’ll need to keep our eyes on how significantly we’ve altered the environment here.</key>
-    <value>RAMIE: We’ll need to keep our eyes on how significantly we’ve altered the environment here.</value>
+    <value>RAMIE: Við munum þurfa að fylgjast vel með hversu stór áhrif breytingar okkar á umhverfinu hérna munu hafa.</value>
   </entry>
   <entry>
     <key>PYE: How far we’ve come since our experiments at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;! I still can hardly believe Ramie’s hypothesis was true.</key>
-    <value>PYE: How far we’ve come since our experiments at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;! I still can hardly believe Ramie’s hypothesis was true.</value>
+    <value>PYE: Okkur hefur fleytt töluvert fram síðan við vorum að gera tilraunir okkar í &lt;color=orange&gt;Stórorkustöðinni&lt;/color&gt;! Ég trúi varla ennþá að tilgáta Ramie hafi staðist.</value>
   </entry>
   <entry>
     <key>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</key>
-    <value>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</value>
+    <value>YARROW: Poke var að senda til okkar varpkjarnann fyrir lokaturninn frá &lt;color=orange&gt;Svartholssmiðjunni&lt;/color&gt;. Nú má tengja &lt;color=lightblue&gt;Sótsystur&lt;/color&gt; við &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt;, þar sem Cassava og Avens vinna að því að byggja &lt;color=orange&gt;Geimflaugavörpuna&lt;/color&gt;, og þar sem Phlox er að höggva út minnisstytturnar.</value>
   </entry>
   <entry>
     <key>CASSAVA: Hypothesis: It was not by accident the core of our warp tower was the last to be forged.</key>
