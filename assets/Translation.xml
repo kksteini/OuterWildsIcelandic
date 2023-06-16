@@ -4919,7 +4919,7 @@
   </entry>
   <entry>
     <key>FILIX: No, I... I’m unable to make contact. My equipment can hear the other two escape pods’ distress signals, however. If it’s any comfort, both pods must be structurally intact.</key>
-    <value>FILIX: Nei, ég... ég næ ekki sambandi. Búnaðurinn minn getur þó heyrt í neyðarmerkjun hinna björgunarbátanna. Ef það er einhver huggun í því þá ættu þeir að vera byggingarlega heillegir.</value>
+    <value>FILIX: Nei, ég... ég næ ekki sambandi. Búnaðurinn minn getur þó heyrt í neyðarmerkjum hinna björgunarbátanna. Ef það er einhver huggun í því þá ættu þeir að vera byggingarlega heillegir.</value>
   </entry>
   <entry>
     <key>FILIX: I’ll continue calling for them.</key>
@@ -5015,51 +5015,51 @@
   </entry>
   <entry>
     <key>CASSAVA: &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; would be a good choice. It’s furthest from the &lt;color=lightblue&gt;sun&lt;/color&gt;, so it would provide the best angles for launch. And it’s moonless (except when the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is visiting).</key>
-    <value>CASSAVA: &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; would be a good choice. It’s furthest from the &lt;color=lightblue&gt;sun&lt;/color&gt;, so it would provide the best angles for launch. And it’s moonless (except when the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is visiting).</value>
+    <value>CASSAVA: &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt; væri góður kostur. Það er lengst frá &lt;color=lightblue&gt;sólinni&lt;/color&gt;, þannig að skotskilyrðin yrðu með besta móti þar. Og það er laust við tungl (nema þegar &lt;color=lightblue&gt;Skammtatunlið&lt;/color&gt; er í heimsókn).</value>
   </entry>
   <entry>
     <key>AVENS: Yes, let’s build the cannon in orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;!</key>
-    <value>AVENS: Yes, let’s build the cannon in orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;!</value>
+    <value>AVENS: Já, byggjum vörpuna á sporbraut um &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt;!</value>
   </entry>
   <entry>
     <key>PLUME: The pain of your absence is sharp and haunting, and I would give anything not to know it; anything but never knowing you at all (which would be worse).</key>
-    <value>PLUME: The pain of your absence is sharp and haunting, and I would give anything not to know it; anything but never knowing you at all (which would be worse).</value>
+    <value>PLUME: Sársauki fjarveru þinnar er stingandi og ásækinn, ég myndi gefa hvað sem er til að finna ekki fyrir honum; allt nema að gleyma þér (það væri verra).</value>
   </entry>
   <entry>
     <key>PLUME: I can only hope that you are safe, Keek, wherever you are.</key>
-    <value>PLUME: I can only hope that you are safe, Keek, wherever you are.</value>
+    <value>PLUME: Ég get bara vonað að þú sért örugg, Keek, hvar sem þú ert.</value>
   </entry>
   <entry>
     <key>KOUSA: We can hear the other escape pods’ distress signals, which gives me hope. Foli, are you still here? I am unsure how to survive in this place without you.</key>
-    <value>KOUSA: We can hear the other escape pods’ distress signals, which gives me hope. Foli, are you still here? I am unsure how to survive in this place without you.</value>
+    <value>KOUSA: Við getum heyrt í neyðarmerkjum hinna björgunarbátanna, sem gefur mér vonir. Foli, ertu þarna ennþá? Ég veit ekki hvernig ég á að lifa hér án þín.</value>
   </entry>
   <entry>
     <key>KOUSA: (I am unsure how to be me without you.)</key>
-    <value>KOUSA: (I am unsure how to be me without you.)</value>
+    <value>KOUSA: (Ég veit ekki hvernig ég á að vera án þín.)</value>
   </entry>
   <entry>
     <key>PLUME: My brother wasn’t in &lt;color=orange&gt;Escape Pod 1&lt;/color&gt; with us. Was he in &lt;color=orange&gt;Pod 2&lt;/color&gt;, or &lt;color=orange&gt;Pod 3&lt;/color&gt;? Was he able to board an escape pod at all?</key>
-    <value>PLUME: My brother wasn’t in &lt;color=orange&gt;Escape Pod 1&lt;/color&gt; with us. Was he in &lt;color=orange&gt;Pod 2&lt;/color&gt;, or &lt;color=orange&gt;Pod 3&lt;/color&gt;? Was he able to board an escape pod at all?</value>
+    <value>PLUME: Bróðir minn var ekki með okkur í &lt;color=orange&gt;Björungarbáti 1&lt;/color&gt;. Var hann í &lt;color=orange&gt;Báti 2&lt;/color&gt;, eða &lt;color=orange&gt;Báti 3&lt;/color&gt;? Komst hann um borð í björgunarbát til að byrja með?</value>
   </entry>
   <entry>
     <key>PLUME: We sacrificed too much arriving here. I cannot (&lt;i&gt;I will&lt;/i&gt; not) allow our clan’s greatest loss to be in vain.</key>
-    <value>PLUME: We sacrificed too much arriving here. I cannot (&lt;i&gt;I will&lt;/i&gt; not) allow our clan’s greatest loss to be in vain.</value>
+    <value>PLUME: Við fórnuðum of miklu til þess að koma hingað. Ég get ekki (&lt;i&gt;Ég skal&lt;/i&gt; ekki) láta stærsta missi ættbálks okkar verða til einskis.</value>
   </entry>
   <entry>
     <key>THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)</key>
-    <value>THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)</value>
+    <value>THATCH: Það erfiðasta við þennan hörmulega atburð er að við vitum ekki hverjum við gætum haft tapað? Eða kannski verður erfiðara þegar við vitum það? (Vertu heil á húfi, Melorae frænka)</value>
   </entry>
   <entry>
     <key>PLUME: Given concerns about our settlement’s stability, where should we construct a new, less temporary shelter?</key>
-    <value>PLUME: Given concerns about our settlement’s stability, where should we construct a new, less temporary shelter?</value>
+    <value>PLUME: Þar sem stöðugleiki þorpsins okkar er í vafa, hvar ættum við að byggja nýtt og varanlegra skjól?</value>
   </entry>
   <entry>
     <key>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</key>
-    <value>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</value>
+    <value>THATCH: Við þurfum að vera nálægt &lt;color=orange&gt;björgunarbátnum&lt;/color&gt; þannig að Filix getið fylgst með skilaboðum sem kunna að koma. Það er ekki hægt að bjarga okkur ef við erum ekki til staðar til að svara.</value>
   </entry>
   <entry>
     <key>FILIX: I don’t believe anyone is coming to save us, Thatch. Now we must save ourselves.</key>
-    <value>FILIX: I don’t believe anyone is coming to save us, Thatch. Now we must save ourselves.</value>
+    <value>FILIX: Ég held að enginn komi okkur til bjargar, Thatch. Núna þurfum við að bjarga okkur sjálf.</value>
   </entry>
   <entry>
     <key>PLUME: I agree. We’re here because the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called to us and we followed. If we’re to find it, we need to not merely survive, but thrive.</key>
