@@ -265,7 +265,7 @@
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
     <value>
-			HEFJA FLUGSKRÁ: &lt;color=orange&gt;Björgunarbátur 1&lt;/color&gt;. &lt;color=orange&gt;Skipið&lt;/color&gt; er lífshættulega laskað. Neyðaráætlun virkjuð. Í biðstöðu fyrir brottför frá &lt;color=orange&gt;Skipi&lt;/color&gt;.
+			HEF FLUGSKRÁ: &lt;color=orange&gt;Björgunarbátur 1&lt;/color&gt;. &lt;color=orange&gt;Skipið&lt;/color&gt; er lífshættulega laskað. Neyðaráætlun virkjuð. Í biðstöðu fyrir brottför frá &lt;color=orange&gt;Skipi&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -4319,7 +4319,7 @@
   </entry>
   <entry>
     <key>CASSAVA: If I’m ever half as gooey as Mallow and Avens behave together, Daz, you may launch &lt;i&gt;me&lt;/i&gt; from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-    <value>CASSAVA: Ef ég verð einhvern tímann jafn linur og Mallog og Avens þegar þau eru hvort öðru nærri, Daz, þá máttu skjóta &lt;i&gt;mér&lt;/i&gt; úr &lt;color=orange&gt;Geimflaugavörpunni&lt;/color&gt;.</value>
+    <value>CASSAVA: Ef ég verð einhvern tímann jafn linur og Mallow og Avens þegar þau eru hvort öðru nærri, Daz, þá máttu skjóta &lt;i&gt;mér&lt;/i&gt; úr &lt;color=orange&gt;Geimflaugavörpunni&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>CASSAVA: Our next step will be to send Privet up to the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to install the probe tracking system.</key>
@@ -5312,26 +5312,26 @@
   </entry>
   <entry>
     <key>ANNONA: We need status reports for all systems, but initial things first: Is everyone unharmed?</key>
-    <value>ANNONA: We need status reports for all systems, but initial things first: Is everyone unharmed?</value>
+    <value>ANNONA: Við þurfum stöðuna á öllum kerfunum, en þó fyrst: Eruð þið öll ómeidd?</value>
   </entry>
   <entry>
     <key>RHUS: Our color=orange&gt;escape pod&lt;/color&gt;’s passengers are afraid, but physically well, Annona; everyone survived the crash.</key>
-    <value>RHUS: Our &lt;color=orange&gt;escape pod&lt;/color&gt;’s passengers are afraid, but physically well, Annona; everyone survived the crash.</value>
+    <value>RHUS: Farþegar hér um borð í &lt;color=orange&gt;björgunarbátnum &lt;/color&gt; eru skelkaðir en ómeiddir. Annona; enginn dó við brotlendinguna.</value>
   </entry>
   <entry>
     <key>ANNONA: This is a relief, at least. You have my gratitude. Bur, were you able to find the other escape pods’ distress signals?</key>
-    <value>ANNONA: This is a relief, at least. You have my gratitude. Bur, were you able to find the other escape pods’ distress signals?</value>
+    <value>ANNONA: Það er mikill léttir. Mínar þakkir. Bur, gastu fundið neyðarmerki hinna björgunarbátanna?</value>
   </entry>
   <entry>
     <key>BUR: I can hear both signals somewhere in this star system, but I don’t believe either escape pod crashed on the same planet as us.</key>
-    <value>BUR: I can hear both signals somewhere in this star system, but I don’t believe either escape pod crashed on the same planet as us.</value>
+    <value>BUR: Ég nem bæði merkin einvhers staðar hér í þessu sólkerfi, en ég held að hvorugur báturinn hafi brotlend á sömu plánetu og við.</value>
   </entry>
   <entry>
     <key>
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
     <value>
-			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
+			HEF FLUGSKRÁ: &lt;color=orange&gt;Björgunarbátur 2&lt;/color&gt;. &lt;color=orange&gt;Skipið&lt;/color&gt; er lífshættulega laskað. Neyðaráætlun virkjuð. Í biðstöðu fyrir brottför frá &lt;color=orange&gt;Skipi&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -5339,7 +5339,7 @@
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;.
 		</key>
     <value>
-			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;.
+			Skýt &lt;color=orange&gt;Björgunarbát 3&lt;/color&gt; á loft... Hef skot á &lt;color=orange&gt;Björgunarbát 2&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -5348,8 +5348,8 @@
 			Verdict: INHOSPITABLE. Do not seek shelter on planet surface.
 		</key>
     <value>
-			Scanning external environment... Scan complete. External temperature is prohibitively high.
-			Verdict: INHOSPITABLE. Do not seek shelter on planet surface.
+      Skanna ytra umhverfi... Skimun lokið. Ytra hitastig metið óbærilegt.
+			Niðurstaða: ÓLÍFVÆNLEGT. Ekki leita skjóls á yfirborði plánetunnar.
 		</value>
   </entry>
   <entry>
@@ -5357,7 +5357,7 @@
 			MELORAE: This is amazing (look inside the cave)! How did this come to rest here? We haven’t encountered others in these caves; I think this is a rare find.
 		</key>
     <value>
-			MELORAE: This is amazing (look inside the cave)! How did this come to rest here? We haven’t encountered others in these caves; I think this is a rare find.
+			MELORAE: Þetta er ótrúlegt (horfið inn í hellinn)! Hvernig endaði hann hér? Við höfum ekki rekist á aðra í þessum hellum; ég held að þetta sé sjaldgæfur fundur. 
 		</value>
   </entry>
   <entry>
@@ -5365,7 +5365,7 @@
 			MELORAE: From what we can see, Coleus and I believe the specimen must be very old indeed. Imagine what we might learn if we could examine it!
 		</key>
     <value>
-			MELORAE: From what we can see, Coleus and I believe the specimen must be very old indeed. Imagine what we might learn if we could examine it!
+			MELORAE: Út frá því hvað við teljum okkur sjá, höldum við Coleus að þetta eintak sé svo sannarlega eldgamalt. Ímyndið ykkur hvað við gætum lært á því að skoða það! 
 		</value>
   </entry>
   <entry>
@@ -5373,7 +5373,7 @@
 			COLEUS: An update: We need to find a way inside quickly, Melorae, because when I returned here to search for an entrance to the cave, there were children playing on the specimen!
 		</key>
     <value>
-			COLEUS: An update: We need to find a way inside quickly, Melorae, because when I returned here to search for an entrance to the cave, there were children playing on the specimen!
+			COLEUS: Uppfærsla: Við þurfum að finna leið þangað inn í snatri, Melorae, vegna þess að þegar ég kom til baka í leit að inngangi í hellinn, þá voru börn að leika sér ofan á fyrirbærinu! 
 		</value>
   </entry>
   <entry>
@@ -5381,7 +5381,7 @@
 			COLEUS: We both agree it’s unlikely this dry planet is this horror’s place of origin (especially considering what we observed during the &lt;color=orange&gt;Vessel&lt;/color&gt;’s evacuation).
 		</key>
     <value>
-			COLEUS: We both agree it’s unlikely this dry planet is this horror’s place of origin (especially considering what we observed during the &lt;color=orange&gt;Vessel&lt;/color&gt;’s evacuation).
+			COLEUS: Við erum bæði sammála um það að þessi pláneta er ólíklegur fæðingarstaður þessa hryllings (sérstaklega ef við tökum með í reikninginn það sem við sáum í undankomunni frá &lt;color=orange&gt;Skipinu&lt;/color&gt;).
 		</value>
   </entry>
   <entry>
@@ -5389,7 +5389,7 @@
 			MELORAE: Clearly this hole is too small for it to have fit through. Hypothesis: There is another entrance to this cave. If there is, Coleus and I will find it! We can’t leave valuable information undiscovered!
 		</key>
     <value>
-			MELORAE: Clearly this hole is too small for it to have fit through. Hypothesis: There is another entrance to this cave. If there is, Coleus and I will find it! We can’t leave valuable information undiscovered!
+			MELORAE: Það er fullljóst að þessi hola er of smá til þess að eintakið komist í gegnum hana. Tilgáta: Það er önnur inngönguleið inn í þennan helli. Ef svo er, þá munum við Coleus finna hana. Við getum ekki látið dýrmæta vitneskju kjurrt liggja.
 		</value>
   </entry>
   <entry>
@@ -5397,7 +5397,7 @@
 			MELORAE: We have found an enormous cavern at the end of this passage that appears promising! I believe we could construct long-term shelter there.
 		</key>
     <value>
-			MELORAE: We have found an enormous cavern at the end of this passage that appears promising! I believe we could construct long-term shelter there.
+			MELORAE: Við fundum risastóran helli við end þessara ganga sem lofa góðu! Ég tel að við ættum að byggja langtímaskjól hérna. 
 		</value>
   </entry>
   <entry>
@@ -5405,7 +5405,7 @@
 			ANNONA: The cavern Melorae found is a wise choice for shelter. Could one of you mark directions for the others to follow?
 		</key>
     <value>
-			ANNONA: The cavern Melorae found is a wise choice for shelter. Could one of you mark directions for the others to follow?
+			ANNONA: Hellirinn sem Melorae fann er viturlegur kostur fyrir skjól. Gæti eitthvert ykkar skrifað niður leiðarvísi fyrir aðra til þess að fylgja?
 		</value>
   </entry>
   <entry>
@@ -5413,7 +5413,7 @@
 			COLEUS: This is the start of the path to the shelter site. I’ve left directions to guide you there.
 		</key>
     <value>
-			COLEUS: This is the start of the path to the shelter site. I've left directions to guide you there.
+			COLEUS: Hér byrjar leiðin að skjólinu. Ég hef ritað leiðarvísa sem koma þér þangað. 
 		</value>
   </entry>
   <entry>
@@ -5421,95 +5421,95 @@
 			MELORAE: Of note: We must hurry, as the pathway there is filling with sand. Do not allow yourself to be buried by sand, and make sure no one is lost!
 		</key>
     <value>
-			MELORAE: Of note: We must hurry, as the pathway there is filling with sand. Do not allow yourself to be buried by sand, and make sure no one is lost!
+			MELORAE: Athugið: Við þurfum að hafa hraðann á, leiðin þangað er að fyllast af sandi. Ekki leyfa sandinum að grafa ykkur niður, og passið að enginn týnist! 
 		</value>
   </entry>
   <entry>
     <key>MELORAE: Anglerfish study</key>
-    <value>MELORAE: Anglerfish study</value>
+    <value>MELORAE: Fiskskrattarannsókn</value>
   </entry>
   <entry>
     <key>COLEUS: An update: Melorae, while I was here making sketches of the anglerfish, I observed the children I saw earlier playing here again. They’ve added a rule to their game that incorporates our research (it’s wonderful)!</key>
-    <value>COLEUS: An update: Melorae, while I was here making sketches of the anglerfish, I observed the children I saw earlier playing here again. They’ve added a rule to their game that incorporates our research (it’s wonderful)!</value>
+    <value>COLEUS: Stöðuuppfærsla: Melorae, á meðan ég var hér að skissa fiskskrattann þá sá ég sömu börnin aftur, leika sér hérna. Þau hafa bætt við reglu í leikinn sinn sem tekur mið af rannsókn okkar (það er æðislegt)!</value>
   </entry>
   <entry>
     <key>MELORAE: I’m entirely delighted! It’s never too early to appreciate biology!</key>
-    <value>MELORAE: I’m entirely delighted! It’s never too early to appreciate biology!</value>
+    <value>MELORAE: Ég er hæstánægð! Aldrei of snemmt til að læra að meta líffræði!</value>
   </entry>
   <entry>
     <key>COLEUS: This anglerfish’s digestive tract suggests death by starvation.</key>
-    <value>COLEUS: This anglerfish’s digestive tract suggests death by starvation.</value>
+    <value>COLEUS: Meltingarvegur þessa fiskskratta bendir til þess að hann hafi svelt til dauða.</value>
   </entry>
   <entry>
     <key>MELORAE: Visually, the specimen appears to be of the same species as the anglerfish in &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. We don’t believe it originated from this planet.</key>
-    <value>MELORAE: Visually, the specimen appears to be of the same species as the anglerfish in &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. We don’t believe it originated from this planet.</value>
+    <value>MELORAE: Sjónrænt virðist þetta eintak vera af sömu tegund og fiskskrattarnir í &lt;color=lightblue&gt;Þokuþyrni&lt;/color&gt;. Við höldum ekki að hann hafi komið frá þessari plánetu.</value>
   </entry>
   <entry>
     <key>MELORAE: The long growth protruding from its head is bioluminescent. Perhaps it used this growth to attract prey (a lure?).</key>
-    <value>MELORAE: The long growth protruding from its head is bioluminescent. Perhaps it used this growth to attract prey (a lure?).</value>
+    <value>MELORAE: Langi útvöxturinn frá höfði hans er lífljómandi. Kannski er hlutverk útvaxtarins að lokka til sín bræað (tálbeita?).</value>
   </entry>
   <entry>
     <key>LAEVI: Whoever was it when we ended last time is the anglerfish.</key>
-    <value>LAEVI: Whoever was it when we ended last time is the anglerfish.</value>
+    <value>LAEVI: Sá sem var hann þegar við enduðum síðast er núna fiskskrattinn.</value>
   </entry>
   <entry>
     <key>LAEVI: &lt;i&gt;Rule change&lt;/i&gt;! The anglerfish now has to wear a blindfold. (And do &lt;i&gt;not&lt;/i&gt; peek!)</key>
-    <value>LAEVI: &lt;i&gt;Rule change&lt;/i&gt;! The anglerfish now has to wear a blindfold. (And do &lt;i&gt;not&lt;/i&gt; peek!)</value>
+    <value>LAEVI: &lt;i&gt;Reglubreyting&lt;/i&gt;! Fiskskrattinn þarf núna að binda fyrir augun. (Og &lt;i&gt;bannað&lt;/i&gt; að kíkja!)</value>
   </entry>
   <entry>
     <key>LAEVI: The rest of us (the littlefish) line up against one wall. When the anglerfish says go, the littlefish sneak across to the other side.</key>
-    <value>LAEVI: The rest of us (the littlefish) line up against one wall. When the anglerfish says go, the littlefish sneak across to the other side.</value>
+    <value>LAEVI: Við hin (smáfiskarnir) röðum okkur upp við einn vegg. Þegar fiskskrattinn klappar, þá þurfa smáfiskarnir að læðast yfir að hinum veggnum.</value>
   </entry>
   <entry>
     <key>LAEVI: If the anglerfish catches you, you’re eaten.</key>
-    <value>LAEVI: If the anglerfish catches you, you’re eaten.</value>
+    <value>LAEVI: Ef fiskskrattinn nær þér, þá ertu étinn.</value>
   </entry>
   <entry>
     <key>LAEVI: Last littlefish to be caught is the new anglerfish! (The old anglerfish gives the new anglerfish the blindfold and becomes a littlefish.)</key>
-    <value>LAEVI: Last littlefish to be caught is the new anglerfish! (The old anglerfish gives the new anglerfish the blindfold and becomes a littlefish.)</value>
+    <value>LAEVI: Síðasti óétni smáfiskurinn er nýji fiskskrattinn! (Gamli fiskskrattinn gefur nýja fiskskrattanum bindið og verður að smáfisk.)</value>
   </entry>
   <entry>
     <key>LAMI: Why are we changing it? It’s too hard if you can’t see anything!</key>
-    <value>LAMI: Why are we changing it? It’s too hard if you can’t see anything!</value>
+    <value>LAMI: Af hverju erum við að breyta leiknum? Þetta er of erfitt ef þú sérð ekki neitt!</value>
   </entry>
   <entry>
     <key>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</key>
-    <value>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</value>
+    <value>LAEVI: Pye frænka segir að alvöru fiskskratter séu blindir, svo þú verður að hafa bundið fyrir augan! Reglan stendur!</value>
   </entry>
   <entry>
     <key>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</key>
-    <value>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</value>
+    <value>ILEX: Reglubreyting: Það er allt í lagi ef yngri krakkarnir séu ekki með bundið fyrir augun þegar þau eru hann. (Restin þarf áfram að hafa bundið fyrir augun upp á vísindalega nákvæmni og til þess að jafna leikinn.)</value>
   </entry>
   <entry>
     <key>MELORAE: This planet sometimes (and only sometimes) has a &lt;color=lightblue&gt;moon&lt;/color&gt;! This is also of note: It disappears if no one is watching it! Isn’t that a &lt;i&gt;fascinating&lt;/i&gt; orbital characteristic?</key>
-    <value>MELORAE: This planet sometimes (and only sometimes) has a &lt;color=lightblue&gt;moon&lt;/color&gt;! This is also of note: It disappears if no one is watching it! Isn’t that a &lt;i&gt;fascinating&lt;/i&gt; orbital characteristic?</value>
+    <value>MELORAE: Stundum (og bara stundum) hefur þessi pláneta &lt;color=lightblue&gt;tungl&lt;/color&gt;! Einnig athyglisvert: Það hverfur ef enginn fylgist með því! &lt;i&gt;Stórmerkilegt&lt;/i&gt; sporbrautareinkenni!</value>
   </entry>
   <entry>
     <key>BUR: I found your note, Melorae; kindly count me among this &lt;color=lightblue&gt;moon&lt;/color&gt;’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?</key>
-    <value>BUR: I found your note, Melorae; kindly count me among this &lt;color=lightblue&gt;moon&lt;/color&gt;’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?</value>
+    <value>BUR: Ég fann glósuna þína, Melorae; þú mátt bæta mér við í hóp aðdáenda þessa &lt;color=lightblue&gt;tungls&lt;/color&gt;! Hvað gerist þegar það hverfur (ég efa að það hætti að vera til)? Fer það eitthvert annað?</value>
   </entry>
   <entry>
     <key>ANNONA: I believe so. Not only does the moon appear around &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;, I can confirm it sometimes orbits &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, as well.</key>
-    <value>ANNONA: I believe so. Not only does the moon appear around &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;, I can confirm it sometimes orbits &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, as well.</value>
+    <value>ANNONA: Ég held það. Ekki sést tunglið bara í kringum &lt;color=lightblue&gt;Brothol&lt;/color&gt;, heldur get ég staðfest að það er stundum á sporbraut um &lt;color=lightblue&gt;Bjálkaból&lt;/color&gt; líka.</value>
   </entry>
   <entry>
     <key>MELORAE: This is my first time encountering a natural satellite with the ability to vanish when not being watched. We should study it! Or, even better, we should travel there!</key>
-    <value>MELORAE: This is my first time encountering a natural satellite with the ability to vanish when not being watched. We should study it! Or, even better, we should travel there!</value>
+    <value>MELORAE: Þetta er í fyrsta sinn sem ég verð vitni að fylgihnetti sem getur horfið þegar enginn fylgist með honum. Við ættum að rannsaka hann! Og jafnvel betra, við ættum að ferðast þangað!</value>
   </entry>
   <entry>
     <key>BUR: I agree! Our first step would be determining a method to track this &lt;color=lightblue&gt;phantom moon&lt;/color&gt; so that we can always know where it is.</key>
-    <value>BUR: I agree! Our first step would be determining a method to track this &lt;color=lightblue&gt;phantom moon&lt;/color&gt; so that we can always know where it is.</value>
+    <value>BUR: Ég er sammála! Það fyrsta í stöðunni væri að finna leið til þess að hafa uppi á þessu &lt;color=lightblue&gt;draugatungli&lt;/color&gt; þannig að við vitum alltaf hvar það er.</value>
   </entry>
   <entry>
     <key>ANNONA: Given its reluctance to move while consciously observed, it might be a form of macroscopic quantum mechanics.</key>
-    <value>ANNONA: Given its reluctance to move while consciously observed, it might be a form of macroscopic quantum mechanics.</value>
+    <value>ANNONA: Miðað við tilhneigingu þess til að hreyfast ekki á meðan fylgst er með því, þá getur verið að allt tunglið í heild sinni sé eitt skammtakerfi.</value>
   </entry>
   <entry>
     <key>
 			COLEUS: How curious! This rock took me with it to a new location. I wonder why this happened?
 		</key>
     <value>
-			COLEUS: How curious! This rock took me with it to a new location. I wonder why this happened?
+			COLEUS: En forvitnilegt! Þetta grjót fór með mig á nýjan stað. Af hverju ætli það hafi skeð?
 		</value>
   </entry>
   <entry>
@@ -5517,7 +5517,7 @@
 			COLEUS: Curious, but also alarming: This new cave appears to lack an entrance or exit. Also, the rock that brought me here disappeared while I wasn’t watching.
 		</key>
     <value>
-			COLEUS: Curious, but also alarming: This new cave appears to lack an entrance or exit. Also, the rock that brought me here disappeared while I wasn’t watching.
+			COLEUS: Merkilega, en líka kvíðavekjandi: Þessi nýji hellir virðist hvorki hafa inn- né útgang. Að auki hvarf grjótið sem fór með mig hingað þegar ég var ekki að fylgjast með því. 
 		</value>
   </entry>
   <entry>
@@ -5525,7 +5525,7 @@
 			COLEUS: The wandering rock has returned! Never before have I been so delighted to see a sedimentary specimen.
 		</key>
     <value>
-			COLEUS: The wandering rock has returned! Never before have I been so delighted to see a sedimentary specimen.
+			COLEUS: Flökkugrjótið kom til baka! Aldrei hef ég áður verið jafn glaður að sjá nokkurn stein.
 		</value>
   </entry>
   <entry>
@@ -5533,7 +5533,7 @@
 			COLEUS: I wonder if I myself became quantum briefly when the rock carried me here! This seems the clearest explanation. Hypothesis: If the rock can bring me here, it can also carry me out.
 		</key>
     <value>
-			COLEUS: I wonder if I myself became quantum briefly when the rock carried me here! This seems the clearest explanation. Hypothesis: If the rock can bring me here, it can also carry me out.
+			COLEUS: Ég velti því fyrir mér hvort ég hafi verið hluti af skammtakerfi þegar grjótið fór með mig hingað. Það virðist vera skásta útskýringin. Tilgáta: Ef grjótið getur borið mig hingað, getur það borið mig héðan. 
 		</value>
   </entry>
   <entry>
@@ -5541,7 +5541,7 @@
 			COLEUS: My hypothesis was correct! I can travel on this rock, as long as I’m not observing my surroundings (meaning I must be in complete darkness). I’m going to bring my mentor here to see this.
 		</key>
     <value>
-			COLEUS: My hypothesis was correct! I can travel on this rock, as long as I’m not observing my surroundings (meaning I must be in complete darkness). I’m going to bring my mentor here to see this.
+			COLEUS: Tilgáta mín stóðst! Ég get ferðast á þessu grjóti, svo lengi sem ég fylgist ekki með umhverfi mínu (sem þýðir að ég þurfi að vera í algeru myrkri). Ég ætla að fá leiðbeinanda minn hingað til þess að sjá þetta.
 		</value>
   </entry>
   <entry>
@@ -5549,7 +5549,7 @@
 			COLEUS: Melorae is here now, too. We theorize when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they move together.
 		</key>
     <value>
-			COLEUS: Melorae is here now, too. We theorize when a conscious being is in contact with a quantum object and ceases to act as an observer (explaining the need for darkness), the being can become entangled with that quantum object, and they move together.
+			COLEUS: Melorae er hérna núna. Við höfum sett fram þá kenningu að þegar meðvituð vera er í snertingu við skammtahlut og hættir að virða fyrir sér umhverfið, þá geti sú vera samþáttast við þann skammtahlut og færst með honum.
 		</value>
   </entry>
   <entry>
@@ -5557,7 +5557,7 @@
 			MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he &lt;i&gt;does&lt;/i&gt; learn something useful from it!)
 		</key>
     <value>
-			MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he &lt;i&gt;does&lt;/i&gt; learn something useful from it!)
+			MELORAE: Kæru vinir, Coleus hefur uppgötvað nýja skammtareglu! (Hann hefur einnig lofað að hann ætli ekki hverfa aftur, jafnvel þótt það &lt;i&gt;muni&lt;/i&gt; leiða til nýrrar vitneskju!)
 		</value>
   </entry>
   <entry>
@@ -5565,45 +5565,45 @@
 			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
 		</key>
     <value>
-			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
-		</value>
+			Melorae: Coleus er horfinn! Hann hvarf úr &lt;color=orange&gt;Vatnsbotnshellinum&lt;/color&gt; (þessi sem er neðst í þurra vatnsbotninum við norðurpólinn) fyrir nokkrum dögum, og við finnum hvorki tangur né tetur af honum. Ég veit ekki hversu miklar súrefnisbirgðir hann hafði þegar hann hvarf. Ég bið hvern þann sem kann að lesa þetta, hjálpið okkur að finna Coleus!
+    </value>
   </entry>
   <entry>
     <key>MELORAE: Friends, if you find any sign of Coleus, I implore you to tell me! He vanished without a trace during our research trip, and has been missing ever since.</key>
-    <value>MELORAE: Friends, if you find any sign of Coleus, I implore you to tell me! He vanished without a trace during our research trip, and has been missing ever since.</value>
+    <value>MELORAE: Kæru vinir, ef þið finnið einhverjar vísbendingar um hvar Coleus er staddur þá grátbið ég ykkur um að segja mér það. Hann hvarf sporlaust í könnunarleiðangri okkar og hefur ekki sést til hans síðan þá.</value>
   </entry>
   <entry>
     <key>BUR: Melorae, some of us from the &lt;color=orange&gt;Sunless City&lt;/color&gt; are here to help search for Coleus. Can you tell us more about your expedition?</key>
-    <value>BUR: Melorae, some of us from the &lt;color=orange&gt;Sunless City&lt;/color&gt; are here to help search for Coleus. Can you tell us more about your expedition?</value>
+    <value>BUR: Melorae, við erum hér nokkur frá &lt;color=orange&gt;Birtulausu Borginni&lt;/color&gt; til þess að hjálpa þér að finna Coleus. Getur þú sagt okkur meira um könnunarleiðangurinn ykkar?</value>
   </entry>
   <entry>
     <key>MELORAE: You have my gratitude, Bur! Coleus and I were studying the caves’ geology. We hoped to learn more about a unique and wandering rock that visits several different caves in the area.</key>
-    <value>MELORAE: You have my gratitude, Bur! Coleus and I were studying the caves’ geology. We hoped to learn more about a unique and wandering rock that visits several different caves in the area.</value>
+    <value>MELORAE: Kærar þakkir, Bur! Ég og Coleus vorum í jarðfræðirannsóknarleiðangri. Við vonuðumst til þess að læra meira um þetta einstaka flökkugrjót sem heimsækir nokkra mismunandi hella á þessu svæði.</value>
   </entry>
   <entry>
     <key>ANNONA: Where was young Coleus lost, Melorae?</key>
-    <value>ANNONA: Where was young Coleus lost, Melorae?</value>
+    <value>ANNONA: Hvar týndist hinn ungi Coleus, Melorae?</value>
   </entry>
   <entry>
     <key>MELORAE: He disappeared in the cave at the bottom of the dry lakebed at the north pole. It happened in an instant, and without warning.</key>
-    <value>MELORAE: He disappeared in the cave at the bottom of the dry lakebed at the north pole. It happened in an instant, and without warning.</value>
+    <value>MELORAE: Hann hvarf í hellinum við þurra vatnsbotninn á norðurpólnum. Þetta gerðist skyndilega og fyrirvaralaust.</value>
   </entry>
   <entry>
     <key>MELORAE: I turned away from Coleus to examine a sample, and when I turned back, he simply wasn’t there anymore. He had a limited supply of air, Annona! I’m afraid for him!</key>
-    <value>MELORAE: I turned away from Coleus to examine a sample, and when I turned back, he simply wasn’t there anymore. He had a limited supply of air, Annona! I’m afraid for him!</value>
+    <value>MELORAE: Ég sneri mér frá Coleus til þess að skoða jarðsýni og þegar ég sneri við þá var hann einfaldlega ekki þarna lengur. Hann hafði takmarkaðar súrefnisbirgðir, Annona! Ég óttast um hann!</value>
   </entry>
   <entry>
     <key>ANNONA: Hypothesis: We will learn more by examining the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; where Coleus disappeared. Search quickly, everyone; we have no time to squander!</key>
-    <value>ANNONA: Hypothesis: We will learn more by examining the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; where Coleus disappeared. Search quickly, everyone; we have no time to squander!</value>
+    <value>ANNONA: Tilgáta: Við getum lært meira með því að grandskoða &lt;color=orange&gt;Vatnsbotnshellinn&lt;/color&gt; þar sem Coleus hvarf. Leitið rösklega; við höfum engum tíma að tapa!</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;High Energy Lab&lt;/color&gt;</key>
-    <value>&lt;color=orange&gt;High Energy Lab&lt;/color&gt;</value>
+    <value>&lt;color=orange&gt;Stórorkustöðin&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
 		</key>
-    <value>SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
+    <value>SECCA: Ef þú komst hingað til að leita okkar skaltu vita: Við eltum eitt tveggja leiðarmerkja &lt;color=orange&gt;Skipsins&lt;/color&gt; hingað, en við komumst ekki lengra.
 		</value>
   </entry>
   <entry>
@@ -5611,7 +5611,7 @@
 			SECCA: It’s almost too faint to hear now, but the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is still faintly emitting from within this thorny seed. Yet the opening is too small for even a single Nomai to fit through it, so our &lt;color=orange&gt;escape pod&lt;/color&gt; couldn’t have flown through here.
 		</key>
     <value>
-			SECCA: It's almost too faint to hear now, but the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is still faintly emitting from within this thorny seed. Yet the opening is too small for even a single Nomai to fit through it, so our &lt;color=orange&gt;escape pod&lt;/color&gt; couldn’t have flown through here.
+			SECCA: Það heyrist varla lengur í því en leiðarmerki &lt;color=orange&gt;Skipsins&lt;/color&gt; gefur frá sér dauft merki innan úr þessu þyrnifræi. En opið á fræinu er of lítið, jafnvel fyrir lítinn Nomaia, til þess að komast í gegn. Þannig að &lt;color=orange&gt;björgunarbáturinn&lt;/color&gt; okkar getur ekki haft flogið þarna í gegn.
 		</value>
   </entry>
   <entry>
@@ -5619,7 +5619,7 @@
 			SECCA: I don’t understand how this could be possible, but this gruesome place seems able to manipulate space itself; maybe this was our undoing.
 		</key>
     <value>
-			SECCA: I don’t understand how this could be possible, but this gruesome place seems able to manipulate space itself; maybe this was our undoing.
+			SECCA: Ég skil ekki hvernig þetta er mögulegt, en þessi hroðalegi staður virðist geta hagrætt rúminu sjálfu; kannski varð það okkur að falli. 
 		</value>
   </entry>
   <entry>
@@ -5627,7 +5627,7 @@
 			SECCA: To be so close to the location of the &lt;color=orange&gt;Vessel&lt;/color&gt; and still so far is... difficult. Worse, the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is dying; soon, we will be unable to hear it.
 		</key>
     <value>
-			SECCA: To be so close to the location of the &lt;color=orange&gt;Vessel&lt;/color&gt; and still so far is... difficult. Worse, the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is dying; soon, we will be unable to hear it.
+			SECCA: Að vera svo nálægt &lt;color=orange&gt;Skipinu&lt;/color&gt; en samt svo langt í burtu er... erfitt. Verra er að leiðarmerki &lt;color=orange&gt;Skipsins&lt;/color&gt; mun fjara út; bráðum munum við ekki geta heyrt í því lengur.
 		</value>
   </entry>
   <entry>
@@ -5635,7 +5635,7 @@
 			SECCA: There is nothing we can do now but try to perhaps find a way inside, or at least attempt to comprehend why this happened.
 		</key>
     <value>
-			SECCA: There is nothing we can do now but try to perhaps find a way inside, or at least attempt to comprehend why this happened.
+			SECCA: Það er ekkert í stöðunni nema kannski að reyna að finna leið inn, eða að minnsta kosti skilja af hverju þetta gerðist. 
 		</value>
   </entry>
   <entry>
@@ -5643,143 +5643,143 @@
 			SECCA: My dearest hope is that the other escape pods were able to reach relative safety.
 		</key>
     <value>
-			SECCA: My dearest hope is that the other escape pods were able to reach relative safety.
+			SECCA: Mín helsta von er að hinir björgunarbátarnir hafi komist í nokkuð örugga höfn. 
 		</value>
   </entry>
   <entry>
     <key>DIN: There is a new problem: Our equipment is detecting two distinct beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-    <value>DIN: There is a new problem: Our equipment is detecting two distinct beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</value>
+    <value>DIN: Nýtt vandamál: Búnaðurinn okkar nemur tvö leiðarmerki frá &lt;color=orange&gt;Skipinu&lt;/color&gt; á sama tíma.</value>
   </entry>
   <entry>
     <key>SECCA: But it isn’t possible for the &lt;color=orange&gt;Vessel&lt;/color&gt; to be in two different locations at the same time.</key>
-    <value>SECCA: But it isn’t possible for the &lt;color=orange&gt;Vessel&lt;/color&gt; to be in two different locations at the same time.</value>
+    <value>SECCA: En það er ómögulegt fyrir &lt;color=orange&gt;Skipið&lt;/color&gt; að vera á tveimur stöðum í einu.</value>
   </entry>
   <entry>
     <key>DIN: I agree, but the beacons are exactly identical to each other. Perhaps if I had more time —</key>
-    <value>DIN: I agree, but the beacons are exactly identical to each other. Perhaps if I had more time —</value>
+    <value>DIN: Ég er sammála, en leiðarmerkin eru nákvæmlega þau sömu. Kannski ef við hefðum meiri tíma —</value>
   </entry>
   <entry>
     <key>SECCA: We’re nearly out of time already, Din; the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is quickly fading. Soon, it will be gone, and we will be lost.</key>
-    <value>SECCA: We’re nearly out of time already, Din; the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is quickly fading. Soon, it will be gone, and we will be lost.</value>
+    <value>SECCA: Við erum næstum því uppiskroppa með tíma, Din, leiðarmerki &lt;color=orange&gt;Skipsins&lt;/color&gt; er að dofna hratt. Bráðum verður það horfið og við verðum stefnulaus.</value>
   </entry>
   <entry>
     <key>ESCALL: We will follow the beacon whose source is nearest to us.</key>
-    <value>ESCALL: We will follow the beacon whose source is nearest to us.</value>
+    <value>ESCALL: Við munum fylgja því leiðarmerki sem er nær okkur.</value>
   </entry>
   <entry>
     <key>DIN: But suppose that beacon is false!</key>
-    <value>DIN: But suppose that beacon is false!</value>
+    <value>DIN: En gerum ráð fyrir að það sé falsmerki!</value>
   </entry>
   <entry>
     <key>ESCALL: We likely don’t have enough air to reach the farther of the two beacons, Din. The decision is made for us.</key>
-    <value>ESCALL: We likely don’t have enough air to reach the farther of the two beacons, Din. The decision is made for us.</value>
+    <value>ESCALL: Við höfum líklegast ekki nægar súrefnisbirgðir til þess að ná til þess leiðarmerkis sem er okkur fjær, Din. Ákvörðunin er tekin fyrir okkur.</value>
   </entry>
   <entry>
     <key>ESCALL: We’ll leave a trail of lights as we go. There’s still a chance someone could hear our &lt;color=orange&gt;escape pod&lt;/color&gt;’s distress signal.</key>
-    <value>ESCALL: We’ll leave a trail of lights as we go. There’s still a chance someone could hear our &lt;color=orange&gt;escape pod&lt;/color&gt;’s distress signal.</value>
+    <value>ESCALL: Við skulum skilja eftir okkur slóða af ljósum. Það er möguleiki að einhver gæti enn heyrt í neyðarmerki &lt;color=orange&gt;björgunarbáts&lt;/color&gt; okkar.</value>
   </entry>
   <entry>
     <key>BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-    <value>BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.</value>
+    <value>HEF FLUGSKRÁ: &lt;color=orange&gt;Björgunarbátur 2&lt;/color&gt;. &lt;color=orange&gt;Skipið&lt;/color&gt; er lífshættulega laskað. Neyðaráætlun virkjuð. Í biðstöðu fyrir brottför frá &lt;color=orange&gt;Skipi&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>Now launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;.</key>
-    <value>Now launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;.</value>
+    <value>Hef skot á &lt;color=orange&gt;Björgunarbát 3&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>ALERT: Multiple collisions have altered pod’s trajectory. Significant damage to pod detected.</key>
-    <value>ALERT: Multiple collisions have altered pod’s trajectory. Significant damage to pod detected.</value>
+    <value>HÆTTUÁSTAND: Endurteknir árekstrar hafa breytt stefnu bátsins. Töluverðar skemmdir á bátnum fundust.</value>
   </entry>
   <entry>
     <key>WARNING: Navigation error. Life support error. Propulsion error.</key>
-    <value>WARNING: Navigation error. Life support error. Propulsion error.</value>
+    <value>VIÐVÖRUN: Villa í stjórnbúnaði. Villa í lífbúnaði. Villa í drifbúnaði.</value>
   </entry>
   <entry>
     <key>Scanning external environment... Scan complete. Gravity not detected. Breathable air not detected. Multiple lifeforms detected (potentially hostile). Verdict: DO NOT EXIT POD.</key>
-    <value>Scanning external environment... Scan complete. Gravity not detected. Breathable air not detected. Multiple lifeforms detected (potentially hostile). Verdict: DO NOT EXIT POD.</value>
+    <value>Skanna ytra umhverfi... Skimun lokið. Ekkert þyngdarafl fannst. Ekkert öndunarhæft loft fannst. Lífverur fundust (mögulega óvinveittar). Niðurstaða: EKKI FARA FRÁ BORÐI.</value>
   </entry>
   <entry>
     <key>The arch and the crystal do not naturally meet.</key>
-    <value>The arch and the crystal do not naturally meet.</value>
+    <value>Boginn og kristallinn mætast ekki.</value>
   </entry>
   <entry>
     <key>PHLOX: I’m curious: Is sending a being’s memories back in time the same as sending the being itself back in time?</key>
-    <value>PHLOX: I’m curious: Is sending a being’s memories back in time the same as sending the being itself back in time?</value>
+    <value>PHLOX: Ég er forvitinn: Er að senda minningar aftur í tímann það sama og að senda veruna sjálfa aftur í tímann?</value>
   </entry>
   <entry>
     <key>PHLOX: As an example, if we were to send my memories back in time, is that the same as sending “me” back in time (not my physical body, but my essence)?</key>
-    <value>PHLOX: As an example, if we were to send my memories back in time, is that the same as sending “me” back in time (not my physical body, but my essence)?</value>
+    <value>PHLOX: Sem dæmi, ef ég myndi senda minningarnar mínar aftur í tímann, er það jafngilt því að senda "mig" aftur í tímann (ekki líkama minn heldur kjarnann af því sem ég er)?</value>
   </entry>
   <entry>
     <key>DAZ: I imagine they’re two different actions.</key>
-    <value>DAZ: I imagine they’re two different actions.</value>
+    <value>DAZ: Ég held að það sé tvennt ólíkt.</value>
   </entry>
   <entry>
     <key>CASSAVA: Wouldn’t both actions be effectively the same?</key>
-    <value>CASSAVA: Wouldn’t both actions be effectively the same?</value>
+    <value>CASSAVA: Myndi ekki hvort tveggja koma niður á því sama?</value>
   </entry>
   <entry>
     <key>DAZ: Suppose that time was being rewritten. I believe this is different than receiving memories from what is effectively the future.</key>
-    <value>DAZ: Suppose that time was being rewritten. I believe this is different than receiving memories from what is effectively the future.</value>
+    <value>DAZ: Segjum sem svo að tímalínunni sé breytt. Ég held að það sé í eðli sínu öðruvísi heldur en að fá sendar til sín minningar sem koma, þannig séð, úr framtíðinni.</value>
   </entry>
   <entry>
     <key>CASSAVA: But isn’t the end result identical in either case?</key>
-    <value>CASSAVA: But isn’t the end result identical in either case?</value>
+    <value>CASSAVA: En er ekki lokaniðurstaðan sú sama í báðum tilvikum?</value>
   </entry>
   <entry>
     <key>PHLOX: Welcome to Giant’s Deep, friends! I’m excited for you to meet the statues!</key>
-    <value>PHLOX: Welcome to Giant’s Deep, friends! I’m excited for you to meet the statues!</value>
+    <value>PHLOX: Velkomnir á Jötunsdýpi, kæru vinir! Ég er spenntur að fá að leyfa ykkur að sjá stytturnar!</value>
   </entry>
   <entry>
     <key>PHLOX: If I’m not in my dwelling, I’m likely in my &lt;color=orange&gt;workshop&lt;/color&gt; below (inside the island).</key>
-    <value>PHLOX: If I’m not in my dwelling, I’m likely in my &lt;color=orange&gt;workshop&lt;/color&gt; below (inside the island).</value>
+    <value>PHLOX: Ef ég er ekki í bústaðnum mínum, þá er ég líklega í &lt;color=orange&gt;smiðjunni&lt;/color&gt; minni að neðan (inni í eyjunni).</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
 		</key>
-    <value>&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
+    <value>TJÓNASKÝRSLA &lt;color=orange&gt;GEIMFLAUGAVÖRPUNNAR&lt;/color&gt;: Mikið burðarálag fannst. Met tjón á einingum...
 		</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Control Module&lt;/color&gt;: Intact. No structural damage.
 		</key>
-    <value>&lt;color=orange&gt;Control Module&lt;/color&gt;: Intact. No structural damage.
+    <value>&lt;color=orange&gt;Stjórneining&lt;/color&gt;: Í heilu lagi. Ekkert tjón á byggingu.
 		</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
 		</key>
-    <value>&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
+    <value>&lt;color=orange&gt;Vörpueining&lt;/color&gt;: Útsýnisgluggi brotinn. Eining er berskjölduð gegn tómarúmi geimsins. 
 		</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;: MISSING.
 		</key>
-    <value>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;: MISSING.
+    <value>&lt;color=orange&gt;Rakningareining Könnunarhnatta&lt;/color&gt;: TÝND.
 		</value>
   </entry>
   <entry>
     <key>BEGIN LAUNCH LOG: &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;. Launch request received. Probe launch successful.</key>
-    <value>BEGIN LAUNCH LOG: &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;. Launch request received. Probe launch successful.</value>
+    <value>HEF VÖRPUSKRÁ: &lt;color=orange&gt;Geimflaugavarpa&lt;/color&gt;. Skotbeiðni móttekin. Velheppnað skot á könnunarhnetti.</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is receiving data from probe.</key>
-    <value>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is receiving data from probe.</value>
+    <value>&lt;color=orange&gt;Rakningareining Könnunarhnatta&lt;/color&gt; er að móttaka gögn frá könnunarhnetti.</value>
   </entry>
   <entry>
     <key>WARNING: &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; structure compromised during launch. Damage to multiple modules detected.</key>
-    <value>WARNING: &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; structure compromised during launch. Damage to multiple modules detected.</value>
+    <value>VIÐVÖRUN: Burðarlag &lt;color=orange&gt;Geimflaugavörpunnar&lt;/color&gt; veikist við skot. Tjón á einingum fannst.</value>
   </entry>
   <entry>
     <key>Probe Tracking Module</key>
-    <value>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;</value>
+    <value>&lt;color=orange&gt;Rakningareining Könnunarhnatta&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>
 			You have recalled the rule of quantum imaging.
 		</key>
     <value>
-			You have recalled the rule of quantum imaging.
+      Þú hefur minnst reglunnar um skammtamyndun.
 		</value>
   </entry>
   <entry>
@@ -5787,7 +5787,7 @@
 			Recall the rule of quantum entanglement.
 		</key>
     <value>
-			Recall the rule of quantum entanglement.
+      Mundu eftir reglunni um skammtasamþættingu. 
 		</value>
   </entry>
   <entry>
@@ -5795,147 +5795,147 @@
 			Recall the rule of the sixth location.
 		</key>
     <value>
-			Recall the rule of the sixth location.
+      Mundu eftir reglunni um sjöttu staðsetninguna.
 		</value>
   </entry>
   <entry>
     <key>SOLANUM: I’m at the shuttle! I’m ready to make my first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
-    <value>SOLANUM: I’m at the shuttle! I’m ready to make my first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</value>
+    <value>SOLANUM: Ég er við geimferjuna. Ég er tilbúin í að fara mína fyrstu pílagrímsferð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>BELLS: That’s exciting! You’re &lt;i&gt;almost&lt;/i&gt; ready, but there’s still one more rule you need to learn. Come see me at the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</key>
-    <value>BELLS: That’s exciting! You’re &lt;i&gt;almost&lt;/i&gt; ready, but there’s still one more rule you need to learn. Come see me at the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</value>
+    <value>BELLS: En spennandi! Þú ert &lt;i&gt;næstum&lt;/i&gt; næstum tilbúin en það er ein regla í viðbót sem þú þarft að læra. Komdu til min í &lt;color=orange&gt;Skammtaskilningsturninn&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>BELLS: The tower is on the opposite side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. If you follow the path west to the &lt;color=orange&gt;Crossroads&lt;/color&gt;, you can reach the tower from there.</key>
-    <value>BELLS: The tower is on the opposite side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. If you follow the path west to the &lt;color=orange&gt;Crossroads&lt;/color&gt;, you can reach the tower from there.</value>
+    <value>BELLS: Turninn er hinum megin á &lt;color=lightblue&gt;Brotholi&lt;/color&gt;. Ef þú fylgir slóðanum til vesturs frá &lt;color=orange&gt;Vegamótunum&lt;/color&gt;, þá muntu komast hingað.</value>
   </entry>
   <entry>
     <key>SOLANUM: My gratitude for the directions, Bells. I’ll see you soon!</key>
-    <value>SOLANUM: My gratitude for the directions, Bells. I’ll see you soon!</value>
+    <value>SOLANUM: Kærar þakkir fyrir leiðbeiningarnar, Bells. Sé þig bráðum!</value>
   </entry>
   <entry>
     <key>CASSAVA: I have bad news, Avens. Yarrow says there was a problem with the proposed power source, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; won’t be asked to fire.</key>
-    <value>CASSAVA: I have bad news, Avens. Yarrow says there was a problem with the proposed power source, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; won’t be asked to fire.</value>
+    <value>CASSAVA: Ég hef slæmar fréttir að færa, Avens. Yarrow segir að það sé vandi á fyrirhugaða aflgjafanum, þannig að &lt;color=orange&gt;Geimflaugavarpan&lt;/color&gt; verður ekki beðin um að skjóta.</value>
   </entry>
   <entry>
     <key>AVENS: I hope you’re pulling my locomotive limb here, Cassava.</key>
-    <value>AVENS: I hope you’re pulling my locomotive limb here, Cassava.</value>
+    <value>AVENS: Ég vona að þú sért að grínast í mér, Cassava.</value>
   </entry>
   <entry>
     <key>CASSAVA: I wish I were, my friend, but no. They aren’t certain they can fix the problem, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; is on indefinite hiatus.</key>
-    <value>CASSAVA: I wish I were, my friend, but no. They aren’t certain they can fix the problem, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; is on indefinite hiatus.</value>
+    <value>CASSAVA: Ég vildi að svo væri, kæri vinur, en nei. Þau eru ekki viss um hvort þau geti lagað vandamálið, þannig að &lt;color=orange&gt;Geimflaugavarpan&lt;/color&gt; er í biðstöðu um óákveðinn tíma.</value>
   </entry>
   <entry>
     <key>CASSAVA: Tell Privet and Mallow they should return from the &lt;color=orange&gt;cannon&lt;/color&gt;. My spouse and I will remain at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, for now.</key>
-    <value>CASSAVA: Tell Privet and Mallow they should return from the &lt;color=orange&gt;cannon&lt;/color&gt;. My spouse and I will remain at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, for now.</value>
+    <value>CASSAVA: Segðu Privet og Mallow að þau ættu að koma til baka frá &lt;color=orange&gt;vörpunni&lt;/color&gt;. Ég og maki minn munum verða eftir á &lt;color=orange&gt;Smíðaverkstæðinu&lt;/color&gt;, í bili.</value>
   </entry>
   <entry>
     <key>AVENS: An update: Mallow and I will join you and Daz. Privet left to visit her brother. She fears Idaea may feel responsible.</key>
-    <value>AVENS: An update: Mallow and I will join you and Daz. Privet left to visit her brother. She fears Idaea may feel responsible.</value>
+    <value>AVENS: Uppfærsla: Ég og Mallow ætlum að koma til þín og Daz. Privet fór til þess að heimsækja bróður sinn. Hún óttast að Idaea líði ábyrgum fyrir þessu.</value>
   </entry>
   <entry>
     <key>MALLOW: Imagine, Privet: the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; will be the first to know the coordinates of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;! You’ll be the first to see them!</key>
-    <value>MALLOW: Imagine, Privet: the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; will be the first to know the coordinates of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;! You’ll be the first to see them!</value>
+    <value>MALLOW: Ímyndaðu þér, Privet: &lt;color=orange&gt;Rakningareining Könnunarhnattanna&lt;/color&gt; verður fyrst til þess að vita hnit &lt;color=lightblue&gt;Auga Alheimsins&lt;/color&gt;! Þú verður fyrst til þess að sjá þau!</value>
   </entry>
   <entry>
     <key>PRIVET: I am honored and terrified!</key>
-    <value>PRIVET: I am honored and terrified!</value>
+    <value>PRIVET: Mín er ánægjan og skelfingin!</value>
   </entry>
   <entry>
     <key>PRIVET: You won’t ask the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to use so much power that it breaks, will you?</key>
-    <value>PRIVET: You won’t ask the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to use so much power that it breaks, will you?</value>
+    <value>PRIVET: Þú munt ekki biðja &lt;color=orange&gt;Geimflaugavörpuna&lt;/color&gt; um að nota svo mikinn kraft að hún brotnar, eða hvað?</value>
   </entry>
   <entry>
     <key>MALLOW: Fret not, my nervous friend! We only need to fire the probe once, anyway, so who minds if it compromises the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;’s structural integrity slightly?</key>
-    <value>MALLOW: Fret not, my nervous friend! We only need to fire the probe once, anyway, so who minds if it compromises the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;’s structural integrity slightly?</value>
+    <value>MALLOW: Engar áhyggjur, kæri taugaveiklaði vinur! Við þurfum bara að skjóta könnunarhnettinum einu sinni, hvort eð er, svo hverjum er ekki saman ef skotið veikir byggingu &lt;color=orange&gt;Geimflaugavörpunnar&lt;/color&gt; aðeins?</value>
   </entry>
   <entry>
     <key>PRIVET: I would mind, Mallow! I would mind, because we won’t be capable of receiving our probe’s data if the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is destroyed!</key>
-    <value>PRIVET: I would mind, Mallow! I would mind, because we won’t be capable of receiving our probe’s data if the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is destroyed!</value>
+    <value>PRIVET: Mér stæði ekki á sama, Mallow. Við getum ekki tekið á móti gögnum könnunarhnattarins ef &lt;color=orange&gt;Rakningareining Könnunarhnattanna&lt;/color&gt; eyðileggst!</value>
   </entry>
   <entry>
     <key>AVENS: Mallow, my better 50 percent! Cassava is sending the last of the &lt;color=orange&gt;cannon&lt;/color&gt; components. Soon (relatively speaking), we’ll know the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s precise location!</key>
-    <value>AVENS: Mallow, my better 50 percent! Cassava is sending the last of the &lt;color=orange&gt;cannon&lt;/color&gt; components. Soon (relatively speaking), we’ll know the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s precise location!</value>
+    <value>AVENS: Mallow, mín betri 50 prósent! Cassava er að senda síðustu parta &lt;color=orange&gt;vörpunnar&lt;/color&gt;. Bráðlega (hlutfallslega séð), munum við vita nákvæma staðsetningu &lt;color=lightblue&gt;Augans&lt;/color&gt;!</value>
   </entry>
   <entry>
     <key>MALLOW: The thought of concluding our elders’ curious and challenging search increases my heart’s temperature, my love!</key>
-    <value>MALLOW: The thought of concluding our elders’ curious and challenging search increases my heart’s temperature, my love!</value>
+    <value>MALLOW: Tilhugsunin um að ljúka forvitnilegri og erfiðri leit forfeðra okkar hækkar hitastig hjartaróta minna, ástin mín!</value>
   </entry>
   <entry>
     <key>AVENS: Cassava tells me he and the &lt;color=orange&gt;Construction Yard&lt;/color&gt; crew have determined a power setting we are not, under any circumstances, to go above.</key>
-    <value>AVENS: Cassava tells me he and the &lt;color=orange&gt;Construction Yard&lt;/color&gt; crew have determined a power setting we are not, under any circumstances, to go above.</value>
+    <value>AVENS: Cassava segir mér að hann og teymi &lt;color=orange&gt;Smíðaverkstæðisins&lt;/color&gt; hafi ákvarðað kraftstillingu sem við eigum ekki undir nokkrum kringumstæðum að fara yfir.</value>
   </entry>
   <entry>
     <key>MALLOW: I see! And am I right to think that, consequently, we’ll be ignoring that setting?</key>
-    <value>MALLOW: I see! And am I right to think that, consequently, we’ll be ignoring that setting?</value>
+    <value>MALLOW: Ég skil! Skil ég einnig rétt að við munum í framhaldinu hunsa þá stillingu?</value>
   </entry>
   <entry>
     <key>AVENS: I can posit with nearly 100 percent certainty our friends have accounted for our natures, so I suggest we do!</key>
-    <value>AVENS: I can posit with nearly 100 percent certainty our friends have accounted for our natures, so I suggest we do!</value>
+    <value>AVENS: Ég er 100 prósent viss um að vinir okkar hafi spáð því að við myndum hunsa þá stillingu, þannig að ég segi að við gerum það!</value>
   </entry>
   <entry>
     <key>AVENS: Giving the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; all the power it can structurally withstand creates the greatest chance of finding the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-    <value>AVENS: Giving the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; all the power it can structurally withstand creates the greatest chance of finding the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</value>
+    <value>AVENS: Ef við látum &lt;color=orange&gt;Geimflaugavörpuna&lt;/color&gt; fá allan þann kraft sem bygging hennar getur staðist þá aukast líkurnar okkar á því að finna &lt;color=lightblue&gt;Auga alheimsins&lt;/color&gt; töluvert.</value>
   </entry>
   <entry>
     <key>MALLOW: Yes, the probe must travel as fast as it can, as far as it can. I’ll make some adjustments!</key>
-    <value>MALLOW: Yes, the probe must travel as fast as it can, as far as it can. I’ll make some adjustments!</value>
+    <value>MALLOW: Já, könnunarhnötturinn þarf að ferðast eins hratt og hann getur og eins langt og hann getur. Ég skal fara í fínstillingarnar.</value>
   </entry>
   <entry>
     <key>YARROW: I have exciting news, Privet: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is almost prepared to receive the probe data from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-    <value>YARROW: I have exciting news, Privet: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is almost prepared to receive the probe data from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</value>
+    <value>YARROW: Ég hef spennandi fréttir, Privet: &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; er næstum tilbúið til þess að taka á móti gögnum frá könnunarhnetti &lt;color=orange&gt;Geimflaugavörpunnar&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>YARROW: Ramie is adding some finishing touches here, but she’ll be finished soon. Are you and the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; well?</key>
-    <value>YARROW: Ramie is adding some finishing touches here, but she’ll be finished soon. Are you and the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; well?</value>
+    <value>YARROW: Ramie er að klára nokkur atriði hérna, og hún verður bráðum búin. Er þú, ásamt &lt;color=orange&gt;Geimflaugavörpunni&lt;/color&gt;, í góðu standi?</value>
   </entry>
   <entry>
     <key>PRIVET: We are! The statue here in the&lt;color=orange&gt; Probe Tracking Module &lt;/color&gt;is ready to record each launch’s flight trajectory and will automatically transmit all relevant data to you.</key>
-    <value>PRIVET: We are! The statue here in the&lt;color=orange&gt; Probe Tracking Module &lt;/color&gt;is ready to record each launch’s flight trajectory and will automatically transmit all relevant data to you.</value>
+    <value>PRIVET: Já, við erum það! Styttan hérna í &lt;color=orange&gt;Rakningareiningu Könnunarhnattanna&lt;/color&gt; er tilbúin í að skrá niður flugbraut hvers skots og mun sjálfkrafa senda öll viðeigandi gögn til ykkar.</value>
   </entry>
   <entry>
     <key>PRIVET: Once the probe determines the location of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;, I’ll send an alert directly to you and Ramie.</key>
-    <value>PRIVET: Once the probe determines the location of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;, I’ll send an alert directly to you and Ramie.</value>
+    <value>PRIVET: Þegar hnötturinn finnur nákvæma staðsetningu &lt;color=lightblue&gt;Auga alheimsins&lt;/color&gt;, mun ég senda tilkynningu beint á þig og Ramie.</value>
   </entry>
   <entry>
     <key>PRIVET: On the other appendage, I’m now worried about this &lt;color=orange&gt;cannon&lt;/color&gt;’s structural integrity and its crew’s moral integrity.</key>
-    <value>PRIVET: On the other appendage, I’m now worried about this &lt;color=orange&gt;cannon&lt;/color&gt;’s structural integrity and its crew’s moral integrity.</value>
+    <value>PRIVET: Hins slóða, þá hef ég áhyggjur af burðarúthaldi &lt;color=orange&gt;vörpunnar&lt;/color&gt; ásamt siðferði áhafnarinnar.</value>
   </entry>
   <entry>
     <key>YARROW: What happened? Did the &lt;color=orange&gt;Sun Station&lt;/color&gt; not fire?</key>
-    <value>YARROW: What happened? Did the &lt;color=orange&gt;Sun Station&lt;/color&gt; not fire?</value>
+    <value>YARROW: Hvað gerðist? Virkjaðist &lt;color=orange&gt;Sólstöðin&lt;/color&gt; ekki?</value>
   </entry>
   <entry>
     <key>PYE: It fired, Yarrow. But it failed. The &lt;color=lightblue&gt;sun&lt;/color&gt; barely responded; there were infintestimally small surface-level changes, but they were barely visible, even to the third eye.</key>
-    <value>PYE: It fired, Yarrow. But it failed. The &lt;color=lightblue&gt;sun&lt;/color&gt; barely responded; there were infintestimally small surface-level changes, but they were barely visible, even to the third eye.</value>
+    <value>PYE: Hún skaut, Yarrow. En þetta misheppnaðist. &lt;color=lightblue&gt;Sólin&lt;/color&gt; tók varla við sér; það voru gríðarsmáar breytingar sjáanlegar á yfirborðinu, en þær voru nánanst ósýnilegar, jafnvel fyrir þriðja augað.</value>
   </entry>
   <entry>
     <key>PYE: The &lt;color=orange&gt;Sun Station&lt;/color&gt; is useless. It will never, and &lt;i&gt;could&lt;/i&gt; never, cause the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</key>
-    <value>PYE: The &lt;color=orange&gt;Sun Station&lt;/color&gt; is useless. It will never, and &lt;i&gt;could&lt;/i&gt; never, cause the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</value>
+    <value>PYE: &lt;color=orange&gt;Sólstöðin&lt;/color&gt; er gagnslaus. Hún mun aldrei, og &lt;i&gt;getur&lt;/i&gt; aldrei, hvatt &lt;color=lightblue&gt;sólina&lt;/color&gt; til þess að springa.</value>
   </entry>
   <entry>
     <key>PYE: I don’t know what comes next, my friends. I suppose we must start over, but I’m unsure how to start over.</key>
-    <value>PYE: I don’t know what comes next, my friends. I suppose we must start over, but I’m unsure how to start over.</value>
+    <value>PYE: Ég veit ekki hvað kemur næst, kæru vinir. Ég geri ráð fyrir því að við þurfum að byrja upp á nýtt en ég veit ekki hvernig við færum að því.</value>
   </entry>
   <entry>
     <key>YARROW: Return to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; first, my friend. Perhaps a change of task would help: Spire noticed a comet approaching this star system that we’d like to investigate.</key>
-    <value>YARROW: Return to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; first, my friend. Perhaps a change of task would help: Spire noticed a comet approaching this star system that we’d like to investigate.</value>
+    <value>YARROW: Snúið fyrst við til &lt;color=lightblue&gt;Sótsystur&lt;/color&gt; kæru vinir. Kannski myndi það hjálpa til að leiða hugann að öðru: Spire tók eftir halastjörnu sem er á leiðinni inn í þetta stjörnukerfi og okkur langar til þess að kanna hana.</value>
   </entry>
   <entry>
     <key>YARROW: Pye... I hurt for you, my friends; we all know how hard you’ve both worked. I can only offer my compassion. How are you? How is Idaea?</key>
-    <value>YARROW: Pye... I hurt for you, my friends; we all know how hard you’ve both worked. I can only offer my compassion. How are you? How is Idaea?</value>
+    <value>YARROW: Pye... Ég finn til með ykkur, kæru vinir; við vitum öll hve hart þið lögðuð að ykkur. Ég get bara vottað ykkur samúð mína. Hvernig ertu? Hvernig er Idaea?</value>
   </entry>
   <entry>
     <key>IDAEA: We’re well, Yarrow (or as well as can be expected, given the circumstances), though disappointed. I may have disagreed with exploding the &lt;color=lightblue&gt;sun&lt;/color&gt;, but I never wished the device would fail. I’d hoped our terrible work was finished.</key>
-    <value>IDAEA: We’re well, Yarrow (or as well as can be expected, given the circumstances), though disappointed. I may have disagreed with exploding the &lt;color=lightblue&gt;sun&lt;/color&gt;, but I never wished the device would fail. I’d hoped our terrible work was finished.</value>
+    <value>IDAEA: Við höfum það gott, Yarrow (eins gott og við má búast í þessum kringumstæðum), en erum þó vonsvikin. Ég var á móti því að sprengja &lt;color=lightblue&gt;sólina&lt;/color&gt;, en ég óskaði þess ekki að tækinu skyldi mistakast. Ég hafði vonað að okkar hryllilega verki væri lokið.</value>
   </entry>
   <entry>
     <key>
 		    Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate &lt;color=orange&gt;Sun Station&lt;/color&gt;.
 		</key>
     <value>
-		    Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate &lt;color=orange&gt;Sun Station&lt;/color&gt;.
+		    Stjarnan er komin á lokastig á lífsferil sínum. Hún verður bráðum að rauðum risa. VIÐVÖRUN: Yfirgefið &lt;color=orange&gt;Sólstöðina&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -5943,23 +5943,23 @@
 		    Approximate time until &lt;color=orange&gt;Sun Station&lt;/color&gt; is destroyed by expanding star: &lt;RemainingMinutes&gt; MINUTES, &lt;RemainingSeconds&gt; SECONDS\\nApproximate time until star’s death: &lt;MinutesToRedGiant&gt; MINUTES, &lt;SecondsToRedGiant&gt; SECONDS
 		</key>
     <value>
-		    Approximate time until &lt;color=orange&gt;Sun Station&lt;/color&gt; is destroyed by expanding star: &lt;RemainingMinutes&gt; MINUTES, &lt;RemainingSeconds&gt; SECONDS\\nApproximate time until star’s death: &lt;MinutesToRedGiant&gt; MINUTES, &lt;SecondsToRedGiant&gt; SECONDS
+		    Áætlaður tími þar til &lt;color=orange&gt;Sólstöðin&lt;/color&gt; eyðileggst af völdum útþenslu stjörnunnar: &lt;RemainingMinutes&gt; MÍNÚTUR, &lt;RemainingSeconds&gt; SEKÚNDUR\\nÁætlaður tími í dauða stjörnunnar: &lt;MinutesToRedGiant&gt; MÍNÚTUR, &lt;SecondsToRedGiant&gt; SEKÚNDUR
 		</value>
   </entry>
   <entry>
     <key>YARROW: Phlox and Daz finished the memory statues today, and they are truly remarkable.</key>
-    <value>YARROW: Phlox and Daz finished the memory statues today, and they are truly remarkable.</value>
+    <value>YARROW: Phlox og Daz kláruðu minnisstytturnar í dag, og þær eru svo sannarlega engu líkar.</value>
   </entry>
   <entry>
     <key>YARROW: When the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.</key>
-    <value>YARROW: When the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.</value>
+    <value>YARROW: Þegar &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; heppnast (eða heppnast ekki), munu stytturnar virkjast, sem gerir okkur kleift að safna meiri gögnum áður en við leggjum niður verkefnið.</value>
   </entry>
   <entry>
     <key>
 			CLARY: Here’s our first delivery, Yarrow: one warp core, fresh from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;! Root is installing this core’s sibling on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; as I write this.
 		</key>
     <value>
-			CLARY: Here’s our first delivery, Yarrow: one warp core, fresh from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;! Root is installing this core’s sibling on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; as I write this.
+			CLARY: Hér er fyrsta sendingin, Yarrow: einn varpkjarni, nýkominn úr &lt;color=orange&gt;Svartholssmiðjunni&lt;/color&gt;! Root er að setja upp systurkjarnann á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; í þessum skrifuðu orðum.
 		</value>
   </entry>
   <entry>
@@ -5967,7 +5967,7 @@
 			CLARY: I wish I could wait here for you to arrive, but the forge (and my unfinished work there) is calling. I’ll return with more materials soon.
 		</key>
     <value>
-			CLARY: I wish I could wait here for you to arrive, but the forge (and my unfinished work there) is calling. I’ll return with more materials soon.
+			CLARY: Ég vildi að ég gæti beðið eftir þér, en smiðjan (og ókláruð verk mín þar) kalla á mig. Ég kem brátt aftur með meira efni. 
 		</value>
   </entry>
   <entry>
@@ -5975,7 +5975,7 @@
 			YARROW: My gratitude, Clary! With this, the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is underway!
 		</key>
     <value>
-			YARROW: My gratitude, Clary! With this, the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is underway!
+			YARROW: Kærar þakkir, Clary! Með þessu er &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt; komið af stað!
 		</value>
   </entry>
   <entry>
@@ -5983,7 +5983,7 @@
 			YARROW: I confess, I’m deeply curious about what you and Poke found on the &lt;color=orange&gt;White Hole Station&lt;/color&gt; that started this project. Could I visit sometime to learn more?
 		</key>
     <value>
-			YARROW: I confess, I’m deeply curious about what you and Poke found on the &lt;color=orange&gt;White Hole Station&lt;/color&gt; that started this project. Could I visit sometime to learn more?
+			YARROW: Ég viðurkenni, að ég er afar forvitinn um hvað þú og Poke uppgötvuðuð á &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt; sem byrjaði þetta verkefni. Gæti ég komið í heimsókn og lært um það nánar?
 		</value>
   </entry>
   <entry>
@@ -5991,7 +5991,7 @@
 			CLARY: I recommend you do! The &lt;color=orange&gt;White Hole Station&lt;/color&gt; is the model for the towers being built for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, so a visit to the station would be doubly useful.
 		</key>
     <value>
-			CLARY: I recommend you do! The &lt;color=orange&gt;White Hole Station&lt;/color&gt; is the model for the towers being built for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, so a visit to the station would be doubly useful.
+			CLARY: Ég mæli með því! &lt;color=orange&gt;Hvítholsstöðin&lt;/color&gt; er frumgerðin að því hvernig turnarnir verða byggðir fyrir &lt;color=orange&gt;Sótsysturverkefnið&lt;/color&gt;, þannig að heimsókn þangað yrði nytsamleg á tvenna vegu. 
 		</value>
   </entry>
   <entry>
@@ -5999,7 +5999,7 @@
 			YARROW: I suppose, more precisely, I would like to visit the &lt;color=orange&gt;White Hole Station&lt;/color&gt; with &lt;i&gt;you&lt;/i&gt;, Clary.
 		</key>
     <value>
-			YARROW: I suppose, more precisely, I would like to visit the &lt;color=orange&gt;White Hole Station&lt;/color&gt; with &lt;i&gt;you&lt;/i&gt;, Clary.
+			YARROW: Nánar tiltekið, myndi ég vilja heimsækja &lt;color=orange&gt;Hvítholsstöðina&lt;/color&gt; með &lt;i&gt;þér&lt;/i&gt;, Clary.
 		</value>
   </entry>
   <entry>
@@ -6007,7 +6007,7 @@
 			CLARY: I’d be happy to explain our findings!
 		</key>
     <value>
-			CLARY: I’d be happy to explain our findings!
+			CLARY: Ég myndi með glöðu útskýra niðurstöður okkar! 
 		</value>
   </entry>
   <entry>
@@ -6015,7 +6015,7 @@
 			POKE: Yarrow, stop using this scroll wall to flirt with my sister (in romantic matters, her density rivals a neutron star’s) and go meet her on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
     <value>
-			POKE: Yarrow, stop using this scroll wall to flirt with my sister (in romantic matters, her density rivals a neutron star’s) and go meet her on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
+			POKE: Yarrow, hættu að nota þennan skrifvegg til þess að daðra við systur mína (sem er vitlausari en einfrumungur í rómantík) og farðu að hitta hana á &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -8503,11 +8503,11 @@
   </entry>
   <entry>
     <key>Control Module</key>
-    <value>&lt;color=orange&gt;Control Module&lt;/color&gt;</value>
+    <value>&lt;color=orange&gt;Stjórneining&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>Launch Module</key>
-    <value>&lt;color=orange&gt;Launch Module&lt;/color&gt;</value>
+    <value>&lt;color=orange&gt;Vörpueining&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>
