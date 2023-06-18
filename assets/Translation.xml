@@ -6015,39 +6015,39 @@
 			POKE: Yarrow, stop using this scroll wall to flirt with my sister (in romantic matters, her density rivals a neutron star’s) and go meet her on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
     <value>
-			POKE: Yarrow, hættu að nota þennan skrifvegg til þess að daðra við systur mína (sem er vitlausari en einfrumungur í rómantík) og farðu að hitta hana á &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;.
+			POKE: Yarrow, hættu að nota þennan skrifvegg til þess að daðra við systur mína (sem er reynsluminni en einfrumungur þegar kemur að rómantík) og farðu að hitta hana á &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
     <key>CLARY: To our friends on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;: I just warped here from the &lt;color=orange&gt;White Hole Station&lt;/color&gt; (on the other side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s black hole)! Our design worked; we’ve successfully recreated warp travel!</key>
-    <value>CLARY: To our friends on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;: I just warped here from the &lt;color=orange&gt;White Hole Station&lt;/color&gt; (on the other side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s black hole)! Our design worked; we’ve successfully recreated warp travel!</value>
+    <value>CLARY: Kæru vinir á &lt;color=lightblue&gt;Brotholi&lt;/color&gt;: Ég var rétt í þessu að varpa hingað frá &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt; (aðgengileg í gegnum svartholið á &lt;color=lightblue&gt;Brotholi&lt;/color&gt;)! Hönnunin okkar virkaði; okkur hefur tekist að leika eftir varpflutning!</value>
   </entry>
   <entry>
     <key>FILIX: This is wonderful news! I can’t wait to see the warp tower (although it’s been a long time since I’ve jumped through a black hole!).</key>
-    <value>FILIX: This is wonderful news! I can’t wait to see the warp tower (although it’s been a long time since I’ve jumped through a black hole!).</value>
+    <value>FILIX: Það eru frábærar fréttir! Ég get ekki beðið eftir því að sjá varpturninn (það er þó langt síðan ég hef hoppað í gegnum svarthol!)</value>
   </entry>
   <entry>
     <key>POKE: I don’t know how close it is to Annona’s original design, but as long as what we’ve built works, then I’m delighted! I knew we could do it (Cassava, I hope you’re reading this)!</key>
-    <value>POKE: I don’t know how close it is to Annona’s original design, but as long as what we’ve built works, then I’m delighted! I knew we could do it (Cassava, I hope you’re reading this)!</value>
+    <value>POKE: Ég veit ekki hversu svipuð hún er upprunalegu hönnuninni hans Annona, en ef það sem við smíðum virkar, þá er ég hæstánægð! Ég vissi að við hefðum þetta í okkur (Cassava, ég vona að þú sért að lesa þetta)!</value>
   </entry>
   <entry>
     <key>POKE: Wait, this can’t be correct. Clary, have you seen these readings? If they were accurate, they would violate causality. There must be an equipment error somewhere.</key>
-    <value>POKE: Wait, this can’t be correct. Clary, have you seen these readings? If they were accurate, they would violate causality. There must be an equipment error somewhere.</value>
+    <value>POKE: Bíddu, þetta getur ekki staðist. Clary, hefur þú séð aflesturinn? Ef hann stenst þá brýtur þetta í bága við orsakalögmál. Það hlýtur að vera villa í tækjunum einhvers staðar.</value>
   </entry>
   <entry>
     <key>POKE: I’m returning to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. If you and Root meet me there, we can run a full diagnostic and hopefully locate the problem.</key>
-    <value>POKE: I’m returning to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. If you and Root meet me there, we can run a full diagnostic and hopefully locate the problem.</value>
+    <value>POKE: Ég ætla að fara til baka í &lt;color=orange&gt;Hvítholsstöðina&lt;/color&gt;. Ef þið Root hittið mig þar, þá getum við hafið ítarlega tækjagreiningu og vonandi fundið vandamálið.</value>
   </entry>
   <entry>
     <key>POKE: (Don’t tell Cassava.)</key>
-    <value>POKE: (Don’t tell Cassava.)</value>
+    <value>POKE: (Ekki segja Cassava.)</value>
   </entry>
   <entry>
     <key>
 			PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; slightly &lt;i&gt;before&lt;/i&gt; departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
     <value>
-			PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; slightly &lt;i&gt;before&lt;/i&gt; departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
+			PYE: Ég og Ramie fórum fyrir færslurnar sem þú sendir, Poke, og þær virðast benda til þess að Nomaiar séu að koma að varpmóttakaranum á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; örlítið &lt;i&gt;áður&lt;/i&gt; en þeir fara frá &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -6055,7 +6055,7 @@
 			POKE: I understand it’s exceedingly odd, but Clary and I have tested and retested the equipment, and the result is the same every time someone warps.
 		</key>
     <value>
-			POKE: I understand it’s exceedingly odd, but Clary and I have tested and retested the equipment, and the result is the same every time someone warps.
+			POKE: Ég skil alveg að þetta eru ákaflega furðulegar niðurstöður, en ég og Clary höfum prófað og prófað búnaðinn og niðurstöðurnar eru þær sömu í hverst skipti sem einhver varpast. 
 		</value>
   </entry>
   <entry>
@@ -6063,7 +6063,7 @@
 			RAMIE: The interval is incredibly miniscule (roughly one hundred-thousandth of a second). Do you suppose our instruments can’t accurately measure time to such a small degree?
 		</key>
     <value>
-			RAMIE: The interval is incredibly miniscule (roughly one hundred-thousandth of a second). Do you suppose our instruments can’t accurately measure time to such a small degree?
+			RAMIE: Tímamismunurinn er ofboðslega lítill (rúmlega einn hundraðþúsundasti úr sekúndu). Getur verið að mælitækin okkar séu ekki nógu nákvæm fyrir svo litlar tölur?
 		</value>
   </entry>
   <entry>
@@ -6071,7 +6071,7 @@
 			PYE: As I’ve already told Ramie, these measurements can’t be accurate. How can a Nomai arrive on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; before he or she ever stepped into the teleporter? The implications are absurd.
 		</key>
     <value>
-			PYE: As I’ve already told Ramie, these measurements can’t be accurate. How can a Nomai arrive on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; before he or she ever stepped into the teleporter? The implications are absurd.
+			PYE: Eins og ég hef þegar sagt, Ramie, hvernig geta þessar mælingar verið réttar. Hvernig getur Nomai-i komið til &lt;color=lightblue&gt;Brothols&lt;/color&gt; áður en hann eða hún stígur fæti á varppallinn? Afleiðingarnar væru fáránlegar.
 		</value>
   </entry>
   <entry>
@@ -6079,7 +6079,7 @@
 			POKE: I don’t disagree. It &lt;i&gt;would&lt;/i&gt; mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time.
 		</key>
     <value>
-			POKE: I don’t disagree. It &lt;i&gt;would&lt;/i&gt; mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time.
+			POKE: Ég er ekki ósammála. Þetta &lt;i&gt;myndi&lt;/i&gt; þýða að ég hefði óvart brotið nokkur grundvallarlögmál hvað þennan alheim varðar. Við myndum þurfa að endurhugsa allt hvað varðar eðli tímans.
 		</value>
   </entry>
   <entry>
@@ -6087,7 +6087,7 @@
 			RAMIE: Yes, I hope so, too!
 		</key>
     <value>
-			RAMIE: Yes, I hope so, too!
+			RAMIE: Ég vona það!
 		</value>
   </entry>
   <entry>
@@ -6095,7 +6095,7 @@
 			RAMIE: Poke, as Pye is confident the reading is inaccurate, she’s kindly helping me attempt to recreate this phenomenon at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;. We’re designing an experiment to take more data.
 		</key>
     <value>
-			RAMIE: Poke, as Pye is confident the reading is inaccurate, she’s kindly helping me attempt to recreate this phenomenon at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;. We’re designing an experiment to take more data.
+			RAMIE: Poke, þar sem Pye er fullviss um nákvæmni mælinganna þá hefur hún boðist til þess að hjálpa mér að leika eftir þetta fyrirbrigði á &lt;color=orange&gt;Stórorkustöðinni&lt;/color&gt;. Við erum að upphugsa tilraun til þess að afla meiri gagna. 
 		</value>
   </entry>
   <entry>
@@ -6103,128 +6103,128 @@
 			PYE: An update: Poke, the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is in the canyon on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator. &lt;i&gt;Come here at once&lt;/i&gt;. You need to see this.
 		</key>
     <value>
-			PYE: An update: Poke, the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is in the canyon on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator. &lt;i&gt;Come here at once&lt;/i&gt;. You need to see this.
+			PYE: Uppfærsla: Poke, &lt;color=orange&gt;Stórorkustöðin&lt;/color&gt; er í gjánni við miðbaug &lt;color=lightblue&gt;Blossabróður&lt;/color&gt;. &lt;i&gt;Komdu hingað undireins&lt;/i&gt;. Þú þarft að sjá þetta.
 		</value>
   </entry>
   <entry>
     <key>SignChert’s Research Notes — property of Chert!</key>
-    <value>Chert’s Research Notes — property of Chert!</value>
+    <value>Rannsóknarpunktar Chert — eign Chert!</value>
   </entry>
   <entry>
     <key>SignThis is an old crater. The neat thing here is that the composition of the samples I took from the impact site matches the composition of the ice on the outskirts of &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;.</key>
-    <value>This is an old crater. The neat thing here is that the composition of the samples I took from the impact site matches the composition of the ice on the outskirts of &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;.</value>
+    <value>Þetta er gamall gígur. Það skemmtilega hérna er að samsetning jarðvegssýnanna sem ég tók úr árekstrargígnum samsvarar samsetningu íssins á útjörðum &lt;color=lightblue&gt;Þokuþyrnis&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>SignI’d posit the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; was hit with a piece of the planet that used to be where &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; now lies.</key>
-    <value>I’d posit the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; was hit with a piece of the planet that used to be where &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; now lies.</value>
+    <value>Ég held því fram að &lt;color=lightblue&gt;Slakigígur&lt;/color&gt; hafi orðið fyrir loftsteini sem má rekja til plánetunnar sem var þar sem nú er &lt;color=lightblue&gt;Þokuþyrnir&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>SignTo follow up on — maybe there are more fragments of the old planet &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; destroyed on other astral bodies in the solar system?</key>
-    <value>To follow up on — maybe there are more fragments of the old planet &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; destroyed on other astral bodies in the solar system?</value>
+    <value>Í framhaldinu má skoða — kannski eru fleiri brot frá gömlu plánetunni, sem &lt;color=lightblue&gt;Þokuþyrnir&lt;/color&gt; tortímdi, að finna á öðrum stöðum í sólkerfinu?</value>
   </entry>
   <entry>
     <key>SignChert’s Research Notes - property of Chert!</key>
-    <value>Chert’s Research Notes - property of Chert!</value>
+    <value>Rannsóknarpunktar Chert — eign Chert!</value>
   </entry>
   <entry>
     <key>SignClearly, the Nomai were making astronomical observations here. They chose an excellent spot!</key>
-    <value>Clearly, the Nomai were making astronomical observations here. They chose an excellent spot!</value>
+    <value>Það gefur auga leið að Nomaiarnir notuðu þennan stað í stjörnufræðiathuganir. Þeir völdu frábæran stað.</value>
   </entry>
   <entry>
     <key>SignWhat is this big, rotating device for? What was it the Nomai were observing?</key>
-    <value>What is this big, rotating device for? What was it the Nomai were observing?</value>
+    <value>Hvaða hlutverki gegnir þetta risastóra snúningstæki? Hverju voru Nomaiarnir að fylgjast með?</value>
   </entry>
   <entry>
     <key>SignI’d posit there’s something special about the orange symbol on that device. Hal and the new astronaut’s translator tool would be nice to have handy about now.</key>
-    <value>I’d posit there’s something special about the orange symbol on that device. Hal and the new astronaut’s translator tool would be nice to have handy about now.</value>
+    <value>Ég held því fram að það er eitthvað sérstakt við þetta appelsínugula merki á þessu tæki. Það væri gott að hafa Hal og nýja þýðingartækið með sér akkúrat núna.</value>
   </entry>
   <entry>
     <key>SignI’ve detected a strange signal coming from somewhere within the grove in this crater.</key>
-    <value>I’ve detected a strange signal coming from somewhere within the grove in this crater.</value>
+    <value>Ég varð var við skrítið merki sem kemur einhvers staðar innan úr lundinum í þessum gíg.</value>
   </entry>
   <entry>
     <key>SignIt’s very similar to the signal emitted by the Quantum Moon, so it stands to reason the two signals are probably related.</key>
-    <value>It’s very similar to the signal emitted by the Quantum Moon, so it stands to reason the two signals are probably related.</value>
+    <value>Það svipar mikið til merkisins sem Skammtatunglið gefur frá sér, þar af leiðandi liggur í augum uppi að merkin eru líklega skyld.</value>
   </entry>
   <entry>
     <key>SignWe don’t know much about the Quantum Moon, seeing as no one’s ever been able to land on it, but hopefully studying the signal in the grove will reveal more about it.</key>
-    <value>We don’t know much about the Quantum Moon, seeing as no one’s ever been able to land on it, but hopefully studying the signal in the grove will reveal more about it.</value>
+    <value>Við vitum ekki mikið um Skammtatunglið, þar sem engum hefur tekist að lenda þar, en vonandi mun merkið hér í lundinum kenna okkur meira um það.</value>
   </entry>
   <entry>
     <key>SignEsker’s Signalscope Log</key>
-    <value>Esker’s Signalscope Log</value>
+    <value>Merkjasjárskrá Esker</value>
   </entry>
   <entry>
     <key>SignDay 48: Still not picking up Riebeck’s banjo from Brittle Hollow. I’m sure they’re fine, but I’ll feel better once I can hear their music.</key>
-    <value>Day 48: Still not picking up Riebeck’s banjo from Brittle Hollow. I’m sure they’re fine, but I’ll feel better once I can hear their music.</value>
+    <value>Dagur 48: Ég heyri ekki ennþá í banjóinu háns Riebeck koma frá Brotholi. Ég er viss um að hán hafi það fínt, en mér myndi líða betur ef ég heyrði tónlistina háns.</value>
   </entry>
   <entry>
     <key>SignDay 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is &lt;i&gt;not&lt;/i&gt; subtle from an aerial perspective.</key>
-    <value>Day 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is &lt;i&gt;not&lt;/i&gt; subtle from an aerial perspective.</value>
+    <value>Dagur 51: Hlustaði á Chert spila í dágóða stund í dag. Á öðrum nótum, þá ætti einhver að segja Porphy og Gossan að daðrið þeirra er &lt;i&gt;ekki&lt;/i&gt; lúmskt frá ofanjarðarsjónarhorni.</value>
   </entry>
   <entry>
     <key>SignDay 55: Banjo music coming in loud and clear today! Sounds like Riebeck’s doing okay. That oaf, I was worried!</key>
-    <value>Day 55: Banjo music coming in loud and clear today! Sounds like Riebeck’s doing okay. That oaf, I was worried!</value>
+    <value>Dagur 55: Banjótónlist heyrist hátt og snjallt í dag! Heyrist Riebeck hafa það gott. Þessi þöngulhaus, ég hafði áhyggjur!</value>
   </entry>
   <entry>
     <key>SignDay 63: Today I thought I heard something... strange. I don’t know — it was probably nothing.</key>
-    <value>Day 63: Today I thought I heard something... strange. I don’t know — it was probably nothing.</value>
+    <value>Dagur 63: Í dag hélt ég að ég hefði heyrt eitthvað... furðulegt. Ég veit ekki — líklegast var það ekki neitt.</value>
   </entry>
   <entry>
     <key>SignDay 70: No, it’s back again today, too. Something strange is coming from Timber Hearth.</key>
-    <value>Day 70: No, it’s back again today, too. Something strange is coming from Timber Hearth.</value>
+    <value>Dagur 70: Nei, ég heyri það aftur í dag. Eitthvað furðulegt er að koma frá Bjálkabóli.</value>
   </entry>
   <entry>
     <key>SignDay 76: Okay, I &lt;i&gt;know&lt;/i&gt; this is crazy, but the sound from Timber Hearth sounds exactly like Feldspar’s harmonica. But Feldspar disappeared in space ages ago. It can’t be them...</key>
-    <value>Day 76: Okay, I &lt;i&gt;know&lt;/i&gt; this is crazy, but the sound from Timber Hearth sounds exactly like Feldspar’s harmonica. But Feldspar disappeared in space ages ago. It can’t be them...</value>
+    <value>Dagur 76: Allt í lagi, ég &lt;i&gt;veit&lt;/i&gt; að þetta er fáránlget, en hljóðið frá Bjálkabóli hljómar nákvæmlega eins og munnharpan háns Feldspar. En Feldspar hvarf úti í geim fyrir löngu síðan. Þetta getur ekki verið hán...</value>
   </entry>
   <entry>
     <key>SignDay 88: It’s &lt;i&gt;still here&lt;/i&gt;. This is creepy. Maybe my signalscope is broken? I’d better talk to Gneiss.</key>
-    <value>Day 88: It’s &lt;i&gt;still here&lt;/i&gt;. This is creepy. Maybe my signalscope is broken? I’d better talk to Gneiss.</value>
+    <value>Dagur 88: Hljóðið er &lt;i&gt;ennþá hérna&lt;/i&gt;. Mig hryllir við þessu. Kannski er merkjasjáin mín brotin? Ég ætti að tala við Gneiss.</value>
   </entry>
   <entry>
     <key>SignFELDSPAR’S SPARE JETPACK FUEL</key>
-    <value>FELDSPAR’S SPARE JETPACK FUEL</value>
+    <value>AUKAELDSNEYTI FELDSPAR</value>
   </entry>
   <entry>
     <key>SignIt’s annoying to schlep across the planet to the ship if I can’t use my jetpack, so I’m leaving this here.</key>
-    <value>It’s annoying to schlep across the planet to the ship if I can’t use my jetpack, so I’m leaving this here.</value>
+    <value>Það er frekar pirrandi að dröslast yfir þessa plánetu án þess að nota þotubúnaðinn, þannig að ég skil þetta eftir hérna.</value>
   </entry>
   <entry>
     <key>SignI checked with my Little Scout — I do &lt;i&gt;too&lt;/i&gt; use it, Hornfels, ya burnt marshmallow — and the scout’s integrity reading said this piece of Brittle Hollow is as stable as any, but who knows.</key>
-    <value>I checked with my Little Scout — I do &lt;i&gt;too&lt;/i&gt; use it, Hornfels, ya burnt marshmallow — and the scout’s integrity reading said this piece of Brittle Hollow is as stable as any, but who knows.</value>
+    <value>Ég notaði litla kannann minn — Ég nota hann &lt;i&gt;víst&lt;/i&gt;, Hornfels, þú brenndi sykurpúði — og stöðugleikamælingar kannans sögðu að þessi staður á Brotholi er með þeim stöðugri, en hver veit.</value>
   </entry>
   <entry>
     <key>SignIf the fuel’s still around, feel free to use it. If not, well, wherever you’re reading this note, I’m sure you’ve got bigger problems.</key>
-    <value>If the fuel’s still around, feel free to use it. If not, well, wherever you’re reading this note, I’m sure you’ve got bigger problems.</value>
+    <value>Ef eldsneytið er ennþá hérna, notaðu það eins og þér sýnist. Ef ekki, tja, hvar sem þú ert statt að lesa þetta, þá áttu við stærri vandamál að stríða.</value>
   </entry>
   <entry>
     <key>FeldsparJournal1Trip 4, entry # whatever \\n Crashes: 2 \\n Boring crashes: 0 (remember to see Slate when I get back)</key>
-    <value>Trip 4, entry # whatever \\n Crashes: 2 \\n Boring crashes: 0 (remember to see Slate when I get back)</value>
+    <value>Ferð 4, færsla nr. eitthvað\\n Brotlendingar: 2 \\n Leiðinlegar brotlendingar: 0 (muna að heyra í Slate þegar ég kem til baka)</value>
   </entry>
   <entry>
     <key>FeldsparJournal1Ha &lt;i&gt;ha&lt;/i&gt;, yeah! &lt;i&gt;Yeah&lt;/i&gt;! All the way down to the core! Consider yourself conquered, Giant’s Deep — you just got &lt;i&gt;Feldsparred&lt;/i&gt;.</key>
-    <value>Ha &lt;i&gt;ha&lt;/i&gt;, yeah! &lt;i&gt;Yeah&lt;/i&gt;! All the way down to the core! Consider yourself conquered, Giant’s Deep — you just got &lt;i&gt;Feldsparred&lt;/i&gt;.</value>
+    <value>Ha &lt;i&gt;ha&lt;/i&gt;, jess! &lt;i&gt;Jess&lt;/i&gt;! Alla leið niður í kjarnann! Þú hefur verið sigrað, Jötunsdýpi — þú hefur verið &lt;i&gt;Feldsparrað&lt;/i&gt; í drasl.</value>
   </entry>
   <entry>
     <key>FeldsparJournal1That was one of my more dramatic feats, if I do say so myself. Can’t believe I wasn’t electrocuted! Ahhh, can’t wait to tell Hornfels and Gossan about this one — I guess brute force isn’t always the answer.</key>
-    <value>That was one of my more dramatic feats, if I do say so myself. Can’t believe I wasn’t electrocuted! Ahhh, can’t wait to tell Hornfels and Gossan about this one — I guess brute force isn’t always the answer.</value>
+    <value>Þetta var með mínum stórbrotnustu afrekum, þótt ég segi sjálft frá. Trúi ekki að ég hafi ekki dáið úr raflosti! Get ekki beðið eftir því að segja Hornfels og Gossan frá þessu — og kannski er jarðýtuleiðin ekki alltaf rétta svarið.</value>
   </entry>
   <entry>
     <key>FeldsparJournal1Right, so that’s one more off the list. Seems all that’s left is the big one now. Dark Bramble, here I come!</key>
-    <value>Right, so that’s one more off the list. Seems all that’s left is the big one now. Dark Bramble, here I come!</value>
+    <value>Jæja, þá stroka ég þetta út af listanum. Þá er það bara sá stóri eftir. Þokuþyrnir, hér kem ég!</value>
   </entry>
   <entry>
     <key>SignOuter Wilds Ventures’ founding members. Clockwise from top left: Hornfels, Gossan, Slate, and Feldspar.</key>
-    <value>Outer Wilds Ventures’ founding members. Clockwise from top left: Hornfels, Gossan, Slate, and Feldspar.</value>
+    <value>Stofnmeðlimir Vegferðar Fjarlægra Firninda. Réttsælis frá efra vinstra horni: Hornfels, Gossan, Slate, og Feldspar.</value>
   </entry>
   <entry>
     <key>SignDANGER! Inside this fence is a pocket of &lt;color=orange&gt;ghost matter&lt;/color&gt; - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect &lt;color=orange&gt;ghost matter&lt;/color&gt; with a camera.</key>
-    <value>DANGER! Inside this fence is a pocket of &lt;color=orange&gt;ghost matter&lt;/color&gt; - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect &lt;color=orange&gt;ghost matter&lt;/color&gt; with a camera.</value>
+    <value>HÆTTA! Innan við þessa girðingu er blettur af &lt;color=orange&gt;dulefni&lt;/color&gt; - furðulegt og stórhættulegt efni sem sést ekki með berum augum. Góðu fréttirnar eru þær að þú getur séð &lt;color=orange&gt;dulefni&lt;/color&gt; með myndavél.</value>
   </entry>
   <entry>
     <key>SignMoving through &lt;color=orange&gt;ghost matter&lt;/color&gt; is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around.\\n- Hornfels</key>
-    <value>Moving through &lt;color=orange&gt;ghost matter&lt;/color&gt; is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around.\\n- Hornfels</value>
+    <value>Að ganga í gegnum &lt;color=orange&gt;dulefni&lt;/color&gt; er einstaklega sársaukafullt og mun líklegast draga þig til dauða. Ekki kvarta í mér ef þú meiðir þig með einhverjum fíflagangi.\\n- Hornfels</value>
   </entry>
   <entry>
     <key>Gneiss</key>
@@ -6232,87 +6232,87 @@
   </entry>
   <entry>
     <key>Gneiss1Hello there, space cadet! I hear you’re leaving the crater today.</key>
-    <value>Hello there, space cadet! I hear you’re leaving the crater today.</value>
+    <value>Sæll, geimnemi! Ég heyrði að þú ætlir að yfirgefa gíginn í dag.</value>
   </entry>
   <entry>
     <key>Gneiss1If you meet any of the other travelers up there, remind them to take proper care of their instruments, won’t you?</key>
-    <value>If you meet any of the other travelers up there, remind them to take proper care of their instruments, won’t you?</value>
+    <value>Ef þú hittir einhvern annan ferðalang þarna uppi, minntu þá á að sjá vel um hljóðfærin sín fyrir mig.</value>
   </entry>
   <entry>
     <key>GneissGneiss1Tell me about the travelers’ instruments.</key>
-    <value>Tell me about the travelers’ instruments.</value>
+    <value>Segðu mér frá hljóðfærunum.</value>
   </entry>
   <entry>
     <key>GneissGneiss1Where’s the observatory?</key>
-    <value>Where’s the observatory?</value>
+    <value>Hvar er athugunarstöðin?</value>
   </entry>
   <entry>
     <key>GneissGneiss1Just saying hi before I leave.</key>
-    <value>Just saying hi before I leave.</value>
+    <value>Bara að segja hæ áður en ég fer.</value>
   </entry>
   <entry>
     <key>Gneiss2Take care of yourself up in space!</key>
-    <value>Take care of yourself up in space!</value>
+    <value>Farðu vel með sjálft þig þarna uppi!</value>
   </entry>
   <entry>
     <key>ObservatoryIt’s questions like that what make us worried about you going up into space on your own, you know.</key>
-    <value>It’s questions like that what make us worried about you going up into space on your own, you know.</value>
+    <value>Veistu, það eru svona spurningar sem veldur okkur áhyggjur af því að þú sért að fara upp í geim á eigin spýtur.</value>
   </entry>
   <entry>
     <key>ObservatoryThe observatory is up the path behind the waterfall. There are a couple of signs marking the way, but really, you just keep going up and then hook a right when you get to the zero-g cave.</key>
-    <value>The observatory is up the path behind the waterfall. There are a couple of signs marking the way, but really, you just keep going up and then hook a right when you get to the zero-g cave.</value>
+    <value>Til að komast í athugunarstöðina ferðu upp stíginn fyrir aftan fossinn. Það eru nokkur skilti sem sýna þér leiðina, en annars ferðu bara beint upp og skýst til hægri þegar þú ert komið að þyngdarleysishellinum.</value>
   </entry>
   <entry>
     <key>Gneiss3Oh, sure! I made all of their instruments, you know. Let me see... There’s Chert’s drums, Riebeck’s banjo, and Gabbro’s flute.</key>
-    <value>Oh, sure! I made all of their instruments, you know. Let me see... There’s Chert’s drums, Riebeck’s banjo, and Gabbro’s flute.</value>
+    <value>Sjálfsagt! Þú veist, ég bjó til öll hljóðfærin þeirra. Látum okkur nú sjá... Chert hefur trommur, Riebeck banjó og Gabbró flautu.</value>
   </entry>
   <entry>
     <key>Gneiss3And Feldspar’s harmonica, of course, though Feldspar’s been missing for a long time. Sometimes it feels like just yesterday they were playing their harmonica around the campfire...</key>
-    <value>And Feldspar’s harmonica, of course, though Feldspar’s been missing for a long time. Sometimes it feels like just yesterday they were playing their harmonica around the campfire...</value>
+    <value>Já og auðvitað munnharpan háns Feldspar, en Feldspar hefur þó verið saknað í langan tíma. Stundum finnst manni eins og það hafi verið í gær þegar hán sat við varðeldinn og spilaði á munnhörpuna...</value>
   </entry>
   <entry>
     <key>Gneiss3Anyway, you hear music in space, that’ll be one of the space program’s other travelers. If you feel like company, you can always pull out your signalscope and track them down.</key>
-    <value>Anyway, you hear music in space, that’ll be one of the space program’s other travelers. If you feel like company, you can always pull out your signalscope and track them down.</value>
+    <value>Allavega, ef þú heyrir tónlist úti í geim, þá er það einn af hinum ferðalöngum geimferðaráætlunarinnar. Ef þú þráir félagsskap, þá getur þú alltaf vippað upp merkjasjánni og leitað að þeim.</value>
   </entry>
   <entry>
     <key>GneissSecondaryTrouble is, every time a Hearthian leaves for outer space, that’s one less musician in our orchestra.</key>
-    <value>Trouble is, every time a Hearthian leaves for outer space, that’s one less musician in our orchestra.</value>
+    <value>Vandamálið er samt að í hvert skipti sem Bjálkabælingur heldur út í geim, þá vantar einn í viðbót í sinfóníuna okkar.</value>
   </entry>
   <entry>
     <key>GneissSecondarySo! Did you need something?</key>
-    <value>So! Did you need something?</value>
+    <value>Jæja! Vantaði þig eitthvað?</value>
   </entry>
   <entry>
     <key>GneissGneissSecondaryTell me about the travelers’ instruments.</key>
-    <value>Tell me about the travelers’ instruments.</value>
+    <value>Segðu mér frá hljóðfærum ferðalanganna.</value>
   </entry>
   <entry>
     <key>GneissGneissSecondaryWhere’s the observatory?</key>
-    <value>Where’s the observatory?</value>
+    <value>Hvar er athugunarstöðin?</value>
   </entry>
   <entry>
     <key>GneissGneissSecondaryNah, I’m good.</key>
-    <value>Nah, I’m good.</value>
+    <value>Nei, ég er gott.</value>
   </entry>
   <entry>
     <key>SpaceEverything okay? Seems kind of early for you to be back from space.</key>
-    <value>Everything okay? Seems kind of early for you to be back from space.</value>
+    <value>Allt í góðu? Ertu ekki að koma til baka úr geimnum fullsnemma?</value>
   </entry>
   <entry>
     <key>SpaceDid you need something from me?</key>
-    <value>Did you need something from me?</value>
+    <value>Gat ég eitthvað aðstoðað?</value>
   </entry>
   <entry>
     <key>GneissSpaceTell me about the travelers’ instruments.</key>
-    <value>Tell me about the travelers’ instruments.</value>
+    <value>Segðu mér frá hljóðfærum ferðalanganna.</value>
   </entry>
   <entry>
     <key>GneissSpaceI’m good, actually.</key>
-    <value>I’m good, actually.</value>
+    <value>Nei, í rauninni hef ég það bara gott.</value>
   </entry>
   <entry>
     <key>Gneiss4Alright. Take care, now.</key>
-    <value>Alright. Take care, now.</value>
+    <value>Allt í lagi. Farðu vel með þig.</value>
   </entry>
   <entry>
     <key>Gossan</key>
@@ -6320,143 +6320,143 @@
   </entry>
   <entry>
     <key>Coach1Hey, I thought I might see you before the big launch.</key>
-    <value>Hey, I thought I might see you before the big launch.</value>
+    <value>Hæ, datt í hug að heyra í þér hljóðið fyrir stórviðburðinn.</value>
   </entry>
   <entry>
     <key>Coach1Nerves getting the better of you?</key>
-    <value>Nerves getting the better of you?</value>
+    <value>Taugarnar að fara með þig?</value>
   </entry>
   <entry>
     <key>GossanCoach1Right, like you weren’t nervous for your first flight.</key>
-    <value>Right, like you weren’t nervous for your first flight.</value>
+    <value>Jájá sjálfsagt, eins og þú varst ekki stressað fyrir fyrsta flugið þitt.</value>
   </entry>
   <entry>
     <key>GossanCoach1I’m a little nervous, yeah.</key>
-    <value>I’m a little nervous, yeah.</value>
+    <value>Ég er pínu stressað, já.</value>
   </entry>
   <entry>
     <key>GossanCoach1Are you kidding? I’m a natural at this!</key>
-    <value>Are you kidding? I’m a natural at this!</value>
+    <value>Ertu að grínast? Ég er fætt fyrir þetta!</value>
   </entry>
   <entry>
     <key>Coach2Hey, don’t worry about it. Your nerves are between you, me, and the vast endlessness of space.</key>
-    <value>Hey, don’t worry about it. Your nerves are between you, me, and the vast endlessness of space.</value>
+    <value>Heyrðu, ekki hafa áhyggjur. Stressið þitt er á milli okkar og endalauss tómarúms geimsins.</value>
   </entry>
   <entry>
     <key>Coach2But really, you’ll do fine out there. I’d worry more about that ship, if I were you. Hopefully that lunatic Slate at least fixed the retro rockets.</key>
-    <value>But really, you’ll do fine out there. I’d worry more about that ship, if I were you. Hopefully that lunatic Slate at least fixed the retro rockets.</value>
+    <value>En í alvörunni, þú munt spjara þig þarna úti. Ég myndi hafa meiri áhyggjur af skipinu þarna, í þínum sporum. Vonandi var brjálæðingurinn hán Slate búið að laga bakhreyflana.</value>
   </entry>
   <entry>
     <key>Coach3Good. Everyone should be a bit nervous going into space. I got cocky during my first flight and nearly put a new crater in the moon.</key>
-    <value>Good. Everyone should be a bit nervous going into space. I got cocky during my first flight and nearly put a new crater in the moon.</value>
+    <value>Gott, allir ættu að vera pínu stressaðir yfir því að fara út í geim. Ég var of gott með mig á mínu fyrsta flugi og bjó næstum því til nýjan gíg á tunglinu.</value>
   </entry>
   <entry>
     <key>Coach3Still, I was never as green as you.</key>
-    <value>Still, I was never as green as you.</value>
+    <value>Samt, ég var aldrei jafn óreyndur og þú.</value>
   </entry>
   <entry>
     <key>GossanCoach3Hey, I’ve gotten better!</key>
-    <value>Hey, I’ve gotten better!</value>
+    <value>Hei, ég er orðið betra!</value>
   </entry>
   <entry>
     <key>GossanCoach3That’s not what Slate says...</key>
-    <value>That’s not what Slate says...</value>
+    <value>Ekki samkvæmt Slate...</value>
   </entry>
   <entry>
     <key>Coach4Is that so? Funny, I seem to recall the first time you strapped on a jetpack, we had to come fish you out of the crater near the south pole.</key>
-    <value>Is that so? Funny, I seem to recall the first time you strapped on a jetpack, we had to come fish you out of the crater near the south pole.</value>
+    <value>Já er það? Það er skondið þar sem ég þykist muna að í fyrsta sinn sem þú settir á þig þotubúnaðinn þá þurftum við að veiða þig upp úr gígnum nálægt suðurpólnum.</value>
   </entry>
   <entry>
     <key>Coach5Oi, you know better than to believe a word that lunatic says about me.</key>
-    <value>Oi, you know better than to believe a word that lunatic says about me.</value>
+    <value>Hurru, þá veist betur en að trúa því sem þessi geðsjúklingur lýgur upp á mig.</value>
   </entry>
   <entry>
     <key>Coach5They’re still sore I made them install a safety harness in the cockpit. Claimed it would “throw off the thrust-to-weight ratio.”</key>
-    <value>They’re still sore I made them install a safety harness in the cockpit. Claimed it would "throw off the thrust-to-weight ratio."</value>
+    <value>Hán er ennþá að væla yfir því að ég hafi látið setja upp öryggisbeisli í stjórnklefanum. Hán heldur því fram að það raski "þrýstihlutfalli mót þunga".</value>
   </entry>
   <entry>
     <key>Coach5Honestly. One of these days I’m gonna throw off &lt;i&gt;Slate’s&lt;/i&gt; thrust-to-weight ratio.</key>
-    <value>Honestly. One of these days I’m gonna throw off &lt;i&gt;Slate’s&lt;/i&gt; thrust-to-weight ratio.</value>
+    <value>Ég meina það. Einn daginn mun ég raska "þrýstihlutfalli mót þunga" háns &lt;i&gt;Slate&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>Coach6Think so, do you? Feel like proving it to your old flight coach?</key>
-    <value>Think so, do you? Feel like proving it to your old flight coach?</value>
+    <value>Þú heldur það? Viltu sanna það fyrir gamla flugkennara þínum?</value>
   </entry>
   <entry>
     <key>Coach7There’s a “satellite” — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</key>
-    <value>There’s a "satellite" — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</value>
+    <value>Það er "gervitungl" — sem er klárlega &lt;i&gt;ekki&lt;/i&gt; bara brotið námugraftartæki — fljótandi niðri í þyngdarleysishellinum sem þarf að gera við.</value>
   </entry>
   <entry>
     <key>Coach7If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-    <value>If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</value>
+    <value>Ef þig langar í smá þyngdarleysisþjálfun á síðustu stundu, farðu niður liftuna og inn í hellinn. Eða ekki, ef þú ert örrugt með að gera við skipið þitt úti í geim.</value>
   </entry>
   <entry>
     <key>GossanCoach7One repaired “satellite,” coming up!</key>
-    <value>One repaired "satellite," coming up!</value>
+    <value>Eitt lagað "gervitungl" á leiðinni!</value>
   </entry>
   <entry>
     <key>GossanCoach7Nah, I’m ready for the real deal.</key>
-    <value>Nah, I’m ready for the real deal.</value>
+    <value>Neee, ég er tilbúið fyrir alvöru stöffið.</value>
   </entry>
   <entry>
     <key>Coach8So listen, there’s a “satellite” — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</key>
-    <value>So listen, there’s a "satellite" — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</value>
+    <value>Taktu eftir, það er "gervitungl" — sem er klárlega &lt;i&gt;ekki&lt;/i&gt; bara brotið námugraftartæki — fljótandi niðri í þyngdarleysishellinum sem þarf að gera við.</value>
   </entry>
   <entry>
     <key>Coach8If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-    <value>If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</value>
+    <value>Ef þig langar í smá þyngdarleysisþjálfun á síðustu stundu, farðu niður liftuna og inn í hellinn. Eða ekki, ef þú ert örrugt með að gera við skipið þitt úti í geim.</value>
   </entry>
   <entry>
     <key>GossanCoach8One repaired “satellite”, coming up!</key>
-    <value>One repaired "satellite," coming up!</value>
+    <value>Eitt lagað "gervitungl" á leiðinni!</value>
   </entry>
   <entry>
     <key>GossanCoach8Nah, I’m ready for the real deal.</key>
-    <value>Nah, I’m ready for the real deal.</value>
+    <value>Neee, ég er tilbúið fyrir alvöru stöffið.</value>
   </entry>
   <entry>
     <key>Coach9Cool. Get to it, and try not to concuss yourself right before your first launch.</key>
-    <value>Cool. Get to it, and try not to concuss yourself right before your first launch.</value>
+    <value>Svalt. Drífðu þig þá í þessu og reyndu að sleppa við heilahristing áður en þú ferð í þitt fyrsta flug.</value>
   </entry>
   <entry>
     <key>Coach10Heh. Darn right you are.</key>
-    <value>Heh. Darn right you are.</value>
+    <value>Hehe. Rétti andinn.</value>
   </entry>
   <entry>
     <key>Coach10Don’t get yourself killed out there, you hear? Not after I’ve put this much work into training you.</key>
-    <value>Don’t get yourself killed out there, you hear? Not after I’ve put this much work into training you.</value>
+    <value>Reyndu að drepast ekki þarna úti, heyrirðu það? Sérstaklega ekki eftir að ég hef lagt svo mikla vinnu í að þjálfa þig.</value>
   </entry>
   <entry>
     <key>Coach10...Haha, go on, go make Outer Wilds Ventures proud.</key>
-    <value>...Haha, go on, go make Outer Wilds Ventures proud.</value>
+    <value>...Haha, drífðu þig nú. Vertu Vegferð Fjarlægra Firninda til fyrirmyndar.</value>
   </entry>
   <entry>
     <key>Coach11If you changed your mind about practicing ship repairs, head down the lift and into the zero-g cave.</key>
-    <value>If you changed your mind about practicing ship repairs, head down the lift and into the zero-g cave.</value>
+    <value>Ef þú skiptir um skoðun varðandi skipaviðgerðir, taktu þá liftuna niður og inn í þyngdarleysishellinn.</value>
   </entry>
   <entry>
     <key>Coach11You just need to maneuver over to the “satellite” and repair each damaged area, same as you’ll be doing for your ship.</key>
-    <value>You just need to maneuver over to the "satellite" and repair each damaged area, same as you’ll be doing for your ship.</value>
+    <value>Þú þarft bara að fljúga yfir að "gervitunglinu" og gera öll sködduðu svæðin, alveg eins og þú munt gera fyrir skipið þitt.</value>
   </entry>
   <entry>
     <key>Coach12What’s the holdup? That “satellite” isn’t going to repair itself.</key>
-    <value>What’s the holdup? That "satellite" isn’t going to repair itself.</value>
+    <value>Eftir hverju bíðurðu? "Gervitunglið" gerir ekki við sig sjálft.</value>
   </entry>
   <entry>
     <key>Coach12You just need to maneuver over to the “satellite” and repair each damaged area, same as you’ll be doing for your ship.</key>
-    <value>You just need to maneuver over to the "satellite" and repair each damaged area, same as you’ll be doing for your ship.</value>
+    <value>Þú þarft bara að fljúga yfir að "gervitunglinu" og gera öll sködduðu svæðin, alveg eins og þú munt gera fyrir skipið þitt.</value>
   </entry>
   <entry>
     <key>PostZeroGNicely done! Of course, it’ll be a little more stressful when you’re hurtling through space, but just remember your training and try not to hit anything big.</key>
-    <value>Nicely done! Of course, it’ll be a little more stressful when you’re hurtling through space, but just remember your training and try not to hit anything big.</value>
+    <value>Vel gert! Að vísu verður það meira stressandi að gera þetta á fleygiferð í gegnum geiminn, en rifjaðu bara upp þjálfunina þína og passaðu þig að klessa ekki á neitt stórt.</value>
   </entry>
   <entry>
     <key>PostZeroGI can see you’re itching to get off this rock, so go get the &lt;color=orange&gt;launch codes from the observatory&lt;/color&gt; and get out of here already.</key>
-    <value>I can see you’re itching to get off this rock, so go get the &lt;color=orange&gt;launch codes from the observatory&lt;/color&gt; and get out of here already.</value>
+    <value>Ég sé að þú iðar í skinninu yfir því að komast af þessu grjóti, þannig að drífðu þig nú og náðu í &lt;color=orange&gt;flugkóðann frá athugunarstöðinni&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>PostZeroGBest of luck out there! And hey, try to avoid getting yourself killed now that I’ve put so much time into training you, got it?</key>
-    <value>Best of luck out there! And hey, try to avoid getting yourself killed now that I’ve put so much time into training you, got it?</value>
+    <value>Gangi þér vel þarna úti. Reyndu svo að forðast það að drepast, sérstaklega þar sem ég hef haft mikið fyrir því að þjálfa þig, skilurðu?</value>
   </entry>
   <entry>
     <key>CoachSpaceYou’re back awfully soon. Everything alright? Slate didn’t do anything dumb like install a self-destruct button, did they?</key>
@@ -14113,7 +14113,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>612</key>
-      <value>Þokyþyrnir</value>
+      <value>Þokuþyrnir</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>613</key>
