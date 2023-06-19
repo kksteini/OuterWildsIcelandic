@@ -6464,7 +6464,7 @@
   </entry>
   <entry>
     <key>NoSuitOi, don’t forget to put on a suit! I don’t want to have to come fish you out of there again.</key>
-    <value>Heyrðu, ekki gleyma að fara í gallann! Ég vil ekki þurfa að veiða þig uppúr aftur.</value>
+    <value>Heyrðu, ekki gleyma að fara í geimbúninginn! Ég vil ekki þurfa að veiða þig uppúr aftur.</value>
   </entry>
   <entry>
     <key>SignHey! Come say hi to your old flight coach before your launch. I’ve got zero-g training set up if you want a refresher.\\n\\n-Gossan</key>
@@ -6612,15 +6612,15 @@
   </entry>
   <entry>
     <key>PostConvo4Or maybe you’ll discover a new kind of rock or something.</key>
-    <value>Or maybe you’ll discover a new kind of rock or something.</value>
+    <value>Eða kannski muntu uppgötva nýja tegund af grjóti eða eitthvað.</value>
   </entry>
   <entry>
     <key>PostConvo4But honestly, as long as they don’t end up naming new safety equipment after you, I’m sure you’ll have done a great job.</key>
-    <value>But honestly, as long as they don’t end up naming new safety equipment after you, I’m sure you’ll have done a great job.</value>
+    <value>Til að vera hreinskilið, svo lengi sem að nýr öryggisbúnaður verður ekki skírður í höfuðið á þér, þá held ég að þú munir standa þig vel.</value>
   </entry>
   <entry>
     <key>PostConvoEndBe careful out there in space!</key>
-    <value>Be careful out there in space!</value>
+    <value>Farðu varlega þarna uppi!</value>
   </entry>
   <entry>
     <key>Marl</key>
@@ -6628,63 +6628,63 @@
   </entry>
   <entry>
     <key>Marl1So it’s launch day, huh? Hal’s going to miss you.</key>
-    <value>So it’s launch day, huh? Hal’s going to miss you.</value>
+    <value>Tekurðu á loft í dag? Hal á eftir að sakna þín.</value>
   </entry>
   <entry>
     <key>Marl1Speaking of launch day... I was thinking about it, and the platform those ships launch from is getting old. Isn’t it about time you built a new, less flammable one?</key>
-    <value>Speaking of launch day... I was thinking about it, and the platform those ships launch from is getting old. Isn’t it about time you built a new, less flammable one?</value>
+    <value>Talandi um að taka á loft... Ég var að spá, er ekki skotpallurinn fyrir þessi skip að verða frekar gamall? Er ekki kominn tími til þess að byggja nýrri og minna eldfiman pall?</value>
   </entry>
   <entry>
     <key>Marl1That big tree in the village would be the perfect choice. I wouldn’t mind helping out the space program. Just say the word!</key>
-    <value>That big tree in the village would be the perfect choice. I wouldn’t mind helping out the space program. Just say the word!</value>
+    <value>Stóra tréð í þorpinu væri fullkominn staður. Ég væri til í að hjálpa geimferðaráætluninni. Bara gefið orðið!</value>
   </entry>
   <entry>
     <key>MarlMarl1The current launch pad is fine, thanks.</key>
-    <value>The current launch pad is fine, thanks.</value>
+    <value>Núverandi skotpallur er ágætur, takk fyrir.</value>
   </entry>
   <entry>
     <key>MarlMarl1Nice try. We all know you have it out for that tree.</key>
-    <value>Nice try. We all know you have it out for that tree.</value>
+    <value>Kemur! Við vitum öll að þú þolir ekki þetta tré.</value>
   </entry>
   <entry>
     <key>MarlMarl1The launch pad is FLAMMABLE?!</key>
-    <value>The launch pad is FLAMMABLE?!</value>
+    <value>Er skotpallurinn ELDFIMUR?!</value>
   </entry>
   <entry>
     <key>FineOh. Really? Dang.</key>
-    <value>Oh. Really? Dang.</value>
+    <value>Þú meinar? En leiðinlegt.</value>
   </entry>
   <entry>
     <key>FineWell, maybe someone needs a new porch or something. &lt;Pause/&gt;A big one.</key>
-    <value>Well, maybe someone needs a new porch or something. &lt;Pause /&gt;A big one.</value>
+    <value>Tja, kannski vantar einhvern nýjan sólpall eða eitthvað. &lt;Pause /&gt;Mjööög stóran sólpall.</value>
   </entry>
   <entry>
     <key>OutWhat? No, I just think it’s in the way and someone ought to chop it down, you know? Specifically, me.</key>
-    <value>What? No, I just think it’s in the way and someone ought to chop it down, you know? Specifically, me.</value>
+    <value>Neinei, ég tel það vera pínu fyrir okkur og einhver ætti að höggva það niður. Nánar tiltekið ég.</value>
   </entry>
   <entry>
     <key>Out...Haha, you think this has to do with the time I fell out of it and broke my arm? That was when we were hatchlings! Who would hold a grudge for that long?</key>
-    <value>...Haha, you think this has to do with the time I fell out of it and broke my arm? That was when we were hatchlings! Who would hold a grudge for that long?</value>
+    <value>...Haha, heldurðu að þetta hafi eitthvað með það að gera þegar ég féll úr trénu og braut á mér handlegginn? Ég var klaklingur! Hver myndi vera svo langrækinn?</value>
   </entry>
   <entry>
     <key>FlammableHa! You didn’t realize that?</key>
-    <value>Ha! You didn’t realize that?</value>
+    <value>Bíddu! Þú fattaðir það ekki?</value>
   </entry>
   <entry>
     <key>FlammableDon’t worry, it’s held up for all the launches so far. It’ll definitely be fine for yours. Probably.</key>
-    <value>Don’t worry, it’s held up for all the launches so far. It’ll definitely be fine for yours. Probably.</value>
+    <value>Engar áhyggjur, hann hefur staðið af sér öll geimskot hingað til. Hann verður örugglega í fínu lagi fyrir þitt flugtak. Kannski.</value>
   </entry>
   <entry>
     <key>Esker1If you swing by the moon, say hi to Esker for me.</key>
-    <value>If you swing by the moon, say hi to Esker for me.</value>
+    <value>Ef þú kemur við á tunglinu, kastaðu kveðju á Esker frá mér.</value>
   </entry>
   <entry>
     <key>Tree...That tree has got it coming.</key>
-    <value>...That tree has got it coming.</value>
+    <value>...Þetta tré á það skilið.</value>
   </entry>
   <entry>
     <key>SpaceWhat are you doing back? Did you forget your spacesuit or something?</key>
-    <value>What are you doing back? Did you forget your spacesuit or something?</value>
+    <value>Afhverju ertu komið strax til baka? Gleymdirðu geimbúningnum þínum eða eitthvað?</value>
   </entry>
   <entry>
     <key>Porphy</key>
@@ -6692,163 +6692,163 @@
   </entry>
   <entry>
     <key>SapWineMaker1Heyo, hatchling!</key>
-    <value>Heyo, hatchling!</value>
+    <value>Hæhó, klaklingur!</value>
   </entry>
   <entry>
     <key>SapWineMaker1I hear you’re leaving us to seek adventure amongst the stars. When you return, let’s you, me, and Gossan open up a bottle of the Good Stuff.</key>
-    <value>I hear you’re leaving us to seek adventure amongst the stars. When you return, let’s you, me, and Gossan open up a bottle of the Good Stuff.</value>
+    <value>Lítill fugl sagði mér að þú værir að fara á vit ævintýranna meðal stjarnanna. Þegar þú kemur til baka, skulum við tvö og Gossan fá okkur flösku af góða stöffinu.</value>
   </entry>
   <entry>
     <key>PorphySapWineMaker1I’m only seeking adventure amongst one star, actually. Other stars are too far away.</key>
-    <value>I’m only seeking adventure amongst one star, actually. Other stars are too far away.</value>
+    <value>Ég ætla að ævintýrast innan um eina stjörnu, reyndar. Hinar stjörnurnar eru of langt í burtu.</value>
   </entry>
   <entry>
     <key>PorphySapWineMaker1The Good Stuff is less “delicious sap wine” and more “daunting digestive challenge.”</key>
-    <value>The Good Stuff is less "delicious sap wine" and more "daunting digestive challenge."</value>
+    <value>Góða stöffið er frekar "erfið meltingaráskorun" frekar en "gómsætt kvoðuvín".</value>
   </entry>
   <entry>
     <key>SolarSystemAnother metaphor ruined in the name of scientific accuracy.</key>
-    <value>Another metaphor ruined in the name of scientific accuracy.</value>
+    <value>Enn ein myndlíkingin eyðilögð í nafni vísindalegrar nákvæmni.</value>
   </entry>
   <entry>
     <key>SolarSystemNevertheless, I do hope you enjoy your travels. Good luck!</key>
-    <value>Nevertheless, I do hope you enjoy your travels. Good luck!</value>
+    <value>Samt sem áður, ég vona að þú eigir góða ferð. Gangi þér vel!</value>
   </entry>
   <entry>
     <key>GoodStuffAn iron stomach is the mark of a true Hearthian, my friend.</key>
-    <value>An iron stomach is the mark of a true Hearthian, my friend.</value>
+    <value>Þú ert ekki sannur Bjálkabælingur nema þú hafir járnmaga, vinur minn.</value>
   </entry>
   <entry>
     <key>GoodStuffOur hardy hunter-gatherer lifestyle stems from trial and error. By which I mean our ancestors survived eating a lot of bad things.</key>
-    <value>Our hardy hunter-gatherer lifestyle stems from trial and error. By which I mean our ancestors survived eating a lot of bad things.</value>
+    <value>Okkar fortíð af veiðurum og söfnurum hefur skilað harðgeru fólki í gegnum höpp og glöpp. Þá meina ég að sjálfsögðu að forfeður okkar komust lífs af með því að borða fullt af slæmum hlutum.</value>
   </entry>
   <entry>
     <key>SapWineMaker2Ho, the astronaut returns!</key>
-    <value>Ho, the astronaut returns!</value>
+    <value>Hæjó, geimfarinn snýr aftur!</value>
   </entry>
   <entry>
     <key>PorphyMenuTell me, what I can do for you?</key>
-    <value>Tell me, what I can do for you?</value>
+    <value>Segðu mér, hvað get ég gert fyrir þig?</value>
   </entry>
   <entry>
     <key>PorphyPorphyMenuAny new dirt?</key>
-    <value>Any new dirt?</value>
+    <value>Eitthvað að frétta?</value>
   </entry>
   <entry>
     <key>PorphyPorphyMenuWhat are you up to?</key>
-    <value>What are you up to?</value>
+    <value>Hvað ertu að bralla?</value>
   </entry>
   <entry>
     <key>PorphyPorphyMenuI’m good, actually.</key>
-    <value>I’m good, actually.</value>
+    <value>Ég hef það gott, reyndar.</value>
   </entry>
   <entry>
     <key>NewDirtI’m hoping to teach Esker to tap trees next time they return from the Attlerock. If they’ll bring me lunar sap, I can attempt moon wine!</key>
-    <value>I’m hoping to teach Esker to tap trees next time they return from the Attlerock. If they’ll bring me lunar sap, I can attempt moon wine!</value>
+    <value>Ég er að vonast til þess að geta kennt Esker að tappa af tré næst þegar hán kemur frá Slakagíg. Ef hán kemur með tunglkvoðu þá get ég reynt að búa til tunglvín!</value>
   </entry>
   <entry>
     <key>WhatsUpI’ve just finished sealing up another batch of sap wine for aging. I like to begin aging a batch on the day of a significant occasion, you know!</key>
-    <value>I’ve just finished sealing up another batch of sap wine for aging. I like to begin aging a batch on the day of a significant occasion, you know!</value>
+    <value>Ég var rétt í þessu að leggja lokahönd á annan skammt af kvoðuvíni sem skal nú þroskast. Ég hef dálæti af því að hefja þroska þeirra við mikilfengleg tilefni!</value>
   </entry>
   <entry>
     <key>WhatsUpThat’s why there are so many bottles labeled “structural collapse” and “house fire.”</key>
-    <value>That’s why there are so many bottles labeled "structural collapse" and "house fire."</value>
+    <value>Þess vegna eru svo margar flöskur merktar "byggingarhrun" og "húseldur".</value>
   </entry>
   <entry>
     <key>GoodbyeEnjoy your travels!</key>
-    <value>Enjoy your travels!</value>
+    <value>Góða ferð!</value>
   </entry>
   <entry>
     <key>SapWineMaker3Oh my, and here I thought I’d heard your ship take off. Was your adventure only a short one?</key>
-    <value>Oh my, and here I thought I’d heard your ship take off. Was your adventure only a short one?</value>
+    <value>Je minn, ég hélt að þú ætlaðir út í geim í dag. Var ævintýrið þitt svo stutt?</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingOkay, wow. &lt;i&gt;Wow.&lt;/i&gt; I’ve seen this ruin in other travelers’ pictures, but seeing it for myself...</key>
-    <value>Okay, wow. &lt;i&gt;Wow.&lt;/i&gt; I’ve seen this ruin in other travelers’ pictures, but seeing it for myself...</value>
+    <value>Ja hérna, vá. &lt;i&gt;Vá.&lt;/i&gt; Ég hef séð þessar rústir úr myndum annarara ferðalanga, en að sjá þær í eigin persónu...</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingIt’s &lt;Pause=1&gt;&lt;i&gt;really&lt;/i&gt; old, isn’t it?</key>
-    <value>It’s &lt;Pause=1&gt;&lt;i&gt;really&lt;/i&gt; old, isn’t it?</value>
+    <value>Þær eru &lt;Pause=1&gt;&lt;i&gt;mjög&lt;/i&gt; gamlar, hlýtur að vera?</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingBut wow, this is the coolest day of my life. ...Okay, um, time for some official notes!</key>
-    <value>But wow, this is the coolest day of my life. ...Okay, um, time for some official notes!</value>
+    <value>En vá, þetta er það svalasta sem ég hef séð í lífinu. ...Allt í lagi, ömm, tími til þess að setja opinbera punkta á blað!</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingSo this is some kind of Nomai “locator.” It can point out the different planets - which is incredibly cool, by the way - but from what little I can understand of the writing here, I think it was built to try to find something specific?</key>
-    <value>So this is some kind of Nomai "locator." It can point out the different planets - which is incredibly cool, by the way - but from what little I can understand of the writing here, I think it was built to try to find something specific?</value>
+    <value>Sem sagt, þetta er einhver konar Nomai "staðsetjari". Hann getur bent á pláneturnar - sem er reyndar ógeðslega svalt - en af því litla sem ég fæ skilið af skrifunum hérna, þá held ég að það hafi verið byggt með það í huga að finna eitthvað ákveðið?</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingI’m not sure. I also was able to translate something about the south pole of Brittle Hollow, so I’ll fly there to see if I can learn more.</key>
-    <value>I’m not sure. I also was able to translate something about the south pole of Brittle Hollow, so I’ll fly there to see if I can learn more.</value>
+    <value>Ég er ekki visst. Ég gat líka lesið úr þessu eitthvað um suðurpólinn á Brotholi, þannig að ég ætla að fljúga þangað til að sjá hvort ég nái að læra eitthvað meira.</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingYep. Just gonna get back in the ol’ ship and take off. Totally safe... Mostly safe. &lt;size=20&gt;Oh, stars above&lt;/size&gt;...</key>
-    <value>Yep. Just gonna get back in the ol’ ship and take off. Totally safe... Mostly safe. &lt;size=20&gt;Oh, stars above&lt;/size&gt;...</value>
+    <value>Jebb. Ég ætla að fara aftur í blessaða skipið og taka á loft. Engin hætta... Pínkulítil hætta. &lt;size=20&gt;Æ, hjálpi mér stjörnur á himnunum&lt;/size&gt;...</value>
   </entry>
   <entry>
     <key>RiebecksJournalThe journey here from the south pole has been, um... I’m going to go with “harrowing”, because of the, um, all of the meteors. But hey, at least I made it here unconcussed and not on fire!</key>
-    <value>The journey here from the south pole has been, um... I’m going to go with "harrowing," because of the, um, all of the meteors. But hey, at least I made it here unconcussed and not on fire!</value>
+    <value>Ferðalagið hingað frá suðurpólnum var, ömm... ég ætla að segja "átakanlegt", út af öllu þessu, ömm, loftsteinaregni. En sko, að minnsta kosti er ekki kviknað í mér né missti ég meðvitund!</value>
   </entry>
   <entry>
     <key>RiebecksJournalOkay, let’s see... I poked around a little, and there’s some sort of old Nomai path that starts across from my campsite, inside the ruined building with trees growing out of it.</key>
-    <value>Okay, let’s see... I poked around a little, and there’s some sort of old Nomai path that starts across from my campsite, inside the ruined building with trees growing out of it.</value>
+    <value>Ókei, látum okkur sjá... Ég skoðaði mig aðeins um hérna, og það er einhvers konar Nomai slóði sem byrjar á móti tjaldsvæðinu mínu, inni í eyðilögðu byggingunni með trjánum sem vaxa úr henni.</value>
   </entry>
   <entry>
     <key>RiebecksJournalDoesn’t look like anything horrible - just stairs leading down. I can handle stairs! After I get my supplies together, I’ll follow the path and see where it leads.</key>
-    <value>Doesn’t look like anything horrible - just stairs leading down. I can handle stairs! After I get my supplies together, I’ll follow the path and see where it leads.</value>
+    <value>Virðist ekki vera neitt hrikalegt - bara stigi sem fer niður. Ég höndla stiga! Eftir að ég tek saman birgðirnar mínar, þá ætla ég að fylgja stígnum og sjá hvert hann leiðir mig.</value>
   </entry>
   <entry>
     <key>RiebecksJournalHurgh. Well. That was... deeply unpleasant. I made it this far, though. Guess that’s the part to focus on, and not how I’ll eventually have to get back &lt;i&gt;up&lt;/i&gt; that path.</key>
-    <value>Hurgh. Well. That was... deeply unpleasant. I made it this far, though. Guess that’s the part to focus on, and not how I’ll eventually have to get back &lt;i&gt;up&lt;/i&gt; that path.</value>
+    <value>Úff. Tja. Þetta var... einstaklega óþægilegt. Ég er samt komið þetta langt. Ég ætti að einbeita mér að þeim parti, frekar en hvernig ég mun á endanum þurfa að fara til baka &lt;i&gt;upp&lt;/i&gt; þennan stíg.</value>
   </entry>
   <entry>
     <key>RiebecksJournalBut wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I &lt;i&gt;definitely&lt;/i&gt; want to see that.</key>
-    <value>But wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I &lt;i&gt;definitely&lt;/i&gt; want to see that.</value>
+    <value>En, vá, þessi staður er svo sannarlega stórkostlegur! Sýnist Hengiborgin vera í norðri. Og í austur er þyngdaraflsbyssan! Ég vil &lt;i&gt;mjög mikið&lt;/i&gt; sjá hana.</value>
   </entry>
   <entry>
     <key>RiebecksJournalAnd another thing - I’m detecting oxygen from somewhere below. Which is good, since I, uh, used up a lot of my supply screaming during the trip down from the surface.</key>
-    <value>And another thing - I’m detecting oxygen from somewhere below. Which is good, since I, uh, used up a lot of my supply screaming during the trip down from the surface.</value>
+    <value>Svo er það hitt - ég nem súrefni einhvers staðar fyrir neðan mig. Sem er gott, þar sem að ég, ömm, notaði mikið af súrefnisbirgðunum í að öskra á meðan ég ferðaðist niður frá yfirborðinu.</value>
   </entry>
   <entry>
     <key>RiebecksJournalAs soon as I stop dry heaving, I’m going to head farther down below so I can refill my tank.</key>
-    <value>As soon as I stop dry heaving, I’m going to head farther down below so I can refill my tank.</value>
+    <value>Um leið og ég næ andanum ætla ég að fara lengra niður þannig að ég geti fyllt á tankinn minn.</value>
   </entry>
   <entry>
     <key>RiebecksJournalAt first I thought this was an old Nomai settlement, but on closer inspection, I don’t think anyone ever lived here. These buildings are atypical for Nomai dwellings.</key>
-    <value>At first I thought this was an old Nomai settlement, but on closer inspection, I don’t think anyone ever lived here. These buildings are atypical for Nomai dwellings.</value>
+    <value>Í fyrstu hélt ég að þetta væri gömul Nomaibyggð en við nánari athugun þá held ég að enginn hafi nokkurn tíma búið hérna. Þessar bygginar eru frábrugðnar dvalarstöðum Nomaia.</value>
   </entry>
   <entry>
     <key>RiebecksJournalMy best guess? This could be where the Nomai made gravity crystals. We know they mined raw from material from below the crust on Brittle Hollow, then refined that material to produce the crystals.</key>
-    <value>My best guess? This could be where the Nomai made gravity crystals. We know they mined raw from material from below the crust on Brittle Hollow, then refined that material to produce the crystals.</value>
+    <value>Mitt helsta gisk væri að Nomaiarnir hafi notað þennan stað til þess að búa til þyngdaraflskristalla. Við vitum að þeir unnu hrátt efni úr námu undir yfirborði Brothols, og unnu svo nánar með efnið til þess að framleiða kristalana.</value>
   </entry>
   <entry>
     <key>RiebecksJournalGravity crystals produce a local gravity distortion that affects the area around them, up to a certain radius. They’re very clever! Nomai used them to anchor themselves to surfaces they might want to traverse down.</key>
-    <value>Gravity crystals produce a local gravity distortion that affects the area around them, up to a certain radius. They’re very clever! Nomai used them to anchor themselves to surfaces they might want to traverse down.</value>
+    <value>Þyngdaraflskristalar afmynda þyndgaraflssviðið í ákveðinn radíus í kringum sig. Mjög snjöll uppfinning. Nomaiar notuðu þá til að halda sér föstum á yfirborðum sem þeir gætu viljað ferðast yfir.</value>
   </entry>
   <entry>
     <key>RiebecksJournalWe Hearthians have borrowed their technology in our ships, where gravity crystals keep astronauts anchored to just one flat plane (thank the stars!).</key>
-    <value>We Hearthians have borrowed their technology in our ships, where gravity crystals keep astronauts anchored to just one flat plane (thank the stars!).</value>
+    <value>Við Bjálkabælingar höfum fengið tækni þeirra að láni í skipum okkar, þar sem þyngdaraflskristalar þrýst ageimförum niður á eitt flatt plan (stjörnunum sé lof!).</value>
   </entry>
   <entry>
     <key>Riebeck_SouthPoleRecordingI’m here! I did it! I put the ship down safely!</key>
-    <value>I’m here! I did it! I put the ship down safely!</value>
+    <value>Ég er hér! Mér tókst það! Ég lenti skipinu áfallalaust!</value>
   </entry>
   <entry>
     <key>Riebeck_SouthPoleRecordingUm, in that the ship went down, and I didn’t sustain bodily harm. A few minor repairs, and it’s like the ship never even hit those rocks!</key>
-    <value>Um, in that the ship went down, and I didn’t sustain bodily harm. A few minor repairs, and it’s like the ship never even hit those rocks!</value>
+    <value>Ömm, þá meina ég að þegar skipið lenti þá varð ég ekki fyrir neinum líkamlegum skaða. Nokkrar litlar viðgerðir og þá er eins og skipið hafi aldrei rekist á þessa kletta!</value>
   </entry>
   <entry>
     <key>Riebeck_SouthPoleRecordingOne of my better attempts. Feldspar would barely have laughed at me, I bet.</key>
-    <value>One of my better attempts. Feldspar would barely have laughed at me, I bet.</value>
+    <value>Ein af mínum bestu tilraunum. Ég þori að veðja að Feldspar myndi varla hlæja að mér</value>
   </entry>
   <entry>
     <key>Riebeck_SouthPoleRecordingThat’s the good news. The bad news... I, uh, haven’t found a way inside this structure yet. The door is broken, and I know I’m not great at exploring, but I think I would have found a different entrance by now if there were one. P... probably.</key>
-    <value>That’s the good news. The bad news... I, uh, haven’t found a way inside this structure yet. The door is broken, and I know I’m not great at exploring, but I think I would have found a different entrance by now if there were one. P... probably.</value>
+    <value>Það myndu vera góðu fréttirnar. Slæmu fréttirnar eru... Ég, ömm, hef ekki fundið leiðina inn í þessa byggingu ennþá. Hurðin er brotin og ég veit að ég er ekki gott í að kanna ókunn svæði, en ég held að ég væri búið að finna aðra leið inn ef hún er til. L... líklegast.</value>
   </entry>
   <entry>
     <key>Riebeck_SouthPoleRecordingI can’t get inside from &lt;i&gt;here&lt;/i&gt;, but I know there are paths below the surface. I’m going to head north to the ruins on the equator to try to find a way down.</key>
-    <value>I can’t get inside from &lt;i&gt;here&lt;/i&gt;, but I know there are paths below the surface. I’m going to head north to the ruins on the equator to try to find a way down.</value>
+    <value>Ég kemst ekki inn &lt;i&gt;héðan&lt;/i&gt;, en ég veit að það eru stígar fyrir neðan yfirborðið. Ég ætla norður að rústunum við miðbauginn og sjá hvort ég finni aðra leið niður.</value>
   </entry>
   <entry>
     <key>Rutile</key>
@@ -6856,95 +6856,95 @@
   </entry>
   <entry>
     <key>Mayor1You’re actually blasting off in that thing, huh?</key>
-    <value>You’re actually blasting off in that thing, huh?</value>
+    <value>Ætlarðu virkilega að taka á loft á þessu skrapatóli?</value>
   </entry>
   <entry>
     <key>RutileMayor1They really don’t explode as often anymore.</key>
-    <value>They really don’t explode as often anymore.</value>
+    <value>Skipin springa ekki lengur eins mikið og þau gerðu.</value>
   </entry>
   <entry>
     <key>RutileMayor1I’m told my odds of survival are statistically quite high.</key>
-    <value>I’m told my odds of survival are statistically quite high.</value>
+    <value>Mér skilst að það séu tölfræðilega góðar líkur á að ég lifi það af.</value>
   </entry>
   <entry>
     <key>SkepticAnswer1All I know is between the space program and Mica’s model rockets, things seem to burn to the ground around here more than they used to.</key>
-    <value>All I know is between the space program and Mica’s model rockets, things seem to burn to the ground around here more than they used to.</value>
+    <value>Ég veit bara að þegar það kemur að geimferðaráætluninni og flugmódelunum háns Mica, þá virðast hlutir á þessum slóðum brenna til kaldra kola mun meira en áður fyrr.</value>
   </entry>
   <entry>
     <key>SkepticAnswer2Yeah, the space program’s certainly come a long way. I should probably thank you for causing fewer flash fires than your predecessors.</key>
-    <value>Yeah, the space program’s certainly come a long way. I should probably thank you for causing fewer flash fires than your predecessors.</value>
+    <value>Ja, geimferðaráætluninni hefur heldur betur farið fram. Ég ætti líklegast að þakka ykkur fyrir færri skyndielda.</value>
   </entry>
   <entry>
     <key>SkepticAnswer2By the way, good luck with those retro rockets.</key>
-    <value>By the way, good luck with those retro rockets.</value>
+    <value>Á meðan ég man, gangi þér vel með þessa bakhreyfla.</value>
   </entry>
   <entry>
     <key>Mayor2Hey, what can I do for you?</key>
-    <value>Hey, what can I do for you?</value>
+    <value>Hæ, hvað get ég gert fyrir þig?</value>
   </entry>
   <entry>
     <key>RutileMayor2Marl is plotting to cut down that big tree. Again.</key>
-    <value>Marl is plotting to cut down that big tree. Again.</value>
+    <value>Marl er að reyna að koma því í kring að stóra tréð verði höggvið niður. Aftur.</value>
   </entry>
   <entry>
     <key>RutileMayor2Are you going to watch the launch?</key>
-    <value>Are you going to watch the launch?</value>
+    <value>Ætlarðu að horfa á flugtakið?</value>
   </entry>
   <entry>
     <key>RutileMayor2Do you really worry that the space program will burn the village down?</key>
-    <value>Do you really worry that the space program will burn the village down?</value>
+    <value>Hefurðu í alvörunni áhyggjur af því að geimferðaráætlunin brenni þorpið til grunna?</value>
   </entry>
   <entry>
     <key>RutileMayor2I’m good.</key>
-    <value>I’m good.</value>
+    <value>Ég er gott.</value>
   </entry>
   <entry>
     <key>Marl&lt;Color=#808080ff&gt;Sigh...&lt;/Color&gt; I suppose it’s my duty as mayor to stop them. Again.</key>
-    <value>Sigh... I suppose it’s my duty as mayor to stop them. Again.</value>
+    <value>Andvarp... Ætli mér beri ekki skyldur sem bæjarstjóri að stoppa hán. Aftur.</value>
   </entry>
   <entry>
     <key>MarlWhen Marl fell out of that tree and broke their arm, I suspect they might have also hit their head on the way down.</key>
-    <value>When Marl fell out of that tree and broke their arm, I suspect they might have also hit their head on the way down.</value>
+    <value>Þegar Marl datt úr þessu tré og braut á sér handlegginn, þá hlýtur hán að hafa fengið höfuðhögg á leiðinni niður.</value>
   </entry>
   <entry>
     <key>FiresOnly constantly. You learn to live with it.</key>
-    <value>Only constantly. You learn to live with it.</value>
+    <value>Já, en bara stanslausar áhyggjur. Maður lærir að lifa með því.</value>
   </entry>
   <entry>
     <key>FiresYou also learn to sleep with a bucket of water next to your bed, just in case.</key>
-    <value>You also learn to sleep with a bucket of water next to your bed, just in case.</value>
+    <value>Maður lærir líka að sofa með fötu fulla af vatni við rúmgaflinn, bara til öryggis.</value>
   </entry>
   <entry>
     <key>LaunchOf course!</key>
-    <value>Of course!</value>
+    <value>Auðvitað!</value>
   </entry>
   <entry>
     <key>LaunchI’ll be watching from a safe distance, obviously, and mostly to make sure nothing catches fire. But watching nonetheless.</key>
-    <value>I’ll be watching from a safe distance, obviously, and mostly to make sure nothing catches fire. But watching nonetheless.</value>
+    <value>Ég mun horfa á það í öruggri fjarlægð, augljóslega, og aðallega til þess að sjá til þess að það kvikni ekki í neinu. En ég mun þó horfa.</value>
   </entry>
   <entry>
     <key>GoodGlad to hear it.</key>
-    <value>Glad to hear it.</value>
+    <value>Gott að heyra.</value>
   </entry>
   <entry>
     <key>MayorSpaceYou’re back already? Is everything OK?</key>
-    <value>You’re back already? Is everything OK?</value>
+    <value>Hvað, komið aftur svo snemma? Er allt í lagi?</value>
   </entry>
   <entry>
     <key>SignEast: Nomai Ruins</key>
-    <value>East: Nomai Ruins</value>
+    <value>Austur: Nomai rústir</value>
   </entry>
   <entry>
     <key>SignNorth: Youngbark Crater</key>
-    <value>North: Youngbark Crater</value>
+    <value>Norður: Ungviðargígur</value>
   </entry>
   <entry>
     <key>SignNorthwest: Geyser Mountains</key>
-    <value>Northwest: Geyser Mountains</value>
+    <value>Norðaustur: Hverfjöllin</value>
   </entry>
   <entry>
     <key>SignSouth: Quantum Grove Crater</key>
-    <value>South: Quantum Grove Crater</value>
+    <value>Suður: Skammtalundargígur</value>
   </entry>
   <entry>
     <key>Spinel</key>
@@ -6952,131 +6952,131 @@
   </entry>
   <entry>
     <key>Spinel1Fishing rhyme, fishing rhyme... Singing helps me pass the time.</key>
-    <value>Fishing rhyme, fishing rhyme... Singing helps me pass the time.</value>
+    <value>Fiskinn blíða, sé ég víða... ljóðin láta tímann líða.</value>
   </entry>
   <entry>
     <key>Spinel1You’re leaving the crater? Guess we’ll all be a little busier without you around to lend a hand.</key>
-    <value>You’re leaving the crater? Guess we’ll all be a little busier without you around to lend a hand.</value>
+    <value>Ertu að fara frá gígnum? Ætli við verðum ekki ögn uppteknari með verkefnin deilt niður á færri hendur.</value>
   </entry>
   <entry>
     <key>Spinel1That big water planet, Giant’s Deep - that’s where I’d go.</key>
-    <value>That big water planet, Giant’s Deep - that’s where I’d go.</value>
+    <value>Þessi stóra vatnspláneta, Jötunsdýpi - þangað myndi ég fara.</value>
   </entry>
   <entry>
     <key>SpinelSpinel1Why’s that?</key>
-    <value>Why’s that?</value>
+    <value>Af hverju?</value>
   </entry>
   <entry>
     <key>SpinelSpinel1I need to find Hornfels.</key>
-    <value>I need to find Hornfels.</value>
+    <value>Ég er að leita að Hornfels.</value>
   </entry>
   <entry>
     <key>Spinel2Did you try the observatory? I’ve literally never seen them anywhere else.</key>
-    <value>Did you try the observatory? I’ve literally never seen them anywhere else.</value>
+    <value>Prófaðir þú athugunarstöðina? Ég hef bókstaflega aldrei séð hán neinsstaðar annars staðar.</value>
   </entry>
   <entry>
     <key>Spinel3One time, after the rest of the village had left to sleep and it was just the two of us sitting around the campfire, Gabbro told me about their first trip to Giant’s Deep.</key>
-    <value>One time, after the rest of the village had left to sleep and it was just the two of us sitting around the campfire, Gabbro told me about their first trip to Giant’s Deep.</value>
+    <value>Einu sinni, þegar allir í þorpinu voru sofandi og það vorum bara við Gabbro sitjandi við varðeldinn, þá sagði hán mér frá sinni fyrstu ferð til Jötunsdýpis.</value>
   </entry>
   <entry>
     <key>Spinel3They landed their ship easily enough in the waves, but couldn’t see too far down, on account of how murky the water was, I guess. Too dark.</key>
-    <value>They landed their ship easily enough in the waves, but couldn’t see too far down, on account of how murky the water was, I guess. Too dark.</value>
+    <value>Hán lenti skipinu sínu vandræðalaust í ölduganginum en gat ekki séð langt niður, líklega vegna þess hve drungalegt vatnið var. Of dimmt.</value>
   </entry>
   <entry>
     <key>Spinel3Gabbro wants to see what lay beneath the surface, so they decided to travel deeper. They traveled down, and down...</key>
-    <value>Gabbro wants to see what lay beneath the surface, so they decided to travel deeper. They traveled down, and down...</value>
+    <value>Gabbro vildi sjá hvað var undir yfirborðinu, svo hán kafaði dýpra. Hán fór lengra og lengra niður...</value>
   </entry>
   <entry>
     <key>Spinel3But suddenly, Gabbro couldn’t go any further.</key>
-    <value>But suddenly, Gabbro couldn’t go any further.</value>
+    <value>En skyndilega gat Gabbro ekki kafað lengra.</value>
   </entry>
   <entry>
     <key>SpinelSpinel3Tell me more.</key>
-    <value>Tell me more.</value>
+    <value>Segðu mér meira.</value>
   </entry>
   <entry>
     <key>SpinelSpinel3Yeah, Giant’s Deep has a current you can’t pass through.</key>
-    <value>Yeah, Giant’s Deep has a current you can’t pass through.</value>
+    <value>Já, Jötunsdýpi hefur harðan straum sem þú getur ekki kafað í gegnum.</value>
   </entry>
   <entry>
     <key>SpinelSpinel3I underestimated how boring this would be. Goodbye.</key>
-    <value>I underestimated how boring this would be. Goodbye.</value>
+    <value>Ég vanmat hversu leiðinleg sagan myndi verða. Bless.</value>
   </entry>
   <entry>
     <key>Spinel6...You always were my least favorite astronaut.</key>
-    <value>...You always were my least favorite astronaut.</value>
+    <value>...Þú hefur ætíð verið minnst uppáhaldsgeimfarinn minn.</value>
   </entry>
   <entry>
     <key>Spinel4I will, I was just pausing dramatically.</key>
-    <value>I will, I was just pausing dramatically.</value>
+    <value>Jájá, ég tók bara leikrænt hlé.</value>
   </entry>
   <entry>
     <key>Spinel5Sure, okay, but shut up a minute. This is the good part.</key>
-    <value>Sure, okay, but shut up a minute. This is the good part.</value>
+    <value>Já, ókei, en þegiðu smástund. Þetta er besti parturinn.</value>
   </entry>
   <entry>
     <key>Spinel7As though exercising a will of its own, the water was refusing to let Gabbro go any deeper. It held Gabbro back. ...Almost as if it were trying to protect them from something.</key>
-    <value>As though exercising a will of its own, the water was refusing to let Gabbro go any deeper. It held Gabbro back. ...Almost as if it were trying to protect them from something.</value>
+    <value>Eins og vatnið væri lifandi, þá neitaði það að hleypa Gabbro í gegn. Það ýtti háni til baka. ...Eins og vatnið væri að vernda hán fyrir einhverju.</value>
   </entry>
   <entry>
     <key>Spinel7And then, in the terrible darkness, Gabbro saw it...!</key>
-    <value>And then, in the terrible darkness, Gabbro saw it...!</value>
+    <value>Og þá, í skelfilegu myrkrinu sá Gabbro hvað bjó fyrir neðan...!</value>
   </entry>
   <entry>
     <key>Spinel7The tentacle of some hideous beast!</key>
-    <value>The tentacle of some hideous beast!</value>
+    <value>Griparmur einhverrar hræðilegrar skepnu!</value>
   </entry>
   <entry>
     <key>SpinelSpinel7AHHH!</key>
-    <value>AHHH!</value>
+    <value>AAAAA!</value>
   </entry>
   <entry>
     <key>SpinelSpinel7Is that all true?</key>
-    <value>Is that all true?</value>
+    <value>Ertu að segja satt?</value>
   </entry>
   <entry>
     <key>SpinelSpinel7...Was there sap wine involved during Gabbro’s campfire story?</key>
-    <value>...Was there sap wine involved during Gabbro’s campfire story?</value>
+    <value>...Var vín um hönd á meðan sagan háns Gabbro var sögð?</value>
   </entry>
   <entry>
     <key>Spinel8I mean, that’s what Gabbro said, anyway. Whatever it was, it freaked Gabbro out pretty good.</key>
-    <value>I mean, that’s what Gabbro said, anyway. Whatever it was, it freaked Gabbro out pretty good.</value>
+    <value>Ég meina, þetta er það sem Gabbro sagði allavega. Hvað sem það var, þá skaut það Gabbro heldur betur skelk í bringu.</value>
   </entry>
   <entry>
     <key>Spinel8Everyone wants to hear new stories at the village campfire, you know. Make sure you bring some back with you!</key>
-    <value>Everyone wants to hear new stories at the village campfire, you know. Make sure you bring some back with you!</value>
+    <value>Veistu, það vilja allir heyra nýjar sögur við þorpsvarðeldinn. Komdu til baka með nokkrar góðar!</value>
   </entry>
   <entry>
     <key>Spinel9Heard it from Gabbro themself! Gabbro can be a little fanciful, sure, but they aren’t a liar. I mean, probably, anyway.</key>
-    <value>Heard it from Gabbro themself! Gabbro can be a little fanciful, sure, but they aren’t a liar. I mean, probably, anyway.</value>
+    <value>Ég heyrði það frá sjálfu Gabbro! Hán getur verið pínu hugmyndaríkt, jájá, en hán er ekki lygari. Ég meina, líklega ekki lygari.</value>
   </entry>
   <entry>
     <key>Spinel9I guess if you want to know if the story’s entirely true, you can go see Giant’s Deep for yourself!</key>
-    <value>I guess if you want to know if the story’s entirely true, you can go see Giant’s Deep for yourself!</value>
+    <value>Ætli þú þurfir ekki bara að fara sjálft til Jötunsdýpis til að sjá með eigin augum hvort sagan sé sönn?!</value>
   </entry>
   <entry>
     <key>Spinel10Come to think of it, don’t you have somewhere you should be exploring that isn’t here?</key>
-    <value>Come to think of it, don’t you have somewhere you should be exploring that isn’t here?</value>
+    <value>Nú þegar ég pæli því, átt þú ekki að vera að kanna ókunn svæði frekar en að hanga á kunnuglegum?</value>
   </entry>
   <entry>
     <key>Spinel11Fishing song, fishing song... Geez, I think my bait is wrong.</key>
-    <value>Fishing song, fishing song... Geez, I think my bait is wrong.</value>
+    <value>Fiskiljóð og fiskiljóð... beitan mín er ekki góð.</value>
   </entry>
   <entry>
     <key>Spinel11What are you up to?</key>
-    <value>What are you up to?</value>
+    <value>Hvað ertu að braska?</value>
   </entry>
   <entry>
     <key>SpinelSpinel11I’m looking for Hornfels.</key>
-    <value>I’m looking for Hornfels.</value>
+    <value>Ég er að leita að Hornfels.</value>
   </entry>
   <entry>
     <key>SpinelSpinel11Nothing.</key>
-    <value>Nothing.</value>
+    <value>Ekkert.</value>
   </entry>
   <entry>
     <key>Spinel12Oh, them? I’d bet today’s haul they’re in the observatory.</key>
-    <value>Oh, them? I’d bet today’s haul they’re in the observatory.</value>
+    <value>Hán? Ég skal veðja afla dagsins að hán er í athugunarstöðinni.</value>
   </entry>
   <entry>
     <key>Spinel12Not that I’ve caught anything yet, but if I had, I’d definitely bet it. Hornfels is pretty much &lt;i&gt;always&lt;/i&gt; in the observatory.</key>
@@ -13241,7 +13241,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>269</key>
-      <value>GALLI: </value>
+      <value>GEIMBÚNINGUR: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>270</key>
@@ -13265,7 +13265,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>275</key>
-      <value>Klæðast Galla</value>
+      <value>Klæðast Geimbúning</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>276</key>
@@ -13297,7 +13297,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>283</key>
-      <value>Skila Galla</value>
+      <value>Skila Geimbúning</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>284</key>
@@ -13321,7 +13321,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>289</key>
-      <value>Bæta Gat á Galla</value>
+      <value>Bæta Gat á Geimbúning</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>290</key>
@@ -13697,7 +13697,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>436</key>
-      <value>GAT FANNST Á GALLA</value>
+      <value>GAT FANNST Á GEIMBÚNING</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>440</key>
