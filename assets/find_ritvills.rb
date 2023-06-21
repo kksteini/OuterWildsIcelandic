@@ -4,16 +4,23 @@ puts "Loading words"
 $f = File.open("uniquer.txt", "r").readlines.collect{|v| v.chomp}.sort
 puts "Loading complete"
 
+$reasons = []
+
 def process_element(element)
   # If the name of this element ends with 'entry', print its text
   if element.name.end_with?('entry') || element.name.end_with?('Entry')
     if not element.elements['value'].nil? then
-      clean_text = element.elements['value'].to_s[7..-9].gsub(/&lt;.*?&gt;/, '').gsub(/["',\.!?]/, "").downcase
+      clean_text = element.elements['value'].to_s[7..-9].gsub(/&lt.*?&gt;/, '').gsub(/[0123456789—“”…;:()"';,\.!?]/, "").downcase
       reasons = clean_text.split(" ").select{|v| !$f.include? v}
 
       unless reasons.length.zero? then 
         puts "Offender: #{clean_text}"
-        puts "Reasons: #{reasons}"
+        #puts "Reasons: #{reasons}"
+        reasons.each do |reason|
+          $reasons.push(reason) unless $reasons.include? reason
+        end
+
+        puts "Reasons so far: #{$reasons}"
       end
     end
   end

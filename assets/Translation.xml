@@ -290,7 +290,7 @@
 			Verdict: HOSPITABLE.
 		</key>
     <value>
-			Skanna ytra umhverfi... Skimun lokið. Lítilvægur burðaróstöðugleiki fannst. Blettir af hentugu andrúmlsofti fundnir. Fullnægjandi sólarorka fundin.
+			Skanna ytra umhverfi... Skimun lokið. Lítilvægur burðaróstöðugleiki fannst. Blettir af hentugu andrúmslofti fundust. Fullnægjandi sólarorka fundin.
 			Niðurstaða: LÍFVÆNLEGT.
 		</value>
   </entry>
@@ -352,7 +352,7 @@
   </entry>
   <entry>
     <key>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</key>
-    <value>PLUME: Skammtímanýbyggðin er klár, en passið ykkur á grjóthruni og ryki sem skapast af árekstri lofsteina.</value>
+    <value>PLUME: Skammtímaskjólið er klárt, en passið ykkur á grjóthruni og ryki sem skapast af árekstri loftsteina.</value>
   </entry>
   <entry>
     <key>THATCH: I can’t understand. Why did the &lt;color=orange&gt;Vessel&lt;/color&gt; crash in that place?</key>
@@ -384,7 +384,7 @@
   </entry>
   <entry>
     <key>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</key>
-    <value>BELLS: Við leggjum ekki í þetta ferðalag eingöngu fyrir okkur sjálfa, heldur einnig til þess að heiðra meðlimi ættbálksins sem á undan okkur komu: þá sem brotlendu hér í þessu sólkerfi og í kjölfarið urðu strandaglópar á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; og á &lt;color=lightblue&gt;Blossabróður&lt;/color&gt;, með engin samskipti milli þessara tveggja hópa eftirlifenda.</value>
+    <value>BELLS: Við leggjum ekki í þetta ferðalag eingöngu fyrir okkur sjálfa, heldur einnig til þess að heiðra meðlimi ættbálksins sem á undan okkur komu: þá sem brotlentu hér í þessu sólkerfi og í kjölfarið urðu strandaglópar á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; og á &lt;color=lightblue&gt;Blossabróður&lt;/color&gt;, með engin samskipti milli þessara tveggja hópa eftirlifenda.</value>
   </entry>
   <entry>
     <key>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</key>
@@ -459,7 +459,7 @@
 			THATCH: The only other object we’ve observed displaying this quantum behavior is the &lt;color=lightblue&gt;wandering moon&lt;/color&gt;. I imagine the moon’s behavior and this grove’s are related.
 		</key>
     <value>
-			THATCH: Eini aðri hluturinn sem við höfum séð hafa slíka skammtahegðun er &lt;color=lightblue&gt;reikitunglið&lt;/color&gt;. Ég hugsa mér að hegðun tunglsins tengist hegðun þessa lundar. 
+			THATCH: Eini annar hluturinn sem við höfum séð hafa slíka skammtahegðun er &lt;color=lightblue&gt;reikitunglið&lt;/color&gt;. Ég hugsa mér að hegðun tunglsins tengist hegðun þessa lundar. 
 		</value>
   </entry>
   <entry>
@@ -491,7 +491,7 @@
 			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
 		</key>
     <value>
-			FILIX: Ég hef einnig heyrt eins merki, og þetta grjót býr til, koma frá &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt;,&lt;color=lightblue&gt;Bjálkabóli&lt;/color&gt;, og &lt;color=lightblue&gt;Sandsystkinunum&lt;/color&gt;. Álítum að það séu önnur grjót eins og þetta hér!
+			FILIX: Ég hef einnig heyrt eins merki, og þetta grjót býr til, koma frá &lt;color=lightblue&gt;Jötunsdýpi&lt;/color&gt;, &lt;color=lightblue&gt;Bjálkabóli&lt;/color&gt;, og &lt;color=lightblue&gt;Sandsystkinunum&lt;/color&gt;. Álítum að það séu önnur grjót eins og þetta hér!
 		</value>
   </entry>
   <entry>
@@ -515,7 +515,7 @@
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
     <value>
-			BELLS: Á ferð þinni mun helgiskrínið, byggt af ættbálk okkar hér á &lt;color=lightblue&gt;Skammtatunglinu&lt;/color&gt;, hjálpa þér. En fyrst, skaltu muna þessa lokareglu: Til að kanna sjötta svæðið þarf helgiskrínið að vera á norðurpóli tunglsins.
+			BELLS: Á ferð þinni mun helgiskrínið, byggt af ættbálk okkar hér á &lt;color=lightblue&gt;Skammtatunglinu&lt;/color&gt;, hjálpa þér. En fyrst, skaltu muna þessa lokareglu: Til að kanna sjötta svæðið þarf helgiskrínið að vera á norðurpól tunglsins.
 		</value>
   </entry>
   <entry>
@@ -547,7 +547,7 @@
 			BELLS: If you are preparing to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, descend the steps to the entrance below. The knowledge held within will help you on your journey.
 		</key>
     <value>
-			BELLS: Ef þú ert að undirbúast í þína fyrstu pílagrímsferð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;, skaltu ganga niður þessi þrep að innganginum að neðan. Vitneskjan þar fyrir innan mun hjálpa þér á þínu ferðalagi.
+			BELLS: Ef þú ert að búa þig undir þína fyrstu pílagrímsferð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;, skaltu ganga niður þessi þrep að innganginum að neðan. Vitneskjan þar fyrir innan mun hjálpa þér á þínu ferðalagi.
 		</value>
   </entry>
   <entry>
@@ -695,7 +695,7 @@
 			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
 		</key>
     <value>
-			COLEUS: Þegar þú ert hinum meginn, skaltu litast um eftir göngum sem eru faling á bak við sandfossinn. Fylgdu þeim og þú munt komast í skjólið.
+			COLEUS: Þegar þú ert hinum megin, skaltu litast um eftir göngum sem eru falin á bak við sandfossinn. Fylgdu þeim og þú munt komast í skjólið.
 		</value>
   </entry>
   <entry>
@@ -832,7 +832,7 @@
   </entry>
   <entry>
     <key>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</key>
-    <value>CLARY: Já, en raddir ykkar eru daufar. Ég óttast að við missum samband algelega ef þið haldið dýpra.</value>
+    <value>CLARY: Já, en raddir ykkar eru daufar. Ég óttast að við missum samband algerlega ef þið haldið dýpra.</value>
   </entry>
   <entry>
     <key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
@@ -1154,7 +1154,7 @@
   </entry>
   <entry>
     <key>Wrong3CHopefully not. Besides, an extra version of us is definitely better than if we'd created an extra anglerfish or something.</key>
-    <value>Vonandi ekki. Svosem að hafa tvö eintök af okkur er tvímælalaust betra heldur en ef við hefðum búið til auka fiskskratta eða eittvað.</value>
+    <value>Vonandi ekki. Svosem að hafa tvö eintök af okkur er tvímælalaust betra heldur en ef við hefðum búið til auka fiskskratta eða eitthvað.</value>
   </entry>
   <entry>
     <key>SelfWrong3CGEH.</key>
@@ -1886,7 +1886,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_3FI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og lyftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3FHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
@@ -2014,7 +2014,7 @@
   </entry>
   <entry>
     <key>FoundSomething2_3FWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>Bíddu, ha? Í alvörunni? Nomaiarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er&lt;i&gt;galið&lt;/i&gt;.</value>
+    <value>Bíddu, ha? Í alvörunni? Nomaiarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3FNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -2126,7 +2126,7 @@
   </entry>
   <entry>
     <key>FoundSomething6Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</key>
-    <value>Sem er líklega hvernig því tókst að ná mynd af mínu fallega hjálmaða andliti, nú þegar ég pæli í því.</value>
+    <value>Sem er líklega hvernig því tókst að ná mynd af mínu fallega hjálmklædda andliti, nú þegar ég pæli í því.</value>
   </entry>
   <entry>
     <key>FoundSomething6I always thought it was kinda sweet that the best way to find Ol’ Spacey is to use a map that’s generated by the satellite itself, isn’t it? Like it’s inviting us to visit. Good ol’ deep space satellite, always making sure we know where we’re going.</key>
@@ -2258,7 +2258,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_3TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og lyftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3THere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
@@ -2306,7 +2306,7 @@
   </entry>
   <entry>
     <key>FoundSomething2_3TWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>Bíddu, ha? Í alvörunni? Nomaiarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er&lt;i&gt;galið&lt;/i&gt;.</value>
+    <value>Bíddu, ha? Í alvörunni? Nomaiarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -2454,7 +2454,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_mergeI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og lyftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
@@ -2502,7 +2502,7 @@
   </entry>
   <entry>
     <key>FoundSomething2_mergeWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>Bíddu, ha? Í alvörunni? Nomaiarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er&lt;i&gt;galið&lt;/i&gt;.</value>
+    <value>Bíddu, ha? Í alvörunni? Nomaiarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -7604,7 +7604,7 @@
   </entry>
   <entry>
     <key>SignThis anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere.</key>
-    <value>Þessi fiskskratti fannst fastur við lendingarbúnað eins skipsins okkar sem flaug nálægt Þokuþyrni. Hann virðist vera vel fallinn til þess að búa á myrkum stöðum með nær engu andrúmlsofti.</value>
+    <value>Þessi fiskskratti fannst fastur við lendingarbúnað eins skipsins okkar sem flaug nálægt Þokuþyrni. Hann virðist vera vel fallinn til þess að búa á myrkum stöðum með nær engu andrúmslofti.</value>
   </entry>
   <entry>
     <key>SignOf all the lifeforms who will perish in the oncoming death of the universe, we will miss the anglerfish the least.</key>
@@ -9733,7 +9733,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoingI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og lyftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExploreHere’s something you might like — I saw a bright flash in the sky not too long ago. Something must have happened up there in orbit around the planet.</key>
@@ -9849,7 +9849,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_2FI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og lyftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2FWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
@@ -9957,7 +9957,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_2TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og liftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
+    <value>Ég meina, oftast er ró og friður. Stundum kemur hvirfilbylur og lyftir litlu eyjunni minni beint upp úr vatninu. Þá er minni friður.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2TWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
