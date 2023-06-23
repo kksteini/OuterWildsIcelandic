@@ -2902,7 +2902,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer38You &lt;i&gt;do&lt;/i&gt; know you can use it as a light source, right? Stars above, please tell me you knew that.</key>
-    <value>Þú &lt;i&gt;veist&lt;/i&gt; alveg að þú getur notað hann sem ljósgjafa? Hamingjan sanna, segðu mér að þú hafir vitað það.</value>
+    <value>Þú &lt;i&gt;veist&lt;/i&gt; alveg að þú getur notað hann sem ljósgjafa? Stjörnur á himnum, segðu mér að þú hafir vitað það.</value>
   </entry>
   <entry>
     <key>ScientistAnswer39Oh yeah, the observatory has an exhibit about that.</key>
@@ -2962,7 +2962,7 @@
   </entry>
   <entry>
     <key>Slate_ShipLog_1bMinimal! Stars above, you worry too much. If anything’s going to kill you, it’s the autopilot.</key>
-    <value>Hverfandi! Jeminn, þú hefur of miklar áhyggjur. Ef eitthvað mun drepa þig þá verður það sjálfstýringin.</value>
+    <value>Hverfandi! Stjörnur á himnum, þú hefur of miklar áhyggjur. Ef eitthvað mun drepa þig þá verður það sjálfstýringin.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1cOh, sure, I’ll just magically have the system know all the possible locations you plan to discover throughout the entire solar system, shall I?</key>
@@ -6784,7 +6784,7 @@
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingYep. Just gonna get back in the ol’ ship and take off. Totally safe... Mostly safe. &lt;size=20&gt;Oh, stars above&lt;/size&gt;...</key>
-    <value>Jebb. Ég ætla að fara aftur í blessaða skipið og taka á loft. Engin hætta... Pínkulítil hætta. &lt;size=20&gt;Æ, hjálpi mér hamingjan&lt;/size&gt;...</value>
+    <value>Jebb. Ég ætla að fara aftur í blessaða skipið og taka á loft. Engin hætta... Pínkulítil hætta. &lt;size=20&gt;Æ, hjálpi mér stjörnur á himnum&lt;/size&gt;...</value>
   </entry>
   <entry>
     <key>RiebecksJournalThe journey here from the south pole has been, um... I’m going to go with “harrowing”, because of the, um, all of the meteors. But hey, at least I made it here unconcussed and not on fire!</key>
@@ -8040,7 +8040,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_7Stars above, it’s lucky we hadn’t evolved to live on land yet.</key>
-    <value>Hamingjan sanna, við erum heppin að hafa ekki verið landdýr á þeim tíma.</value>
+    <value>Stjörnur á himnum, við erum heppin að hafa ekki verið landdýr á þeim tíma.</value>
   </entry>
   <entry>
     <key>RiebeckLearned_7To think, if the comet hadn’t killed them, our species might have coexisted in this solar system. That would have been amazing.</key>
@@ -8813,7 +8813,7 @@
   </entry>
   <entry>
     <key>ChertIntroExplanationHornfels asked me to update our star charts, so I’m out here observing. This is one of the best places in the solar system to spot astronomical events, you know.</key>
-    <value>Hornfels bað mig um að endurnýja stjarnfræðikortin okkar, þannig að hér er ég við athuganir. Þetta er einn besti staðurinn í sólkerfinu til þess að koma auga á stjarnfræðilega atburði, vissirðu?</value>
+    <value>Hornfels bað mig um að endurnýja stjörnukortin okkar, þannig að hér er ég við athuganir. Þetta er einn besti staðurinn í sólkerfinu til þess að koma auga á stjarnfræðilega atburði, vissirðu?</value>
   </entry>
   <entry>
     <key>ChertIntroExplanationWhat’s weird is I’ve actually seen a couple of supernovae today. Usually, I’d be fortunate to see just one. Keep an eye or four on the stars, and maybe you’ll spot one yourself!</key>
@@ -8849,7 +8849,7 @@
   </entry>
   <entry>
     <key>Chert1Right now I’m documenting stars. Hornfels noticed our star charts are out of date, so they asked me to update them.</key>
-    <value>Akkúrat núna er ég að skrá hjá mér stjörnur. Hornfels tók eftir því að stjarnfræðikortin okkar eru úrelt, þannig að hán bað mig um að uppfæra þau.</value>
+    <value>Akkúrat núna er ég að skrá hjá mér stjörnur. Hornfels tók eftir því að stjörnukortin okkar eru úrelt, þannig að hán bað mig um að uppfæra þau.</value>
   </entry>
   <entry>
     <key>Chert1Please don’t tell the others I said this, but sometimes I think I’m the only traveler out here interested in doing any science at all.</key>
@@ -8865,75 +8865,75 @@
   </entry>
   <entry>
     <key>Chert2Have you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
-    <value>Ertu búið að sjá skipsflakið á suðurhveli Blossabróður? Þetta sem skýtur björtum ljósgeisla út í geim? Ekki okkar skipsflag, merkilegt nokk, heldur Nomaiskt.</value>
+    <value>Ertu búið að sjá skipsflakið á suðurhveli Blossabróður? Þetta sem skýtur björtum ljósgeisla út í geim? Ekki okkar skipsflak, merkilegt nokk, heldur Nomaiskt.</value>
   </entry>
   <entry>
     <key>Chert2You’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</key>
-    <value>You’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</value>
+    <value>Rústir Nomaia finnast víðs vegar um Sandsystkinin, en undarlega þá finnast engin þorp! Trúðu mér, ef það væri þorp hérna væri ég búið að koma auga á það með Litla Kannanum.</value>
   </entry>
   <entry>
     <key>Chert2So where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
-    <value>So where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</value>
+    <value>Þannig að hvar bjuggu þeir? Ekki á yfirborðinu, svo mikið er víst. Blossabróðir er þó stútfullur af hellakerfum - kannski leynist svarið neðanjarðar?</value>
   </entry>
   <entry>
     <key>Chert3On a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</key>
-    <value>On a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</value>
+    <value>Á skalanum einn til dauðdagi, þá myndi ég segja sjö eða átta. Mjög falleg samt.</value>
   </entry>
   <entry>
     <key>Chert3Right now sand is flowing from Ash Twin to Ember Twin, but did you know the process eventually reverses? We're not completely sure why the sand flows back and forth between the Twins, but it seems to be a natural phenomena.</key>
-    <value>Right now sand is flowing from Ash Twin to Ember Twin, but did you know the process eventually reverses? We're not completely sure why the sand flows back and forth between the Twins, but it seems to be a natural phenomena.</value>
+    <value>Akkúrat núna flæðir sandurinn frá Sótsystur yfir á Blossabróður, en vissir þú að ferlið snýst við á endanum? Við vitum ekki nákvæmlega af hverju sandurinn flæðir fram og til baka á milli Systkinanna, en þetta virðist vera náttúrulegt fyrirbæri.</value>
   </entry>
   <entry>
     <key>Chert3Oh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
-    <value>Oh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</value>
+    <value>Ó, ef þú vilt sjá svolítið áhugavert, skoðaðu hitt Systkinið þegar aðeins meiri sandur rennur frá því. Ég lofa að þú verður ekki fyrir vonbrigðum.</value>
   </entry>
   <entry>
     <key>Chert4Supernovae look like extra bright stars to the naked eye, but if you zoom in with your signalscope you can tell that they're actually enormous explosions.</key>
-    <value>Supernovae look like extra bright stars to the naked eye, but if you zoom in with your signalscope you can tell that they're actually enormous explosions.</value>
+    <value>Sprengistjörnur líta út eins og sérstaklega bjartar stjörnur en ef þú notar merkjasjána þína sem sjónauka þá getur þú séð að þær eru í raun gríðarstórar sprengingar.</value>
   </entry>
   <entry>
     <key>Chert4Massive stars go supernova at the very end of their life spans, which is why it's so unusual to see two in a single day.</key>
-    <value>Massive stars go supernova at the very end of their life spans, which is why it's so unusual to see two in a single day.</value>
+    <value>Massamiklar stjörnur breytast í sprengistjörnur við ævilok þeirra og því er frekar óvenjulegt að sjá tvær á einum degi.</value>
   </entry>
   <entry>
     <key>Chert4I wonder if some of these stars are older than we realized?</key>
-    <value>I wonder if some of these stars are older than we realized?</value>
+    <value>Ég velti því fyrir mér hvort margar þessara stjarna séu hreinlega eldri en við töldum?</value>
   </entry>
   <entry>
     <key>Chert5Watch out for falling sand, okay? I’ve had to dig myself out once or twice, and that’s not half as fun as it sounds.</key>
-    <value>Watch out for falling sand, okay? I’ve had to dig myself out once or twice, and that’s not half as fun as it sounds.</value>
+    <value>Passaðu þig á sandhruninu! Ég hef sjálft þurft að moka mig út einu sinni eða tvisvar, og það engan veginn jafn skemmtilegt og það hljómar.</value>
   </entry>
   <entry>
     <key>ChertSecondaryHello again!</key>
-    <value>Hello again!</value>
+    <value>Hæ aftur!</value>
   </entry>
   <entry>
     <key>FoundSomethingMenuPlease, do tell!</key>
-    <value>Please, do tell!</value>
+    <value>Já, endilega segðu frá!</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found out the sun is about to go supernova.</key>
-    <value>I found out the sun is about to go supernova.</value>
+    <value>Ég komst að því að sólin er við það að breytast í sprengistjörnu.</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found your notes about the Attlerock’s main crater.</key>
-    <value>I found your notes about the Attlerock’s main crater.</value>
+    <value>Ég fann nóturnar þínar um aðalgíginn á Slakagíg.</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found Nomai writing about a hidden planet.</key>
-    <value>I found Nomai writing about a hidden planet.</value>
+    <value>Ég fann Nomaisk skrif um falda plánetu.</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found Nomai writing about the Quantum Moon.</key>
-    <value>I found Nomai writing about the Quantum Moon.</value>
+    <value>Ég fann Nomaisk skrif um Skammtatunglið.</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found Nomai writing about the Sun Station.</key>
-    <value>I found Nomai writing about the Sun Station.</value>
+    <value>Ég fann Nomaisk skrif um Sólstöðina.</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found modern Nomai transmissions saying the universe is dying.</key>
-    <value>I found modern Nomai transmissions saying the universe is dying.</value>
+    <value>Ég fann nútímasamskipti milli Nomaia sem segja að alheimurinn sé að deyja.</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuActually, nevermind.</key>
@@ -8941,151 +8941,151 @@
   </entry>
   <entry>
     <key>FoundSomething1What? What makes you think that?</key>
-    <value>What? What makes you think that?</value>
+    <value>Ha? Hvað fær þig til að segja það?</value>
   </entry>
   <entry>
     <key>FoundSomething1It’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</key>
-    <value>It’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</value>
+    <value>Það er svosem satt að sólin hefur... &lt;i&gt;breyst&lt;/i&gt;, nýlega, en ég hef ekki séð neinar vísbendingar sem benda til þess að sólin sé að nálgast ævilok sín! Stjörnur á himnum, nei!</value>
   </entry>
   <entry>
     <key>FoundSomething1I’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</key>
-    <value>I’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</value>
+    <value>En veistu, ég skal samt hafa annað augað opið fyrir sólinni. Ef ég sé einhver merki um að kjarninn sé að dragast saman, þá munt þú verða fyrst til að vita það.</value>
   </entry>
   <entry>
     <key>FoundSomething1I hope that puts your mind at ease.</key>
-    <value>I hope that puts your mind at ease.</value>
+    <value>Vonandi sefar það áhyggjur þínar.</value>
   </entry>
   <entry>
     <key>FoundSomething2Did you! I hope they were useful?</key>
-    <value>Did you! I hope they were useful?</value>
+    <value>Er það? Vonandi komu þær að gagni!</value>
   </entry>
   <entry>
     <key>FoundSomething2The planet I mentioned may have been frozen solid, or just partially made of ice, like a much colder Giant’s Deep - it’s hard to say. It used to be the fifth planet in our solar system.</key>
-    <value>The planet I mentioned may have been frozen solid, or just partially made of ice, like a much colder Giant’s Deep - it’s hard to say. It used to be the fifth planet in our solar system.</value>
+    <value>Plánetan sem ég minntist á gæti hafa verið frosin gegnheil, eða bara að hluta til gerð úr ís, svona eins og mun kaldara Jötunsdýpi - erfitt að segja. Hún var áður fimmta plánetan í sólkerfinu okkar.</value>
   </entry>
   <entry>
     <key>FoundSomething2You’ll notice, of course, that there’s no such planet now. In its place is Dark Bramble, which - how to put this - grew into the space the fifth planet used to occupy.</key>
-    <value>You’ll notice, of course, that there’s no such planet now. In its place is Dark Bramble, which - how to put this - grew into the space the fifth planet used to occupy.</value>
+    <value>Aftur á móti sérðu nú að hér er engin slík pláneta. Í stað hennar er Þokuþyrnir, sem - hvernig á ég að orða þetta - óx til að fylla plássið sem fimmta plánetan tók upp áður.</value>
   </entry>
   <entry>
     <key>FoundSomething2That is, Dark Bramble quite literally appeared at the center of the fifth planet and began destroying it from the inside-out. Eventually, the planet shattered completely, and its shards were flung across space.</key>
-    <value>That is, Dark Bramble quite literally appeared at the center of the fifth planet and began destroying it from the inside-out. Eventually, the planet shattered completely, and its shards were flung across space.</value>
+    <value>Það er að segja, Þokuþyrnir birtist bókstaflega í miðju fimmtu plánetunnar og hóf að eyðileggja hana innan frá og út. Á endanum tvístraðist plánetan algerlega og brot hennar dreifðust út um allan geim.</value>
   </entry>
   <entry>
     <key>FoundSomething2Some of these shards collided with the celestial bodies in our solar system, such as the Attlerock, which I believe is how its biggest crater was formed.</key>
-    <value>Some of these shards collided with the celestial bodies in our solar system, such as the Attlerock, which I believe is how its biggest crater was formed.</value>
+    <value>Sum þessara brota rákust á himintunglin í sólkerfinu okkar, eins og til dæmis Slakagíg, en þannig tel ég stærsta gíg hans hafa orðið til.</value>
   </entry>
   <entry>
     <key>FoundSomething3How fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</key>
-    <value>How fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</value>
+    <value>En forvitnilegt! Þér gæti þótt það merkilegt að miðað við eðlisfræði sólkerfisins okkar þá er tilvist auka plánetu alveg líkleg. Hún myndi bara þurfa vera einstaklega langt í burtu - mun lengra heldur en nokkurt skip okkar Bjálkabælinga gæti ferðast.</value>
   </entry>
   <entry>
     <key>FoundSomething3And honestly, we don’t know all that much about what’s out there. The farther you go, the less we know! As such, it’s well within the realm of possibility such a planet exists.</key>
-    <value>And honestly, we don’t know all that much about what’s out there. The farther you go, the less we know! As such, it’s well within the realm of possibility such a planet exists.</value>
+    <value>Og satt best að segja, þá vitum við ekki það mikið um hvað bíður okkar þarna úti. Því lengra sem við förum, því minna vitum við. Þess vegna væri ekkert ótrúlegt ef þarna úti væri til slík pláneta.</value>
   </entry>
   <entry>
     <key>FoundSomething4Oh yes, everyone loves a good mystery, don’t they? Who wouldn’t wonder about a moon that’s sometimes there and sometimes not!</key>
-    <value>Oh yes, everyone loves a good mystery, don’t they? Who wouldn’t wonder about a moon that’s sometimes there and sometimes not!</value>
+    <value>Ó, já, hver elskar ekki góða ráðgátu? Hvernig er ekki hægt að vera hugfanginn af tungli sem er stundum þarna og stundum ekki?!</value>
   </entry>
   <entry>
     <key>FoundSomething4I’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</key>
-    <value>I’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</value>
+    <value>Ég hef tekið eftir skammtatunglinu umhverfis allar fimm plánetur, en stundum, þá hverfu það bara algerlega. Kannski ferðast það til annars staðar líka?</value>
   </entry>
   <entry>
     <key>FoundSomething4Unfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</key>
-    <value>Unfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</value>
+    <value>En ef svo er, þá hef ég því miður aldrei séð hann. Kannski ef ég skoða betur þessi stjörnukort hérna...</value>
   </entry>
   <entry>
     <key>FoundSomething5Is that what’s in orbit around the sun, then, do you think? This... Sun Station?</key>
-    <value>Is that what’s in orbit around the sun, then, do you think? This... Sun Station?</value>
+    <value>Er það þetta sem er á braut um sólina, heldurðu? Hva... Sólstöð?</value>
   </entry>
   <entry>
     <key>FoundSomething5Quite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</key>
-    <value>Quite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</value>
+    <value>Frekar snjallt af Nomaiunum að finna leið til þess að rannsaka sólina svona nálægt henni. Hlýtur að hafa verið gífurlega erfitt að smíða hana. ...Og hitinn inni í henni. Ég get rétt ímyndað mér!</value>
   </entry>
   <entry>
     <key>FoundSomething5I wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
-    <value>I wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</value>
+    <value>Hvernig ætli þeir hafi ferðast á milli Sólstöðvarinnar og Sandsystkinanna? Minnstu mistök myndu enda í eldheitum dauðdaga.</value>
   </entry>
   <entry>
     <key>FoundSomething6You - what? I don’t... um. What?</key>
-    <value>You - what? I don’t... um. What?</value>
+    <value>Þú - ha? Ég... ömm. Ha?</value>
   </entry>
   <entry>
     <key>FoundSomething6You mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-    <value>You mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</value>
+    <value>Þú vilt meina að það séu nútímanomaiar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
   </entry>
   <entry>
     <key>FoundSomething6If... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
-    <value>If... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</value>
+    <value>En ef... ef það er rétt, hvernig gat ég misst af svona mörgum vísbendingum? Sprengistjörnurnar voru þarna, en ég, en, ég hef verið að rannsaka stjörnur í heila... ömm, hvaða máli skiptir það ef... ó...</value>
   </entry>
   <entry>
     <key>FoundSomething6I’m very sorry, b-but I have to look over my charts. I h-h-hope you don’t m-mind...</key>
-    <value>I’m very sorry, b-but I have to look over my charts. I h-h-hope you don’t m-mind...</value>
+    <value>Mér þykir það mjög leitt, e-en ég þarf að skoða aðeins kortin mín. Ég v-vona að þér sé s-sama...</value>
   </entry>
   <entry>
     <key>ChertBreakdownNomaiB-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</key>
-    <value>B-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</value>
+    <value>En e-e-eflaust hefði ég getað séð önnur ummerki en sprenpistjörnurnar, þannig að k-kannski...?</value>
   </entry>
   <entry>
     <key>FoundSomething7Nothing you’d like to discuss at the moment? That’s no trouble! If you do discover anything you want to talk about, I’d be happy to help!</key>
-    <value>Nothing you’d like to discuss at the moment? That’s no trouble! If you do discover anything you want to talk about, I’d be happy to help!</value>
+    <value>Ekkert sem þú vilt tala um? Ekkert mál! Ef þú uppgötvar eitthvað sem þú vilt spjalla um þá er ég þér innan handar!</value>
   </entry>
   <entry>
     <key>ChertIntro1Hm? Oh, it’s you! I take it your first launch went well, then? Welcome to the Hourglass Twins. &lt;Pause=2&gt;Mind the sand, now.</key>
-    <value>Hm? Oh, it’s you! I take it your first launch went well, then? Welcome to the Hourglass Twins. &lt;Pause=2&gt;Mind the sand, now.</value>
+    <value>Hmm? Ó, þetta ert þú! Ég geri ráð fyrir að flugtakið þitt hafi heppnast semsagt? Velkomið á Sandsystkinin. &lt;Pause=2&gt;Hér er nóg af sandi.</value>
   </entry>
   <entry>
     <key>ChertIntroExplanationHornfels noticed our star charts are out of date, so I came out here to update them. But something seems... &lt;Pause=0.5&gt;how to put this... &lt;Pause=0.5&gt;off.</key>
-    <value>Hornfels noticed our star charts are out of date, so I came out here to update them. But something seems... &lt;Pause=0.5&gt;how to put this... &lt;Pause=0.5&gt;off.</value>
+    <value>Hornfels tók eftir því að stjörnukortin okkar væru úrelt þannig að hán bað mig um að uppfæra þau. En, eitthvað... &lt;Pause=0.5&gt;hvernig á ég að orða það... &lt;Pause=0.5&gt;eitthvað er ekki rétt.</value>
   </entry>
   <entry>
     <key>ChertIntroExplanationI’ve seen, what, ten supernovae by now? Twelve? They’re in the double digits now, and that’s, you know, not normal. Not normal at all...</key>
-    <value>I’ve seen, what, ten supernovae by now? Twelve? They’re in the double digits now, and that’s, you know, not normal. Not normal at all...</value>
+    <value>Ég er búið að sjá, hvað, tíu sprengistjörnur núna? Tólf? Allavega, þær eru tíu eða fleiri núna, og það er, þú veist, ekki eðlilegt. Alls ekki eðlilegt...</value>
   </entry>
   <entry>
     <key>ChertIntro2Hm? Oh, you’re back.</key>
-    <value>Hm? Oh, you’re back.</value>
+    <value>Hm? Ó, þú ert komið til baka.</value>
   </entry>
   <entry>
     <key>ChertIntro2Say, have you noticed anything unusual about the stars lately? Something seems...&lt;Pause=0.5&gt; how to put this... &lt;Pause=0.5&gt;off.</key>
-    <value>Say, have you noticed anything unusual about the stars lately? Something seems...&lt;Pause=0.5&gt; how to put this... &lt;Pause=0.5&gt;off.</value>
+    <value>Segðu mér, hefur þú tekið eftir einhverju óvenjulegu varðandi stjörnurnar upp á síðkastið? Eitthvað... &lt;Pause=0.5&gt; hvernig á ég að orða það... &lt;Pause=0.5&gt;eitthvað er ekki rétt.</value>
   </entry>
   <entry>
     <key>ChertIntro2I’ve seen, what, ten supernovae already? Twelve? They’re in the double digits now, and that’s, you know, not normal. Not normal at all...</key>
-    <value>I’ve seen, what, ten supernovae already? Twelve? They’re in the double digits now, and that’s, you know, not normal. Not normal at all...</value>
+    <value>Ég er búið að sjá, hvað, tíu sprengistjörnur núna? Tólf? Allavega, þær eru tíu eða fleiri núna, og það er, þú veist, ekki eðlilegt. Alls ekki eðlilegt...</value>
   </entry>
   <entry>
     <key>ChertSecondaryHello again.</key>
-    <value>Hello again.</value>
+    <value>Halló aftur.</value>
   </entry>
   <entry>
     <key>QuestionsWas there something you needed?</key>
-    <value>Was there something you needed?</value>
+    <value>Vantaði þig eitthvað?</value>
   </entry>
   <entry>
     <key>ChertQuestionsWhy are so many stars going supernovae?</key>
-    <value>Why are so many stars going supernovae?</value>
+    <value>Af hverju eru svona margar stjörnur að springa?</value>
   </entry>
   <entry>
     <key>Chert1Well, I was - that is, I originally came out here to update our star charts. Now, though, I’m trying to figure out what’s going on with the stars. There are so many - &lt;i&gt;too&lt;/i&gt; many supernovae.</key>
-    <value>Well, I was - that is, I originally came out here to update our star charts. Now, though, I’m trying to figure out what’s going on with the stars. There are so many - &lt;i&gt;too&lt;/i&gt; many supernovae.</value>
+    <value>Tja, ég var... það er að segja, ég kom hingað til þess að uppfæra stjörnukortin okkar. Núna, samt, þá er ég að reyna að finna út úr því hvað er í gangi með stjörnurnar. Þær eru svo margar - &lt;i&gt;of&lt;/i&gt; margar sprengistjörnur.</value>
   </entry>
   <entry>
     <key>Chert1Why are so many stars dying out? I’ve never seen anything like this.</key>
-    <value>Why are so many stars dying out? I’ve never seen anything like this.</value>
+    <value>Af hverju eru svona margar stjörnur að deyja? Ég hef aldrei séð neitt þessu líkt.</value>
   </entry>
   <entry>
     <key>Chert1Frankly, I’m worried. And a little scared.</key>
-    <value>Frankly, I’m worried. And a little scared.</value>
+    <value>Í fullri hreinskilni er ég áhyggjufullt. Og pínu hrætt.</value>
   </entry>
   <entry>
     <key>Chert2bTo be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</key>
-    <value>To be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</value>
+    <value>Til að vera hreinskilið, þá hef ég ekki farið frá þessum stað. Ég ætla ekki að vera að monta mig, en ég er orðið rosalega gott í því að nota Litla Kannann til þess að taka myndir af öllu, á meðan ég sit hér í tjaldbúðunum mínum.</value>
   </entry>
   <entry>
     <key>Chert2bHave you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
-    <value>Have you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</value>
+    <value>Ertu búið að sjá skipsflakið á suðurhveli Blossabróður? Þetta sem skýtur björtum ljósgeisla út í geim? Ekki okkar skipsflak, merkilegt nokk, heldur Nomaiskt.</value>
   </entry>
   <entry>
     <key>Chert2bYou’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</key>
@@ -9093,307 +9093,308 @@
   </entry>
   <entry>
     <key>Chert2bSo where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
-    <value>So where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</value>
+    <value>Þannig að hvar bjuggu þeir? Ekki á yfirborðinu, svo mikið er víst. Blossabróðir er þó stútfullur af hellakerfum - kannski leynist svarið neðanjarðar?</value>
   </entry>
   <entry>
     <key>Chert3bOn a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</key>
-    <value>On a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</value>
+    <value>Á skalanum einn til dauðdagi, þá myndi ég segja sjö eða átta. Mjög falleg samt.</value>
   </entry>
   <entry>
     <key>Chert3bRight now sand is flowing from Ash Twin to Ember Twin, but did you know the process eventually reverses? We're not completely sure why the sand flows back and forth between the Twins, but it seems to be a natural phenomena.</key>
-    <value>Right now sand is flowing from Ash Twin to Ember Twin, but did you know the process eventually reverses? We're not completely sure why the sand flows back and forth between the Twins, but it seems to be a natural phenomena.</value>
+    <value>Akkúrat núna flæðir sandurinn frá Sótsystur yfir á Blossabróður, en vissir þú að ferlið snýst við á endanum? Við vitum ekki nákvæmlega af hverju sandurinn flæðir fram og til baka á milli Systkinanna, en þetta virðist vera náttúrulegt fyrirbæri.</value>
   </entry>
   <entry>
     <key>Chert3bOh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
-    <value>Oh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</value>
+    <value>Ó, ef þú vilt sjá svolítið áhugavert, skoðaðu hitt Systkinið þegar aðeins meiri sandur rennur frá því. Ég lofa að þú verður ekki fyrir vonbrigðum.</value>
   </entry>
   <entry>
     <key>Chert4I have no idea! Massive stars go supernova when they reach the end of their life spans, so it's possible that the stars are older than we realized. Or maybe our models are wrong and they don't live as long as we expected.</key>
-    <value>I have no idea! Massive stars go supernova when they reach the end of their life spans, so it's possible that the stars are older than we realized. Or maybe our models are wrong and they don't live as long as we expected.</value>
+    <value>Ég hef ekki minnstu hugmynd! Massamiklar stjörnur breytast í sprengistjörnur við ævilok þeirra, þannig að mögulega eru stjörnurnar eldri en við héldum. Eða kannski eru módelin okkar röng og stjörnur lifa ekki jafn lengi og við gerðum ráð fyrir.</value>
   </entry>
   <entry>
     <key>Chert4Honestly, I'm not fond of either option! If our charts are wrong, what else is wrong? And our sun...</key>
-    <value>Honestly, I'm not fond of either option! If our charts are wrong, what else is wrong? And our sun...</value>
+    <value>Í hreinskilni sagt, þá er ég ekki hrifið að þeim kostum! Ef kortin okkar eru röng, hvað annað er rangt? Og sólin okkar...</value>
   </entry>
   <entry>
     <key>Chert4No, I shouldn't jump to conclusions. I- I'm probably overlooking something. That's it, I just need to collect more data.</key>
-    <value>No, I shouldn't jump to conclusions. I- I'm probably overlooking something. That's it, I just need to collect more data.</value>
+    <value>Nei, ég ætti ekki að álykta neitt fljótfærnislega. M-mér yfirsást líklega eitthvað. Já! Ég þarf bara að safna meiri gögnum.</value>
   </entry>
   <entry>
     <key>Chert5Watch out for the stars. I mean, sand.</key>
-    <value>Watch out for the stars. I mean, sand.</value>
+    <value>Passaðu þig á stjörnunum. Ég meina, sandinum.</value>
   </entry>
   <entry>
     <key>FoundSomething1bWhat? What makes you think that?</key>
-    <value>What? What makes you think that?</value>
+    <value>Ha? Hvað fær þig til að segja það?</value>
   </entry>
   <entry>
     <key>FoundSomething1bIt’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</key>
-    <value>It’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</value>
+    <value>Það er svosem satt að sólin hefur... &lt;i&gt;breyst&lt;/i&gt;, nýlega, en ég hef ekki séð neinar vísbendingar sem benda til þess að sólin sé að nálgast ævilok sín! Stjörnur á himnum, nei!</value>
   </entry>
   <entry>
     <key>FoundSomething1bI’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</key>
-    <value>I’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</value>
+    <value>En veistu, ég skal samt hafa annað augað opið fyrir sólinni. Ef ég sé einhver merki um að kjarninn sé að dragast saman, þá munt þú verða fyrst til að vita það.</value>
   </entry>
   <entry>
     <key>FoundSomething1bI hope that puts your mind at ease.</key>
-    <value>I hope that puts your mind at ease.</value>
+    <value>Vonandi sefar það áhyggjur þínar.</value>
   </entry>
   <entry>
     <key>FoundSomething2bDid you! I hope they were useful?</key>
-    <value>Did you! I hope they were useful?</value>
+    <value>Er það? Vonandi komu þær að gagni!</value>
   </entry>
   <entry>
     <key>FoundSomething2bThe planet I mentioned may have been frozen solid, or just partially made of ice, like a much colder Giant’s Deep - it’s hard to say. It used to be the fifth planet in our solar system.</key>
-    <value>The planet I mentioned may have been frozen solid, or just partially made of ice, like a much colder Giant’s Deep - it’s hard to say. It used to be the fifth planet in our solar system.</value>
+    <value>Plánetan sem ég minntist á gæti hafa verið frosin gegnheil, eða bara að hluta til gerð úr ís, svona eins og mun kaldara Jötunsdýpi - erfitt að segja. Hún var áður fimmta plánetan í sólkerfinu okkar.</value>
   </entry>
   <entry>
     <key>FoundSomething2bYou’ll notice, of course, that there’s no such planet now. In its place is Dark Bramble, which - how to put this - grew into the space the fifth planet used to occupy.</key>
-    <value>You’ll notice, of course, that there’s no such planet now. In its place is Dark Bramble, which - how to put this - grew into the space the fifth planet used to occupy.</value>
+    <value>Aftur á móti sérðu nú að hér er engin slík pláneta. Í stað hennar er Þokuþyrnir, sem - hvernig á ég að orða þetta - óx til að fylla plássið sem fimmta plánetan tók upp áður.</value>
   </entry>
   <entry>
     <key>FoundSomething2bThat is, Dark Bramble quite literally appeared at the center of the fifth planet and began destroying it from the inside-out. Eventually, the planet shattered completely, and its shards were flung across space.</key>
-    <value>That is, Dark Bramble quite literally appeared at the center of the fifth planet and began destroying it from the inside-out. Eventually, the planet shattered completely, and its shards were flung across space.</value>
+    <value>Það er að segja, Þokuþyrnir birtist bókstaflega í miðju fimmtu plánetunnar og hóf að eyðileggja hana innan frá og út. Á endanum tvístraðist plánetan algerlega og brot hennar dreifðust út um allan geim.</value>
   </entry>
   <entry>
     <key>FoundSomething2bSome of these shards collided with the celestial bodies in our solar system, such as the Attlerock, which I believe is how its biggest crater was formed.</key>
-    <value>Some of these shards collided with the celestial bodies in our solar system, such as the Attlerock, which I believe is how its biggest crater was formed.</value>
+    <value>Sum þessara brota rákust á himintunglin í sólkerfinu okkar, eins og til dæmis Slakagíg, en þannig tel ég stærsta gíg hans hafa orðið til.</value>
   </entry>
   <entry>
     <key>FoundSomething3bHow fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</key>
-    <value>How fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</value>
+    <value>En forvitnilegt! Þér gæti þótt það merkilegt að miðað við eðlisfræði sólkerfisins okkar þá er tilvist auka plánetu alveg líkleg. Hún myndi bara þurfa vera einstaklega langt í burtu - mun lengra heldur en nokkurt skip okkar Bjálkabælinga gæti ferðast.</value>
   </entry>
   <entry>
     <key>FoundSomething3bAnd honestly, we don’t know all that much about what’s all out there. The farther you go, the less we know! As such, it’s well within the realm of possibility such a planet exists.</key>
-    <value>And honestly, we don’t know all that much about what’s all out there. The farther you go, the less we know! As such, it’s well within the realm of possibility such a planet exists.</value>
+    <value>Og satt best að segja, þá vitum við ekki það mikið um hvað bíður okkar þarna úti. Því lengra sem við förum, því minna vitum við. Þess vegna væri ekkert ótrúlegt ef þarna úti væri til slík pláneta.</value>
   </entry>
   <entry>
     <key>FoundSomething4bOh yes, everyone loves a good mystery, don’t they? Who wouldn’t wonder about a moon that’s sometimes there and sometimes not!</key>
-    <value>Oh yes, everyone loves a good mystery, don’t they? Who wouldn’t wonder about a moon that’s sometimes there and sometimes not!</value>
+    <value>Ó, já, hver elskar ekki góða ráðgátu? Hvernig er ekki hægt að vera hugfanginn af tungli sem er stundum þarna og stundum ekki?!</value>
   </entry>
   <entry>
     <key>FoundSomething4bI’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</key>
-    <value>I’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</value>
+    <value>Ég hef tekið eftir skammtatunglinu umhverfis allar fimm plánetur, en stundum, þá hverfu það bara algerlega. Kannski ferðast það til annars staðar líka?</value>
   </entry>
   <entry>
     <key>FoundSomething4bUnfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</key>
-    <value>Unfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</value>
+    <value>En ef svo er, þá hef ég því miður aldrei séð hann. Kannski ef ég skoða betur þessi stjörnukort hérna...</value>
   </entry>
   <entry>
     <key>FoundSomething5bIs that what’s in orbit around the sun, then, do you think? This... Sun Station?</key>
-    <value>Is that what’s in orbit around the sun, then, do you think? This... Sun Station?</value>
+    <value>Er það þetta sem er á braut um sólina, heldurðu? Hva... Sólstöð?</value>
   </entry>
   <entry>
     <key>FoundSomething5bQuite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</key>
-    <value>Quite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</value>
+    <value>Frekar snjallt af Nomaiunum að finna leið til þess að rannsaka sólina svona nálægt henni. Hlýtur að hafa verið gífurlega erfitt að smíða hana. ...Og hitinn inni í henni. Ég get rétt ímyndað mér!</value>
   </entry>
   <entry>
     <key>FoundSomething5bI wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
-    <value>I wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</value>
+    <value>Hvernig ætli þeir hafi ferðast á milli Sólstöðvarinnar og Sandsystkinanna? Minnstu mistök myndu enda í eldheitum dauðdaga.</value>
   </entry>
   <entry>
     <key>FoundSomething6bYou - what? I don’t... um. What?</key>
-    <value>You - what? I don’t... um. What?</value>
+    <value>Þú - ha? Ég... ömm. Ha?</value>
   </entry>
   <entry>
     <key>FoundSomething6bYou mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-    <value>You mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</value>
+    <value>Þú vilt meina að það séu nútímanomaiar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
   </entry>
   <entry>
     <key>FoundSomething6bIf... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
-    <value>If... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</value>
+    <value>En ef... ef það er rétt, hvernig gat ég misst af svona mörgum vísbendingum? Sprengistjörnurnar voru þarna, en ég, en, ég hef verið að rannsaka stjörnur í heila... ömm, hvaða máli skiptir það ef... ó...</value>
   </entry>
   <entry>
     <key>FoundSomething6bI’m very sorry, b-but I have to look over my charts. I h-h-hope you don’t m-mind...</key>
-    <value>I’m very sorry, b-but I have to look over my charts. I h-h-hope you don’t m-mind...</value>
+    <value>Mér þykir það mjög leitt, e-en ég þarf að skoða aðeins kortin mín. Ég v-vona að þér sé s-sama...</value>
   </entry>
   <entry>
     <key>ChertBreakdownNomaibB-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</key>
-    <value>B-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</value>
+    <value>En e-e-eflaust hefði ég getað séð önnur ummerki en sprenpistjörnurnar, þannig að k-kannski...?</value>
   </entry>
   <entry>
     <key>FoundSomething7bNothing you’d like to discuss at the moment? That’s no trouble! If you do find something you wish to discuss, please, come find me! I’ll be here studying the stars for a while yet.</key>
-    <value>Nothing you’d like to discuss at the moment? That’s no trouble! If you do find something you wish to discuss, please, come find me! I’ll be here studying the stars for a while yet.</value>
+    <value>Ekkert sem þú vilt tala um? Ekkert mál! Ef þú uppgötvar eitthvað sem þú vilt spjalla um þá er ég þér innan handar! Ég verð áfram hérna í dágóða stund að rannsaka stjörnurnar.</value>
   </entry>
   <entry>
     <key>ChertIntroThe stars! They're all dying! There’ve been too many supernovae for it to be anything else!</key>
-    <value>The stars! They're all dying! There’ve been too many supernovae for it to be anything else!</value>
+    <value>Stjörnurnar! Þær eru allar að deyja! Það hafa verið of margar sprengistjörnur til þess að eitthvað annað komi til greina!</value>
   </entry>
   <entry>
     <key>ChertIntroWe’re next, do you understand?! Our sun! By Hearth’s name, &lt;i&gt;we’re next&lt;/i&gt;!</key>
-    <value>We’re next, do you understand?! Our sun! By Hearth’s name, &lt;i&gt;we’re next&lt;/i&gt;!</value>
+    <value>Við erum næst! Skilurðu mig? Sólin okkar! Hjálpi mér, stjörnurnar, &lt;i&gt;við erum næst&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>ChertSecondaryPlease, just... Leave me alone, won’t you?</key>
-    <value>Please, just... Leave me alone, won’t you?</value>
+    <value>Gerðu það, bara... láttu mig í friði.</value>
   </entry>
   <entry>
     <key>ChertQuestionsWhat do you mean, "we’re next"?</key>
-    <value>What do you mean, "we’re next"?</value>
+    <value>Hvað meinarðu "við erum næst"?</value>
   </entry>
   <entry>
     <key>ChertQuestionsWhy are the stars dying?</key>
-    <value>Why are the stars dying?</value>
+    <value>Af hverju eru stjörnurnar að deyja?</value>
   </entry>
   <entry>
     <key>ChertNextIt’s the stars, you see. All the other stars are dying out. Oh, why did we have to be born at the end of the universe? And our sun, it...</key>
-    <value>It’s the stars, you see. All the other stars are dying out. Oh, why did we have to be born at the end of the universe? And our sun, it...</value>
+    <value>Vittu, það eru stjörnurnar. Allar hinar stjörnurnar eru að deyja. Af hverju þurfti ég að fæðast við endalok alheimsins? Og sólin okkar, hún...</value>
   </entry>
   <entry>
     <key>ChertNextThe star charts! Why? Why did I want to update them so badly? I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</key>
-    <value>The star charts! Why? Why did I want to update them so badly? I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</value>
+    <value>Stjörnukortin! Af hverju? Af hverju vildi ég endilega uppfæra þau? Ég þurfti ekki að vita af þessu, en nei, neinei, ég þurfti auðvitað að uppfæra stjörnukortin okkar. Ég bara þurfti að skoða eitthvað sem ég hefði ekki átt að gera. Og nú er sólin okkar við það... við það að... við...</value>
   </entry>
   <entry>
     <key>ChertNext...I don’t feel well. I’d like to be alone, please.</key>
-    <value>...I don’t feel well. I’d like to be alone, please.</value>
+    <value>...Mér líður ekki vel. Ég vil fá að vera í friði, gerðu það.</value>
   </entry>
   <entry>
     <key>FoundSomethingWhy, isn’t that great! Do you know what, I’ve found a few things myself! Most of them have to do with the sun exploding!</key>
-    <value>Why, isn’t that great! Do you know what, I’ve found a few things myself! Most of them have to do with the sun exploding!</value>
+    <value>Nú, en frábært! Veistu hvað, ég uppgötvaði nokkra hluti sjálft! Flestir þeirra hafa eitthvað með það að gera að sólin okkar springur!</value>
   </entry>
   <entry>
     <key>FoundSomethingOh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun is about to go supernova! And me, all my research, my life’s work, wasted!</key>
-    <value>Oh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun is about to go supernova! And me, all my research, my life’s work, wasted!</value>
+    <value>Æ, hverjum er ekki &lt;i&gt;sama&lt;/i&gt;?! Hvaða máli skiptir það?! &lt;i&gt;Ekkert&lt;/i&gt; skiptir máli lengur! Sólin er við það að fara að springa! Og ég, og allar mínar rannsóknir, lífsstarfið mitt, til einskis!</value>
   </entry>
   <entry>
     <key>FoundSomething&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</key>
-    <value>&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</value>
+    <value>&lt;size=50&gt;Til einskis! Skilur þú það?!&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>Chert1The star charts! It’s all the star charts’ fault! I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</key>
-    <value>The star charts! It’s all the star charts’ fault! I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</value>
+    <value>Stjörnukortin! Þetta er allt þeim að kenna! Ég þurfti ekki að vita af þessu, en nei, neineinei, ég bara þurfti að uppfæra stjörnukortin! Ég bara þurfti auðvitað að skoða eitthvað sem ég hefði ekki átt að gera. Og nú er sólin við það... við það að... við...</value>
   </entry>
   <entry>
     <key>Chert1...I don’t feel well. I’d like to be alone, please.</key>
-    <value>...I don’t feel well. I’d like to be alone, please.</value>
+    <value>...Mér líður ekki vil. Ég vil fá að vera í friði, gerðu það.</value>
   </entry>
   <entry>
     <key>Chert2Where should you &lt;i&gt;go&lt;/i&gt;? Where can anyone go? Can’t you see it’s too late now?</key>
-    <value>Where should you &lt;i&gt;go&lt;/i&gt;? Where can anyone go? Can’t you see it’s too late now?</value>
+    <value>&lt;i&gt;Hvað&lt;/i&gt; ættir þú að skoða hérna? Verður eitthvað eftir til að skoða? Sérðu ekki að það er of seint?</value>
   </entry>
   <entry>
     <key>Chert2Oh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun will probably blow up before you can even get there! And me, all my research, my life’s work, wasted!</key>
-    <value>Oh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun will probably blow up before you can even get there! And me, all my research, my life’s work, wasted!</value>
+    <value>Æ, hverjum er ekki &lt;i&gt;sama&lt;/i&gt;?! Hvaða máli skiptir það?! &lt;i&gt;Ekkert&lt;/i&gt; skiptir máli lengur! Sólin er við það að fara að springa! Og ég, og allar mínar rannsóknir, lífsstarfið mitt, til einskis!</value>
   </entry>
   <entry>
     <key>Chert2&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</key>
-    <value>&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</value>
+    <value>&lt;size=50&gt;Til einskis! Skilur þú það?!&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>Chert3Not as dangerous as what’s about to happen to our entire solar system!</key>
-    <value>Not as dangerous as what’s about to happen to our entire solar system!</value>
+    <value>Ekkert hættuleg í líkingu við það sem mun gerast fyrir allt sólkerfið okkar bráðum!</value>
   </entry>
   <entry>
     <key>Chert3I... I don’t feel well. I’d like to be alone, please. I can’t believe this...</key>
-    <value>I... I don’t feel well. I’d like to be alone, please. I can’t believe this...</value>
+    <value>Mér... mér líður ekki vel. Gerðu það, leyfðu mér að vera í friði. Ég trúi þessu ekki...</value>
   </entry>
   <entry>
     <key>Chert4I don't know — they're old! Far older than we realized and now all of them are dying!</key>
-    <value>I don't know — they're old! Far older than we realized and now all of them are dying!</value>
+    <value>Ég veit það ekki — þær eru gamlar! Mun eldri heldur en við áttuðum okkur á og nú eru þær allar að deyja!</value>
   </entry>
   <entry>
     <key>Chert4What does it matter?! It doesn’t! It doesn’t matter at all! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! All my research, my life’s work, wasted!</key>
     <value>What does it matter?! It doesn’t! It doesn’t matter at all! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! All my research, my life’s work, wasted!</value>
+    <value>Hvaða máli skiptir það?! Engu! Það skiptir engu máli! &gt;Ekkert&lt;/i&gt; skiptir máli lengur! Allar mínar rannsóknir, lífsstarfið mitt, til einskis!</value>
   </entry>
   <entry>
     <key>Chert4&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</key>
-    <value>&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</value>
+    <value>&lt;size=50&gt;Til einskis! Skilur þú það?!&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>Chert5I can’t believe this. I can’t believe this is happening. I can’t... I won’t! I &lt;i&gt;won’t&lt;/i&gt; believe it!</key>
-    <value>I can’t believe this. I can’t believe this is happening. I can’t... I won’t! I &lt;i&gt;won’t&lt;/i&gt; believe it!</value>
+    <value>Ég trúi þessu ekki. Ég get ekki trúað því að þetta sé að gerast. Ég get það ekki... Ég &lt;i&gt;neita&lt;/i&gt; að trúa því!</value>
   </entry>
   <entry>
     <key>ChertIntroOh, hello...</key>
-    <value>Oh, hello...</value>
+    <value>Ó, halló...</value>
   </entry>
   <entry>
     <key>QuestionsCome, sit with me, my fellow traveler. Let’s sit together and watch the stars die.</key>
-    <value>Come, sit with me, my fellow traveler. Let’s sit together and watch the stars die.</value>
+    <value>Sittu hérna hjá mér, kæri samferðalangur. Sitjum saman og horfum á stjörnurnar deyja.</value>
   </entry>
   <entry>
     <key>ChertQuestionsSure, why not.</key>
-    <value>Sure, why not.</value>
+    <value>Já, af hverju ekki.</value>
   </entry>
   <entry>
     <key>ChertQuestionsIf it helps, we’re in a time loop, so we won’t really die.</key>
-    <value>If it helps, we’re in a time loop, so we won’t really die.</value>
+    <value>Ef það hjálpar eitthvað, þá erum við föst í tímalykkju, þannig að við munum í rauninni ekki deyja.</value>
   </entry>
   <entry>
     <key>ChertQuestionsNo, thanks.</key>
-    <value>No, thanks.</value>
+    <value>Nei, takk samt.</value>
   </entry>
   <entry>
     <key>Chert1We only get so much time, don’t we? Ah, there was still more I wanted to do...</key>
-    <value>We only get so much time, don’t we? Ah, there was still more I wanted to do...</value>
+    <value>Við fáum bara svo mikinn tíma, ekki satt? Jæja, en mig langaði þó að gera svo miklu meira...</value>
   </entry>
   <entry>
     <key>Chert1How unlucky to have been born at the end of the universe.</key>
-    <value>How unlucky to have been born at the end of the universe.</value>
+    <value>En óheppið ég að hafa fæðst við endalok alheimsins.</value>
   </entry>
   <entry>
     <key>Chert2Ah, that’s a lovely thought. Is that how you’re coping with this?</key>
-    <value>Ah, that’s a lovely thought. Is that how you’re coping with this?</value>
+    <value>En falleg tilhugsun. Er það þannig sem þú ert að höndla þessar aðstæður?</value>
   </entry>
   <entry>
     <key>Chert2Does it help?</key>
-    <value>Does it help?</value>
+    <value>Hjálpar það?</value>
   </entry>
   <entry>
     <key>Chert3Perhaps you’re right. ...Yes, we should face this alone. That’s the way.</key>
-    <value>Perhaps you’re right. ...Yes, we should face this alone. That’s the way.</value>
+    <value>Kannski hefur þú rétt fyrir þér. ...Já, við ættum að takast á við þetta með sjálfum okkur. Það er rétta leiðin.</value>
   </entry>
   <entry>
     <key>Chert3We enter this world alone, and we leave it alone...</key>
-    <value>We enter this world alone, and we leave it alone...</value>
+    <value>Við fæðumst ein í þennan heim, og við förum úr honum ein...</value>
   </entry>
   <entry>
     <key>ChertSecondary1Any minute now...</key>
-    <value>Any minute now...</value>
+    <value>Jæja, styttist í það...</value>
   </entry>
   <entry>
     <key>ChertSecondary2A time loop, you said? I like that idea...</key>
-    <value>A time loop, you said? I like that idea...</value>
+    <value>Tímalykkja segirðu? Mér líkar sú hugmynd...</value>
   </entry>
   <entry>
     <key>WaitingForOthersThe stars were beautiful, weren’t they? Even if our star is what ultimately killed us.</key>
-    <value>The stars were beautiful, weren’t they? Even if our star is what ultimately killed us.</value>
+    <value>Stjörnurnar voru fallegar, fannst þér ekki? Jafnvel þótt stjarnan okkar hafi endanlega drepið okkur.</value>
   </entry>
   <entry>
     <key>WaitingForOthersI’ll wait here and remember them while you gather everybody.</key>
-    <value>I’ll wait here and remember them while you gather everybody.</value>
+    <value>Ég ætla að sitja hér og minnast þeirra á meðan þú safnar öllum saman.</value>
   </entry>
   <entry>
     <key>ReadyToPlayShall I begin?</key>
-    <value>Shall I begin?</value>
+    <value>Á ég að byrja?</value>
   </entry>
   <entry>
     <key>ChertReadyToPlayYes.</key>
-    <value>Yes.</value>
+    <value>Já.</value>
   </entry>
   <entry>
     <key>ChertReadyToPlayNot yet.</key>
-    <value>Not yet.</value>
+    <value>Ekki strax.</value>
   </entry>
   <entry>
     <key>StartPlayingWell, then, here I go!</key>
-    <value>Well, then, here I go!</value>
+    <value>Jæja, þá byrja ég!</value>
   </entry>
   <entry>
     <key>NotYetTake your time! I don’t think there’s anything left to go supernova.</key>
-    <value>Take your time! I don’t think there’s anything left to go supernova.</value>
+    <value>Taktu þér þann tíma sem þú þarft! Ég held að það sé ekkert eftir til þess að breytast í sprengistjörnu.</value>
   </entry>
   <entry>
     <key>FarewellEven if it’s over now, I had a good time learning.</key>
-    <value>Even if it’s over now, I had a good time learning.</value>
+    <value>Jafnvel þótt þetta sé nú búið, þá átti ég góðar stundir við það að læra.</value>
   </entry>
   <entry>
     <key>FarewellBut I think the rules are about to change.</key>
-    <value>But I think the rules are about to change.</value>
+    <value>En ég held að reglurnar séu þó að fara að breytast.</value>
   </entry>
   <entry>
     <key>SignNEW EXHIBITS COMING SOON!</key>
-    <value>NEW EXHIBITS COMING SOON!</value>
+    <value>NÝJAR SÝNINGAR VÆNTANLEGAR!</value>
   </entry>
   <entry>
     <key>Esker</key>
@@ -9401,231 +9402,231 @@
   </entry>
   <entry>
     <key>Esker1Oh, hey, it’s you!</key>
-    <value>Oh, hey, it’s you!</value>
+    <value>Ó, sælt, þetta ert þú!</value>
   </entry>
   <entry>
     <key>Esker1Ground control didn’t tell me you were launching. Long time no see!</key>
-    <value>Ground control didn’t tell me you were launching. Long time no see!</value>
+    <value>Stjórnstöðin sagði mér ekki að þú værir á leiðinni. Langt síðan ég sá þig!</value>
   </entry>
   <entry>
     <key>Esker1Actually. I guess it’s been a long time since I’ve seen anyone.</key>
-    <value>Actually. I guess it’s been a long time since I’ve seen anyone.</value>
+    <value>Reyndar, þá er langt síðan að ég sá nokkurn Bjálkabæling.</value>
   </entry>
   <entry>
     <key>EskerEsker1Don’t the other travelers come by?</key>
-    <value>Don’t the other travelers come by?</value>
+    <value>Koma hinir ferðalangarnir ekki í heimsókn?</value>
   </entry>
   <entry>
     <key>EskerEsker1Was that you whistling?</key>
-    <value>Was that you whistling?</value>
+    <value>Varst þú að flauta?</value>
   </entry>
   <entry>
     <key>EskerEsker1Seems lonely up here.</key>
-    <value>Seems lonely up here.</value>
+    <value>Virkar einmanalegt hérna uppi.</value>
   </entry>
   <entry>
     <key>EskerEsker1What is this place?</key>
-    <value>What is this place?</value>
+    <value>Hvaða staður er þetta?</value>
   </entry>
   <entry>
     <key>EskerEsker1Marl says hi.</key>
-    <value>Marl says hi.</value>
+    <value>Marl biður að heilsa.</value>
   </entry>
   <entry>
     <key>EskerEsker1Talk to you later.</key>
-    <value>Talk to you later.</value>
+    <value>Heyri í þér seinna.</value>
   </entry>
   <entry>
     <key>Esker2Don’t go! Uh, I mean, anything else you wanted to ask?</key>
-    <value>Don’t go! Uh, I mean, anything else you wanted to ask?</value>
+    <value>EKki fara! Ömm, ég meina, var það eitthvað fleira sem þú vildir spyrja mig út í?</value>
   </entry>
   <entry>
     <key>EskerEsker2Don’t the other travelers come by?</key>
-    <value>Don’t the other travelers come by?</value>
+    <value>Koma hinir ferðalangarnir ekki í heimsókn?</value>
   </entry>
   <entry>
     <key>EskerEsker2Seems lonely up here.</key>
-    <value>Seems lonely up here.</value>
+    <value>Virkar einmanalegt hérna uppi.</value>
   </entry>
   <entry>
     <key>EskerEsker2Was that you whistling?</key>
-    <value>Was that you whistling?</value>
+    <value>Varst þú að flauta?</value>
   </entry>
   <entry>
     <key>EskerEsker2What is this place?</key>
-    <value>What is this place?</value>
+    <value>Hvaða staður er þetta?</value>
   </entry>
   <entry>
     <key>EskerEsker2Marl says hi.</key>
-    <value>Marl says hi.</value>
+    <value>Marl biður að heilsa.</value>
   </entry>
   <entry>
     <key>EskerEsker2Talk to you later.</key>
-    <value>Talk to you later.</value>
+    <value>Heyri í þér seinna.</value>
   </entry>
   <entry>
     <key>OtherTravelersThe Lunar Outpost saw more traffic back when our ships were less sophisticated and needed more frequent repairs. Nowadays, it’s mostly used to keep a set of eyes on things.</key>
-    <value>The Lunar Outpost saw more traffic back when our ships were less sophisticated and needed more frequent repairs. Nowadays, it’s mostly used to keep a set of eyes on things.</value>
+    <value>Útvarðarstöðin á Tunglinu, hér var meiri traffík í gamla daga þegar skipin okkar voru einfaldari og þurftu oftar á viðgerðum að halda. Nú til dags, þá er stöðin að mestu notuð til að fylgjast með hlutum.</value>
   </entry>
   <entry>
     <key>OtherTravelersSometimes Chert comes by to say hi, but Gabbro is Gabbro, and you know how Riebeck feels about “unnecessary spaceflight.”</key>
-    <value>Sometimes Chert comes by to say hi, but Gabbro is Gabbro, and you know how Riebeck feels about “unnecessary spaceflight.”</value>
+    <value>Stundum kemur Chert og heilsar upp á mig, en Gabbro er Gabbro, og þú veist hvernig Riebeck líður með að "fljúga út í geim að ástæðulausu."</value>
   </entry>
   <entry>
     <key>LonelyA little. I’m in touch with ground control – Hornfels and Gossan, mostly – and they radio up to chat now and then.</key>
-    <value>A little. I’m in touch with ground control – Hornfels and Gossan, mostly – and they radio up to chat now and then.</value>
+    <value>Já, pínu. Ég er í samskiptum við stjórnstöðina – mestmegnis Hornfels og Gossan – og þau heyra öðru hvoru í mér yfir talstöðina og spjalla.</value>
   </entry>
   <entry>
     <key>LonelyAnd when ground control forgets I’m up here &lt;size=20&gt;and they usually do&lt;/size&gt;, I launch my Little Scout at the village.</key>
-    <value>And when ground control forgets I’m up here &lt;size=20&gt;and they usually do&lt;/size&gt;, I launch my Little Scout at the village.</value>
+    <value>Og þegar stjórnstöðin gleymir því að ég er hérna uppi &lt;size=20&gt;og þau gleyma því oft&lt;/size&gt;, þá varpa ég Litla Kannanum mínum að þorpinu.</value>
   </entry>
   <entry>
     <key>EskerLonelyThey forget about you?</key>
-    <value>They forget about you?</value>
+    <value>Þau gleyma þér?</value>
   </entry>
   <entry>
     <key>EskerLonelyYou &lt;i&gt;spy&lt;/i&gt; on us?</key>
-    <value>You &lt;i&gt;spy&lt;/i&gt; on us?</value>
+    <value>&lt;i&gt;Njósnarðu&lt;/i&gt; um okkur?</value>
   </entry>
   <entry>
     <key>ForgetI don’t blame them. For one, I don’t check in as often as the other travelers, since I’m always in one place.</key>
-    <value>I don’t blame them. For one, I don’t check in as often as the other travelers, since I’m always in one place.</value>
+    <value>Ég álasa þeima það ekki. Til að byrja með þá læt ég ekki vita hvar ég er jafn oft og hinir ferðalangarnir, þar sem ég er alltaf á sama stað.</value>
   </entry>
   <entry>
     <key>ForgetAnd it’s not so bad up here, really. At least it’s peaceful and quiet. You don’t always get that in our solar system.</key>
-    <value>And it’s not so bad up here, really. At least it’s peaceful and quiet. You don’t always get that in our solar system.</value>
+    <value>Og það er ekki svo slæmt að vera hérna uppi, í rauninni. Að minnsta kosti er friðsælt og hljóðlátt. Það er ekki gefins í sólkerfinu okkar.</value>
   </entry>
   <entry>
     <key>ForgetLet alone in our village.</key>
-    <value>Let alone in our village.</value>
+    <value>Hvað þá í þorpinu okkar.</value>
   </entry>
   <entry>
     <key>SpyWhat? No! It’s not spying, it’s...</key>
-    <value>What? No! It’s not spying, it’s...</value>
+    <value>Ha? Nei! Þetta eru ekki njósnir, bara...</value>
   </entry>
   <entry>
     <key>SpyIt’s one-way communication. That none of the villagers know about. &lt;size=20&gt;Because I’ve never told them&lt;/size&gt;.</key>
-    <value>It’s one-way communication. That none of the villagers know about. &lt;size=20&gt;Because I’ve never told them&lt;/size&gt;.</value>
+    <value>Bara einhliða samskipti. Sem enginn þorpsbúanna veit af. &lt;size=20&gt;Af því að ég hef aldrei sagt þeim frá því&lt;/size&gt;.</value>
   </entry>
   <entry>
     <key>MusicProbably. Or actually, definitely. The other travelers carry instruments, so they don’t bother whistling.</key>
-    <value>Probably. Or actually, definitely. The other travelers carry instruments, so they don’t bother whistling.</value>
+    <value>Kannski. Eða reyndar, örugglega. Hinir ferðalangarnir hafa hljóðfæri meðferðis, þannig að þeir eru ekki mikið að blístra.</value>
   </entry>
   <entry>
     <key>MusicYou can pick up their music with a signalscope, you know. Best spot for that is the &lt;color=orange&gt;north pole&lt;/color&gt;. Great reception.</key>
-    <value>You can pick up their music with a signalscope, you know. Best spot for that is the &lt;color=orange&gt;north pole&lt;/color&gt;. Great reception.</value>
+    <value>Þú getur heyrt í þeim með merkjasjánni, vissirðu það? Besti staðurinn fyrir svoleiðis er &lt;color=orange&gt;norðurpóllinn&lt;/color&gt;. Frábær móttökuskilyrði.</value>
   </entry>
   <entry>
     <key>MusicThe north pole is marked in red on your &lt;color=orange&gt;mini map&lt;/color&gt;, but the Attlerock is a pretty small moon, really. Just go north. You can’t miss it.</key>
-    <value>The north pole is marked in red on your &lt;color=orange&gt;mini map&lt;/color&gt;, but the Attlerock is a pretty small moon, really. Just go north. You can’t miss it.</value>
+    <value>Norðurpóllinn er merktur með rauðu á &lt;color=orange&gt;kompásnum&lt;/color&gt;þínum, en Slakigígur er frekar lítið tungl, í rauninni. Farðu bara norður. Þetta fer ekki fram hjá þér.</value>
   </entry>
   <entry>
     <key>PlaceHa ha, very funny. &lt;Pause/&gt;...Oh, stars above, you’re serious, aren’t you? That’s just depressing.</key>
-    <value>Ha ha, very funny. &lt;Pause/&gt;...Oh, stars above, you’re serious, aren’t you? That’s just depressing.</value>
+    <value>Ha ha, mjög fyndið. &lt;Pause/&gt;...Ó, stjörnur á himnum, þér er alvara, er það ekki? Mikið er það niðurdrepandi.</value>
   </entry>
   <entry>
     <key>Place&lt;color=grey&gt;Sigh...&lt;/color&gt;&lt;Pause/&gt;Welcome to the Lunar Outpost, which apparently the space program doesn’t bother to teach anyone anymore.</key>
-    <value>&lt;color=grey&gt;Sigh...&lt;/color&gt;&lt;Pause/&gt;Welcome to the Lunar Outpost, which apparently the space program doesn’t bother to teach anyone anymore.</value>
+    <value>&lt;color=grey&gt;Andvarp...&lt;/color&gt;&lt;Pause/&gt;Velkomið á Útvarðarstöðina á Tunglinu, en svo virðist sem geimferðaráætlunin hafi ekki einu sinni fyrir því að segja fólki frá henni lengur.</value>
   </entry>
   <entry>
     <key>PlaceWhen we first started Outer Wilds, travelers used to bring their ships here all the time for repairs. Our spacefaring technology has improved loads since then, but the older ships tended to, uh, fall apart a lot. Like, more than they do now.</key>
-    <value>When we first started Outer Wilds, travelers used to bring their ships here all the time for repairs. Our spacefaring technology has improved loads since then, but the older ships tended to, uh, fall apart a lot. Like, more than they do now.</value>
+    <value>Í fyrstu eftir að við stofnuðum Fjarlæg Firnindi, þá komu ferðalangar hingað öllum stundum til þess að láta gera við skipin sín. Geimferðartækninni okkar hefur fleygt fram síðan þá, en eldri skipin áttu það til að, ömm, detta í sundur frekar oft. Þú veist, oftar heldur en þau gera núna.</value>
   </entry>
   <entry>
     <key>PlaceUsing the outpost cut down on the number of launches and landings taking place in the village and also the number of fires. Nowadays, though, it’s mostly just me up here raising saplings from Timber Hearth and keeping an eye on things.</key>
-    <value>Using the outpost cut down on the number of launches and landings taking place in the village and also the number of fires. Nowadays, though, it’s mostly just me up here raising saplings from Timber Hearth and keeping an eye on things.</value>
+    <value>Með stöðinni hérna var hægt að minnka fjölda flugtaka og lendinga í þorpinu og þar með minnka fjölda skógarelda. Þessa dagana er ég að vísu mest upptekið við það að rækta upp tré frá Bjálkabóli og fylgjast með hlutum.</value>
   </entry>
   <entry>
     <key>MarlHeh, Marl is probably the only one who remembers I’m up here. I should go see the big lug soon.</key>
-    <value>Heh, Marl is probably the only one who remembers I’m up here. I should go see the big lug soon.</value>
+    <value>Hehe, Marl er líklega hán eina sem man eftir mér hérna uppi. Ég ætti að fara að heimsækja elsku durginn á næstunni.</value>
   </entry>
   <entry>
     <key>MarlDon’t tell them about this, but sometimes I throw my Little Scout down to make sure Marl isn’t doing anything stupid. I worry that big tree in the village wouldn’t stand a chance otherwise.</key>
-    <value>Don’t tell them about this, but sometimes I throw my Little Scout down to make sure Marl isn’t doing anything stupid. I worry that big tree in the village wouldn’t stand a chance otherwise.</value>
+    <value>Ekki segja neinum en stundum varpa ég Litla Kannanum mínum niður til þess að vera visst um að Marl sé ekki að gera neitt heimskulegt. Ég hef áhyggjur af því að stóra tréð í þorpinu sé ekki óhult nema ég geri það.</value>
   </entry>
   <entry>
     <key>SecondaryHi again. Can’t get enough of the moon? ...I’m kidding.</key>
-    <value>Hi again. Can’t get enough of the moon? ...I’m kidding.</value>
+    <value>Hæ aftur. Þú færð ekki nóg af tunglinu sé ég! ...Ég er að grínast.</value>
   </entry>
   <entry>
     <key>FirstConversationDo you hear music?</key>
-    <value>Do you hear music?</value>
+    <value>Heyrir þú tónlist?</value>
   </entry>
   <entry>
     <key>WaitingForOthersAren’t you forgetting someone?</key>
-    <value>Aren’t you forgetting someone?</value>
+    <value>Ertu ekki að gleyma einhverjum?</value>
   </entry>
   <entry>
     <key>ReadyToPlayI can’t wait to play with the whole group again. Can I start?</key>
-    <value>I can’t wait to play with the whole group again. Can I start?</value>
+    <value>Ég get ekki beðið eftir því að spila með hópnum aftur. Má ég byrja?</value>
   </entry>
   <entry>
     <key>EskerReadyToPlayYes.</key>
-    <value>Yes.</value>
+    <value>Já.</value>
   </entry>
   <entry>
     <key>EskerReadyToPlayNot yet.</key>
-    <value>Not yet.</value>
+    <value>Ekki strax.</value>
   </entry>
   <entry>
     <key>StartPlayingOk, I won’t let you down!</key>
-    <value>Ok, I won’t let you down!</value>
+    <value>Já, ég mun ekki valda þér vonbrigðum!</value>
   </entry>
   <entry>
     <key>NotYetOh, ok. I’ll– I’ll get to play soon though, right?</key>
-    <value>Oh, ok. I’ll– I’ll get to play soon though, right?</value>
+    <value>Ó, allt í lagi. É-Ég fæ að vera með bráðum samt, er það ekki?</value>
   </entry>
   <entry>
     <key>FarewellWow... How long has it been since I got to make music with everyone around a campfire?</key>
-    <value>Wow... How long has it been since I got to make music with everyone around a campfire?</value>
+    <value>Vá... Hvað ætli það sé langt síðan ég hef fengið að spila tónlist með öllum umhverfis varðeld?</value>
   </entry>
   <entry>
     <key>FarewellI’m really happy we’re all here.</key>
-    <value>I’m really happy we’re all here.</value>
+    <value>Ég er mjög hamingjusamt yfir því að við séum öll hér.</value>
   </entry>
   <entry>
     <key>WaitingForOthersHatchling! You found me!</key>
-    <value>Hatchling! You found me!</value>
+    <value>Klaklingur! Þú fannst mig!</value>
   </entry>
   <entry>
     <key>WaitingForOthersNice to have company around a campfire, isn’t it? Go on, go get the others. Wouldn’t want ’em to miss out!</key>
-    <value>Nice to have company around a campfire, isn’t it? Go on, go get the others. Wouldn’t want ’em to miss out!</value>
+    <value>Gaman að hafa félagsskap í kringum eldinn, finnst þér ekki? Svona nú, náðu í öll hin. Vil ekki að þau missi af þessu!</value>
   </entry>
   <entry>
     <key>ReadyToPlayWhaddya say, then — should I get out the ol’ harmonica?</key>
-    <value>Whaddya say, then — should I get out the ol’ harmonica?</value>
+    <value>Ka segiru — á ég að vippa upp gömlu góðu munnhörpunni?</value>
   </entry>
   <entry>
     <key>FeldsparReadyToPlayYes.</key>
-    <value>Yes.</value>
+    <value>Já.</value>
   </entry>
   <entry>
     <key>FeldsparReadyToPlayNot yet.</key>
-    <value>Not yet.</value>
+    <value>Ekki strax.</value>
   </entry>
   <entry>
     <key>StartPlayingHa &lt;i&gt;ha&lt;/i&gt;! Here goes nothing!</key>
-    <value>Ha &lt;i&gt;ha&lt;/i&gt;! Here goes nothing!</value>
+    <value>Ha &lt;i&gt;ha&lt;/i&gt;! Læt vaða!</value>
   </entry>
   <entry>
     <key>NotYetYou got it hatchling. When you’re ready, just say the word.</key>
-    <value>You got it hatchling. When you’re ready, just say the word.</value>
+    <value>Ekkert mál, klaklingur. Þegar þú ert tilbúið, láttu mig vita.</value>
   </entry>
   <entry>
     <key>FarewellYou cut it a little close, don’t you think?</key>
-    <value>You cut it a little close, don’t you think?</value>
+    <value>Það má segja að þú hafir flogið svolítið nálægt sólinni, hehe.</value>
   </entry>
   <entry>
     <key>FarewellWell, it worked out all right in the end, I suppose.</key>
-    <value>Well, it worked out all right in the end, I suppose.</value>
+    <value>Jæja þó, allt fór vel að lokum.</value>
   </entry>
   <entry>
     <key>FarewellAhh, I hope there are beasties in the next one.</key>
-    <value>Ahh, I hope there are beasties in the next one.</value>
+    <value>Ég vona að það séu kvikindi í þeim næsta.</value>
   </entry>
   <entry>
     <key>FeldsparJellyfishJournalTrip 4(?), entry #... I’m gonna say “not 1.”  \\n Crashes: 3 \\n Boring crashes: 0 (a personal best!)</key>
-    <value>Trip 4(?), entry #... I’m gonna say “not 1.”  \\n Crashes: 3 \\n Boring crashes: 0 (a personal best!)</value>
+    <value>Ferð 4(?), færsla #... Tja, allavega ekki "númer eitt."\\n Brotlendingar: 3 \\n Leiðinlegar brotlendingar: 0 (persónulegt met!)</value>
   </entry>
   <entry>
     <key>FeldsparJellyfishJournalWhoa &lt;i&gt;ho&lt;/i&gt;! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?</key>
