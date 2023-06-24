@@ -29,7 +29,7 @@
 			Suppose the universe is older than previously assumed.
 		</key>
     <value>
-      Göngum útfrá því að alheimurinn sé eldri en áður var gert ráð fyrir.
+      Göngum út frá því að alheimurinn sé eldri en áður var gert ráð fyrir.
 		</value>
   </entry>
   <entry>
@@ -46,7 +46,7 @@
   </entry>
   <entry>
     <key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
-    <value>CLARY: Nei, en Poke var lærlingur hjá Annona, sem bjó til upprunalegu hönnunina, og &lt;color=orange&gt;Svartholssmiðjan&lt;/color&gt; okkar er flink í að smíða einfaldari kjarna.</value>
+    <value>CLARY: Nei, en Poke var lærlingur hjá Annona, sem bjó til upprunalegu hönnunina, og &lt;color=orange&gt;Svartholssmiðjan&lt;/color&gt; okkar dugar til að smíða einfaldari kjarna.</value>
   </entry>
   <entry>
     <key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
@@ -241,7 +241,7 @@
 			LAMI: Each clan has a festival envoy to show their most interesting work. (Our envoy was Thatch!)
 		</key>
     <value>
-			LAMI: Hver ættbálkur hefur sinn sendifulltrúa sem sýnir þeirra bestu verk. (Okkar sendifulltrúi var Thatch!) 
+			LAMI: Hver ættbálkur hefur sinn fulltrúa sem sýnir þeirra bestu verk. (Okkar fulltrúi var Thatch!) 
 		</value>
   </entry>
   <entry>
@@ -254,7 +254,7 @@
   </entry>
   <entry>
     <key>PLUME: Use caution! A black hole sleeps below. You must not slip.</key>
-    <value>PLUME: Farið varlega! Svarthol hvílir að neðan. Forðastu að hrasa.</value>
+    <value>PLUME: Farið varlega! Svarthol hvílir að neðan. Alls ekki detta.</value>
   </entry>
   <entry>
     <key>Emergency escape hatch</key>
@@ -9630,23 +9630,23 @@
   </entry>
   <entry>
     <key>FeldsparJellyfishJournalWhoa &lt;i&gt;ho&lt;/i&gt;! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?</key>
-    <value>Whoa &lt;i&gt;ho&lt;/i&gt;! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?</value>
+    <value>Ja &lt;i&gt;há&lt;/i&gt;! Hélt ég myndi aldrei sjá þessi kvikindi annars staðar en á Jötunsdýpi! Þau komu heldur betur að notum þar — kannski koma marglyttur að góðum notum hérna líka?</value>
   </entry>
   <entry>
     <key>FeldsparJellyfishJournalBLEARGH. This thing tastes terrible! The outside is all rubbery and tough -- maybe that’s because it insulates the jellyfish’s insides from getting zapped by electricity?</key>
-    <value>BLEARGH. This thing tastes terrible! The outside is all rubbery and tough -- maybe that’s because it insulates the jellyfish’s insides from getting zapped by electricity?</value>
+    <value>AAOOOJJJBARA. Þetta bragðast alveg hræðilega! Gúmmikennt og seigt að utan -- kannski er það vegna þess að skrápurinn kemur í veg fyrir að innyflin verði fyrir raflosti?</value>
   </entry>
   <entry>
     <key>FeldsparJellyfishJournalRight, I’m going inside of this jellyfish’s interior cavity to see if what’s in there tastes any better.</key>
-    <value>Right, I’m going inside of this jellyfish’s interior cavity to see if what’s in there tastes any better.</value>
+    <value>Akkúrat núna ætla ég inn í holrúmið inni í marglyttunni til þess að sjá hvort eitthvað þar inni bragðist betur.</value>
   </entry>
   <entry>
     <key>FeldsparJellyfishJournalNote to Feldspar: DO NOT EAT THIS EVEN IF YOU ARE DYING. It would be too sad if this were the last thing you ever ate in this life.</key>
-    <value>Note to Feldspar: DO NOT EAT THIS EVEN IF YOU ARE DYING. It would be too sad if this were the last thing you ever ate in this life.</value>
+    <value>Minnipunktar fyrir Feldspar: EKKI BORÐA ÞETTA JAFNVEL ÞÓTT ÞÚ SÉRT VIÐ ÞAÐ AÐ DEYJA. Það væri of sorglegt ef þetta væri það síðasta sem þú myndir borða í lífínu.</value>
   </entry>
   <entry>
     <key>FeldsparJellyfishJournalI guess these jellyfish are only useful for insulation from electricity. Again, DO NOT EAT. (Love, Feldspar)</key>
-    <value>I guess these jellyfish are only useful for insulation from electricity. Again, DO NOT EAT. (Love, Feldspar)</value>
+    <value>Ég held þessar marglyttur séu til einskins nýtar nema sem vörn gegn rafstuði. Ég ítreka, ALLS EKKI BROÐA. (Ást, Feldspar)</value>
   </entry>
   <entry>
     <key>MeetGabbroNice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
@@ -9654,71 +9654,71 @@
   </entry>
   <entry>
     <key>MeetGabbroSo hey, don’t laugh, but I think I might have had some kind of spiritual experience with a rock shaped like a face.</key>
-    <value>So hey, don’t laugh, but I think I might have had some kind of spiritual experience with a rock shaped like a face.</value>
+    <value>Já, hurru, ekki hlæja en ég held að ég hafi átt eins konar yfirnáttúruleg kynni við grjót í laginu eins og andlit.</value>
   </entry>
   <entry>
     <key>GabbroMeetGabbro...What?</key>
-    <value>...What?</value>
+    <value>...Ha?</value>
   </entry>
   <entry>
     <key>GabbroMeetGabbroMe too!</key>
-    <value>Me too!</value>
+    <value>Ég líka!</value>
   </entry>
   <entry>
     <key>Explanation1One of the islands on Giant’s Deep has a Nomai statue on the beach - ever seen one? I brought one back to Timber Hearth with me. Big stone sculpture of a Nomai’s head, three eyes and everything. Beautifully carved, too.</key>
-    <value>One of the islands on Giant’s Deep has a Nomai statue on the beach - ever seen one? I brought one back to Timber Hearth with me. Big stone sculpture of a Nomai’s head, three eyes and everything. Beautifully carved, too.</value>
+    <value>Ein eyjanna hér á Jötunsdýpi er með Nomai styttu á ströndinni - hefurðu séð þær einhvern tíma? Ég tók með mér eina til baka á Bjálkaból. Stór höggmynd af andliti Nomaia, þrjú augu og allt saman. Frábærlega meitlað líka.</value>
   </entry>
   <entry>
     <key>Explanation1So one minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</key>
-    <value>So one minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</value>
+    <value>Þannig að, eina mínútuna stend ég á eyju og horfi á Nomai styttu á ströndinni, og það næsta sem ég man er að hún horfir á mig og glóir.</value>
   </entry>
   <entry>
     <key>Explanation1The sculpture replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
-    <value>The sculpture replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</value>
+    <value>Styttan spilar til baka allt sem ég var að gera, eins og hún hafi séð það með mínum augum, fattarðu? Og skyndilega hættir hún og allt er eðlilegt aftur.</value>
   </entry>
   <entry>
     <key>GabbroExplanation1That happened to me at the observatory.</key>
-    <value>That happened to me at the observatory.</value>
+    <value>Það kom fyrir mig á athugunarstöðinni.</value>
   </entry>
   <entry>
     <key>YouTooHuhYou too, huh?</key>
-    <value>You too, huh?</value>
+    <value>Þú líka?</value>
   </entry>
   <entry>
     <key>Explanation2You’re saying the statue I brought to the museum started glowing at you? Yeah, sounds about right.</key>
-    <value>You’re saying the statue I brought to the museum started glowing at you? Yeah, sounds about right.</value>
+    <value>Semsagt, þú meinar að styttan hafi beint augum sínum að þér og glóað? Já, hljómar kunnuglega.</value>
   </entry>
   <entry>
     <key>Explanation2One minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</key>
-    <value>One minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</value>
+    <value>Eina mínútuna stend ég á eyju og horfi á Nomai styttu á ströndinni, og það næsta sem ég man er að hún horfir á mig og glóir.</value>
   </entry>
   <entry>
     <key>Explanation2It replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
-    <value>It replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</value>
+    <value>Styttan spilar til baka allt sem ég var að gera, eins og hún hafi séð það með mínum augum, fattarðu? Og skyndilega hættir hún og allt er eðlilegt aftur.</value>
   </entry>
   <entry>
     <key>ExplanationMergeIt didn’t seem bad, just... weird? Were we the only ones who saw that happen?</key>
-    <value>It didn’t seem bad, just... weird? Were we the only ones who saw that happen?</value>
+    <value>Virtist ekki vera slæmt, bara... skrítið? Erum við þau einu sem urðu fyrir þessu?</value>
   </entry>
   <entry>
     <key>ExplanationMergeI tried radioing Hornfels and asking them about it, but they told me I must have just nodded off out here and gotten confused.</key>
-    <value>I tried radioing Hornfels and asking them about it, but they told me I must have just nodded off out here and gotten confused.</value>
+    <value>Ég prófaði talstöðina til Hornfels og spurði hán út í þetta, en hán sagði mér að ég hlýt að hafa sofnað bara og vaknað síðan ruglað í ríminu.</value>
   </entry>
   <entry>
     <key>ExplanationMergeThen we talked about dreams until Hornfels told me to go refill my oxygen tank before I talked myself to death.</key>
-    <value>Then we talked about dreams until Hornfels told me to go refill my oxygen tank before I talked myself to death.</value>
+    <value>Síðan töluðum við um drauma þar til Hornfels sagði mér að fara að fylla á súrefnistankinn minn áður en ég talaði sjálft mig til dauða.</value>
   </entry>
   <entry>
     <key>ExplanationMergeSo that’s what’s new with me. But hey, this is your first solo voyage! Let’s talk about you, you know?</key>
-    <value>So that’s what’s new with me. But hey, this is your first solo voyage! Let’s talk about you, you know?</value>
+    <value>Þannig að, það er að frétta af mér. En heyrðu, þetta er þitt fyrsta einflug! Tölum um þig núna!</value>
   </entry>
   <entry>
     <key>Gabbro1_saidhiHave you ever stared at a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll pull you into a trance if you look at ’em long enough.</key>
-    <value>Have you ever stared at a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll pull you into a trance if you look at ’em long enough.</value>
+    <value>Hefur þú einhvern tímann starað á hvirfilbyl svo lengi að það dáleiði þig? Ég er að segja þér það, þú munt falla í trans ef þú horfir á þá nógu lengi.</value>
   </entry>
   <entry>
     <key>GabbroGabbroMenuI found a photo of you inside the old radio tower.</key>
-    <value>I found a photo of you inside the old radio tower.</value>
+    <value>Ég fann mynd af þér inni í gamla útvarpsturninum.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoingWell, what are any of us doing here, really?</key>
@@ -9739,6 +9739,7 @@
   <entry>
     <key>WhereToExploreHere’s something you might like — I saw a bright flash in the sky not too long ago. Something must have happened up there in orbit around the planet.</key>
     <value>Here’s something you might like — I saw a bright flash in the sky not too long ago. Something must have happened up there in orbit around the planet.</value>
+    <value>Þér gæti líkað þetta - Ég sá bjart leiftur á himni í fyrir stuttu. Það er eitthvað í gangi þarna uppi, á braut um þessa plánetu.</value>
   </entry>
   <entry>
     <key>WhereToExploreWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -9778,63 +9779,63 @@
   </entry>
   <entry>
     <key>MeetGabbro2F_1So hey, don’t laugh, but I think I might have just, like, died? Somehow?</key>
-    <value>So hey, don’t laugh, but I think I might have just, like, died? Somehow?</value>
+    <value>Hey, sko, ekki hlæja, en ég held að það sé möguleiki að ég hafi, þú veist, dáið? Einhvern veginn?</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_1Do you remember, y’know, dying a few minutes ago? Maybe?</key>
-    <value>Do you remember, y’know, dying a few minutes ago? Maybe?</value>
+    <value>Manstu kannski eftir því að, tja, hafa dáið fyrir nokkrum mínútum síðan? Kannski?</value>
   </entry>
   <entry>
     <key>GabbroMeetGabbro2F_1Oh yeah, we definitely died.</key>
-    <value>Oh yeah, we definitely died.</value>
+    <value>Ó já, við dóum svo sannarlega.</value>
   </entry>
   <entry>
     <key>GabbroMeetGabbro2F_1I think we’re the only ones who know.</key>
-    <value>I think we’re the only ones who know.</value>
+    <value>Ég held að við séum þau einu sem vita það.</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_2Okay, cool, that’s what I thought. It was all way too vivid to be a dream.</key>
-    <value>Okay, cool, that’s what I thought. It was all way too vivid to be a dream.</value>
+    <value>Ókei, svalt. Ég hélt það nefnilega. Þetta var of skýrt til þess að vera draumur.</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_2I tried radioing Hornfels and asking them if they had died, too, but they thought I was being metaphorical.</key>
-    <value>I tried radioing Hornfels and asking them if they had died, too, but they thought I was being metaphorical.</value>
+    <value>Ég prófaði talstöðina til Hornfels og spurði hán hvort hán hafi dáið líka, en hán hélt ég væri að vera heimspekingslegt.</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_3Yeah, I tried radioing Hornfels and asking them if they had died, too, but they thought I was being metaphorical or something.</key>
-    <value>Yeah, I tried radioing Hornfels and asking them if they had died, too, but they thought I was being metaphorical or something.</value>
+    <value>Já, ég prófaði talstöðina til Hornfels og spurði hán hvort hán hafi dáið líka, en hán hélt ég væri að vera heimspekingslegt eða eitthvað.</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_4Well, if you remember dying, then I guess I didn’t just fall asleep and have a bad dream or something. I dunno what’s going on, though. Today’s been weird.</key>
-    <value>Well, if you remember dying, then I guess I didn’t just fall asleep and have a bad dream or something. I dunno what’s going on, though. Today’s been weird.</value>
+    <value>Jæja, ef þú manst eftir því að hafa dáið, þá var þetta ekki bara ég að sofna og dreyma slæman draum eða eitthvað. Ég veit samt ekki hvað er í gangi. Dagurinn í dag er búinn að vera skrítinn.</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_4Like, I was on a different island earlier, right? I was on the beach looking at one of those big stone statues of a Nomai head, and the next thing I know, it’s looking back at me, glowing.</key>
-    <value>Like, I was on a different island earlier, right? I was on the beach looking at one of those big stone statues of a Nomai head, and the next thing I know, it’s looking back at me, glowing.</value>
+    <value>Þú veist, ég var á annarri eyju áðan, og var á ströndinni með einni af þessum stóru Nomai styttum, bara skoða hana. Það næsta sem ég veit er að hún horfir á mig og glóir.</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_4The statue replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
-    <value>The statue replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</value>
+    <value>Styttan spilar til baka allt sem ég var að gera, eins og hún hafi séð það með mínum augum, fattarðu? Og skyndilega hættir hún og allt er eðlilegt aftur.</value>
   </entry>
   <entry>
     <key>GabbroMeetGabbro2F_4That happened to me at the observatory.</key>
-    <value>That happened to me at the observatory.</value>
+    <value>Það kom fyrir mig í athugunarstöðinni.</value>
   </entry>
   <entry>
     <key>YouTooHuhCome to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like that time with the statue. Do you think the Nomai statues are related to us dying somehow?</key>
-    <value>Come to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like that time with the statue. Do you think the Nomai statues are related to us dying somehow?</value>
+    <value>Nú þegar ég pæli í því, þegar ég dó, þá sá ég eitthvað en ég er visst um að það hafi verið minningarnar mínar spilaðar aftur á bak, svipað og gerðist með styttunni þarna eitt skiptið. Heldurðu að dauði okkar sé eitthvað tengdur Nomai styttunum einhvern veginn?</value>
   </entry>
   <entry>
     <key>YouTooHuhAnd another thing - we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
-    <value>And another thing - we died, but we aren’t dead? That’s pretty unusual for Hearthians.</value>
+    <value>Og annað hitt - við dóum en við erum ekki dáin? Það er frekar óeðlilegt fyrir Bjálkabælinga.</value>
   </entry>
   <entry>
     <key>YouTooHuhWell, that’s what’s new with me. But hey, this is your first solo voyage! Let’s talk about you, you know?</key>
-    <value>Well, that’s what’s new with me. But hey, this is your first solo voyage! Let’s talk about you, you know?</value>
+    <value>En jæja, það er hvað er að frétta af mér. En heyrðu, þetta er þitt fyrsta einflug! Tölum um þig núna!</value>
   </entry>
   <entry>
     <key>Gabbro2F_saidhiHave you ever stared at a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll put you in a trance if you look at ’em long enough.</key>
-    <value>Have you ever stared at a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll put you in a trance if you look at ’em long enough.</value>
+    <value>Hefur þú einhvern tímann starað á hvirfilbyl svo lengi að það dáleiði þig? Ég er að segja þér það, þú munt falla í trans ef þú horfir á þá nógu lengi.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2FWell, what are any of us doing here, really?</key>
@@ -9890,59 +9891,59 @@
   </entry>
   <entry>
     <key>Gabbro2T_1Okay, here’s a weird one for you — I think I might have just, like, died? Somehow?</key>
-    <value>Okay, here’s a weird one for you — I think I might have just, like, died? Somehow?</value>
+    <value>Ókei, hérna er skrítin pæling fyrir þig — Ég held að ég hafi bara, þú veist, dáið? Einhvern veginn?</value>
   </entry>
   <entry>
     <key>Gabbro2T_1I radioed Hornfels at the observatory to ask them about it, but they’re convinced I fell asleep out here and had a nightmare something.</key>
-    <value>I radioed Hornfels at the observatory to ask them about it, but they’re convinced I fell asleep out here and had a nightmare something.</value>
+    <value>Ég heyrði í Hornfels yfir talstöðina til að spyrja hán út í þetta, en hán er visst um að ég hafi bara sofnað hérna og fengið martröð eða eitthvað.</value>
   </entry>
   <entry>
     <key>Gabbro2T_1Do you remember, y’know, dying a few minutes ago? Maybe?</key>
-    <value>Do you remember, y’know, dying a few minutes ago? Maybe?</value>
+    <value>Manstu kannski eftir því að, tja, hafa dáið fyrir nokkrum mínútum síðan? Kannski?</value>
   </entry>
   <entry>
     <key>GabbroGabbro2T_1Oh yeah, we definitely died.</key>
-    <value>Oh yeah, we definitely died.</value>
+    <value>Ó já, við dóum svo sannarlega.</value>
   </entry>
   <entry>
     <key>GabbroGabbro2T_1I think we’re the only ones who know.</key>
-    <value>I think we’re the only ones who know.</value>
+    <value>Ég held að við séum þau einu sem vita það.</value>
   </entry>
   <entry>
     <key>Gabbro2T_2Okay, cool, that’s what I thought. It was all way too vivid to be a dream.</key>
-    <value>Okay, cool, that’s what I thought. It was all way too vivid to be a dream.</value>
+    <value>Ókei, svalt. Ég hélt það nefnilega. Þetta var of skýrt til þess að vera draumur.</value>
   </entry>
   <entry>
     <key>Gabbro2T_2I radioed Hornfels again to ask if they had died, too, but I’m pretty sure they thought I was being metaphorical.</key>
-    <value>I radioed Hornfels again to ask if they had died, too, but I’m pretty sure they thought I was being metaphorical.</value>
+    <value>Ég prófaði aftur talstöðina til Hornfels og spurði hán hvort hán hafi dáið líka, en ég er nokkuð visst um að hán hélt ég væri að vera heimspekingslegt.</value>
   </entry>
   <entry>
     <key>Gabbro2T_3Yeah, I radioed Hornfels again to ask if they had died, too, but I’m pretty sure they thought I was being metaphorical.</key>
-    <value>Yeah, I radioed Hornfels again to ask if they had died, too, but I’m pretty sure they thought I was being metaphorical.</value>
+    <value>Ég prófaði aftur talstöðina til Hornfels og spurði hán hvort hán hafi dáið líka, en ég er nokkuð visst um að hán hélt ég væri að vera heimspekingslegt.</value>
   </entry>
   <entry>
     <key>Gabbro2T_4Well, if you remember dying, then I guess I didn’t just fall asleep and have a weird dream or something. But stars above, what’s going on, then? And then there was that thing with the Nomai statue earlier...</key>
-    <value>Well, if you remember dying, then I guess I didn’t just fall asleep and have a weird dream or something. But stars above, what’s going on, then? And then there was that thing with the Nomai statue earlier...</value>
+    <value>Jæja, ef þú manst eftir því að hafa dáið, þá var þetta ekki bara ég að sofna og dreyma slæman draum eða eitthvað. Ég veit samt ekki hvað er í gangi. Dagurinn í dag er búinn að vera skrítinn.</value>
   </entry>
   <entry>
     <key>Gabbro2T_4Come to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like the time with that statue. Do you think the Nomai statues are related to us dying somehow?</key>
-    <value>Come to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like the time with that statue. Do you think the Nomai statues are related to us dying somehow?</value>
+    <value>Nú þegar ég pæli í því, þegar ég dó, þá sá ég eitthvað en ég er visst um að það hafi verið minningarnar mínar spilaðar aftur á bak, svipað og gerðist með styttunni þarna eitt skiptið. Heldurðu að dauði okkar sé eitthvað tengdur Nomai styttunum einhvern veginn?</value>
   </entry>
   <entry>
     <key>Gabbro2T_4So... we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
-    <value>So... we died, but we aren’t dead? That’s pretty unusual for Hearthians.</value>
+    <value>Þannig að... við dóum en við erum ekki dáin? Það er frekar óeðlilegt fyrir Bjálkabælinga.</value>
   </entry>
   <entry>
     <key>Gabbro2T_4I am going to need to do some serious thinking before I come up with any theories. Maybe I’ll have figured something out by the next time you come by.</key>
-    <value>I am going to need to do some serious thinking before I come up with any theories. Maybe I’ll have figured something out by the next time you come by.</value>
+    <value>Ég mun þurfa að hugsa þetta ansi djúpt áður en ég reyni að finna upp á einhverjum útskýringum. Kannski mun ég hafa fattað eitthvað næst þegar þú kemur í heimsókn.</value>
   </entry>
   <entry>
     <key>Gabbro2T_saidhiHey again. If you feel like roasting a mallow, feel free to use my campfire. It’s just up the path a little ways.</key>
-    <value>Hey again. If you feel like roasting a mallow, feel free to use my campfire. It’s just up the path a little ways.</value>
+    <value>Hæ aftur. Ef þig langar til þess að grilla þér sykurpúða, endilega notaðu varðeldinn minn. Hann er bara upp stíginn þarna, spölkorn.</value>
   </entry>
   <entry>
     <key>GabbroMenuSo what’s up?</key>
-    <value>So what’s up?</value>
+    <value>Jæja, hvað er að frétta?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2TWell, what are any of us doing here, really?</key>
@@ -9998,43 +9999,43 @@
   </entry>
   <entry>
     <key>WaitingForOthersHey, time pal. So you’re getting the band back together, huh?</key>
-    <value>Hey, time pal. So you’re getting the band back together, huh?</value>
+    <value>Hæhæ tímaflakksfélagi. Svo þú ert að smala saman bandinu, ha?</value>
   </entry>
   <entry>
     <key>WaitingForOthersGo on, go find the others. I’ll be here. You don’t need me yet, but you will.</key>
-    <value>Go on, go find the others. I’ll be here. You don’t need me yet, but you will.</value>
+    <value>Svona nú, farðu og finndu hina. Ég verð hérna. Þú þarft ekki á mér að halda strax, en þú munt þurfa mig seinna.</value>
   </entry>
   <entry>
     <key>ReadyToPlayWhat do you say, time buddy? Ready to start the music?</key>
-    <value>What do you say, time buddy? Ready to start the music?</value>
+    <value>Hvað segirðu tímafélagi? Tilbúið að byrja tónlistina?</value>
   </entry>
   <entry>
     <key>GabbroReadyToPlayYes.</key>
-    <value>Yes.</value>
+    <value>Já.</value>
   </entry>
   <entry>
     <key>GabbroReadyToPlayNot yet.</key>
-    <value>Not yet.</value>
+    <value>Ekki ennþá.</value>
   </entry>
   <entry>
     <key>StartPlayingHeh, this should be cool.</key>
-    <value>Heh, this should be cool.</value>
+    <value>Hehe, þetta verður örugglega svalt.</value>
   </entry>
   <entry>
     <key>NotYetNo rush, I’m not going anywhere.</key>
-    <value>No rush, I’m not going anywhere.</value>
+    <value>Liggur ekkert á. Ég er ekki að fara neitt.</value>
   </entry>
   <entry>
     <key>FarewellI tell you what, this has been really fun. And I got to help make something pretty cool, so I’ve got no complaints.</key>
-    <value>I tell you what, this has been really fun. And I got to help make something pretty cool, so I’ve got no complaints.</value>
+    <value>Veistu, þetta er búið að vera mjög gaman. Og ég hjálpaði til við að búa til eitthvað mjög svalt, þannig að ég kvarta ekki.</value>
   </entry>
   <entry>
     <key>FarewellI mean, not me, exactly, but close enough.</key>
-    <value>I mean, not me, exactly, but close enough.</value>
+    <value>Ég meina, ekki ég, nákvæmlega, en nógu nálægt.</value>
   </entry>
   <entry>
     <key>FarewellIt’s the kind of thing that makes you glad you stopped and smelled the pine trees along the way, you know?</key>
-    <value>It’s the kind of thing that makes you glad you stopped and smelled the pine trees along the way, you know?</value>
+    <value>Svona lagað fær mann til þess að meta það að maður hafi tekið sér pásu á leiðinni til þess að draga andann innan um furutrén, sammála?</value>
   </entry>
   <entry>
     <key>Hornfels</key>
@@ -10042,299 +10043,299 @@
   </entry>
   <entry>
     <key>Curator1There you are! I just finished pre-flight observations, and local conditions are good. Time to get our newest astronaut off the ground!</key>
-    <value>There you are! I just finished pre-flight observations, and local conditions are good. Time to get our newest astronaut off the ground!</value>
+    <value>Þarna ertu! Ég var að klára athuganirnar fyrir flugið, og staðbundin skilyrði eru góð. Tími til kominn að skjóta nýjasta geimfaranum okkar á loft!</value>
   </entry>
   <entry>
     <key>Curator1And you’ll be our &lt;i&gt;first&lt;/i&gt; astronaut ever equipped with a Nomai translator tool! I confess, I’ve been giddy all day just thinking about it.</key>
-    <value>And you’ll be our &lt;i&gt;first&lt;/i&gt; astronaut ever equipped with a Nomai translator tool! I confess, I’ve been giddy all day just thinking about it.</value>
+    <value>Og þú verður okkar &lt;i&gt;fyrsti&lt;/i&gt; geimfari útbúinn Nomai þýðingartækinu! Ég skal alveg segja þér það að mig svimar af eftirvæntingu, bara tilhugsunin um það.</value>
   </entry>
   <entry>
     <key>Curator1We’re better equipped than ever to unravel the mysteries of the Nomai. You and Hal should be very proud of your work!</key>
-    <value>We’re better equipped than ever to unravel the mysteries of the Nomai. You and Hal should be very proud of your work!</value>
+    <value>Við erum nú betur undirbúin til þess að ráða fram úr ráðgátum Nomaianna. Þú og Hal ættuð að vera mjög stolt.</value>
   </entry>
   <entry>
     <key>Curator1Tell me, what’s your plan once you’re in space?</key>
-    <value>Tell me, what’s your plan once you’re in space?</value>
+    <value>Segðu mér, hvað ætlarðu að gera þegar þú ert komið út í geim?</value>
   </entry>
   <entry>
     <key>HornfelsCurator1I’m going to learn more about the Nomai.</key>
-    <value>I’m going to learn more about the Nomai.</value>
+    <value>Ég ætla að læra meira um Nomaiana.</value>
   </entry>
   <entry>
     <key>HornfelsCurator1I’ll meet up with the other travelers.</key>
-    <value>I’ll meet up with the other travelers.</value>
+    <value>Ég ætla að hitta hina ferðalangana.</value>
   </entry>
   <entry>
     <key>HornfelsCurator1I want to go somewhere no one’s gone before.</key>
-    <value>I want to go somewhere no one’s gone before.</value>
+    <value>Ég held að ég ætli þangað sem enginn hefur farið áður.</value>
   </entry>
   <entry>
     <key>HornfelsCurator1I think I’ll start with something small.</key>
-    <value>I think I’ll start with something small.</value>
+    <value>Ég held ég byrji smátt.</value>
   </entry>
   <entry>
     <key>HornfelsCurator1I don’t know.</key>
-    <value>I don’t know.</value>
+    <value>Ég veit það ekki.</value>
   </entry>
   <entry>
     <key>HornfelsCurator1I’m gonna wing it!</key>
-    <value>I’m gonna wing it!</value>
+    <value>Ekkert plan. Ég held ég ákveði það bara jafnóðum!</value>
   </entry>
   <entry>
     <key>Curator2I might have guessed as much! No sense in making a translator tool if you’re not going to use it to translate anything.</key>
-    <value>I might have guessed as much! No sense in making a translator tool if you’re not going to use it to translate anything.</value>
+    <value>Já, ég hefði mátt vita það! Engin glóra í því að smíða þýðingartæki ef þú ætlar síðan ekki að nota það til að þýða neitt.</value>
   </entry>
   <entry>
     <key>Curator2We’ve barely scratched the surface of the Nomai writing in our solar system, so we still know very little about them. We’ve no idea if they originated here or traveled here, or why they disappeared.</key>
-    <value>We’ve barely scratched the surface of the Nomai writing in our solar system, so we still know very little about them. We’ve no idea if they originated here or traveled here, or why they disappeared.</value>
+    <value>Við höfum varla kannað brotabrot af þeim skrifum Nomaia sem eru í sólkerfinu okkar, þannig að við vitum enn mjög lítið um þá. Við vitum ekki hvort þeir komu héðan eða ferðuðust hingað, né vitum við neitt um hvarf þeirra.</value>
   </entry>
   <entry>
     <key>Curator2That tool of yours should prove indispensible in solving the mystery of this ancient species!</key>
-    <value>That tool of yours should prove indispensible in solving the mystery of this ancient species!</value>
+    <value>Þetta tæki þitt þarna verður ómissandi í því að flétta hulunni af ráðgátum þessarar ævafornu tegund!</value>
   </entry>
   <entry>
     <key>Curator3You’re going to check in with them, are you? Not a bad plan - no one knows the solar system better than our astronauts.</key>
-    <value>You’re going to check in with them, are you? Not a bad plan - no one knows the solar system better than our astronauts.</value>
+    <value>Svo þú ætlar að heyra í þeim? Ekki slæmt plan - enginn þekkir sólkerfið okkar betur heldur en geimfararnir okkar.</value>
   </entry>
   <entry>
     <key>Curator3Let’s see... Chert is on the Hourglass Twins, Riebeck is on Brittle Hollow, and Gabbro is on Giant’s Deep, last I checked.</key>
-    <value>Let’s see... Chert is on the Hourglass Twins, Riebeck is on Brittle Hollow, and Gabbro is on Giant’s Deep, last I checked.</value>
+    <value>Sjáum nú til... Chert er á Sandsystkinunum, Riebeck er á Brotholi, og Gabbro er á Jötunsdýpi, síðast þegar ég vissi.</value>
   </entry>
   <entry>
     <key>Curator3And... Well, there’s Feldspar, obviously, but of course we don’t know where they are, or if they’re even alive.</key>
-    <value>And... Well, there’s Feldspar, obviously, but of course we don’t know where they are, or if they’re even alive.</value>
+    <value>Og... já, svo er líka Feldspar, augljóslega, en við vitum að sjálfsögðu ekkert hvar hán er, eða hvort hán sé einu sinni á lífi.</value>
   </entry>
   <entry>
     <key>Curator3Feldspar has been lost for a very long time, I’m afraid.</key>
-    <value>Feldspar has been lost for a very long time, I’m afraid.</value>
+    <value>Feldspar hefur verið týnt í langan tíma, er ég hrætt um.</value>
   </entry>
   <entry>
     <key>Curator3...On a more cheerful note, you’ll find Esker stationed on the Attlerock. They’re not a traveler so much as a lunar local, but I’m sure they’d appreciate a visit nevertheless.</key>
-    <value>...On a more cheerful note, you’ll find Esker stationed on the Attlerock. They’re not a traveler so much as a lunar local, but I’m sure they’d appreciate a visit nevertheless.</value>
+    <value>...Á léttari nótum, þú finnur Esker á verði á Slakagíg. Hán er ekki ferðalangur frekar en bara tunglbúi, en ég held hán hafi gaman af heimsóknum engu að síður.</value>
   </entry>
   <entry>
     <key>Curator4I like it! You’ll have plenty of options to choose from.</key>
-    <value>I like it! You’ll have plenty of options to choose from.</value>
+    <value>Ég fíla það! Það eru nokkrir valmöguleikar fyrir þig.</value>
   </entry>
   <entry>
     <key>Curator4No one’s ever landed on the Interloper before, you know. Perhaps you’ll be the first?</key>
-    <value>No one’s ever landed on the Interloper before, you know. Perhaps you’ll be the first?</value>
+    <value>Enginn hefur lent á Raskaranum áður. Kannski verður þú fyrst til?</value>
   </entry>
   <entry>
     <key>Curator4I must say... Should you choose to go to Dark Bramble, be &lt;i&gt;very&lt;/i&gt; careful. No one’s explored there before, either, for what you’ll find are excellent reasons.</key>
-    <value>I must say... Should you choose to go to Dark Bramble, be &lt;i&gt;very&lt;/i&gt; careful. No one’s explored there before, either, for what you’ll find are excellent reasons.</value>
+    <value>En ég verð að segja... ef þú ætlar að heimsækja Þokuþyrni, skaltu fara &lt;i&gt;mjög&lt;/i&gt; varlega. Enginn hefur farið í könnunarleiðangur þangað og fyrir því eru mjög góðar ástæður.</value>
   </entry>
   <entry>
     <key>Curator5You’d prefer to ease into things? That’s a sensible plan! More sensible than most of our astronauts tend to be, and that’s a fact.</key>
-    <value>You’d prefer to ease into things? That’s a sensible plan! More sensible than most of our astronauts tend to be, and that’s a fact.</value>
+    <value>Já, þú ætlar að byrja smátt og vinna þig svo upp? Skynsamlegt plan! Mun skynsamara heldur en flestir geimfarar okkar eiga það til að vera, og það er staðreynd.</value>
   </entry>
   <entry>
     <key>Curator5Do you think you’ll go to the Attlerock, then? Our moon would be a safe place to travel to and get your bearings in space, and I’m sure Esker would appreciate the visit.</key>
-    <value>Do you think you’ll go to the Attlerock, then? Our moon would be a safe place to travel to and get your bearings in space, and I’m sure Esker would appreciate the visit.</value>
+    <value>Ætlarðu þá að byrja á því að heimsækja Slakagíg? Tunglið okkar er öruggur áfangastaður til að byrja að fá tilfinningu fyrir geimnum og ég er visst um að Esker myndi kunna að meta heimsóknina.</value>
   </entry>
   <entry>
     <key>Curator5Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</key>
-    <value>Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</value>
+    <value>Sömuleiðis vitum við ekkert hvað fornu Nomai rústirnar á tunglinu eru, eða þá af hverju þær voru byggðar. Kannski getur þú hitað upp þýðingartækið þar?</value>
   </entry>
   <entry>
     <key>Curator6Haha! Overwhelmed by the options, perhaps? I don’t blame you.</key>
-    <value>Haha! Overwhelmed by the options, perhaps? I don’t blame you.</value>
+    <value>Haha! Bugað af valkvíða, kannski? Ég lái þér það ekki.</value>
   </entry>
   <entry>
     <key>Curator6If you need help getting started, you could go visit Esker on the moon. They’re alone on the Attlerock most of the time, so I’m sure they’d appreciate it.</key>
-    <value>If you need help getting started, you could go visit Esker on the moon. They’re alone on the Attlerock most of the time, so I’m sure they’d appreciate it.</value>
+    <value>Ef þú þarft hjálp til að koma þér af stað, þá ættirðu að heimsækja Esker á tunglinu. Hán er mestan tímann bara eitt á Slakagíg, þannig að ég er visst um að hán kynni að meta það.</value>
   </entry>
   <entry>
     <key>Curator6Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</key>
-    <value>Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</value>
+    <value>Sömuleiðis vitum við ekkert hvað fornu Nomai rústirnar á tunglinu eru, eða þá af hverju þær voru byggðar. Kannski getur þú hitað upp þýðingartækið þar?</value>
   </entry>
   <entry>
     <key>Curator7Planning to follow in the footsteps of Feldspar and the great Outer Wilds Ventures tradition, are you? I might have guessed.</key>
-    <value>Planning to follow in the footsteps of Feldspar and the great Outer Wilds Ventures tradition, are you? I might have guessed.</value>
+    <value>Ætlarðu að feta í fótspor Feldspar? Ég hefði mátt vita það.</value>
   </entry>
   <entry>
     <key>Curator7Well, see if you can’t put that translator tool of yours to good use while you’re out there!</key>
-    <value>Well, see if you can’t put that translator tool of yours to good use while you’re out there!</value>
+    <value>Allavega, sjáðu hvort þú náir ekki að láta þýðingartækið þitt koma að góðum notum þarna úti!</value>
   </entry>
   <entry>
     <key>Curator8Well then, looks like all that’s left is to send you off! All in all, it’s a fine day for a launch!</key>
-    <value>Well then, looks like all that’s left is to send you off! All in all, it’s a fine day for a launch!</value>
+    <value>Jæja þá, held að nú sé tíminn til þess að senda þig af stað! Eftir allt saman þá er frábær dagur í dag til að taka á loft!</value>
   </entry>
   <entry>
     <key>HornfelsCurator8I’m ready to get off this rock!</key>
-    <value>I’m ready to get off this rock!</value>
+    <value>Ég er tilbúið í að fara frá þessu grjóti!</value>
   </entry>
   <entry>
     <key>HornfelsCurator8I’m ready to die in space.</key>
-    <value>I’m ready to die in space.</value>
+    <value>Ég er tilbúið til þess að deyja úti í geim.</value>
   </entry>
   <entry>
     <key>Curator9Excellent! You’ll be needing the &lt;color=orange&gt;launch codes&lt;/color&gt;, then.</key>
-    <value>Excellent! You’ll be needing the &lt;color=orange&gt;launch codes&lt;/color&gt;, then.</value>
+    <value>Frábært! Þú munt þurfa &lt;color=orange&gt;flugkóðann&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>Curator9Here they are. Best get off the ground before Slate makes any more modifications to your ship, eh?</key>
-    <value>Here they are. Best get off the ground before Slate makes any more modifications to your ship, eh?</value>
+    <value>Hérna er hann. Drífðu þig nú af stað áður en Slate breytir skipinu þínu eitthvað frekar!</value>
   </entry>
   <entry>
     <key>Curator9Good luck out there! Let me know if I can help you with anything.</key>
-    <value>Good luck out there! Let me know if I can help you with anything.</value>
+    <value>Gangi þér vel þarna úti! Láttu mig vita ef ég get hjálpað þér með eitthvað.</value>
   </entry>
   <entry>
     <key>Curator10I’m not one for superstition, but isn’t that kind of unlucky to say before a launch?</key>
-    <value>I’m not one for superstition, but isn’t that kind of unlucky to say before a launch?</value>
+    <value>Ég er ekki endilega hjátrúarfullt, en er þetta ekki frekar slæmur hlutur til þess að segja fyrir flugtak?</value>
   </entry>
   <entry>
     <key>Curator10At any rate, here are the &lt;color=orange&gt;launch codes&lt;/color&gt;. Try not to worry too much - our ships are every bit as safe as Slate could be persuaded to make them.</key>
-    <value>At any rate, here are the &lt;color=orange&gt;launch codes&lt;/color&gt;. Try not to worry too much - our ships are every bit as safe as Slate could be persuaded to make them.</value>
+    <value>Allavega, hérna er &lt;color=orange&gt;flugkóðinn&lt;/color&gt;. Hafðu síðan ekki of miklar áhyggjur - skipin okkar eru jafn örugg og við náðum að sannfæra Slate um að gera þau.</value>
   </entry>
   <entry>
     <key>Curator10Best of luck out there! Let me know if I can help you with anything.</key>
-    <value>Best of luck out there! Let me know if I can help you with anything.</value>
+    <value>Gangi þér vel þarna úti! Láttu mig vita ef ég get hjálpað þér með eitthvað.</value>
   </entry>
   <entry>
     <key>Curator11Hello again!</key>
-    <value>Hello again!</value>
+    <value>Halló aftur!</value>
   </entry>
   <entry>
     <key>Curator12Back so soon?</key>
-    <value>Back so soon?</value>
+    <value>Komið aftur svona fljótt?</value>
   </entry>
   <entry>
     <key>Curator13Was there something you needed?</key>
-    <value>Was there something you needed?</value>
+    <value>Vantaði þig eitthvað?</value>
   </entry>
   <entry>
     <key>HornfelsCurator13I found Feldspar!</key>
-    <value>I found Feldspar!</value>
+    <value>Ég fann Feldspar!</value>
   </entry>
   <entry>
     <key>HornfelsCurator13The Nomai statue opened its eyes!</key>
-    <value>The Nomai statue opened its eyes!</value>
+    <value>Nomai styttan opnaði augun sín!</value>
   </entry>
   <entry>
     <key>HornfelsCurator13Where are the other travelers?</key>
-    <value>Where are the other travelers?</value>
+    <value>Hvar eru hinir ferðalangarni?</value>
   </entry>
   <entry>
     <key>HornfelsCurator13Tell me more about Feldspar.</key>
-    <value>Tell me more about Feldspar.</value>
+    <value>Segðu mér meira um Feldspar.</value>
   </entry>
   <entry>
     <key>HornfelsCurator13No thanks, I’m good.</key>
-    <value>No thanks, I’m good.</value>
+    <value>Nei takk, ég er gott.</value>
   </entry>
   <entry>
     <key>CuratorOtherTravelersWell, let’s see... Chert is on the Hourglass Twins, Riebeck is on Brittle Hollow, and Gabbro is on Giant’s Deep.</key>
-    <value>Well, let’s see... Chert is on the Hourglass Twins, Riebeck is on Brittle Hollow, and Gabbro is on Giant’s Deep.</value>
+    <value>Tja, sjáum nú til... Chert er á Sandsystkinunum, Riebeck er á Brotholi, og Gabbro er á Jötunsdýpi, síðast þegar ég vissi.</value>
   </entry>
   <entry>
     <key>CuratorOtherTravelersAnd... there’s Feldspar, obviously, but of course we don’t know where they are, or if they’re even still alive.</key>
-    <value>And... there’s Feldspar, obviously, but of course we don’t know where they are, or if they’re even still alive.</value>
+    <value>Og... já, svo er líka Feldspar, augljóslega, en við vitum að sjálfsögðu ekkert hvar hán er, eða hvort hán sé einu sinni á lífi.</value>
   </entry>
   <entry>
     <key>CuratorOtherTravelersFeldspar has been lost for a very long time, I’m afraid.</key>
-    <value>Feldspar has been lost for a very long time, I’m afraid.</value>
+    <value>Feldspar hefur verið týnt í langan tíma, er ég hrætt um.</value>
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparFeldspar was one of the four founding members of Outer Wilds, along with our flight coach Gossan, Slate the engineer, and me.</key>
-    <value>Feldspar was one of the four founding members of Outer Wilds, along with our flight coach Gossan, Slate the engineer, and me.</value>
+    <value>Feldspar var einn af stofnaðilum Fjarlægra Firninda, ásamt flugkennaranum okkar Gossan, verkfræðingnum Slate og svo mér.</value>
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparAs ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I &lt;i&gt;can&lt;/i&gt; tell you Feldspar was absolutely fearless, though. Nothing scared them.</key>
-    <value>As ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I &lt;i&gt;can&lt;/i&gt; tell you Feldspar was absolutely fearless, though. Nothing scared them.</value>
+    <value>Verandi í stjórnstöðinni og síðar meir safnvörður, þá vann ég ekki jafn náið með Feldspar eins og Slate og Gossan gerðu. Ég &lt;i&gt;get&lt;/i&gt; samt sagt þér að Feldspar var gersamlega óttalaust. Ekkert hræddi hán.</value>
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparTest-piloted everything Slate ever built! It’s a wonder Feldspar lived to see space, frankly, but they did. Flew all sorts of dangerous stunts and explored everything they could find.</key>
-    <value>Test-piloted everything Slate ever built! It’s a wonder Feldspar lived to see space, frankly, but they did. Flew all sorts of dangerous stunts and explored everything they could find.</value>
+    <value>Prufukeyrði allt sem Slate datt í hug að smíða. Það er ótrúlegt að Feldspar lifði svo langt að hafa hafrið út í geim, til að vera hreinskilið, en hán gerði það. Gerði alls konar glæfrabrögð og kannaði allt sem hán gat fundið.</value>
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparAnd then one day, they just... didn’t come back. We don’t know what happened, or where Feldspar went, or even whether they’re still alive.</key>
-    <value>And then one day, they just... didn’t come back. We don’t know what happened, or where Feldspar went, or even whether they’re still alive.</value>
+    <value>Og einn daginn þá bara... kom hán ekki til baka. Við vitum ekkert hvað gerðist né hvert Feldspar hafði farið og hvort hán sé einu sinni enn á lífi.</value>
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparIt’s been a long time since they left.</key>
-    <value>It’s been a long time since they left.</value>
+    <value>Það fer að verða langt síðan hán fór.</value>
   </entry>
   <entry>
     <key>CuratorEyesOpenWhat? You say the statue opened its eyes and looked at you?!</key>
-    <value>What? You say the statue opened its eyes and looked at you?!</value>
+    <value>Ha? Styttan opnaði augun og horfði á þig?!</value>
   </entry>
   <entry>
     <key>CuratorEyesOpen...How wonderful for you.</key>
-    <value>...How wonderful for you.</value>
+    <value>...Gott fyrir þig.</value>
   </entry>
   <entry>
     <key>CuratorEyesOpenNo, truly, that’s wonderful! It really is. ...Even if I &lt;i&gt;have&lt;/i&gt; been pouring over it every night for weeks. It’s stupendous you were able to get a reaction from the statue just by glancing at it a few times.</key>
-    <value>No, truly, that’s wonderful! It really is. ...Even if I &lt;i&gt;have&lt;/i&gt; been pouring over it every night for weeks. It’s stupendous you were able to get a reaction from the statue just by glancing at it a few times.</value>
+    <value>Nei, í alvörunni, það er frábært! Ég meina það... jafnvel þótt &lt;i&gt;ég&lt;/i&gt; hafi grandskoðað hana nótt sem dag síðustu vikur. Það er stórkostlegt að þú hafir fengið viðbrögð frá styttunni með því bara að líta á hana nokkrum sinnum.</value>
   </entry>
   <entry>
     <key>CuratorEyesOpenErgh, sorry, that’s not a very scientific thing to say, is it? I &lt;i&gt;am&lt;/i&gt; glad. I’m just also insufferably, &lt;i&gt;profoundly&lt;/i&gt; jealous. You’ll have to forgive me.</key>
-    <value>Ergh, sorry, that’s not a very scientific thing to say, is it? I &lt;i&gt;am&lt;/i&gt; glad. I’m just also insufferably, &lt;i&gt;profoundly&lt;/i&gt; jealous. You’ll have to forgive me.</value>
+    <value>Æ, afsakið, þetta er ekki mjög vísindaleg hegðun. Ég &lt;i&gt;er&lt;/i&gt; ánægt. Ég er líka bara að &lt;i&gt;deyja&lt;/i&gt; úr öfund. Þú verður að fyrigefa mér það.</value>
   </entry>
   <entry>
     <key>CuratorEyesOpenThat aside - I have research to do! I wonder why the statue opened its eyes. Surely this means they aren’t mere decorative ornaments...?</key>
-    <value>That aside - I have research to do! I wonder why the statue opened its eyes. Surely this means they aren’t mere decorative ornaments...?</value>
+    <value>En annars - þá hef ég nú rannsóknum að sinna! Ég velti því fyrir mér af hverju styttan opnaði augun. Það hlýtur að þýða að þau séu ekki bara til skrauts...?</value>
   </entry>
   <entry>
     <key>CuratorFeldsparFoundYou found Feldspar?! And they’re in Dark Bramble?! Stars above, this is wonderful news! Thank you! Thank you for finding them!</key>
-    <value>You found Feldspar?! And they’re in Dark Bramble?! Stars above, this is wonderful news! Thank you! Thank you for finding them!</value>
+    <value>Þú fannst Feldspar?! Og hán er í Þokuþyrni?! Stjörnur á himnum, þetta eru frábærar fréttir! Takk fyrir! Takk fyrir að finna hán!</value>
   </entry>
   <entry>
     <key>CuratorFeldsparFoundThat Feldspar didn’t immediately join you on your ship and return here is incredibly Feldspar of them. We were never entirely sure what Feldspar was thinking back then, either.</key>
-    <value>That Feldspar didn’t immediately join you on your ship and return here is incredibly Feldspar of them. We were never entirely sure what Feldspar was thinking back then, either.</value>
+    <value>Það að Feldspar hafi ekki komið með þér um borð og fengið far hingað er rosalega mikið Feldspar. Við vissum aldrei nákvæmlega hvað hán var að hugsa í gamla daga heldur.</value>
   </entry>
   <entry>
     <key>CuratorFeldsparFoundStill, we ought to fish them out of that dreadful place with all haste! I’ll radio Gossan and have them prepare a ship. It really should be Gossan who brings Feldspar home.</key>
-    <value>Still, we ought to fish them out of that dreadful place with all haste! I’ll radio Gossan and have them prepare a ship. It really should be Gossan who brings Feldspar home.</value>
+    <value>Samt, við ættum að ná háni frá þessum ömurlega stað og það fljótt! Ég heyri í Gossan yfir talstöðina og segi hán að undirbúa skip. Gossan ætti að vera hán sem kemur Feldspar hingað heim.</value>
   </entry>
   <entry>
     <key>CuratorFeldsparFoundAgain, thank you. You can hardly imagine how profoundly happy I am to hear they’re alive and unharmed.</key>
-    <value>Again, thank you. You can hardly imagine how profoundly happy I am to hear they’re alive and unharmed.</value>
+    <value>Takk, aftur. Þú veist ekki hversu ánægt ég er með að heyra að hán sé á lífi og óhult.</value>
   </entry>
   <entry>
     <key>Curator14Take care!</key>
-    <value>Take care!</value>
+    <value>Farðu vel með þig!</value>
   </entry>
   <entry>
     <key>CuratorEyesOpenLoop2Hey, look at this - the statue opened its eyes! Bet you wish you’d seen that happen, huh?&lt;Pause/&gt;&lt;color=grey&gt; Sigh...&lt;/color&gt; Me, too.</key>
-    <value>Hey, look at this - the statue opened its eyes! Bet you wish you’d seen that happen, huh?&lt;Pause/&gt;&lt;color=grey&gt; Sigh...&lt;/color&gt; Me, too.</value>
+    <value>Hæ, sjáðu þetta - styttan opnaði augun! Þori að veðja að þú hefðir viljað sjá það gerast, ha? &lt;Pause/&gt;&lt;color=grey&gt; Andvarp...&lt;/color&gt; Ég líka.</value>
   </entry>
   <entry>
     <key>CuratorEyesOpenLoop2I’m not even a little closer to understanding what’s going on with this statue.</key>
-    <value>I’m not even a little closer to understanding what’s going on with this statue.</value>
+    <value>Ég er engu nær að skija hvað er í gangi með þessa styttu.</value>
   </entry>
   <entry>
     <key>SignHornfel’s Observations</key>
-    <value>Hornfel’s Observations</value>
+    <value>Athuganir hornfels.</value>
   </entry>
   <entry>
     <key>SignThis is incredible! At first I thought the points of light in this image were stars, but they’re not... they’re &lt;i&gt;galaxies&lt;/i&gt;!</key>
-    <value>This is incredible! At first I thought the points of light in this image were stars, but they’re not... they’re &lt;i&gt;galaxies&lt;/i&gt;!</value>
+    <value>Þetta er ótrúlegt! Í fyrstu hélt ég að þessir ljósdílar á myndinni væru stjörnur, en þeir eru það ekki... þeir eru &lt;i&gt;stjörnuþokur&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>SignAnd this image covers just a tiny patch of the whole sky, which means the universe contains at least a thousand times more galaxies than we previously imagined.</key>
-    <value>And this image covers just a tiny patch of the whole sky, which means the universe contains at least a thousand times more galaxies than we previously imagined.</value>
+    <value>Og þessi mynd þekur aðeins agnarsmáan blett af öllum himninum, sem þýðir að alheimurinn inniheldur að minnsta kosti þúsund sinnum fleiri stjörnuþokur en við töldum.</value>
   </entry>
   <entry>
     <key>SignI... I think I need to sit down.</key>
-    <value>I... I think I need to sit down.</value>
+    <value>Ég... Ég held ég þurfi að fá mér sæti.</value>
   </entry>
   <entry>
     <key>SignHmmm, this is odd. According to my redshift calculations, every single galaxy in this image is moving away from us.</key>
-    <value>Hmmm, this is odd. According to my redshift calculations, every single galaxy in this image is moving away from us.</value>
+    <value>Humm, þetta er furðulegt. Samkvæmt rauðviksreikningunum mínum, er hver einasta stjörnuþoka í þessari mynd að fjarlægjast okkur.</value>
   </entry>
   <entry>
     <key>SignIn fact, the farther away a galaxy is, the &lt;i&gt;faster&lt;/i&gt; it appears to be moving away.</key>
-    <value>In fact, the farther away a galaxy is, the &lt;i&gt;faster&lt;/i&gt; it appears to be moving away.</value>
+    <value>Reyndar, því lengra í burtu sem stjörnuþokan er, því &lt;i&gt;hraðar&lt;/i&gt; virðist hún fjarlægjast okkur.</value>
   </entry>
   <entry>
     <key>SignIt’s almost as if the entire universe is expanding.</key>
-    <value>It’s almost as if the entire universe is expanding.</value>
+    <value>Það er eins og allur alheimurinn sé að þenjast út.</value>
   </entry>
   <entry>
     <key>SignBut if that’s true, was everything closer together in the past? And how far back can we extrapolate? Did the universe have a beginning?</key>
-    <value>But if that’s true, was everything closer together in the past? And how far back can we extrapolate? Did the universe have a beginning?</value>
+    <value>En ef það er satt, var þá allt nær hvort öðru í fortíðinni? Hversu langt getum við reiknað þetta inn í fortíðina? Á alheimurinn sér upphaf?</value>
   </entry>
   <entry>
     <key>Moraine</key>
@@ -10342,74 +10343,74 @@
   </entry>
   <entry>
     <key>SignalscopeKid1Hm? Oh, hello, astronaut.</key>
-    <value>Hm? Oh, hello, astronaut.</value>
+    <value>Humm? Ó hæ geimfari.</value>
   </entry>
   <entry>
     <key>SignalscopeKid1This is good weather for your launch, right? That’s lucky!</key>
-    <value>This is good weather for your launch, right? That’s lucky!</value>
+    <value>Gott veður til að taka á loft, ekki satt? Heppilegt!</value>
   </entry>
   <entry>
     <key>MoraineSignalscopeKid1What are you up to?</key>
-    <value>What are you up to?</value>
+    <value>Hvað ertu að brasa?</value>
   </entry>
   <entry>
     <key>MoraineSignalscopeKid1Any good sounds from space today?</key>
-    <value>Any good sounds from space today?</value>
+    <value>Einhver góð hljóð utan úr geimnum í dag?</value>
   </entry>
   <entry>
     <key>SignalscopeKid5Hello, again.</key>
-    <value>Hello, again.</value>
+    <value>Hæ aftur.</value>
   </entry>
   <entry>
     <key>MoraineSignalscopeKid5Haven’t you been up in this tree a while?</key>
-    <value>Haven’t you been up in this tree a while?</value>
+    <value>Ertu ekki búið að vera hérna í þessu tré svolítið lengi?</value>
   </entry>
   <entry>
     <key>MoraineSignalscopeKid5Any good sounds from space today?</key>
-    <value>Any good sounds from space today?</value>
+    <value>Einhver góð hljóð utan úr geimnum í dag?</value>
   </entry>
   <entry>
     <key>SignalscopeKid2I’m using my signalscope to pick up sounds from distant planets.</key>
-    <value>I’m using my signalscope to pick up sounds from distant planets.</value>
+    <value>Ég er að nota merkjasjána mína til þess að ná hljóðum frá fjarlægum plánetum.</value>
   </entry>
   <entry>
     <key>SignalscopeKid2It’s set to the Outer Wilds Ventures frequency so I can pick up the travelers’ music.</key>
-    <value>It’s set to the Outer Wilds Ventures frequency so I can pick up the travelers’ music.</value>
+    <value>Ég er með hana stillta á tíðini Fjarlægra Firninda þannig að ég geti heyrt í tónlist ferðalanganna.</value>
   </entry>
   <entry>
     <key>SignalscopeKid3There are! My signalscope is set to the Outer Wilds Ventures frequency, so I’m listening to the travelers’ music.</key>
-    <value>There are! My signalscope is set to the Outer Wilds Ventures frequency, so I’m listening to the travelers’ music.</value>
+    <value>Heldur betur! Merkjasjáin mín er stillt á tíðini Fjarlægra Firninda þannig að ég er að hlusta á tónlist ferðalanganna.</value>
   </entry>
   <entry>
     <key>SignalscopeKid4Last night I heard Riebeck’s banjo coming from Brittle Hollow. I hope that means they’re safe.</key>
-    <value>Last night I heard Riebeck’s banjo coming from Brittle Hollow. I hope that means they’re safe.</value>
+    <value>Ég heyrði í Riebeck spila á banjóið sitt frá Brotholi í gærkvöldi. Ég vona að það þýði að hán sé öruggt.</value>
   </entry>
   <entry>
     <key>SignalscopeKid4I can hear different planets, too! It depends on what time of day or night it is, since different planets are in the sky at different times.</key>
-    <value>I can hear different planets, too! It depends on what time of day or night it is, since different planets are in the sky at different times.</value>
+    <value>Ég heyri hljóð koma frá öðrum plánetum líka! Fer eftir hvenær það er, dag eða nótt, þar sem mismunandi plánetur er sýnilegar á mismunandi tímum.</value>
   </entry>
   <entry>
     <key>SignalscopeKid4Signalscopes are cool.</key>
-    <value>Signalscopes are cool.</value>
+    <value>Merkjasjár eru geggjaðar.</value>
   </entry>
   <entry>
     <key>SignalscopeKid6I’m concerned Marl will cut down this tree if there’s no one in it, so I don’t want to leave it for too long.</key>
-    <value>I’m concerned Marl will cut down this tree if there’s no one in it, so I don’t want to leave it for too long.</value>
+    <value>Ég er hrætt um að Marl muni höggva tréð niður ef það er enginn í því, þannig að ég vil ekki fara úr því of lengi í einu.</value>
   </entry>
   <entry>
     <key>SignalscopeKid6Mayor Rutile says Marl isn’t supposed to cut it down, but I don’t think they see eyes-to-eyes on this one.</key>
-    <value>Mayor Rutile says Marl isn’t supposed to cut it down, but I don’t think they see eyes-to-eyes on this one.</value>
+    <value>Rutile bæjarstjóri segir að Marl megi ekki höggva það niður, en ég held að þau séu ekki sammála um það.</value>
   </entry>
   <entry>
     <key>SignalscopeKid6Um, I’ll still watch your launch, though! I’ll have a good view from up here.</key>
-    <value>Um, I’ll still watch your launch, though! I’ll have a good view from up here.</value>
+    <value>Ömm, ég ætla samt að sjá þig taka á loft! Ég mun sjá það vel hérna uppi.</value>
   </entry>
   <entry>
     <key>
 			Retrieving stored coordinates from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
 		</key>
     <value>
-			Retrieving stored coordinates from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
+			Sæki geymd hnit frá &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -10417,128 +10418,128 @@
 			Displaying coordinates for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.
 		</key>
     <value>
-			Displaying coordinates for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.
+			Sýni hnitin fyrir &lt;color=lightblue&gt;Auga alheimsins&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
     <key>WaitingForOthersIt’s, um, it’s not quite time yet.</key>
-    <value>It’s, um, it’s not quite time yet.</value>
+    <value>Það er... ömm, það er ekki alveg komið að því strax.</value>
   </entry>
   <entry>
     <key>WaitingForOthersI’m pretty sure we’ll need the others for this next part. We’ll need, you know... everyone.</key>
-    <value>I’m pretty sure we’ll need the others for this next part. We’ll need, you know... everyone.</value>
+    <value>Ég er nokkuð visst um að við munum þurfa á hinum að halda fyrir það sem kemur næst. Við munum þurfa, þú veist... alla.</value>
   </entry>
   <entry>
     <key>WaitingForOthersNo rush! Take your time. &lt;size=20&gt;It might not even exist here...&lt;/size&gt;</key>
-    <value>No rush! Take your time. &lt;size=20&gt;It might not even exist here...&lt;/size&gt;</value>
+    <value>Liggur ekki á! Taktu þér þinn tíma. &lt;size=20&gt;Ef tíminn er yfirhöfuð til hérna...&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>ReadyToPlayShould I begin?</key>
-    <value>Should I begin?</value>
+    <value>Á ég að byrja?</value>
   </entry>
   <entry>
     <key>RiebeckReadyToPlayYes.</key>
-    <value>Yes.</value>
+    <value>Já.</value>
   </entry>
   <entry>
     <key>RiebeckReadyToPlayNot yet.</key>
-    <value>Not yet.</value>
+    <value>Ekki strax.</value>
   </entry>
   <entry>
     <key>StartPlayingYou g-got it. I’ll do my best!</key>
-    <value>You g-got it. I’ll do my best!</value>
+    <value>S-skal gert. Ég mun gera mitt besta!</value>
   </entry>
   <entry>
     <key>NotYetOk, I'll wait until you're ready.</key>
-    <value>Ok, I'll wait until you're ready.</value>
+    <value>Allt í lagi, ég skal bíða þar til þú ert tilbúið.</value>
   </entry>
   <entry>
     <key>FarewellI learned a lot, by the end of everything.</key>
-    <value>I learned a lot, by the end of everything.</value>
+    <value>Ég lærði heilmargt, þegar öllu er á botninn hvolft.</value>
   </entry>
   <entry>
     <key>FarewellThe past is past, now, but that’s... you know, that’s okay! It’s never really gone completely. The future is always built on the past, even if we won't get to see it.</key>
-    <value>The past is past, now, but that’s... you know, that’s okay! It’s never really gone completely. The future is always built on the past, even if we won't get to see it.</value>
+    <value>Fortíðin er liðin, núna, en það er... þú veist, það er í lagi! Fortíðin hverfur aldrei alveg. Framtíðin byggir á henni, jafnvel ef við fáum ekki að sjá það.</value>
   </entry>
   <entry>
     <key>FarewellStill, it’s, um, time for something new, now.</key>
-    <value>Still, it’s, um, time for something new, now.</value>
+    <value>En, ömm, nú er kominn tími á eitthvað nýtt.</value>
   </entry>
   <entry>
     <key>WaitingForOthersHypothesis: Everyone must be here before we can begin.</key>
-    <value>Hypothesis: Everyone must be here before we can begin.</value>
+    <value>Tilgáta: Allir þurfa að vera hérna áður en við getum byrjað.</value>
   </entry>
   <entry>
     <key>WaitingForOthersOnce they arrive, I believe we’ll be ready for the next step.</key>
-    <value>Once they arrive, I believe we’ll be ready for the next step.</value>
+    <value>Þegar þeir eru komnir, þá held ég að við séum tilbúin í næstu skref.</value>
   </entry>
   <entry>
     <key>WaitingForOthersI’m glad you remembered me.</key>
-    <value>I’m glad you remembered me.</value>
+    <value>Ég er ánægð að þú skulir hafa munað eftir mér.</value>
   </entry>
   <entry>
     <key>ReadyToPlayA conscious observer has entered the Eye. I wonder what happens now.</key>
-    <value>A conscious observer has entered the Eye. I wonder what happens now.</value>
+    <value>Meðvitaður athugandi er nú inni í Auganu. Ég velti því fyrir mér hvað gerist núna.</value>
   </entry>
   <entry>
     <key>ReadyToPlayIs it time to find out?</key>
-    <value>Is it time to find out?</value>
+    <value>Er tíminn til kominn að komast að því?</value>
   </entry>
   <entry>
     <key>SolanumReadyToPlayYes.</key>
-    <value>Yes.</value>
+    <value>Já.</value>
   </entry>
   <entry>
     <key>SolanumReadyToPlayNot yet.</key>
-    <value>Not yet.</value>
+    <value>Ekki ennþá.</value>
   </entry>
   <entry>
     <key>StartPlayingThis song is new to me, but I am honored to be a part of it.</key>
-    <value>This song is new to me, but I am honored to be a part of it.</value>
+    <value>Þetta lag er nýtt fyrir mér, en það er mér mikill heiður að fá að vera hluti af því.</value>
   </entry>
   <entry>
     <key>NotYetThen I will wait until you are ready to know the answer.</key>
-    <value>Then I will wait until you are ready to know the answer.</value>
+    <value>Þá mun ég bíða uns þú ert tilbúið að vita svarið.</value>
   </entry>
   <entry>
     <key>FarewellI believe we’ve reached the end of our journey.</key>
-    <value>I believe we’ve reached the end of our journey.</value>
+    <value>Ég trúi því að ferðalagi okkar sé lokið.</value>
   </entry>
   <entry>
     <key>FarewellAll that remains is to collapse the innumerable possibilites before us.</key>
-    <value>All that remains is to collapse the innumerable possibilites before us.</value>
+    <value>Það eina sem er eftir er að festa einn möguleika af þeim óendanlega mörgum sem standa frammi fyrir okkur.</value>
   </entry>
   <entry>
     <key>FarewellAre you ready to learn what comes next?</key>
-    <value>Are you ready to learn what comes next?</value>
+    <value>Ertu tilbúið í að læra hvað kemur næst?</value>
   </entry>
   <entry>
     <key>SolanumFarewellYes.</key>
-    <value>Yes.</value>
+    <value>Já.</value>
   </entry>
   <entry>
     <key>SolanumFarewellNot yet.</key>
-    <value>Not yet.</value>
+    <value>Ekki enn.</value>
   </entry>
   <entry>
     <key>Farewell2I admire your curiosity, friend. Let’s find out together.</key>
-    <value>I admire your curiosity, friend. Let’s find out together.</value>
+    <value>Ég dáist að forvitni þinni, vinur. Komumst að þessu saman.</value>
   </entry>
   <entry>
     <key>Farewell3It’s tempting to linger in this moment, while every possibility still exists.</key>
-    <value>It’s tempting to linger in this moment, while every possibility still exists.</value>
+    <value>Það er freistandi að bíða hér, á þessu andartaki þegar allir óendanlegu möguleikarnir eru enn til staðar.</value>
   </entry>
   <entry>
     <key>Farewell3But unless they are collapsed by an observer, they will never be more than possibilities.</key>
-    <value>But unless they are collapsed by an observer, they will never be more than possibilities.</value>
+    <value>En ef þeir eru ekki festir af athuganda, þá munu þeir aldrei verða meira en bara það. Möguleikar.</value>
   </entry>
   <entry>
     <key>SignI saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone – Tektite</key>
-    <value>I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone.\\n\\n– Tektite</value>
+    <value>Ég sá reyk koma frá Ungviðargíg úr norðri og datt í hug að athuga með það. Þú mátt nota kannavörpuna, bara ekki brjóta hana á meðan ég er í burtu – Tektite</value>
   </entry>
   <entry>
     <key>SignBig thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</key>
-    <value>Big thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</value>
+    <value>Innilegar þakkir til þessara aukastofnaðila Vegferðar Fjarlægra Firninda, en án þeirra hefðum við aldrei náð af jörðinni:</value>
   </entry>
   <entry>
     <key>SignMatthew Steinhauer</key>
@@ -10732,7 +10733,7 @@ HLEÐ...???
 
 
 &lt;/color&gt;&lt;/size&gt;</key>
-    <value>omg... :O&lt;size=20&gt;&lt;color=black&gt;
+    <value>gmg... :O&lt;size=20&gt;&lt;color=black&gt;
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █░▄▄▄▄▄░█▀░█▀▀▀▀▀░█░▄▄▄▄▄░█
@@ -10755,19 +10756,19 @@ HLEÐ...???
   </entry>
   <entry>
     <key>SignHere lies Isrever</key>
-    <value>Here lies Isrever</value>
+    <value>Hér hvílir Isrever</value>
   </entry>
   <entry>
     <key>SignHere lies BinarySemaphore</key>
-    <value>Here lies BinarySemaphore</value>
+    <value>Hér hvílir BinarySemaphore</value>
   </entry>
   <entry>
     <key>SignHere lies Sean 'Ariamaki' Riedinger</key>
-    <value>Here lies Sean 'Ariamaki' Riedinger</value>
+    <value>Hér hvílir Sean 'Ariamaki' Riedinger</value>
   </entry>
   <entry>
     <key>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</key>
-    <value>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</value>
+    <value>&lt;color=red&gt;VILLA: Óþekkt tungumál&lt;/color&gt;</value>
   </entry>
   <table_shipLog>
     <TranslationTableEntry>
