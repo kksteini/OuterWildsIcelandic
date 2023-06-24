@@ -10768,92 +10768,92 @@ HLEÐ...???
   </entry>
   <entry>
     <key>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</key>
-    <value>&lt;color=red&gt;VILLA: Óþekkt tungumál&lt;/color&gt;</value>
+    <value>&lt;color=red&gt;VILLA: Óþekkt Tungumál&lt;/color&gt;</value>
   </entry>
   <table_shipLog>
     <TranslationTableEntry>
       <key>Village</key>
-      <value>Village</value>
+      <value>Þorpið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>VillageThe one and only Hearthian village, as well as the main source of explosions on this planet.</key>
-      <value>The one and only Hearthian village, as well as the main source of explosions on this planet.</value>
+      <value>Hið eina sanna Bjálkabólsþorp, en það er einnig aðaluppspretta allra sprenginga á þessari plánetu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>VillageThe Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes.</key>
-      <value>The Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes.</value>
+      <value>Nomai styttan á athugunarstöðinni opnaði augun og horfði á mig! Ég sá furðulegt glóandi ljós og eigin minningar dönsuðu fyrir augunum mínum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>VillageHal says the statue has never opened its eyes before (despite Hornfels' best efforts).</key>
-      <value>Hal says the statue has never opened its eyes before (despite Hornfels' best efforts).</value>
+      <value>Hal segir að styttan hafi aldrei opnað augun sín áður (þrátt fyrir erfiðismuni Hornfel).</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Zero-G Cave</key>
-      <value>Zero-G Cave</value>
+      <value>Þyngdarleysishellirinn</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Zero-G CaveI hear Gossan has the zero-g cave set up if I want a refresher before I launch.</key>
-      <value>I hear Gossan has the zero-g cave set up if I want a refresher before I launch.</value>
+      <value>Mér skilst að Gossan hafi undirbúið þjálfunarprógramm í þyngdarleysishellinum ef ég vil upprifjun fyrir flugtak.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Zero-G CaveA cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</key>
-      <value>A cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</value>
+      <value>Hellir í blámiðju Bjálkabóls, notaður til þess að þjálfa nýja geimfara Vegferðar Fjarlægra Firninda.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Zero-G CaveI successfully repaired another "satellite" for Gossan.</key>
-      <value>I successfully repaired another "satellite" for Gossan.</value>
+      <value>Mér tókst að gera við annað "gervitungl" fyrir Gossan.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Dark Bramble Seed</key>
-      <value>Dark Bramble Seed</value>
+      <value>Þokuþyrnisfræið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Harmonica Signal</key>
-      <value>Harmonica Signal</value>
+      <value>Munnhörpumerkið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Dark Bramble SeedEsker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</key>
-      <value>Esker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</value>
+      <value>Merkjasjárskrá Esker greinir frá því að munnhörputónlist komi einhvers staðar frá Bjálkabóli. Hán segir að hún hljómi nákvæmlega eins og munnharpan háns Feldspar, en Feldspar hvarf úti í geim fyrir löngu síðan.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Dark Bramble SeedA seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</key>
-      <value>A seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</value>
+      <value>Fræ frá Þokuþyrni brotlenti hérna og er þegar byrjað að skjóta niður rótum. Tektite vill nota kannavörpuna til þess að sjá hvað er inni í því.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Dark Bramble SeedMy signalscope picks up harmonica music when I aim it at the seed.</key>
-      <value>My signalscope picks up harmonica music when I aim it at the seed.</value>
+      <value>Merkjasjáin mín heyrir í tónlist þegar ég beini henni að fræinu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Dark Bramble SeedI launched my Little Scout into the seed. Somehow the seed is much bigger on the inside.</key>
-      <value>I launched my Little Scout into the seed. Somehow the seed is much bigger on the inside.</value>
+      <value>Ég varpaði Litla Kannanum mínum inn í fræið. Einhvern veginn er fræið mun stærra að innan heldur en að utan.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai Mines</key>
-      <value>Nomai Mines</value>
+      <value>Nomainámurnar</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai MinesThe Nomai were mining ore somewhere on Timber Hearth.</key>
-      <value>The Nomai were mining ore somewhere on Timber Hearth.</value>
+      <value>Nomaiarnir voru að vinna járngrýti einhvers staðar á Bjálkabóli.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai MinesThe Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</key>
-      <value>The Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</value>
+      <value>Nomaiarnir unnu járngrýti frá þessu svæði til þess að smíða varnarskel sérstaklega hannaða til þess að innsigla miðjuhvelfinguna inni í Sótsystur.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai MinesOnce the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.</key>
-      <value>Once the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.</value>
+      <value>Þegar skelin var tilbúin, sáu Nomaiarnir til þess að það væru ekki lengur neinir sýnilegir inngangar eftir, né sprungur.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai MinesThe Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine.</key>
-      <value>The Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine.</value>
+      <value>Nomaiarnir uppgötvuðu fjóreygða tegund í rennslunum nálægt námunum. Tegundin var hálfgert lagardýr, hálfgert landdýr.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Grove</key>
-      <value>Quantum Grove</value>
+      <value>Skammtalundurinn</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Signal</key>
-      <value>Quantum Signal</value>
+      <value>Skammtamerkið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum GroveChert detected a strange signal coming from the crater at Timber Hearth's south pole. It's very similar to the signal emitted by the Quantum Moon.</key>
