@@ -11665,95 +11665,95 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 1</key>
-      <value>Kortaskyggna 1</value>
+      <value>Kortavörpun 1</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 1A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-      <value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+      <value>Vörpun sem virðist sýna falinn stað einhvers inni í Gestinum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 2</key>
-      <value>Map Projection 2</value>
+      <value>Kortavörpun 2</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 2A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-      <value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+      <value>Vörpun sem virðist sýna falinn stað einhvers inni í Gestinum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 3</key>
-      <value>Map Projection 3</value>
+      <value>Kortavörpun 3</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 3A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-      <value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+      <value>Vörpun sem virðist sýna falinn stað einhvers inni í Gestinum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Reservoir</key>
-      <value>Reservoir</value>
+      <value>Uppistöðulónið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>ReservoirAn enormous reservoir with wooden piers and buildings on both shores.</key>
-      <value>An enormous reservoir with wooden piers and buildings on both shores.</value>
+      <value>Risastórt uppistöðulón með viðarbryggjum og byggingum báðum megin við vatnið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>ReservoirI found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</key>
-      <value>I found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</value>
+      <value>Ég fann herbergi með brenndu stjórntæki og myndvörpun sem virðist sýna brotna tengingu milli Gestsins og annars geimfars.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>ReservoirI found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</key>
-      <value>I found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</value>
+      <value>Ég fann myndvörpun sem sýnir núverandi feril Gestsins og spá um radíus sprengingarinnar frá sólinni þegar hún breytist í sprengistjörnu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelA slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</key>
-      <value>A slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</value>
+      <value>Slæðuspóla sem sýnir undarlega hvelfingu vera umlukta í stóru málmvirki og látin síga ofan í vatn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelNearly all of the slides have been burned and cannot be viewed.</key>
-      <value>Nearly all of the slides have been burned and cannot be viewed.</value>
+      <value>Nær allar slæðuspólurnar hafa verið brenndar og ekki er hægt að skoða þær.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged Structure</key>
-      <value>Submerged Structure</value>
+      <value>Kaffærða Málmvirkið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged StructureAccording to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</key>
-      <value>According to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</value>
+      <value>Samkvæmt slæðuspólu var undarleg hvelfin umlukin í stóru málmvirki og látin síga ofan í vatn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Hollow Structure</key>
-      <value>Hollow Structure</value>
+      <value>Holt Virki</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged StructureI found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.</key>
-      <value>I found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.</value>
+      <value>Ég fann skýringarmynd sem sýnir holt virki hangandi í keðjum. Neðan á því er hringlaga hola sem virðist vera eini inngangurinn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged StructureA large metal structure suspended by chains. It can be entered by swimming from below.</key>
-      <value>A large metal structure suspended by chains. It can be entered by swimming from below.</value>
+      <value>Stórt málmvirki hangandi í keðjum. Hægt er að komast inn í það með því að synda að því neðanverðu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged StructureThere is a sealed vault illuminated by a green fire inside the structure.</key>
-      <value>There is a sealed vault illuminated by a green fire inside the structure.</value>
+      <value>Inni í virkinu er innsigluð hvelfing upplýst af grænum eldi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean Lake</key>
-      <value>Subterranean Lake</value>
+      <value>Neðanjarðarstöðuvatnið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Enclosed Fire</key>
-      <value>Enclosed Fire</value>
+      <value>Innilokaður Eldur</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</key>
-      <value>I looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</value>
+      <value>Ég horfði í gegnum gægjugat á hlið stórs virkis hangandi í keðjum. Inni í því er annar grænn eldur og hringstigi sem fer lengra niður.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</key>
-      <value>I looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</value>
+      <value>Ég horfði í gegnum gægjugat á hliðinni á stóru málmvirki hangandi í keðjum eins og það sem má finna í Uppistöðulóninu. Inni í því er annar grænn eldur og hringstigi sem fer lengra niður.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Vault Room Fire</key>
-      <value>Vault Room Fire</value>
+      <value>Eldur Hvelfingarherbergisins</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
