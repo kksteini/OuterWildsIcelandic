@@ -11629,43 +11629,43 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged LaboratoryI saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</key>
-      <value>I saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</value>
+      <value>Ég sá eins konar upptöku í formi draumsýnar af einhverjum taka grip og fara að sofa fyrir framan grænan eld. Restin af sýninni var brengluð og erfitt að greina, en eldur virtist birtast inni í gripnum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged LaboratoryI found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</key>
-      <value>I found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</value>
+      <value>Ég fann slæðuspólu sem sýnir þrjár tilraunir gerðar með þremur mismunandi gripum. Þriðja tilraunin virðist hafa gengið vel.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned Temple</key>
-      <value>Abandoned Temple</value>
+      <value>Yfirgefið Musteri</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Cliffside Building</key>
-      <value>Cliffside Building</value>
+      <value>Byggingin í Klettahlíðinni</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleI saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away.</key>
-      <value>I saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away.</value>
+      <value>Ég sá byggingu merkta einstöku tákni sitja í afskoti gljúfurveggjar, en brúin sem áður leiddi þangað hefur rotnað í burtu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleAn abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge.</key>
-      <value>An abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge.</value>
+      <value>Yfirgefið musteri með táknmynd af brennandi slæðuspólu. Hægt er að komast þangað í gegnum göng í Falda Gljúfrinu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleThere is an interface upstairs that can be used to line up symbols in a vertical sequence.</key>
-      <value>There is an interface upstairs that can be used to line up symbols in a vertical sequence.</value>
+      <value>Það er eins konar viðmót á efri hæð sem hægt er að nota til að búa til lóðrétta röð tákna.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleEntering the correct sequence opens the path to a secret room beneath the temple.</key>
-      <value>Entering the correct sequence opens the path to a secret room beneath the temple.</value>
+      <value>Rétt röð tákna opnar leið inn í leyniherbergi fyrir neðan musterið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleI found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</key>
-      <value>I found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</value>
+      <value>Ég fann slæðuspólu sem sýnir íbúa Gestsins fjarlægja allar slæðuspólur úr hillum þeirra, skanna hverja spólu með tæki og brenna ákveðnar slæður ásamt því að brenna sumar slæðuspólur í heild sinni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 1</key>
-      <value>Map Projection 1</value>
+      <value>Kortaskyggna 1</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 1A projection that seems to reveal a secret location somewhere within the Stranger.</key>
