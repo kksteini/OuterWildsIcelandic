@@ -5749,7 +5749,7 @@
   <entry>
     <key>&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
 		</key>
-    <value>&lt;color=orange&gt;Vörpueining&lt;/color&gt;: Útsýnisgluggi brotinn. Eining er berskjölduð gegn tómarúmi geimsins. 
+    <value>&lt;color=orange&gt;Skoteining&lt;/color&gt;: Útsýnisgluggi brotinn. Eining er berskjölduð gegn tómarúmi geimsins. 
 		</value>
   </entry>
   <entry>
@@ -8507,7 +8507,7 @@
   </entry>
   <entry>
     <key>Launch Module</key>
-    <value>&lt;color=orange&gt;Vörpueining&lt;/color&gt;</value>
+    <value>&lt;color=orange&gt;Skoteining&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>
@@ -11425,47 +11425,47 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch Module</key>
-      <value>Vörpueining</value>
+      <value>Skoteining</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-      <value>One of the Orbital Probe Cannon’s three modules.</value>
+      <value>Ein þriggja eininga Geimflaugavörpunnar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch ModuleThe Launch Module looks heavily damaged. There’s a huge breach in the glass viewport.</key>
-      <value>The Launch Module looks heavily damaged. There’s a huge breach in the glass viewport.</value>
+      <value>Skoteiningin virkar stórsködduð. Það er risa gat á útsýnisglugganum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch ModuleThe Launch Module's viewport window is fractured, exposing it to the vacuum of space.</key>
-      <value>The Launch Module's viewport window is fractured, exposing it to the vacuum of space.</value>
+      <value>Útsýnisglugginn á Skoteiningunni er brotinn, og er hún því berskjölduð fyrir tómarúmi geimsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch ModuleThe Launch Module is badly damaged, but its projection pool is still intact.</key>
-      <value>The Launch Module is badly damaged, but its projection pool is still intact.</value>
+      <value>Skoteiningin er stórsködduð, en skimunarlaug hennar er enn í heilu lagi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch ModuleA Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</key>
-      <value>A Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</value>
+      <value>Nomai-i, að nafni Mallow, hélt því fram að veiking á burðarlagi vörpunnar skipti ekki máli þar sem hún myndi eingöngu skjóta kanna á loft einu sinni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch ModuleA Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</key>
-      <value>A Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</value>
+      <value>Nomai-i, að nafni Privet, kom með þau mótrök að þau gætu ekki tekið á móti gögnum könnunarhnattarins ef Rakningareiningin skyldi eyðileggjast.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Control Module</key>
-      <value>Control Module</value>
+      <value>Stjórneining</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Control ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-      <value>One of the Orbital Probe Cannon’s three modules.</value>
+      <value>Ein þriggja eininga Geimflaugavörpunnar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Control ModuleThe Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</key>
-      <value>The Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</value>
+      <value>(Fyrir skömmu síðan) Stjórneiningin fékk beiðni frá Sótsysturverkefninu um að skjóta könnunarhnetti á loft. Varpan var stillt fyrir handahófskenndan feril hnattar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Control ModuleThe probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</key>
-      <value>The probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</value>
+      <value>Könnunarhnettinum var skotið á loft með góðum árangri, en burðarlag geimflaugavörpunnar veiktist við það. Tjón finnst á nokkrum einingum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Stranger</key>
@@ -11473,287 +11473,287 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
-      <value>A massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</value>
+      <value>Risastór hringlaga og tilbúin veröld sem falin er af einhvers konar hulinssviði. Virðist ekki vera smíð Bjálkabælinga né Nomaia.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>River Lowlands</key>
-      <value>River Lowlands</value>
+      <value>Fljótláglendin</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>River LowlandsA low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river.</key>
-      <value>A low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river.</value>
+      <value>Láglent svæði nálægt innganginum inn í Gestinn. Timburbyggingar eru meðfram fljótsbökkunum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>River LowlandsI found several ornate metal artifacts inside a workshop surrounded by ghost matter.</key>
-      <value>I found several ornate metal artifacts inside a workshop surrounded by ghost matter.</value>
+      <value>Ég fann nokkra skrúðuga málmgripi inni á verkstæði umkringt dulefni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide Reel</key>
-      <value>Burned Slide Reel</value>
+      <value>Brennd Slæðuspóla</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelA slide reel that shows the origin of the Stranger and its inhabitants.</key>
-      <value>A slide reel that shows the origin of the Stranger and its inhabitants.</value>
+      <value>Slæðuspóla sem sýnir uppruna Gestsins og íbúa hans.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelSeveral slides have been burned and cannot be viewed.</key>
-      <value>Several slides have been burned and cannot be viewed.</value>
+      <value>Nokkrar slæðuspólur hafa verið brenndar og ekki er hægt að skoða þær.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Slide Burning Room</key>
-      <value>Slide Burning Room</value>
+      <value>Slæðubrennsluherbergið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Secret Location</key>
-      <value>Secret Location</value>
+      <value>Leynistaðsetningin</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Slide Burning RoomA map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.</key>
-      <value>A map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.</value>
+      <value>Kort sem ég fann í Yfirgefna Musterinu opinberar leynistaðsetningu einhvers staðar inni í Gestinum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Slide Burning RoomA room full of burned slide reels piled next to a strange device.</key>
-      <value>A room full of burned slide reels piled next to a strange device.</value>
+      <value>Herbergi fullt af brenndum slæðuspólum staflaðar upp nálægt skrítnu tæki.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of green lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</key>
-      <value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of green lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</value>
+      <value>Ég fann falda slæðuspólu sem sýnir hlut með glóandi tákni vera réttan ógreinilegri fígúru. Fígúran fylgir hópgöngu grænna ljósa í gegnum skóginn að byggingu upplýstri af kertum, þar sem þær fara með hlutinn inn í leynigang bak við logandi arinn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Cinder Isles</key>
-      <value>Cinder Isles</value>
+      <value>Glóðeyjurnar</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Cinder IslesA pair of small rocky islands connected by a village of stilt houses.</key>
-      <value>A pair of small rocky islands connected by a village of stilt houses.</value>
+      <value>Par af klettóttum eyjum sem tengdar eru af þyrpingu húsa á stultum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Cinder IslesI found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe.</key>
-      <value>I found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe.</value>
+      <value>Ég fann stóra skrautmynd úr málmi inni í brenndri byggingu sem líkist mjög Nomaisku túlkununni á lögun merkisins fyrir Auga alheimsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Cinder IslesI found a large metal symbol for the Eye of the universe inside a burned-out building.</key>
-      <value>I found a large metal symbol for the Eye of the universe inside a burned-out building.</value>
+      <value>Ég fann stóra málmskrautmynd af Auga alheimsins inni í brenndri byggingu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-      <value>A slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
+      <value>Slæðuspóla sem sýnir íbúa Gestsins greina fyrirbæri sem líkist mjög Nomaisku túlkuninni á lögun Auga alheimsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-      <value>A slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</value>
+      <value>Slæðuspóla sem sýnir íbúa Gestsins greina Auga alheimsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
-      <value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</value>
+      <value>Ég fann falda slæðuspólu sem sýnir hlut með glóandi tákni vera réttan ógreinilegri fígúru. Ljósin eru slökkt og fígúran fer með hlutinn niður í myrkan brunn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Island Tower</key>
-      <value>Island Tower</value>
+      <value>Eyjuturninn</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Island Cave</key>
-      <value>Island Cave</value>
+      <value>Eyjuhellirinn</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Island TowerI found a projection that reveals a cave entrance at the base of a rocky island with a tall tower.</key>
-      <value>I found a projection that reveals a cave entrance at the base of a rocky island with a tall tower.</value>
+      <value>Ég fann skuggamynd sem afhjúpar inngang í helli nálægt grunni klettóttrar eyju með hávöxnum turni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Island TowerA tower that sits atop one of the Cinder Isles. The upper floors can only be reached from a second entrance at the back of the tower.</key>
-      <value>A tower that sits atop one of the Cinder Isles. The upper floors can only be reached from a second entrance at the back of the tower.</value>
+      <value>Turn sem ofan á einni af Glóðeynni. Eingöngu er hægt er að komast á efri hæðirnar með því nota inngang á bakhlið turnsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Island TowerI found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger.</key>
-      <value>I found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger.</value>
+      <value>Ég fann slæðuspólu sem sýnir íbúa Gestsins opna leynigöng í hringlaga herbergi fullt af ljóskerum og veggmyndum. Íbúarnir eru sýndir fara í halarófu inn í þessi herbergi um gjörvallan Gestinn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Symbol Room</key>
-      <value>Symbol Room</value>
+      <value>Táknherbergið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Hidden Vault Seals</key>
-      <value>Hidden Vault Seals</value>
+      <value>Innsigli Leynihvelfingarinnar</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.</key>
-      <value>The light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.</value>
+      <value>Ljósið sem skein út úr hvelfingunni gaf mér draumsýn af því að klífa undinn stiga upp að herbergi nálægt toppi turns. Einn íbúa Gestsins benti á veggmynd af nákvæmlega eins turni undir himni plánetu sem skartaði hring, tók síðan upp grip og fór með hann niður stigann í herbergi með grænum eld. Skömmu síðar, slokknaði á tveimur lömpum í herberginu með veggmyndinni, en böðuð myrkri hvarf veggmyndin og afhjúpaði leynileið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Symbol RoomThe passage lead to three wooden containers, each marked with a glowing vault seal.</key>
-      <value>The passage lead to three wooden containers, each marked with a glowing vault seal.</value>
+      <value>Leynileiðin liggur að þremur viðarplötum, hver þeirra merkt með glóandi innsigli hvelfingarinnar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Symbol RoomA secret room filled with wooden containers marked with different symbols.</key>
-      <value>A secret room filled with wooden containers marked with different symbols.</value>
+      <value>Leyniherbergi fullt af viðarplötum með mismunandi táknum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Symbol RoomThree of the containers are marked with glowing vault seals, but their contents have been burned away.</key>
-      <value>Three of the containers are marked with glowing vault seals, but their contents have been burned away.</value>
+      <value>Þrjár viðarplatnanna eru merkt með glóandi innsiglum hvelfingarinnar, en búið er að brenna í burtu innihald þeirra.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Symbol RoomI opened the container marked with the symbol of a burning slide reel and found a vertical sequence of symbols inside.</key>
-      <value>I opened the container marked with the symbol of a burning slide reel and found a vertical sequence of symbols inside.</value>
+      <value>Ég opnaði plötuna merkta með tákni af brennandi slæðuspólu og fann lóðrétta röð af táknum þar inni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Hidden Gorge</key>
-      <value>Hidden Gorge</value>
+      <value>Falda gljúfrið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Hidden GorgeA narrow gorge along the rightmost branch of the river. There are dwellings built into both cliff faces high above.</key>
-      <value>A narrow gorge along the rightmost branch of the river. There are dwellings built into both cliff faces high above.</value>
+      <value>Þröngt gljúfur á fljótskvíslinni lengst til hægri. Dvalarstaðir eru á báðum hamraveggjunum hátt fyrir ofan.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</key>
-      <value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</value>
+      <value>Ég fann falda slæðuspólu sem sýnir hlut með glóandi tákni vera réttan ógreinilegri fígúru. Ljósin eru slökkt og fígúran fer með hlutinn inn um leynigöng á bak við veggmynd af stóru tré.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-      <value>A slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</value>
+      <value>Slæðuspóla sem sýnir íbúa Gestsins safnast saman í kringum skrítinn grænan eld.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged Laboratory</key>
-      <value>Damaged Laboratory</value>
+      <value>Skemmda Rannsóknarstofan</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Hull Breach</key>
-      <value>Hull Breach</value>
+      <value>Gatið á Skipsskrokknum</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged LaboratoryI found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger.</key>
-      <value>I found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger.</value>
+      <value>Ég fann slæðuspólu í Falda Gljúfrinu sem sýnir sprengingu sprengja gat á hlið Gestsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged LaboratoryA laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of the Stranger.</key>
-      <value>A laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of the Stranger.</value>
+      <value>Rannsóknarstofa með þremur rannsóknarherbergjum. Herbergi tvö er mjög illa farið og hægt er að komast inn í það í gegnum gat á skipsskrokk á hlið Gestsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged LaboratoryI saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</key>
-      <value>I saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</value>
+      <value>Ég sá eins konar upptöku í formi draumsýnar af einhverjum taka grip og fara að sofa fyrir framan grænan eld. Restin af sýninni var brengluð og erfitt að greina, en eldur virtist birtast inni í gripnum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged LaboratoryI found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</key>
-      <value>I found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</value>
+      <value>Ég fann slæðuspólu sem sýnir þrjár tilraunir gerðar með þremur mismunandi gripum. Þriðja tilraunin virðist hafa gengið vel.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned Temple</key>
-      <value>Abandoned Temple</value>
+      <value>Yfirgefið Musteri</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Cliffside Building</key>
-      <value>Cliffside Building</value>
+      <value>Byggingin í Klettahlíðinni</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleI saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away.</key>
-      <value>I saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away.</value>
+      <value>Ég sá byggingu merkta einstöku tákni sitja í afskoti gljúfurveggjar, en brúin sem áður leiddi þangað hefur rotnað í burtu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleAn abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge.</key>
-      <value>An abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge.</value>
+      <value>Yfirgefið musteri með táknmynd af brennandi slæðuspólu. Hægt er að komast þangað í gegnum göng í Falda Gljúfrinu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleThere is an interface upstairs that can be used to line up symbols in a vertical sequence.</key>
-      <value>There is an interface upstairs that can be used to line up symbols in a vertical sequence.</value>
+      <value>Það er eins konar viðmót á efri hæð sem hægt er að nota til að búa til lóðrétta röð tákna.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleEntering the correct sequence opens the path to a secret room beneath the temple.</key>
-      <value>Entering the correct sequence opens the path to a secret room beneath the temple.</value>
+      <value>Rétt röð tákna opnar leið inn í leyniherbergi fyrir neðan musterið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Abandoned TempleI found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</key>
-      <value>I found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</value>
+      <value>Ég fann slæðuspólu sem sýnir íbúa Gestsins fjarlægja allar slæðuspólur úr hillum þeirra, skanna hverja spólu með tæki og brenna ákveðnar slæður ásamt því að brenna sumar slæðuspólur í heild sinni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 1</key>
-      <value>Map Projection 1</value>
+      <value>Kortavörpun 1</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 1A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-      <value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+      <value>Vörpun sem virðist sýna falinn stað einhvers inni í Gestinum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 2</key>
-      <value>Map Projection 2</value>
+      <value>Kortavörpun 2</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 2A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-      <value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+      <value>Vörpun sem virðist sýna falinn stað einhvers inni í Gestinum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 3</key>
-      <value>Map Projection 3</value>
+      <value>Kortavörpun 3</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Map Projection 3A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-      <value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+      <value>Vörpun sem virðist sýna falinn stað einhvers inni í Gestinum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Reservoir</key>
-      <value>Reservoir</value>
+      <value>Uppistöðulónið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>ReservoirAn enormous reservoir with wooden piers and buildings on both shores.</key>
-      <value>An enormous reservoir with wooden piers and buildings on both shores.</value>
+      <value>Risastórt uppistöðulón með viðarbryggjum og byggingum báðum megin við vatnið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>ReservoirI found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</key>
-      <value>I found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</value>
+      <value>Ég fann herbergi með brenndu stjórntæki og myndvörpun sem virðist sýna brotna tengingu milli Gestsins og annars geimfars.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>ReservoirI found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</key>
-      <value>I found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</value>
+      <value>Ég fann myndvörpun sem sýnir núverandi feril Gestsins og spá um radíus sprengingarinnar frá sólinni þegar hún breytist í sprengistjörnu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelA slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</key>
-      <value>A slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</value>
+      <value>Slæðuspóla sem sýnir undarlega hvelfingu vera umlukta í stóru málmvirki og látin síga ofan í vatn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelNearly all of the slides have been burned and cannot be viewed.</key>
-      <value>Nearly all of the slides have been burned and cannot be viewed.</value>
+      <value>Nær allar slæðuspólurnar hafa verið brenndar og ekki er hægt að skoða þær.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged Structure</key>
-      <value>Submerged Structure</value>
+      <value>Kaffærða Málmvirkið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged StructureAccording to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</key>
-      <value>According to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</value>
+      <value>Samkvæmt slæðuspólu var undarleg hvelfin umlukin í stóru málmvirki og látin síga ofan í vatn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Hollow Structure</key>
-      <value>Hollow Structure</value>
+      <value>Holt Virki</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged StructureI found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.</key>
-      <value>I found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.</value>
+      <value>Ég fann skýringarmynd sem sýnir holt virki hangandi í keðjum. Neðan á því er hringlaga hola sem virðist vera eini inngangurinn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged StructureA large metal structure suspended by chains. It can be entered by swimming from below.</key>
-      <value>A large metal structure suspended by chains. It can be entered by swimming from below.</value>
+      <value>Stórt málmvirki hangandi í keðjum. Hægt er að komast inn í það með því að synda að því neðanverðu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged StructureThere is a sealed vault illuminated by a green fire inside the structure.</key>
-      <value>There is a sealed vault illuminated by a green fire inside the structure.</value>
+      <value>Inni í virkinu er innsigluð hvelfing upplýst af grænum eldi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean Lake</key>
-      <value>Subterranean Lake</value>
+      <value>Neðanjarðarstöðuvatnið</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Enclosed Fire</key>
-      <value>Enclosed Fire</value>
+      <value>Innilokaður Eldur</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</key>
-      <value>I looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</value>
+      <value>Ég horfði í gegnum gægjugat á hlið stórs virkis hangandi í keðjum. Inni í því er annar grænn eldur og hringstigi sem fer lengra niður.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</key>
-      <value>I looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</value>
+      <value>Ég horfði í gegnum gægjugat á hliðinni á stóru málmvirki hangandi í keðjum eins og það sem má finna í Uppistöðulóninu. Inni í því er annar grænn eldur og hringstigi sem fer lengra niður.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Vault Room Fire</key>
-      <value>Vault Room Fire</value>
+      <value>Eldur Hvelfingarherbergisins</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
@@ -11837,7 +11837,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Forbidden ArchiveI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</key>
-      <value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</value>
+      <value>Ég fann falda slæðuspólu sem sýnir hlut með glóandi tákni vera réttan ógreinilegri fígúru. Fígúran fylgir hópgöngu grænna ljósa í gegnum skóginn að byggingu upplýstri af kertum, þar sem þær fara með hlutinn inn í leynigang bak við logandi arinn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Forbidden ArchiveA library full of intact slide reels hidden deep underground.</key>
@@ -11937,7 +11937,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Forbidden ArchiveThe reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</key>
-      <value>The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</value>
+      <value>Slæðuspóla sem ég fann í slæðubrennsluherberginu sýnir hlut með glóandi tákni vera réttan ógreinilegri fígúru. Ljósin eru slökkt og fígúran fer með hlutinn inn um leynigöng á bak við veggmynd af stóru tré.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
@@ -14107,7 +14107,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>610</key>
-      <value>Vörpueining</value>
+      <value>Skoteining</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>611</key>
@@ -14283,7 +14283,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>709</key>
-      <value>VÖRPUEINING</value>
+      <value>Skoteining</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>710</key>
