@@ -16,7 +16,7 @@ def process_element(element)
       reasons = clean_text.split(" ").select{|v| !$f.include? v}
 
       unless reasons.length.zero? then 
-        puts "Offender: #{clean_text}"
+        #puts "Offender: #{clean_text}"
         #puts "Reasons: #{reasons}"
         reasons.each do |reason|
           $reasons.push(reason) unless $reasons.include? reason
@@ -29,7 +29,8 @@ def process_element(element)
  end
 
   # Recursively process each child of this element
-  element.elements.each do |child|
+  belement = element.elements.to_a.shuffle
+  belement.each do |child|
     process_element(child)
   end
 end
