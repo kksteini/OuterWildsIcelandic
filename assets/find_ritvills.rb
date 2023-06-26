@@ -16,16 +16,15 @@ def process_element(element)
       reasons = clean_text.split(" ").select{|v| !$f.include? v}
 
       unless reasons.length.zero? then 
-        #puts "Offender: #{clean_text}"
+        puts "Offender: #{clean_text}"
         #puts "Reasons: #{reasons}"
         reasons.each do |reason|
           $reasons.push(reason) unless $reasons.include? reason
         end
 
-        puts "Reasons so far: #{$reasons}"
+        #puts "Reasons so far: #{$reasons}"
       end
     end
-    puts "Have processed #{$processed} of around 3000" if $processed % 100 == 0
  end
 
   # Recursively process each child of this element
@@ -42,3 +41,14 @@ doc = REXML::Document.new(file)
 # Process the root element
 process_element(doc.root)
 
+$reasons.each.with_index do |reason, index|
+  puts "#{index + 1} - #{reason}"
+end
+
+#choices = gets.chomp.split(" ")
+#
+#open("uniquer.txt", "a") do |f|
+#  choices.each do |choice|
+#    f.puts $reasons[choice.to_i - 1]
+#  end
+#end
