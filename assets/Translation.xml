@@ -2386,7 +2386,7 @@
   </entry>
   <entry>
     <key>GabbroMainHey, time pal! Nice weather we’re having, huh? &lt;Pause/&gt;...Wait. Have I used that one before?</key>
-    <value>Hey, tímaflakksféllagi! Gott veður í dag, ha? &lt;Pause /&gt;...Bíddu, hef ég notað þessa línu áður?</value>
+    <value>Hey, tímaflakksfélagi! Gott veður í dag, ha? &lt;Pause /&gt;...Bíddu, hef ég notað þessa línu áður?</value>
   </entry>
   <entry>
     <key>GabbroMainIf it isn’t my time buddy! How’s space treating you this loop?</key>
@@ -3554,7 +3554,7 @@
   </entry>
   <entry>
     <key>SignThat can’t be right. That’s… I mean, that’s not even possible. Am I interpreting this photo correctly? What’s even stranger is it doesn’t show up in either of the other photos. Just this one…</key>
-    <value>Þetta getur ekki staðist. Þarnaa… ég meina þetta er ómögulegt. Er ég að túlka þessa mynd rétt? Furðulegra er að þetta sést ekki á neinum hinum myndanna.</value>
+    <value>Þetta getur ekki staðist. Þarna… ég meina þetta er ómögulegt. Er ég að túlka þessa mynd rétt? Furðulegra er að þetta sést ekki á neinum hinum myndanna.</value>
   </entry>
   <entry>
     <key>SignWell, there must have been an equipment malfunction, I suppose. Only sensible explanation for it. I’ll radio Gabbro and ask them to go examine the satellite’s lens for defects.</key>
@@ -5474,7 +5474,7 @@
   </entry>
   <entry>
     <key>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</key>
-    <value>LAEVI: Pye frænka segir að alvöru fiskskratter séu blindir, svo þú verður að hafa bundið fyrir augan! Reglan stendur!</value>
+    <value>LAEVI: Pye frænka segir að alvöru fiskskrattar séu blindir, svo þú verður að hafa bundið fyrir augun! Reglan stendur!</value>
   </entry>
   <entry>
     <key>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</key>
@@ -6388,7 +6388,7 @@
   </entry>
   <entry>
     <key>Coach7If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-    <value>Ef þig langar í smá þyngdarleysisþjálfun á síðustu stundu, farðu niður liftuna og inn í hellinn. Eða ekki, ef þú ert örrugt með að gera við skipið þitt úti í geim.</value>
+    <value>Ef þig langar í smá þyngdarleysisþjálfun á síðustu stundu, farðu niður lyftuna og inn í hellinn. Eða ekki, ef þú ert örrugt með að gera við skipið þitt úti í geim.</value>
   </entry>
   <entry>
     <key>GossanCoach7One repaired “satellite,” coming up!</key>
@@ -6404,7 +6404,7 @@
   </entry>
   <entry>
     <key>Coach8If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-    <value>Ef þig langar í smá þyngdarleysisþjálfun á síðustu stundu, farðu niður liftuna og inn í hellinn. Eða ekki, ef þú ert örrugt með að gera við skipið þitt úti í geim.</value>
+    <value>Ef þig langar í smá þyngdarleysisþjálfun á síðustu stundu, farðu niður lyftuna og inn í hellinn. Eða ekki, ef þú ert örrugt með að gera við skipið þitt úti í geim.</value>
   </entry>
   <entry>
     <key>GossanCoach8One repaired “satellite”, coming up!</key>
@@ -6432,7 +6432,7 @@
   </entry>
   <entry>
     <key>Coach11If you changed your mind about practicing ship repairs, head down the lift and into the zero-g cave.</key>
-    <value>Ef þú skiptir um skoðun varðandi skipaviðgerðir, taktu þá liftuna niður og inn í þyngdarleysishellinn.</value>
+    <value>Ef þú skiptir um skoðun varðandi skipaviðgerðir, taktu þá lyftuna niður og inn í þyngdarleysishellinn.</value>
   </entry>
   <entry>
     <key>Coach11You just need to maneuver over to the “satellite” and repair each damaged area, same as you’ll be doing for your ship.</key>
@@ -7580,7 +7580,7 @@
   </entry>
   <entry>
     <key>Arkose2Yeah! I heard touching it hurts so bad it feels like your whole hand’s on fire!</key>
-    <value>Já! Ég heyrði að ef maður snertir það þá er það svo vont, eins og öll hendin manns sé logandi!</value>
+    <value>Já! Ég heyrði að ef maður snertir það þá er það svo vont, eins og öll höndin manns sé logandi!</value>
   </entry>
   <entry>
     <key>Arkose2Try not to walk into any in space, okay? That sounds bad and painful.</key>
@@ -10247,7 +10247,7 @@
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparTest-piloted everything Slate ever built! It’s a wonder Feldspar lived to see space, frankly, but they did. Flew all sorts of dangerous stunts and explored everything they could find.</key>
-    <value>Prufukeyrði allt sem Slate datt í hug að smíða. Það er ótrúlegt að Feldspar lifði svo langt að hafa hafrið út í geim, til að vera hreinskilið, en hán gerði það. Gerði alls konar glæfrabrögð og kannaði allt sem hán gat fundið.</value>
+    <value>Prufukeyrði allt sem Slate datt í hug að smíða. Það er ótrúlegt að Feldspar lifði svo langt að hafa farið út í geim, til að vera hreinskilið, en hán gerði það. Gerði alls konar glæfrabrögð og kannaði allt sem hán gat fundið.</value>
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparAnd then one day, they just... didn’t come back. We don’t know what happened, or where Feldspar went, or even whether they’re still alive.</key>
@@ -11629,7 +11629,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged LaboratoryI saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</key>
-      <value>Ég sá eins konar upptöku í formi draumsýnar af einhverjum taka grip og fara að sofa fyrir framan grænan eld. Restin af sýninni var brengluð og erfitt að greina, en eldur virtist birtast inni í gripnum.</value>
+      <value>Ég sá upptöku í formi draumsýnar af einhverjum taka grip og fara að sofa fyrir framan grænan eld. Restin af sýninni var brengluð og erfitt að greina, en eldur virtist birtast inni í gripnum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Damaged LaboratoryI found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</key>
@@ -11757,11 +11757,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
-      <value>I saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
+      <value>Ég sá upptöku í formi draumsýnar  of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
-      <value>I saw a vision-like recording of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
+      <value>Ég sá upptöku í formi draumsýnar  of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault.</key>
