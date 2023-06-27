@@ -1714,7 +1714,7 @@
   </entry>
   <entry>
     <key>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</key>
-    <value>COLEUS: Það veitir mér hugarró að ættbálkurinn okkar ákvað að nota málmgrýti &lt;color=lightblue&gt;Bjálkabóls&lt;/color&gt; eingöngu í byggingu á skelinni. Ef lífið á þessari plánetu þróast einhvern tímann alla leið út í nútímalega málmtækni, þá er ég handviss um að við höfum ekki gengið of langt á byrgðir þeirra!</value>
+    <value>COLEUS: Það veitir mér hugarró að ættbálkurinn okkar ákvað að nota málmgrýti &lt;color=lightblue&gt;Bjálkabóls&lt;/color&gt; eingöngu í byggingu á skelinni. Ef lífið á þessari plánetu þróast einhvern tímann alla leið út í nútímalega málmtækni, þá er ég handviss um að við höfum ekki gengið of langt á birgðir þeirra!</value>
   </entry>
   <entry>
     <key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>
@@ -1722,7 +1722,7 @@
   </entry>
   <entry>
     <key>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</key>
-    <value>OENO: Ég hælt þú værir búinn að banna lærlingnum þínum að stunda orðaleiki, Coleus.</value>
+    <value>OENO: Ég hélt þú værir búinn að banna lærlingnum þínum að stunda orðaleiki, Coleus.</value>
   </entry>
   <entry>
     <key>COLEUS: How else would he improve?</key>
@@ -1754,7 +1754,7 @@
   </entry>
   <entry>
     <key>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</key>
-    <value>POKE: Ef þú horfir upp á meðan stöðin hringsnýst, þá getur þú séð hvenær snýr rétt, en það er þegar þú sérð viðeigandi himintungl beint fyrir ofan þig.</value>
+    <value>POKE: Ef þú horfir upp á meðan stöðin hringsnýst, þá getur þú séð hvenær hún snýr rétt, en það er þegar þú sérð viðeigandi himintungl beint fyrir ofan þig.</value>
   </entry>
   <entry>
     <key>Gabbro</key>
@@ -2622,7 +2622,7 @@
   </entry>
   <entry>
     <key>SignThe radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</key>
-    <value>Útvarpsturninn hér á Bjálkabóli var byggður til þess að taka á móti útsendingum frá djúpgervitunglinu okkar, og enn til þessa dags hýsir hann fyrstu myndirnar sem teknar voru af nokkurn tíma teknar af öllu sólkerfinu í einu.</value>
+    <value>Útvarpsturninn hér á Bjálkabóli var byggður til þess að taka á móti útsendingum frá djúpgervitunglinu okkar, og enn til þessa dags hýsir hann fyrstu myndirnar sem nokkurn tíma voru teknar af öllu sólkerfinu í einu.</value>
   </entry>
   <entry>
     <key>SignThese photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</key>
@@ -2750,7 +2750,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer24Hey, you’re the pilot - you tell me. Aren’t you pilot-types all eager to get up there and explore for yourselves?</key>
-    <value>Hey, þú ert flugmaðurinn - seg þú mér. Eru þið flugtýpurnar ekki ólmar í að fara þarna upp og kanna á eigin spýtur?</value>
+    <value>Hey, þú ert flugmaðurinn - seg þú mér. Eruð þið flugtýpurnar ekki ólmar í að fara þarna upp og kanna á eigin spýtur?</value>
   </entry>
   <entry>
     <key>ScientistAnswer24Doesn’t matter if you go to the moon or Brittle Hollow or just the other side of Timber Hearth. It’s all the same to me. Get out there and have fun!</key>
@@ -3798,7 +3798,7 @@
   </entry>
   <entry>
     <key>Friend5Makes me wish we could see what a real live Nomai looks like, but I guess this is as close as we’ll ever get. Check it out - looks like they had fur! Fur is &lt;i&gt;weird&lt;/i&gt;.</key>
-    <value>Ég vildi að ég gæti séð hvernig alvöru lifandi Nomai-i lítur út, en ætli þetta sé ekki eins nálægt og við komumst. Sjáðu þetta - lítur út fyrir að þeir höfðu feld! Að hafa feld er &lt;i&gt;skrítið&lt;/i&gt;.</value>
+    <value>Ég vildi að ég gæti séð hvernig alvöru lifandi Nomai-i lítur út, en ætli þetta sé ekki eins nálægt og við komumst. Sjáðu þetta - lítur út fyrir að þeir höfðu feld! Feld er &lt;i&gt;skrítinn&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>Friend5This is the first fully intact statue ever found, you know. And for how old it is, it’s in great shape!</key>
@@ -4919,7 +4919,7 @@
   </entry>
   <entry>
     <key>FILIX: No, I... I’m unable to make contact. My equipment can hear the other two escape pods’ distress signals, however. If it’s any comfort, both pods must be structurally intact.</key>
-    <value>FILIX: Nei, ég... ég næ ekki sambandi. Búnaðurinn minn getur þó heyrt í neyðarmerkjum hinna björgunarbátanna. Ef það er einhver huggun í því þá ættu þeir að vera byggingarlega heillegir.</value>
+    <value>FILIX: Nei, ég... ég næ ekki sambandi. Búnaðurinn minn getur þó heyrt í neyðarmerkjum hinna björgunarbátanna. Ef það er einhver huggun í því þá ættu þeir að vera í heilu lagi.</value>
   </entry>
   <entry>
     <key>FILIX: I’ll continue calling for them.</key>
@@ -5055,7 +5055,7 @@
   </entry>
   <entry>
     <key>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</key>
-    <value>THATCH: Við þurfum að vera nálægt &lt;color=orange&gt;björgunarbátnum&lt;/color&gt; þannig að Filix getið fylgst með skilaboðum sem kunna að koma. Það er ekki hægt að bjarga okkur ef við erum ekki til staðar til að svara.</value>
+    <value>THATCH: Við þurfum að vera nálægt &lt;color=orange&gt;björgunarbátnum&lt;/color&gt; þannig að Filix geti fylgst með skilaboðum sem kunna að koma. Það er ekki hægt að bjarga okkur ef við erum ekki til staðar til að svara.</value>
   </entry>
   <entry>
     <key>FILIX: I don’t believe anyone is coming to save us, Thatch. Now we must save ourselves.</key>
@@ -5071,7 +5071,7 @@
   </entry>
   <entry>
     <key>FILIX: What if we use gravity crystals to craft a stable path?</key>
-    <value>FILIX: Hvað ef við notum þyngdaraflskristalla til þess að gera okkur stöðuga leið þangað?</value>
+    <value>FILIX: Hvað ef við notum þyngdaraflskristala til þess að gera okkur stöðuga leið þangað?</value>
   </entry>
   <entry>
     <key>THATCH: Building beneath the crust again would shelter us from the &lt;color=lightblue&gt;volcanic moon&lt;/color&gt;’s eruptions.</key>
@@ -6400,7 +6400,7 @@
   </entry>
   <entry>
     <key>Coach8So listen, there’s a “satellite” — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</key>
-    <value>Taktu eftir, það er "gervitungl" — sem er klárlega &lt;i&gt;ekki&lt;/i&gt; bara brotið námugraftartæki — fljótandi niðri í þyngdarleysishellinum sem þarf að gera við.</value>
+    <value>Heyrðu, það er "gervitungl" — sem er klárlega &lt;i&gt;ekki&lt;/i&gt; bara brotið námugraftartæki — fljótandi niðri í þyngdarleysishellinum sem þarf að gera við.</value>
   </entry>
   <entry>
     <key>Coach8If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
@@ -6488,7 +6488,7 @@
   </entry>
   <entry>
     <key>Friend3So its eyes opened, and then you saw images from your own memories and glowing lights flying around? You mean like &lt;Pause/&gt; a hallucination?</key>
-    <value>Bíddu, svo augun á henni opnuðust og síðan sástu myndir af eigin minningum og glóandi ljós fljúgandi um? Svona eins og &lt;Pause/&gt; ofskynjun?</value>
+    <value>Bíddu, svo augun á henni opnuðust og síðan sástu myndir af eigin minningum og glóandi ljós fljúgandi um? Svona eins og &lt;Pause/&gt;ofskynjun?</value>
   </entry>
   <entry>
     <key>Friend3Listen, no offense, but... are you sure you’re okay to launch? Like, medically speaking?</key>
@@ -6820,7 +6820,7 @@
   </entry>
   <entry>
     <key>RiebecksJournalMy best guess? This could be where the Nomai made gravity crystals. We know they mined raw from material from below the crust on Brittle Hollow, then refined that material to produce the crystals.</key>
-    <value>Mitt helsta gisk væri að Nomaiarnir hafi notað þennan stað til þess að búa til þyngdaraflskristalla. Við vitum að þeir unnu hrátt efni úr námu undir yfirborði Brothols, og unnu svo nánar með efnið til þess að framleiða kristalana.</value>
+    <value>Mitt helsta gisk væri að Nomaiarnir hafi notað þennan stað til þess að búa til þyngdaraflskristala. Við vitum að þeir unnu hrátt efni úr námu undir yfirborði Brothols, og unnu svo nánar með efnið til þess að framleiða kristalana.</value>
   </entry>
   <entry>
     <key>RiebecksJournalGravity crystals produce a local gravity distortion that affects the area around them, up to a certain radius. They’re very clever! Nomai used them to anchor themselves to surfaces they might want to traverse down.</key>
@@ -7468,7 +7468,7 @@
   </entry>
   <entry>
     <key>Worst1You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-    <value>Þú ert... &lt;color=grey&gt;Rop...&lt;/color&gt;&lt;Pause/&gt; Þú ert hræðilegt.</value>
+    <value>Þú ert... &lt;color=grey&gt;Úff...&lt;/color&gt;&lt;Pause/&gt; Þú ert hræðilegt.</value>
   </entry>
   <entry>
     <key>TuffWorst1Sorry.</key>
@@ -7480,7 +7480,7 @@
   </entry>
   <entry>
     <key>Worst2You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-    <value>Þú ert... &lt;color=grey&gt;Rop...&lt;/color&gt;&lt;Pause/&gt; Þú ert hræðilegt.</value>
+    <value>Þú ert... &lt;color=grey&gt;Úff...&lt;/color&gt;&lt;Pause/&gt; Þú ert hræðilegt.</value>
   </entry>
   <entry>
     <key>TuffWorst2I know.</key>
@@ -7516,7 +7516,7 @@
   </entry>
   <entry>
     <key>Probe1Yeah, they were on firewatch with the old scout launcher and saw smoke, so they went to check it out. “Safety first,” right?</key>
-    <value>Já, hán var að vakta elda með gömlu kannavörpunni og sá reyk, þannig að hán fór og tjekkaði á því. "Öryggið í fyrirrúmi", finnst þér?.</value>
+    <value>Já, hán var að vakta elda með gömlu kannavörpunni og sá reyk, þannig að hán fór og tjekkaði á því. "Öryggið í fyrirrúmi", finnst þér?</value>
   </entry>
   <entry>
     <key>Probe1...No, I’m kidding. I said that to Tektite once. Pretty rude how long they laughed for, if you ask me.</key>
@@ -7524,7 +7524,7 @@
   </entry>
   <entry>
     <key>Probe2Probably only a little. Tektite checked out the crash site with the old firewatch scout launcher and saw smoke, so they headed over to stamp out any leftover fires.</key>
-    <value>Kannski bara pínu dónalegt. Tektite tjekkaði á svæðinu með gömlu kannavörpunni og sá reyk, þannig að hán fór þangað til að kæfa eldleifar ef einhverjar eru.</value>
+    <value>Tektite tjekkaði á svæðinu með gömlu kannavörpunni og sá reyk, þannig að hán fór þangað til að kæfa eldleifar ef einhverjar eru.</value>
   </entry>
   <entry>
     <key>Probe2Well, I better get back to work. This ore’s not going to mine itself, you know.</key>
@@ -7776,7 +7776,7 @@
   </entry>
   <entry>
     <key>SignThese are just some of the questions we hope to answer through further xenoarchaeological expeditions.</key>
-    <value>Þetta eru bara nokkrar af þeim spurningum sem vonum að könnunarleiðangrar framandfornleifafræðinnar komi til með að svara.</value>
+    <value>Þetta eru bara nokkrar af þeim spurningum sem við vonum að könnunarleiðangrar framandfornleifafræðinnar komi til með að svara.</value>
   </entry>
   <entry>
     <key>SignThe Nomai technology brought back from space by our astronauts has been a great boon to Outer Wilds Ventures, allowing us to modify expedition gear in exciting and useful ways.</key>
@@ -7960,7 +7960,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_1Wow! So then, the Nomai probably came here from somewhere outside the solar system. And they must have been in trouble when they launched their escape pod... but what kind of trouble?</key>
-    <value>Vá! Þannig að Nomaiarnir komu líklega hingað einhversstaðar utan sólkerfisins. Og þeir hljóta að hafa verið í vandræðum miðaða við að þeir lentu í björgunarbátum... en hvaða vandræðum?</value>
+    <value>Vá! Þannig að Nomaiarnir komu líklega hingað einhversstaðar utan sólkerfisins. Og þeir hljóta að hafa verið í vandræðum miðað við að þeir lentu í björgunarbátum... en hvaða vandræðum?</value>
   </entry>
   <entry>
     <key>RiebeckLearned_1And where did the escape pod launch from? I’m so curious!</key>
@@ -8210,7 +8210,7 @@
   </entry>
   <entry>
     <key>THATCH: This knowledge is too dear to lose: Here is everything we can recall about the signal we encountered while aboard the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-    <value>THATCH: Þessi þekking er of dýrmæt til þess að glatast: Hérna er allt sem við munum um merkið sem við fundum á meðan við vorum um á &lt;color=orange&gt;Skipinu&lt;/color&gt;.</value>
+    <value>THATCH: Þessi þekking er of dýrmæt til þess að glatast: Hérna er allt sem við munum um merkið sem við fundum á meðan við vorum á &lt;color=orange&gt;Skipinu&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>FILIX: The signal looked like an eye: round, with a circle at the center much like a pupil. (Suppose the signal was looking for something.)</key>
@@ -8230,7 +8230,7 @@
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Black Hole Forge District&lt;/color&gt;</key>
-    <value>&lt;color=orange&gt;Svartholssmiðjuhverfi</value>
+    <value>&lt;color=orange&gt;Svartholssmiðjuhverfi&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>
@@ -13065,7 +13065,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>206</key>
-      <value>Gera kannavörpu reiðubúna</value>
+      <value>Upp með kannavörpu</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>207</key>
@@ -13077,7 +13077,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>209</key>
-      <value>Gera merkjasjá reiðubúna</value>
+      <value>Upp með merkjasjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>210</key>
@@ -13085,11 +13085,11 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>211</key>
-      <value>Gera þýðara reiðubúinn</value>
+      <value>Upp með þýðara</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>212</key>
-      <value>Ræsa Knúning Þotubúnaðar</value>
+      <value>Virkja Þotubúnað</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>213</key>
@@ -13169,15 +13169,15 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>236</key>
-      <value>Skyndimynd fram á við</value>
+      <value>Mynd fram á við</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>237</key>
-      <value>Taka Skyndimynd</value>
+      <value>Taka Mynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>238</key>
-      <value>Baksýnis Skyndimynd</value>
+      <value>Baksýnismynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>239</key>
@@ -13189,7 +13189,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>241</key>
-      <value>Eyða Skyndimynd</value>
+      <value>Eyða Mynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>250</key>
@@ -13409,31 +13409,31 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>316</key>
-      <value>'Útskýrðu' Steinn</value>
+      <value>'Útskýrðu' Stein</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>317</key>
-      <value>'Auga Alheimsins' Steinn</value>
+      <value>'Auga Alheimsins' Stein</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>318</key>
-      <value>'Bera Kennsl á' Steinn</value>
+      <value>'Bera Kennsl á' Stein</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>319</key>
-      <value>'Ég' Steinn</value>
+      <value>'Ég' Stein</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>320</key>
-      <value>'Skammtatunglið' Steinn</value>
+      <value>'Skammtatungl' Stein</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>321</key>
-      <value>'Þú' Steinn</value>
+      <value>'Þú' Stein</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>322</key>
-      <value>Skruna</value>
+      <value>Vafning</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>323</key>
@@ -13493,7 +13493,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>344</key>
-      <value>Texti Síðu</value>
+      <value>Fletta</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>345</key>
@@ -13949,7 +13949,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>561</key>
-      <value>Baksýnis Skyndimynd</value>
+      <value>Baksýnismynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>562</key>
@@ -14554,7 +14554,7 @@ HLEÐ...???
     </TranslationTableEntryUI>rear
     <TranslationTableEntryUI>
       <key>936</key>
-      <value>Skoðunarstöð</value>
+      <value>Athugunarstöð</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>937</key>
@@ -14574,7 +14574,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>941</key>
-      <value>ELDSNEYTI</value>
+      <value>ÞOTA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>942</key>
@@ -14866,11 +14866,11 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1025</key>
-      <value>Varpa Kanna / Taka Skyndimynd</value>
+      <value>Varpa Kanna / Taka Mynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1026</key>
-      <value>Taka Bakskyndimynd á Kanna</value>
+      <value>Taka Mynd á Kanna</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1027</key>
@@ -15249,19 +15249,19 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1171</key>
-      <value>Gerir merkjasjá reiðubúna</value>
+      <value>Upp með merkjasjá</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1172</key>
-      <value>Gerir kanna reiðubúinn, varpar, og endurheimtar hann</value>
+      <value>Tekur upp kanna, varpar, og endurheimtar</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1173</key>
-      <value>Kanni: Taka Skyndimynd fram á við\\nMerkjasjá: Breyta um sýn\\nÞýðingartæki: Þýða</value>
+      <value>Kanni: Taka Mynd fram á við\\nMerkjasjá: Breyta um sýn\\nÞýðingartæki: Þýða</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1174</key>
-      <value>Kanni: Taka Baksýnis Skyndimynd</value>
+      <value>Kanni: Taka Baksýnismynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1175</key>
@@ -15819,11 +15819,11 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1542</key>
-      <value>Kanni: Skjóta/Skyndimynd\\nMerkjasjá: Auka Aðdrátt\\nÞýðingartæki: Þýða</value>
+      <value>Kanni: Skjóta/Mynd\\nMerkjasjá: Auka Aðdrátt\\nÞýðingartæki: Þýða</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1543</key>
-      <value>Kanni: Baksýnis Skyndimynd</value>
+      <value>Kanni: Baksýnismynd</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1544</key>
