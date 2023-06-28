@@ -1534,7 +1534,7 @@
   </entry>
   <entry>
     <key>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</key>
-    <value>POKE: Þar af leiðandi, sérhver Nómæ sem stígur fæti á varppallinn á meðan tímaramminn er virkur, myndi varpast samstundis. Við munum þurfa að fara varlega í kringum pallinn á meðan virkum tímaramma stendur, til að forðast fjarflutning af gáleysi.</value>
+    <value>POKE: Þar af leiðandi, sérhver Nómæi sem stígur fæti á varppallinn á meðan tímaramminn er virkur, myndi varpast samstundis. Við munum þurfa að fara varlega í kringum pallinn á meðan virkum tímaramma stendur, til að forðast fjarflutning af gáleysi.</value>
   </entry>
   <entry>
     <key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
@@ -1810,7 +1810,7 @@
   </entry>
   <entry>
     <key>Gabbro3F_5And here’s another weird one for you - every time I die, all of my memories from that loop replay back to me. I’m pretty sure that’s related to this big stone Nomai statue I found on one of the other islands.</key>
-    <value>Svo er það annað sem er spes - í hvert skipti sem ég dey þá sé ég allar minningarnar mínar úr lykkjunni endurspilaðar. Ég er nokkuð visst um að það tengist stóru Nómæ styttunni sem ég fann á einhverri af hinum eyjunum.</value>
+    <value>Svo er það annað sem er spes - í hvert skipti sem ég dey þá sé ég allar minningarnar mínar úr lykkjunni endurspilaðar. Ég er nokkuð visst um að það tengist stóru Nómæ-styttunni sem ég fann á einhverri af hinum eyjunum.</value>
   </entry>
   <entry>
     <key>Gabbro3F_5I was looking at it, and the statue opened its eyes and started glowing. It replayed my memories like it’d seen them through my own eyes, just like what happens each time I die.</key>
@@ -1822,7 +1822,7 @@
   </entry>
   <entry>
     <key>Gabbro3F_6You too, huh? Then the Nomai statues must have something to do with why we’re the only ones aware of the time loop. So... no glowing statue, no time loop awareness?</key>
-    <value>Nohh, þú líka? Þá hljóta Nómæ stytturnar að hafa eitthvað með þetta að gera fyrst við erum þau einu sem erum meðvituð um tímalykkjuna. Þannig að... engin glóandi stytta, engin tímalykkjuupplifun?</value>
+    <value>Nohh, þú líka? Þá hljóta Nómæ-stytturnar að hafa eitthvað með þetta að gera fyrst við erum þau einu sem erum meðvituð um tímalykkjuna. Þannig að... engin glóandi stytta, engin tímalykkjuupplifun?</value>
   </entry>
   <entry>
     <key>Gabbro3F_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
@@ -1894,7 +1894,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_3FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ-&lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_3FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -1918,7 +1918,7 @@
   </entry>
   <entry>
     <key>ThisPlanet_3FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ styttunni sem ég sá á ströndinni.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ-styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -1974,7 +1974,7 @@
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuI found Nomai masks inside the Ash Twin Project.</key>
-    <value>Ég fann Nómæ grímur inni í Sótsysturverkefninu.</value>
+    <value>Ég fann Nómæ-grímur inni í Sótsysturverkefninu.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuI found what happened to the Orbital Probe Cannon.</key>
@@ -2226,11 +2226,11 @@
   </entry>
   <entry>
     <key>Gabbro3T_6Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</key>
-    <value>Kannski er það vegna svakalegu störukeppninnar sem við áttum bæði með Nómæ styttunni?</value>
+    <value>Kannski er það vegna svakalegu störukeppninnar sem við áttum bæði með Nómæ-styttunni?</value>
   </entry>
   <entry>
     <key>Gabbro3T_6I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</key>
-    <value>Ég sé minningarnar mínar spilast til baka alltaf þegar ég dey, alveg eins og þegar ég sá Nómæ styttuna opna augun og horfa á mig þarna á ströndinni. Þannig að kannski... engin glóandi stytta, engin tímalykkjuupplifun?</value>
+    <value>Ég sé minningarnar mínar spilast til baka alltaf þegar ég dey, alveg eins og þegar ég sá Nómæ-styttuna opna augun og horfa á mig þarna á ströndinni. Þannig að kannski... engin glóandi stytta, engin tímalykkjuupplifun?</value>
   </entry>
   <entry>
     <key>Gabbro3T_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
@@ -2266,7 +2266,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_3TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ-&lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_3TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -2290,7 +2290,7 @@
   </entry>
   <entry>
     <key>ThisPlanet_3TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ styttunni sem ég sá á ströndinni.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ-styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -2462,7 +2462,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ-&lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -2486,7 +2486,7 @@
   </entry>
   <entry>
     <key>ThisPlanet_mergeAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ styttunni sem ég sá á ströndinni.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ-styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -3674,7 +3674,7 @@
   </entry>
   <entry>
     <key>IPFoundOne of these photos revealed the existence of an invisible ring world inhabited by a species whose presence in our solar system predated even the Nomai.</key>
-    <value>Ein þessara mynda varpaði ljósi á tilvist tegundar sem bjó á ósýnilegum hringheimi. Þau höfðu verið hér jafnvel fyrir tíma Nómæ ættbálkanna.</value>
+    <value>Ein þessara mynda varpaði ljósi á tilvist tegundar sem bjó á ósýnilegum hringheimi. Þau höfðu verið hér jafnvel fyrir tíma Nómæ-ættbálkanna.</value>
   </entry>
   <entry>
     <key>IPDreamLibrariesFoundThis species traveled from a nearby star system in search of the Eye of the universe, but, horrified by what they discovered, decided to block the Eye’s signal so that no one else would ever find it.</key>
@@ -3746,7 +3746,7 @@
   </entry>
   <entry>
     <key>Friend1aJust think - you’ll be able to translate any Nomai text you want, anywhere you are. The two of us put a lot of hours into inventing that tool, so don’t break it, okay? Haha! &lt;Pause&gt;...Oh, geez. &lt;i&gt;Do not break it.&lt;/i&gt;</key>
-    <value>Hugsa sér - þú munt geta þýtt hvaða Nómæ texta sem þú vilt, hvar sem þú ert. Við tvö settum mikið af vinnu í að finna upp á þessu tæki, þannig að ekki brjóta það, ókei? Haha! &lt;Pause&gt;...&lt;i&gt;Ekki brjóta það.&lt;/i&gt;</value>
+    <value>Hugsa sér - þú munt geta þýtt hvaða Nómæ-texta sem þú vilt, hvar sem þú ert. Við tvö settum mikið af vinnu í að finna upp á þessu tæki, þannig að ekki brjóta það, ókei? Haha! &lt;Pause&gt;...&lt;i&gt;Ekki brjóta það.&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>Friend1a...Ugh, ignore me, okay? I’m just nervous. And I’m not even the one going into space! How are &lt;i&gt;you&lt;/i&gt; feeling?</key>
@@ -3770,7 +3770,7 @@
   </entry>
   <entry>
     <key>Friend1bSo what’s the dirt? You here to see the new Nomai statue?</key>
-    <value>Jæja, hvað er að frétta? Ertu hérna til að skoða Nómæ styttuna?</value>
+    <value>Jæja, hvað er að frétta? Ertu hérna til að skoða Nómæ-styttuna?</value>
   </entry>
   <entry>
     <key>HalFriend1bNew statue?</key>
@@ -3934,7 +3934,7 @@
   </entry>
   <entry>
     <key>WheresGabbroGabbro said they were going back to Giant’s Deep to wherever they found that Nomai statue. One of the islands, I think.</key>
-    <value>Gabbro sagðist ætla til baka til Jötunsdýpis. Ég held hán ætli að fara aftur á staðinn þar sem hán fann Nómæ styttuna. Á einni af eyjunum, held ég.</value>
+    <value>Gabbro sagðist ætla til baka til Jötunsdýpis. Ég held hán ætli að fara aftur á staðinn þar sem hán fann Nómæ-styttuna. Á einni af eyjunum, held ég.</value>
   </entry>
   <entry>
     <key>WheresGabbroYou remember Gabbro plays a flute, right? Like, all the time? I bet your signalscope could find them easily.</key>
@@ -4195,7 +4195,7 @@
   </entry>
   <entry>
     <key>CANNA: To any Nomai clans whose Vessels can hear this message:</key>
-    <value>CANNA: Til allra Nómæ ættbálka. Ef arkir ykkar geta heyrt þessi skilaboð:</value>
+    <value>CANNA: Til allra Nómæ-ættbálka. Ef arkir ykkar geta heyrt þessi skilaboð:</value>
   </entry>
   <entry>
     <key>CANNA: It’s clear the universe is dying. There are fewer and fewer resources and safe places within space now, so my clan and I believe the best option is for all of our clans to stay together.</key>
@@ -4267,7 +4267,7 @@
   </entry>
   <entry>
     <key>FILIX: We... we are abandoning our &lt;color=orange&gt;Vessel&lt;/color&gt;. Any Nomai clans or spaceflight-capable species receiving this message, I implore you, we need your help!</key>
-    <value>FILIX: Við... við erum að yfirgefa &lt;color=orange&gt;Örkina&lt;/color&gt; okkar. Allir Nómæ ættbálkar í kallfæri eða geimferðarhæfar tegundir, ég grátbið ykkur, við þörfnumst hjálpar!</value>
+    <value>FILIX: Við... við erum að yfirgefa &lt;color=orange&gt;Örkina&lt;/color&gt; okkar. Allir Nómæ-ættbálkar í kallfæri eða geimferðarhæfar tegundir, ég grátbið ykkur, við þörfnumst hjálpar!</value>
   </entry>
   <entry>
     <key>FILIX: Is this broken? Can anyone hear me? Our &lt;color=orange&gt;Vessel&lt;/color&gt; is dying! We need immediate assistance!</key>
@@ -6472,7 +6472,7 @@
   </entry>
   <entry>
     <key>Friend1Hey, hey! So did you get a good look at that Nomai statue?</key>
-    <value>Hæhæ! Sástu Nómæ styttuna?</value>
+    <value>Hæhæ! Sástu Nómæ-styttuna?</value>
   </entry>
   <entry>
     <key>HalFriend1The statue looked at me and opened its eyes!</key>
@@ -6556,7 +6556,7 @@
   </entry>
   <entry>
     <key>HalPostConvoMenuWhere’s the Nomai statue in the museum from?</key>
-    <value>Hvaðan kemur Nómæ styttan sem er á safninu?</value>
+    <value>Hvaðan kemur Nómæ-styttan sem er á safninu?</value>
   </entry>
   <entry>
     <key>HalPostConvoMenuWhy did the Nomai make that statue?</key>
@@ -6776,7 +6776,7 @@
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingSo this is some kind of Nomai “locator.” It can point out the different planets - which is incredibly cool, by the way - but from what little I can understand of the writing here, I think it was built to try to find something specific?</key>
-    <value>Sem sagt, þetta er einhver konar Nómæ "staðsetjari". Hann getur bent á pláneturnar - sem er reyndar ógeðslega svalt - en af því litla sem ég fæ skilið af skrifunum hérna, þá held ég að það hafi verið byggt með það í huga að finna eitthvað ákveðið?</value>
+    <value>Sem sagt, þetta er einhver konar Nómæskur "staðsetjari". Hann getur bent á pláneturnar - sem er reyndar ógeðslega svalt - en af því litla sem ég fæ skilið af skrifunum hérna, þá held ég að það hafi verið byggt með það í huga að finna eitthvað ákveðið?</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingI’m not sure. I also was able to translate something about the south pole of Brittle Hollow, so I’ll fly there to see if I can learn more.</key>
@@ -6792,7 +6792,7 @@
   </entry>
   <entry>
     <key>RiebecksJournalOkay, let’s see... I poked around a little, and there’s some sort of old Nomai path that starts across from my campsite, inside the ruined building with trees growing out of it.</key>
-    <value>Ókei, látum okkur sjá... Ég skoðaði mig aðeins um hérna, og það er einhvers konar Nómæ slóði sem byrjar á móti tjaldsvæðinu mínu, inni í eyðilögðu byggingunni með trjánum sem vaxa úr henni.</value>
+    <value>Ókei, látum okkur sjá... Ég skoðaði mig aðeins um hérna, og það er einhvers konar Nómæskur slóði sem byrjar á móti tjaldsvæðinu mínu, inni í eyðilögðu byggingunni með trjánum sem vaxa úr henni.</value>
   </entry>
   <entry>
     <key>RiebecksJournalDoesn’t look like anything horrible - just stairs leading down. I can handle stairs! After I get my supplies together, I’ll follow the path and see where it leads.</key>
@@ -6932,7 +6932,7 @@
   </entry>
   <entry>
     <key>SignEast: Nomai Ruins</key>
-    <value>Austur: Nómæ rústir</value>
+    <value>Austur: Nómæskar rústir</value>
   </entry>
   <entry>
     <key>SignNorth: Youngbark Crater</key>
@@ -9665,11 +9665,11 @@
   </entry>
   <entry>
     <key>Explanation1One of the islands on Giant’s Deep has a Nomai statue on the beach - ever seen one? I brought one back to Timber Hearth with me. Big stone sculpture of a Nomai’s head, three eyes and everything. Beautifully carved, too.</key>
-    <value>Ein eyjanna hér á Jötunsdýpi er með Nómæ styttu á ströndinni - hefurðu séð þær einhvern tíma? Ég tók með mér eina til baka á Bjálkaból. Stór höggmynd af andliti Nómæja, þrjú augu og allt saman. Frábærlega meitlað líka.</value>
+    <value>Ein eyjanna hér á Jötunsdýpi er með Nómæ-styttu á ströndinni - hefurðu séð þær einhvern tíma? Ég tók með mér eina til baka á Bjálkaból. Stór höggmynd af andliti Nómæja, þrjú augu og allt saman. Frábærlega meitlað líka.</value>
   </entry>
   <entry>
     <key>Explanation1So one minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</key>
-    <value>Þannig að, eina mínútuna stend ég á eyju og horfi á Nómæ styttu á ströndinni, og það næsta sem ég man er að hún horfir á mig og glóir.</value>
+    <value>Þannig að, eina mínútuna stend ég á eyju og horfi á Nómæ-styttu á ströndinni, og það næsta sem ég man er að hún horfir á mig og glóir.</value>
   </entry>
   <entry>
     <key>Explanation1The sculpture replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
@@ -9689,7 +9689,7 @@
   </entry>
   <entry>
     <key>Explanation2One minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</key>
-    <value>Eina mínútuna stend ég á eyju og horfi á Nómæ styttu á ströndinni, og það næsta sem ég man er að hún horfir á mig og glóir.</value>
+    <value>Eina mínútuna stend ég á eyju og horfi á Nómæ-styttu á ströndinni, og það næsta sem ég man er að hún horfir á mig og glóir.</value>
   </entry>
   <entry>
     <key>Explanation2It replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
@@ -9741,7 +9741,7 @@
   </entry>
   <entry>
     <key>WhereToExploreWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ-&lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExploreI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -9765,7 +9765,7 @@
   </entry>
   <entry>
     <key>ThisPlanetAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ styttunni sem ég sá á ströndinni.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ-styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanetYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -9809,7 +9809,7 @@
   </entry>
   <entry>
     <key>MeetGabbro2F_4Like, I was on a different island earlier, right? I was on the beach looking at one of those big stone statues of a Nomai head, and the next thing I know, it’s looking back at me, glowing.</key>
-    <value>Þú veist, ég var á annarri eyju áðan, og var á ströndinni með einni af þessum stóru Nómæ styttum, bara skoða hana. Það næsta sem ég veit er að hún horfir á mig og glóir.</value>
+    <value>Þú veist, ég var á annarri eyju áðan, og var á ströndinni með einni af þessum stóru Nómæ-styttum, bara skoða hana. Það næsta sem ég veit er að hún horfir á mig og glóir.</value>
   </entry>
   <entry>
     <key>MeetGabbro2F_4The statue replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
@@ -9821,7 +9821,7 @@
   </entry>
   <entry>
     <key>YouTooHuhCome to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like that time with the statue. Do you think the Nomai statues are related to us dying somehow?</key>
-    <value>Nú þegar ég pæli í því, þegar ég dó, þá sá ég eitthvað en ég er visst um að það hafi verið minningarnar mínar spilaðar aftur á bak, svipað og gerðist með styttunni þarna eitt skiptið. Heldurðu að dauði okkar sé eitthvað tengdur Nómæ styttunum einhvern veginn?</value>
+    <value>Nú þegar ég pæli í því, þegar ég dó, þá sá ég eitthvað en ég er visst um að það hafi verið minningarnar mínar spilaðar aftur á bak, svipað og gerðist með styttunni þarna eitt skiptið. Heldurðu að dauði okkar sé eitthvað tengdur Nómæ-styttunum einhvern veginn?</value>
   </entry>
   <entry>
     <key>YouTooHuhAnd another thing - we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
@@ -9857,7 +9857,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_2FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ-&lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_2FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -9881,7 +9881,7 @@
   </entry>
   <entry>
     <key>ThisPlanet_2FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ styttunni sem ég sá á ströndinni.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ-styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -9925,7 +9925,7 @@
   </entry>
   <entry>
     <key>Gabbro2T_4Come to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like the time with that statue. Do you think the Nomai statues are related to us dying somehow?</key>
-    <value>Nú þegar ég pæli í því, þegar ég dó, þá sá ég eitthvað en ég er visst um að það hafi verið minningarnar mínar spilaðar aftur á bak, svipað og gerðist með styttunni þarna eitt skiptið. Heldurðu að dauði okkar sé eitthvað tengdur Nómæ styttunum einhvern veginn?</value>
+    <value>Nú þegar ég pæli í því, þegar ég dó, þá sá ég eitthvað en ég er visst um að það hafi verið minningarnar mínar spilaðar aftur á bak, svipað og gerðist með styttunni þarna eitt skiptið. Heldurðu að dauði okkar sé eitthvað tengdur Nómæ-styttunum einhvern veginn?</value>
   </entry>
   <entry>
     <key>Gabbro2T_4So... we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
@@ -9965,7 +9965,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_2TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ &lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
+    <value>Hvað annað, látum okkur nú sjá... Ertu búið að heimsækja Styttueyjuna? Það er það sem ég kalla hana, úr því að á þessari &lt;i&gt;eyju&lt;/i&gt; fann ég hina glóandi Nómæ-&lt;i&gt;styttu&lt;/i&gt;.&lt;Pause&gt; ...fattarðu?</value>
   </entry>
   <entry>
     <key>WhereToExplore_2TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -9989,7 +9989,7 @@
   </entry>
   <entry>
     <key>ThisPlanet_2TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ styttunni sem ég sá á ströndinni.</value>
+    <value>Hvað land varðar, þá taldi ég fjórar eyjar, þessi hér meðtalin. Síðan er líka þessi eyja með Nómæ-styttunni sem ég sá á ströndinni.</value>
   </entry>
   <entry>
     <key>ThisPlanet_2TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -10045,7 +10045,7 @@
   </entry>
   <entry>
     <key>Curator1And you’ll be our &lt;i&gt;first&lt;/i&gt; astronaut ever equipped with a Nomai translator tool! I confess, I’ve been giddy all day just thinking about it.</key>
-    <value>Og þú verður okkar &lt;i&gt;fyrsti&lt;/i&gt; geimfari útbúinn Nómæ þýðingartækinu! Ég skal alveg segja þér það að mig svimar af eftirvæntingu, bara tilhugsunin um það.</value>
+    <value>Og þú verður okkar &lt;i&gt;fyrsti&lt;/i&gt; geimfari útbúinn Nómæ-þýðingartækinu! Ég skal alveg segja þér það að mig svimar af eftirvæntingu, bara tilhugsunin um það.</value>
   </entry>
   <entry>
     <key>Curator1We’re better equipped than ever to unravel the mysteries of the Nomai. You and Hal should be very proud of your work!</key>
@@ -10133,7 +10133,7 @@
   </entry>
   <entry>
     <key>Curator5Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</key>
-    <value>Sömuleiðis vitum við ekkert hvað fornu Nómæ rústirnar á tunglinu eru, eða þá af hverju þær voru byggðar. Kannski getur þú hitað upp þýðingartækið þar?</value>
+    <value>Sömuleiðis vitum við ekkert hvað fornu Nómæsku rústirnar á tunglinu eru, eða þá af hverju þær voru byggðar. Kannski getur þú hitað upp þýðingartækið þar?</value>
   </entry>
   <entry>
     <key>Curator6Haha! Overwhelmed by the options, perhaps? I don’t blame you.</key>
@@ -10145,7 +10145,7 @@
   </entry>
   <entry>
     <key>Curator6Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</key>
-    <value>Sömuleiðis vitum við ekkert hvað fornu Nómæ rústirnar á tunglinu eru, eða þá af hverju þær voru byggðar. Kannski getur þú hitað upp þýðingartækið þar?</value>
+    <value>Sömuleiðis vitum við ekkert hvað fornu Nómæsku rústirnar á tunglinu eru, eða þá af hverju þær voru byggðar. Kannski getur þú hitað upp þýðingartækið þar?</value>
   </entry>
   <entry>
     <key>Curator7Planning to follow in the footsteps of Feldspar and the great Outer Wilds Ventures tradition, are you? I might have guessed.</key>
@@ -10209,7 +10209,7 @@
   </entry>
   <entry>
     <key>HornfelsCurator13The Nomai statue opened its eyes!</key>
-    <value>Nómæ styttan opnaði augun sín!</value>
+    <value>Nómæ-styttan opnaði augun sín!</value>
   </entry>
   <entry>
     <key>HornfelsCurator13Where are the other travelers?</key>
@@ -10779,7 +10779,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>VillageThe Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes.</key>
-      <value>Nómæ styttan á athugunarstöðinni opnaði augun og horfði á mig! Ég sá furðulegt glóandi ljós og eigin minningar dönsuðu fyrir augunum mínum.</value>
+      <value>Nómæ-styttan á athugunarstöðinni opnaði augun og horfði á mig! Ég sá furðulegt glóandi ljós og eigin minningar dönsuðu fyrir augunum mínum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>VillageHal says the statue has never opened its eyes before (despite Hornfels' best efforts).</key>
@@ -12279,7 +12279,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Gabbro’s IslandHal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory.</key>
-      <value>Hal segir að Gabbro hafi farið til baka á Jötunsdýpi til þess að reyna að læra meira um Nómæ styttuna í athugunarstöðinni.</value>
+      <value>Hal segir að Gabbro hafi farið til baka á Jötunsdýpi til þess að reyna að læra meira um Nómæ-styttuna í athugunarstöðinni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Gabbro’s IslandGabbro is lounging in a hammock near the island’s shore.</key>
@@ -12287,7 +12287,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Gabbro’s IslandGabbro found a Nomai statue on another island. The statue's eyes started glowing and Gabbro saw their memories flash before their eyes.</key>
-      <value>Gabbro fann Nómæ styttu á annarri eyju. Augu styttunnar glóðu og Gabbro sá minningar sínar dansa fyrir vitum sínum.</value>
+      <value>Gabbro fann Nómæ-styttu á annarri eyju. Augu styttunnar glóðu og Gabbro sá minningar sínar dansa fyrir vitum sínum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Gabbro’s IslandGabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue.</key>
@@ -12331,7 +12331,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Statue IslandOne of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth.</key>
-      <value>Ein eyjanna á Jötunsdýpi er með Nómæ styttu á ströndinni, alveg eins og sú sem Gabbro tók með sér til baka á Bjálkaból.</value>
+      <value>Ein eyjanna á Jötunsdýpi er með Nómæ-styttu á ströndinni, alveg eins og sú sem Gabbro tók með sér til baka á Bjálkaból.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Statue IslandStatue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.</key>
@@ -12343,7 +12343,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Statue IslandI found a Nomai statue lying on the beach. It looks just like the one in our observatory.</key>
-      <value>Ég fann Nómæ styttu liggjandi á ströndinni. Hún lítur alveg eins út og sú sem er í athugunarstöðinni okkar.</value>
+      <value>Ég fann Nómæ-styttu liggjandi á ströndinni. Hún lítur alveg eins út og sú sem er í athugunarstöðinni okkar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Statue Workshop</key>
@@ -12611,7 +12611,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin ProjectEvery memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.</key>
-      <value>Allar minningar teknar upp af Nómæ styttum eru sendar til hliðstæðrar minnishirslu inni í Sótsystur.</value>
+      <value>Allar minningar teknar upp af Nómæ-styttum eru sendar til hliðstæðrar minnishirslu inni í Sótsystur.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin ProjectAn advanced warp core was approved for installation in the central chamber of Ash Twin.</key>
@@ -13865,7 +13865,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>506</key>
-      <value>ENDURSTILLA AÐ NÓMÆ ÖRKINNI OG TIL BAKA Í AÐALVALMYND</value>
+      <value>ENDURSTILLA AÐ NÓMÆ-ÖRKINNI OG TIL BAKA Í AÐALVALMYND</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>510</key>
