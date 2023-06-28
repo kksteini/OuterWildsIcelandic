@@ -3497,7 +3497,7 @@
     <value>Jæja, að minnsta kosti var ég ekki étið. Tiltölulega góð útkoma, ekki satt klaklingur?</value>
   </entry>
   <entry>
-    <key>FoundSomething7You flew a Nómæan shuttle? You don’t say! How was it? How did it handle?</key>
+    <key>FoundSomething7You flew a Nomaian shuttle? You don’t say! How was it? How did it handle?</key>
     <value>Flaugstu Nómæskri geimferju? Hugsa sér! Hvernig var það? Hvernig lét hún að stjórn?</value>
   </entry>
   <entry>
@@ -8095,7 +8095,7 @@
     <value>Hér má sjá brot úr beinagrind Nómæa. Við getum séð af hauskúpum þeirra að þeir höfðu horn og, merkilega, eingöngu þrjú augu.</value>
   </entry>
   <entry>
-    <key>SignThe Nomai body was most likely adapted for living exclusively on land. The differences in the Nomai’s anatomy, such as their shockingly fragile bone structure, show us that Hearthians couldn’t have descended from Nómæan ancestors.</key>
+    <key>SignThe Nomai body was most likely adapted for living exclusively on land. The differences in the Nomai’s anatomy, such as their shockingly fragile bone structure, show us that Hearthians couldn’t have descended from Nomaian ancestors.</key>
     <value>Líkami Nómæa var líklegast til þess fallinn að lifa eingöngu á landi. Munurinn á þeirra líkamsbyggingu, eins og til dæmis hve sláandi veik bein þeirra voru, sýnir okkur að Bjálkabælingar geta ekki verið af þeim komnir.</value>
   </entry>
   <entry>
@@ -11470,7 +11470,7 @@ HLEÐ...???
       <value>Gesturinn</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
-      <key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nómæan in origin.</key>
+      <key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
       <value>Risastór hringlaga og tilbúin veröld sem falin er af einhvers konar hulinssviði. Virðist ekki vera smíð Bjálkabælinga né Nómæa.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
