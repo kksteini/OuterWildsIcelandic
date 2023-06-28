@@ -233,7 +233,7 @@
 			LAMI: At some festivals, one clan’s big discovery can mean all the Nomai get to advance, too. Like Annona’s warp core, which made it so everyone can warp long distances and explore more.
 		</key>
     <value>
-			LAMI: Á sumum hátíðum getur stóruppgötvun eins ættbálks þýtt að allir Nómæarnir taki framförum líka. Eins og varpkjarninn hans Annona, sem nú leyfir öllum að fjarflytjast langar vegalengdir og kanna meira.
+			LAMI: Á sumum hátíðum getur stóruppgötvun eins ættbálks þýtt að allir Nómæjarnir taki framförum líka. Eins og varpkjarninn hans Annona, sem nú leyfir öllum að fjarflytjast langar vegalengdir og kanna meira.
 		</value>
   </entry>
   <entry>
@@ -388,15 +388,15 @@
   </entry>
   <entry>
     <key>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</key>
-    <value>BELLS: Þessir Nómæar horfðu upp frá tveimur mismunandi plánetum og sáu sama reikitunglið heimsækja himna sína. Það var þetta tungl (&lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;) sem blés áframhaldandi lífi í forvitni þeirra þessi löngu harðindi.</value>
+    <value>BELLS: Þessir Nómæjar horfðu upp frá tveimur mismunandi plánetum og sáu sama reikitunglið heimsækja himna sína. Það var þetta tungl (&lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;) sem blés áframhaldandi lífi í forvitni þeirra þessi löngu harðindi.</value>
   </entry>
   <entry>
     <key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
-    <value>BELLS: Eftir að þessir tveir aðskildu hópar sameinuðust á ný, þá varð sameiginlegt markmið ættbálks okkar að finna og heimsækja &lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;. Þetta tók tíma, og margir Nómæar sem höfðu þann draum að fá að sjá &lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;, dóu áður en við uppgötvuðum hvernig mátti ferðast þangað.</value>
+    <value>BELLS: Eftir að þessir tveir aðskildu hópar sameinuðust á ný, þá varð sameiginlegt markmið ættbálks okkar að finna og heimsækja &lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;. Þetta tók tíma, og margir Nómæjar sem höfðu þann draum að fá að sjá &lt;color=lightblue&gt;Skammtatunglið&lt;/color&gt;, dóu áður en við uppgötvuðum hvernig mátti ferðast þangað.</value>
   </entry>
   <entry>
     <key>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</key>
-    <value>BELLS: Þegar þú nærð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;, skaltu minnast þessa Nómæa, og hafðu meðferðis þeirra.</value>
+    <value>BELLS: Þegar þú nærð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;, skaltu minnast þessa Nómæja, og hafðu meðferðis þeirra.</value>
   </entry>
   <entry>
     <key>
@@ -1098,7 +1098,7 @@
   </entry>
   <entry>
     <key>Wrong1Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</key>
-    <value>Já, að margfalda lifandi verur er örugglega ekki það sem Nómæarnir höfðu í huga þegar þeir byggðu Sótsysturverkefnið.</value>
+    <value>Já, að margfalda lifandi verur er örugglega ekki það sem Nómæjarnir höfðu í huga þegar þeir byggðu Sótsysturverkefnið.</value>
   </entry>
   <entry>
     <key>SelfWrong1I wonder if we have the same memories.</key>
@@ -1522,7 +1522,7 @@
   </entry>
   <entry>
     <key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
-    <value>CLARY: Rétt eins og næsti Nómæi kann ég að meta nákvæmni, en segjum sem svo að undirstaða eins turnsins myndi hliðrast ögn, þá myndi sá turn ekki lengur vera í línu við miðju síns himintungls.</value>
+    <value>CLARY: Rétt eins og næsti Nómæji kann ég að meta nákvæmni, en segjum sem svo að undirstaða eins turnsins myndi hliðrast ögn, þá myndi sá turn ekki lengur vera í línu við miðju síns himintungls.</value>
   </entry>
   <entry>
     <key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
@@ -1538,7 +1538,7 @@
   </entry>
   <entry>
     <key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
-    <value>CLARY: Nánar tiltekið, ég kann að meta nákvæmni jafn mikið og næsti Nómæi svo lengi sem að næsti Nómæi er ekki Poke.</value>
+    <value>CLARY: Nánar tiltekið, ég kann að meta nákvæmni jafn mikið og næsti Nómæji svo lengi sem að næsti Nómæji er ekki Poke.</value>
   </entry>
   <entry>
     <key>ROOT: Where am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</key>
@@ -1994,7 +1994,7 @@
   </entry>
   <entry>
     <key>FoundSomething1_3FSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-    <value>Þannig að Nómæarnir bjuggu til þessar styttur til þess að geyma minningar? ...Já, ég sé alveg fyrir mér Nómæana gera það. Veit ekki af hverju þeir myndu gera það en það er svosem líkt þeim.</value>
+    <value>Þannig að Nómæjarnir bjuggu til þessar styttur til þess að geyma minningar? ...Já, ég sé alveg fyrir mér Nómæjana gera það. Veit ekki af hverju þeir myndu gera það en það er svosem líkt þeim.</value>
   </entry>
   <entry>
     <key>FoundSomething1_3FDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
@@ -2010,11 +2010,11 @@
   </entry>
   <entry>
     <key>FoundSomething1bIf you come up with any hunches about what the Nomai wanted to record memories for, feel free to run them by me! You know where I’ll be.</key>
-    <value>Ef þú færð einhverjar hugdettur um af hverju Nómæarnir vildu geyma minningar, endilega komdu og spjallaðu við mig. Þú veist hvar ég verð.</value>
+    <value>Ef þú færð einhverjar hugdettur um af hverju Nómæjarnir vildu geyma minningar, endilega komdu og spjallaðu við mig. Þú veist hvar ég verð.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3FWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>Bíddu, ha? Í alvörunni? Nómæarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
+    <value>Bíddu, ha? Í alvörunni? Nómæjarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3FNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -2086,7 +2086,7 @@
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3F...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-    <value>...Það er eiginlega óhugnanlegt hve mikið það hljómar eins og eitthvað sem Slate eða Feldspar myndu gera. Kemur mér virkilega á óvart að Nómæarnir byggðu eitthvað sem síðan bilar með þessum gríðarlegu afleiðingum!</value>
+    <value>...Það er eiginlega óhugnanlegt hve mikið það hljómar eins og eitthvað sem Slate eða Feldspar myndu gera. Kemur mér virkilega á óvart að Nómæjarnir byggðu eitthvað sem síðan bilar með þessum gríðarlegu afleiðingum!</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3FCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
@@ -2098,7 +2098,7 @@
   </entry>
   <entry>
     <key>FoundSomething4b_3FI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
-    <value>Kemur mér enn á óvart að Nómæarnir byggðu eitthvað sem helst ekki saman, skilurðu? Þeir verandi ofursnjallir smiðir og svoleiðis.</value>
+    <value>Kemur mér enn á óvart að Nómæjarnir byggðu eitthvað sem helst ekki saman, skilurðu? Þeir verandi ofursnjallir smiðir og svoleiðis.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3FOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
@@ -2298,7 +2298,7 @@
   </entry>
   <entry>
     <key>FoundSomething1_3TSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-    <value>Þannig að Nómæarnir bjuggu til þessar styttur til þess að geyma minningar? ...Já, ég sé alveg fyrir mér Nómæana gera það. Veit ekki af hverju þeir myndu gera það en það er svosem líkt þeim.</value>
+    <value>Þannig að Nómæjarnir bjuggu til þessar styttur til þess að geyma minningar? ...Já, ég sé alveg fyrir mér Nómæjana gera það. Veit ekki af hverju þeir myndu gera það en það er svosem líkt þeim.</value>
   </entry>
   <entry>
     <key>FoundSomething1_3TDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
@@ -2306,7 +2306,7 @@
   </entry>
   <entry>
     <key>FoundSomething2_3TWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>Bíddu, ha? Í alvörunni? Nómæarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
+    <value>Bíddu, ha? Í alvörunni? Nómæjarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -2358,7 +2358,7 @@
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3T...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-    <value>...Það er eiginlega óhugnanlegt hve mikið það hljómar eins og eitthvað sem Slate eða Feldspar myndu gera. Kemur mér virkilega á óvart að Nómæarnir byggðu eitthvað sem síðan bilar með þessum gríðarlegu afleiðingum!</value>
+    <value>...Það er eiginlega óhugnanlegt hve mikið það hljómar eins og eitthvað sem Slate eða Feldspar myndu gera. Kemur mér virkilega á óvart að Nómæjarnir byggðu eitthvað sem síðan bilar með þessum gríðarlegu afleiðingum!</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3TCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
@@ -2370,7 +2370,7 @@
   </entry>
   <entry>
     <key>FoundSomething4b_3TI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
-    <value>Kemur mér enn á óvart að Nómæarnir byggðu eitthvað sem helst ekki saman, skilurðu? Þeir verandi ofursnjallir smiðir og svoleiðis.</value>
+    <value>Kemur mér enn á óvart að Nómæjarnir byggðu eitthvað sem helst ekki saman, skilurðu? Þeir verandi ofursnjallir smiðir og svoleiðis.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3TOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
@@ -2494,7 +2494,7 @@
   </entry>
   <entry>
     <key>FoundSomething1_mergeSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-    <value>Þannig að Nómæarnir bjuggu til þessar styttur til þess að geyma minningar? ...Já, ég sé alveg fyrir mér Nómæana gera það. Veit ekki af hverju þeir myndu gera það en það er svosem líkt þeim.</value>
+    <value>Þannig að Nómæjarnir bjuggu til þessar styttur til þess að geyma minningar? ...Já, ég sé alveg fyrir mér Nómæjana gera það. Veit ekki af hverju þeir myndu gera það en það er svosem líkt þeim.</value>
   </entry>
   <entry>
     <key>FoundSomething1_mergeDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
@@ -2502,7 +2502,7 @@
   </entry>
   <entry>
     <key>FoundSomething2_mergeWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>Bíddu, ha? Í alvörunni? Nómæarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
+    <value>Bíddu, ha? Í alvörunni? Nómæjarnir holuðu Sótsystur að innan og byggðu þar inni tímalykkjubúnað? ...Það er &lt;i&gt;galið&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -2554,7 +2554,7 @@
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_merge...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-    <value>...Það er eiginlega óhugnanlegt hve mikið það hljómar eins og eitthvað sem Slate eða Feldspar myndu gera. Kemur mér virkilega á óvart að Nómæarnir byggðu eitthvað sem síðan bilar með þessum gríðarlegu afleiðingum!</value>
+    <value>...Það er eiginlega óhugnanlegt hve mikið það hljómar eins og eitthvað sem Slate eða Feldspar myndu gera. Kemur mér virkilega á óvart að Nómæjarnir byggðu eitthvað sem síðan bilar með þessum gríðarlegu afleiðingum!</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_mergeCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
@@ -3418,7 +3418,7 @@
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found Nomai writing saying anglerfish are blind.</key>
-    <value>Ég fann skriftir Nómæa sem segja að fiskskrattar séu blindir.</value>
+    <value>Ég fann skriftir Nómæja sem segja að fiskskrattar séu blindir.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found a Nomai shuttle and flew it!</key>
@@ -3798,7 +3798,7 @@
   </entry>
   <entry>
     <key>Friend5Makes me wish we could see what a real live Nomai looks like, but I guess this is as close as we’ll ever get. Check it out - looks like they had fur! Fur is &lt;i&gt;weird&lt;/i&gt;.</key>
-    <value>Ég vildi að ég gæti séð hvernig alvöru lifandi Nómæi lítur út, en ætli þetta sé ekki eins nálægt og við komumst. Sjáðu þetta - lítur út fyrir að þeir höfðu feld! Feld er &lt;i&gt;skrítinn&lt;/i&gt;.</value>
+    <value>Ég vildi að ég gæti séð hvernig alvöru lifandi Nómæji lítur út, en ætli þetta sé ekki eins nálægt og við komumst. Sjáðu þetta - lítur út fyrir að þeir höfðu feld! Feld er &lt;i&gt;skrítinn&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>Friend5This is the first fully intact statue ever found, you know. And for how old it is, it’s in great shape!</key>
@@ -3854,7 +3854,7 @@
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGEWhy did the Nomai make this statue?</key>
-    <value>Af hverju gerðu Nómæarnir þessa styttu?</value>
+    <value>Af hverju gerðu Nómæjarnir þessa styttu?</value>
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGEThink I’ll discover anything cool in space?</key>
@@ -3878,7 +3878,7 @@
   </entry>
   <entry>
     <key>HalFriendMenuWhy did the Nomai make this statue?</key>
-    <value>Af hverju gerðu Nómæarnir þessa styttu?</value>
+    <value>Af hverju gerðu Nómæjarnir þessa styttu?</value>
   </entry>
   <entry>
     <key>HalFriendMenuThink I’ll discover anything cool in space?</key>
@@ -3906,7 +3906,7 @@
   </entry>
   <entry>
     <key>Friend7Hornfels doesn’t know much about it yet, just that it’s &lt;i&gt;crazy&lt;/i&gt; old and super tough. I wonder why the Nomai carved it?</key>
-    <value>Hornfels veit ekki mikið um hana ennþá, bara að hún er &lt;i&gt;fáránlega&lt;/i&gt; gömul og einstaklega slitþolin. Af hverju ætli Nómæarnir hafi skorið hana út?</value>
+    <value>Hornfels veit ekki mikið um hana ennþá, bara að hún er &lt;i&gt;fáránlega&lt;/i&gt; gömul og einstaklega slitþolin. Af hverju ætli Nómæjarnir hafi skorið hana út?</value>
   </entry>
   <entry>
     <key>Friend7Apparently, Gabbro went back to Giant’s Deep to try to learn more about the statue. Maybe they’ll find some answers there.</key>
@@ -3914,7 +3914,7 @@
   </entry>
   <entry>
     <key>Friend8Hey, you never know — maybe you’ll be the one to solve the mysteries of the Nomai!</key>
-    <value>Heyrðu, maður veit aldrei — kannski mun þér takast að leysa ráðgátur Nómæanna.</value>
+    <value>Heyrðu, maður veit aldrei — kannski mun þér takast að leysa ráðgátur Nómæjanna.</value>
   </entry>
   <entry>
     <key>Friend8Or maybe you’ll discover a new kind of rock or something.</key>
@@ -4125,7 +4125,7 @@
   </entry>
   <entry>
     <key>PYE: Records show Nomai arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; very slightly before departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. Ramie and I are devising an experiment to test if this is a real phenomenon or simple machine error.</key>
-    <value>PYE: Atburðaskrá sýnir Nómæa lenda á varpmóttakaranum á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; örlítið áður en þeir fara frá &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;. Ég og Ramie ætlum okkur að upphugsa tilraun til þess að komast að því hvort um alvöru fyrirbrigði sé að ræða eða bara einfaldar tækjavillur.</value>
+    <value>PYE: Atburðaskrá sýnir Nómæja lenda á varpmóttakaranum á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; örlítið áður en þeir fara frá &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;. Ég og Ramie ætlum okkur að upphugsa tilraun til þess að komast að því hvort um alvöru fyrirbrigði sé að ræða eða bara einfaldar tækjavillur.</value>
   </entry>
   <entry>
     <key>RAMIE: In theory, what we want to try to reproduce is a negative amount of time elapsing between something entering the black hole and exiting the white hole at its destination.</key>
@@ -4771,7 +4771,7 @@
   </entry>
   <entry>
     <key>PHLOX: This would require a return to &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. Plume (my father) said many good Nomai perished there.</key>
-    <value>PHLOX: Við myndum þurfa að snúa aftur til &lt;color=lightblue&gt;Þokuþyrnis&lt;/color&gt;. Plume (faðir minn) sagði að margir góðir Nómæar hafi látið lífið þar.</value>
+    <value>PHLOX: Við myndum þurfa að snúa aftur til &lt;color=lightblue&gt;Þokuþyrnis&lt;/color&gt;. Plume (faðir minn) sagði að margir góðir Nómæjar hafi látið lífið þar.</value>
   </entry>
   <entry>
     <key>CYCAD: My mentor (Coleus) and his old mentor once discovered and studied an anglerfish fossil on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;. Using that knowledge, we could avoid the anglerfish entirely!</key>
@@ -4854,7 +4854,7 @@
 			ILEX: It’s unusual for Nomai to remain in one place for so long. Nomai are wanderers and have no permanent home.
 		</key>
     <value>
-			ILEX: Það er óvenjulegt fyrir Nómæa að vera kyrrir svo lengi. Nómæar tilheyra flökkusamfélagi og hafa ekkert varanlegt heimili.
+			ILEX: Það er óvenjulegt fyrir Nómæja að vera kyrrir svo lengi. Nómæjar tilheyra flökkusamfélagi og hafa ekkert varanlegt heimili.
 		</value>
   </entry>
   <entry>
@@ -4870,7 +4870,7 @@
 			ILEX: We could even meet with other Nomai, and learn from them, like Coleus says we used to do.
 		</key>
     <value>
-			ILEX: Við gætum jafnvel hitt aðra Nómæa og lært af þeim, eins og Coleus segir að við gerðum áður fyrr. 
+			ILEX: Við gætum jafnvel hitt aðra Nómæja og lært af þeim, eins og Coleus segir að við gerðum áður fyrr. 
 		</value>
   </entry>
   <entry>
@@ -5262,7 +5262,7 @@
 			SOLANUM: They say it brought us to this solar system, but is that good? Dad told me lots of Nomai died when our clan came here.
 		</key>
     <value>
-			SOLANUM: Þau segja að það færði okkur hingað í þetta sólkerfi, en er það gott? Pabbi sagði mér að margir Nómæar dóu þegar ættbálkur okkar kom hingað.
+			SOLANUM: Þau segja að það færði okkur hingað í þetta sólkerfi, en er það gott? Pabbi sagði mér að margir Nómæjar dóu þegar ættbálkur okkar kom hingað.
 		</value>
   </entry>
   <entry>
@@ -5611,7 +5611,7 @@
 			SECCA: It’s almost too faint to hear now, but the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is still faintly emitting from within this thorny seed. Yet the opening is too small for even a single Nomai to fit through it, so our &lt;color=orange&gt;escape pod&lt;/color&gt; couldn’t have flown through here.
 		</key>
     <value>
-			SECCA: Það heyrist varla lengur í því en neyðarviti &lt;color=orange&gt;Arkarinnar&lt;/color&gt; gefur frá sér dauft merki innan úr þessu þyrnifræi. En opið á fræinu er of lítið, jafnvel fyrir lítinn Nómæa, til þess að komast í gegn. Þannig að &lt;color=orange&gt;björgunarbáturinn&lt;/color&gt; okkar getur ekki haft flogið þarna í gegn.
+			SECCA: Það heyrist varla lengur í því en neyðarviti &lt;color=orange&gt;Arkarinnar&lt;/color&gt; gefur frá sér dauft merki innan úr þessu þyrnifræi. En opið á fræinu er of lítið, jafnvel fyrir lítinn Nómæja, til þess að komast í gegn. Þannig að &lt;color=orange&gt;björgunarbáturinn&lt;/color&gt; okkar getur ekki haft flogið þarna í gegn.
 		</value>
   </entry>
   <entry>
@@ -6047,7 +6047,7 @@
 			PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; slightly &lt;i&gt;before&lt;/i&gt; departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
     <value>
-			PYE: Ég og Ramie fórum fyrir færslurnar sem þú sendir, Poke, og þær virðast benda til þess að Nómæar séu að koma að varpmóttakaranum á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; örlítið &lt;i&gt;áður&lt;/i&gt; en þeir fara frá &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;.
+			PYE: Ég og Ramie fórum fyrir færslurnar sem þú sendir, Poke, og þær virðast benda til þess að Nómæjar séu að koma að varpmóttakaranum á &lt;color=lightblue&gt;Brotholi&lt;/color&gt; örlítið &lt;i&gt;áður&lt;/i&gt; en þeir fara frá &lt;color=orange&gt;Hvítholsstöðinni&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -6071,7 +6071,7 @@
 			PYE: As I’ve already told Ramie, these measurements can’t be accurate. How can a Nomai arrive on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; before he or she ever stepped into the teleporter? The implications are absurd.
 		</key>
     <value>
-			PYE: Eins og ég hef þegar sagt, Ramie, hvernig geta þessar mælingar verið réttar. Hvernig getur Nómæi komið til &lt;color=lightblue&gt;Brothols&lt;/color&gt; áður en hann eða hún stígur fæti á varppallinn? Afleiðingarnar væru fáránlegar.
+			PYE: Eins og ég hef þegar sagt, Ramie, hvernig geta þessar mælingar verið réttar. Hvernig getur Nómæji komið til &lt;color=lightblue&gt;Brothols&lt;/color&gt; áður en hann eða hún stígur fæti á varppallinn? Afleiðingarnar væru fáránlegar.
 		</value>
   </entry>
   <entry>
@@ -6128,11 +6128,11 @@
   </entry>
   <entry>
     <key>SignClearly, the Nomai were making astronomical observations here. They chose an excellent spot!</key>
-    <value>Það gefur auga leið að Nómæarnir notuðu þennan stað í stjörnufræðiathuganir. Þeir völdu frábæran stað.</value>
+    <value>Það gefur auga leið að Nómæjarnir notuðu þennan stað í stjörnufræðiathuganir. Þeir völdu frábæran stað.</value>
   </entry>
   <entry>
     <key>SignWhat is this big, rotating device for? What was it the Nomai were observing?</key>
-    <value>Hvaða hlutverki gegnir þetta risastóra snúningstæki? Hverju voru Nómæarnir að fylgjast með?</value>
+    <value>Hvaða hlutverki gegnir þetta risastóra snúningstæki? Hverju voru Nómæjarnir að fylgjast með?</value>
   </entry>
   <entry>
     <key>SignI’d posit there’s something special about the orange symbol on that device. Hal and the new astronaut’s translator tool would be nice to have handy about now.</key>
@@ -6560,7 +6560,7 @@
   </entry>
   <entry>
     <key>HalPostConvoMenuWhy did the Nomai make that statue?</key>
-    <value>Af hverju bjuggu Nómæarnir til þessa styttu?</value>
+    <value>Af hverju bjuggu Nómæjarnir til þessa styttu?</value>
   </entry>
   <entry>
     <key>HalPostConvoMenuWonder if I’ll discover anything cool in space.</key>
@@ -6588,7 +6588,7 @@
   </entry>
   <entry>
     <key>PostConvo2Hornfels doesn’t know much about it yet, just that it’s &lt;i&gt;crazy&lt;/i&gt; old and super tough. I wonder why the Nomai carved it?</key>
-    <value>Hornfels veit ekki mikið um hana ennþá, bara að hún er &lt;i&gt;fáránlega&lt;/i&gt; gömul og einstaklega slitþolin. Af hverju ætli Nómæarnir hafi skorið hana út?</value>
+    <value>Hornfels veit ekki mikið um hana ennþá, bara að hún er &lt;i&gt;fáránlega&lt;/i&gt; gömul og einstaklega slitþolin. Af hverju ætli Nómæjarnir hafi skorið hana út?</value>
   </entry>
   <entry>
     <key>PostConvo2Apparently, Gabbro went back to Giant’s Deep to try to learn more about the statue. Maybe they’ll find some answers there.</key>
@@ -6608,7 +6608,7 @@
   </entry>
   <entry>
     <key>PostConvo4Hey, you never know — maybe you’ll be the one to uncover the Nomai’s mysteries!</key>
-    <value>Maður veit aldrei — kannski munt þú verða Bjálkabælingurinn sem flettir ofan af leyndarmálum Nómæanna!</value>
+    <value>Maður veit aldrei — kannski munt þú verða Bjálkabælingurinn sem flettir ofan af leyndarmálum Nómæjanna!</value>
   </entry>
   <entry>
     <key>PostConvo4Or maybe you’ll discover a new kind of rock or something.</key>
@@ -6816,15 +6816,15 @@
   </entry>
   <entry>
     <key>RiebecksJournalAt first I thought this was an old Nomai settlement, but on closer inspection, I don’t think anyone ever lived here. These buildings are atypical for Nomai dwellings.</key>
-    <value>Í fyrstu hélt ég að þetta væri gömul Nómæbyggð en við nánari athugun þá held ég að enginn hafi nokkurn tíma búið hérna. Þessar byggingar eru frábrugðnar dvalarstöðum Nómæa.</value>
+    <value>Í fyrstu hélt ég að þetta væri gömul Nómæbyggð en við nánari athugun þá held ég að enginn hafi nokkurn tíma búið hérna. Þessar byggingar eru frábrugðnar dvalarstöðum Nómæja.</value>
   </entry>
   <entry>
     <key>RiebecksJournalMy best guess? This could be where the Nomai made gravity crystals. We know they mined raw from material from below the crust on Brittle Hollow, then refined that material to produce the crystals.</key>
-    <value>Mitt helsta gisk væri að Nómæarnir hafi notað þennan stað til þess að búa til þyngdaraflskristala. Við vitum að þeir unnu hrátt efni úr námu undir yfirborði Brothols, og unnu svo nánar með efnið til þess að framleiða kristalana.</value>
+    <value>Mitt helsta gisk væri að Nómæjarnir hafi notað þennan stað til þess að búa til þyngdaraflskristala. Við vitum að þeir unnu hrátt efni úr námu undir yfirborði Brothols, og unnu svo nánar með efnið til þess að framleiða kristalana.</value>
   </entry>
   <entry>
     <key>RiebecksJournalGravity crystals produce a local gravity distortion that affects the area around them, up to a certain radius. They’re very clever! Nomai used them to anchor themselves to surfaces they might want to traverse down.</key>
-    <value>Þyngdaraflskristalar afmynda þyngdaraflssviðið í ákveðinn radíus í kringum sig. Mjög snjöll uppfinning. Nómæar notuðu þá til að halda sér föstum á hvaða yfirborði sem þeir gætu viljað ferðast yfir.</value>
+    <value>Þyngdaraflskristalar afmynda þyngdaraflssviðið í ákveðinn radíus í kringum sig. Mjög snjöll uppfinning. Nómæjar notuðu þá til að halda sér föstum á hvaða yfirborði sem þeir gætu viljað ferðast yfir.</value>
   </entry>
   <entry>
     <key>RiebecksJournalWe Hearthians have borrowed their technology in our ships, where gravity crystals keep astronauts anchored to just one flat plane (thank the stars!).</key>
@@ -7664,7 +7664,7 @@
   </entry>
   <entry>
     <key>SignThis crystal was taken from a Nomai ruin on Brittle Hollow.</key>
-    <value>Þessi kristall var tekinn úr rústum Nómæa á Brotholi.</value>
+    <value>Þessi kristall var tekinn úr rústum Nómæja á Brotholi.</value>
   </entry>
   <entry>
     <key>SignIt seems to create a local gravity distortion, and was most likely used to traverse steep surfaces. Try it out!</key>
@@ -7744,11 +7744,11 @@
   </entry>
   <entry>
     <key>SignThis remarkably intact statue was carved by the Nomai, an ancient species who dwelled in our solar system thousands of years ago.</key>
-    <value>Þessi óvenjulega vel varðveitta stytta var skorin út af Nómæunum, ævaforn tegund sem bjó í sólkerfinu okkar fyrir þúsundum ára síðan.</value>
+    <value>Þessi óvenjulega vel varðveitta stytta var skorin út af Nómæjunum, ævaforn tegund sem bjó í sólkerfinu okkar fyrir þúsundum ára síðan.</value>
   </entry>
   <entry>
     <key>SignThe statue provides us with our most detailed look yet at the Nomai, who appear to have been covered with a layer of fur. Note the decorative jewelry that has been carved as part of the antlers.</key>
-    <value>Hingað til er styttan okkar skýrasta mynd af Nómæum, en þeir virðast hafa verið þaktir feld. Takið eftir skartinu sem hefur verið skorið út með hornunum.</value>
+    <value>Hingað til er styttan okkar skýrasta mynd af Nómæjum, en þeir virðast hafa verið þaktir feld. Takið eftir skartinu sem hefur verið skorið út með hornunum.</value>
   </entry>
   <entry>
     <key>SignAlthough their artifacts and structures have been found on almost every planet in this solar system, we still have no idea where this species came from or what happened to them.</key>
@@ -7764,15 +7764,15 @@
   </entry>
   <entry>
     <key>SignAside from the dwellings and structures they built, the Nomai also made art. This decorated pottery was discovered on Brittle Hollow.</key>
-    <value>Fyrir utan bústaði og byggingar, þá skildu Nómæarnir einnig eftir sig listaverk. Þessi skreytti pottur fannst á Brotholi.</value>
+    <value>Fyrir utan bústaði og byggingar, þá skildu Nómæjarnir einnig eftir sig listaverk. Þessi skreytti pottur fannst á Brotholi.</value>
   </entry>
   <entry>
     <key>SignSome ancient Nomai art depicts strange animals, foreign celestial objects, and other subjects that can’t be found in our solar system, which makes us wonder whether the Nomai originated elsewhere in the universe or simply had vibrant imaginations.</key>
-    <value>Sumar listrænar fornleifaminjar Nómæa draga upp myndir af skrítnum dýrum, framandi himintunglum og önnur viðfangsefni sem fyrirfinnast ekki í okkar sólkerfi. Af því má spyrja hvort Nómæarnir hafi átt uppruna sinn annars staðar í alheiminum eða höfðu einfaldlega fjörugt ímyndunarafl.</value>
+    <value>Sumar listrænar fornleifaminjar Nómæja draga upp myndir af skrítnum dýrum, framandi himintunglum og önnur viðfangsefni sem fyrirfinnast ekki í okkar sólkerfi. Af því má spyrja hvort Nómæjarnir hafi átt uppruna sinn annars staðar í alheiminum eða höfðu einfaldlega fjörugt ímyndunarafl.</value>
   </entry>
   <entry>
     <key>SignWere the Nomai born in our solar system? Or were they born among other stars and planets - and if they were, how and why did they come here?</key>
-    <value>Komu Nómæarnir fram á sjónarsviðið hér í okkar sólkerfi? Eða áttu þeir rætur sínar að rekja til annarra stjarna og pláneta - og ef svo er, af hverju og hvernig komu þeir hingað?</value>
+    <value>Komu Nómæjarnir fram á sjónarsviðið hér í okkar sólkerfi? Eða áttu þeir rætur sínar að rekja til annarra stjarna og pláneta - og ef svo er, af hverju og hvernig komu þeir hingað?</value>
   </entry>
   <entry>
     <key>SignThese are just some of the questions we hope to answer through further xenoarchaeological expeditions.</key>
@@ -7788,7 +7788,7 @@
   </entry>
   <entry>
     <key>SignThe Nomai never got to see it for themselves, but thanks to their efforts and technology, a Hearthian was able to reach the Eye of the universe.</key>
-    <value>Nómæarnir fengu aldrei að sjá það sjálfir, en þökk sé þeirra erfiðismunum og tækni, þá gat Bjálkabælingur nokkur komist alla leið að Auga alheimsins.</value>
+    <value>Nómæjarnir fengu aldrei að sjá það sjálfir, en þökk sé þeirra erfiðismunum og tækni, þá gat Bjálkabælingur nokkur komist alla leið að Auga alheimsins.</value>
   </entry>
   <entry>
     <key>SignThe strange rock moving around in this grotto appears to react to conscious observation.</key>
@@ -7892,11 +7892,11 @@
   </entry>
   <entry>
     <key>RiebeckArcheologistBrittle Hollow is rich with Nomai history. That’s why I’m here. This planet is an absolute treasure trove of culture, history, and science.</key>
-    <value>Brothol er sneisafullt af sögu Nómæa. Þess vegna er ég hérna. Þessi pláneta er algjör gullkista af menningu, sögu og vísindum.</value>
+    <value>Brothol er sneisafullt af sögu Nómæja. Þess vegna er ég hérna. Þessi pláneta er algjör gullkista af menningu, sögu og vísindum.</value>
   </entry>
   <entry>
     <key>RiebeckArcheologistIf you have any questions about the Brittle Hollow Nomai, I’m your Hearthian! Or, um... I have some knowledge of them, I mean. So. &lt;size=20&gt;Maybe I can help?&lt;/size&gt;</key>
-    <value>Ef þú hefur einhverjar spurningar um Brotholsnómæana, þá ertu að tala við réttan Bjálkabæling! Eða, ömm... Ég veit eitthvað um þá, meina ég. Svo. &lt;size=20&gt;Kannski get ég hjálpað?&lt;/size&gt;</value>
+    <value>Ef þú hefur einhverjar spurningar um BrotholsNómæjana, þá ertu að tala við réttan Bjálkabæling! Eða, ömm... Ég veit eitthvað um þá, meina ég. Svo. &lt;size=20&gt;Kannski get ég hjálpað?&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>RiebeckExploreOh wow, where &lt;i&gt;shouldn’t&lt;/i&gt; you explore here?&lt;Pause&gt; Um, not the &lt;size=20&gt;black hole&lt;/size&gt;, actually. That’s... very no.</key>
@@ -7912,7 +7912,7 @@
   </entry>
   <entry>
     <key>RiebeckExploreGood luck with exploring. Um, if you learn anything about the Nomai, I’d love to hear it, &lt;size=20&gt;if it’s not too much trouble?&lt;/size&gt;</key>
-    <value>Gangi þér vel að kanna svæðið. Ömm, ef þú kemst að einhverju nýju um Nómæana, þá þætti mér æðislegt að fá að heyra það, &lt;size=20&gt;ef það er ekki of mikið vesen?&lt;/size&gt;</value>
+    <value>Gangi þér vel að kanna svæðið. Ömm, ef þú kemst að einhverju nýju um Nómæjana, þá þætti mér æðislegt að fá að heyra það, &lt;size=20&gt;ef það er ekki of mikið vesen?&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>RiebeckLearnedOh, cool! &lt;Pause/&gt;Um, what is it?</key>
@@ -7948,7 +7948,7 @@
   </entry>
   <entry>
     <key>RiebeckRiebeckLearnedI TALKED TO A LIVING NOMAI!</key>
-    <value>ÉG TALAÐI VIÐ LIFANDI NómæA.</value>
+    <value>ÉG TALAÐI VIÐ LIFANDI Nómæja.</value>
   </entry>
   <entry>
     <key>RiebeckRiebeckLearnedActually, nevermind.</key>
@@ -7956,11 +7956,11 @@
   </entry>
   <entry>
     <key>RiebeckLearned_ExitOh, okay. If you do learn something new about the Nomai, though, I’d love to hear it! Um, if you don’t mind, I mean.</key>
-    <value>Ó, allt í lagi. Ef þú lærir samt eitthvað nýtt um Nómæana máttu láta mig vita. Ég myndi vilja heyra frá því! Ömm, ef þér er sama, meina ég.</value>
+    <value>Ó, allt í lagi. Ef þú lærir samt eitthvað nýtt um Nómæjana máttu láta mig vita. Ég myndi vilja heyra frá því! Ömm, ef þér er sama, meina ég.</value>
   </entry>
   <entry>
     <key>RiebeckLearned_1Wow! So then, the Nomai probably came here from somewhere outside the solar system. And they must have been in trouble when they launched their escape pod... but what kind of trouble?</key>
-    <value>Vá! Þannig að Nómæarnir komu líklega hingað einhversstaðar utan sólkerfisins. Og þeir hljóta að hafa verið í vandræðum miðað við að þeir lentu í björgunarbátum... en hvaða vandræðum?</value>
+    <value>Vá! Þannig að Nómæjarnir komu líklega hingað einhversstaðar utan sólkerfisins. Og þeir hljóta að hafa verið í vandræðum miðað við að þeir lentu í björgunarbátum... en hvaða vandræðum?</value>
   </entry>
   <entry>
     <key>RiebeckLearned_1And where did the escape pod launch from? I’m so curious!</key>
@@ -7968,7 +7968,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_1This is an amazing discovery. I hope we can find out more about how and why the Nomai arrived here!</key>
-    <value>Þetta er ótrúleg uppgötvun. Ég vona að við komumst betur að því af hverju og hvernig Nómæarnir komu hingað!</value>
+    <value>Þetta er ótrúleg uppgötvun. Ég vona að við komumst betur að því af hverju og hvernig Nómæjarnir komu hingað!</value>
   </entry>
   <entry>
     <key>RiebeckLearned_2You did?! That, that’s incredible, congratulations!</key>
@@ -7984,7 +7984,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_2Hey, I... I might not be much of an astronaut, but I’m really glad I came out here to see the Nomai’s artifacts for myself. And, um, thanks for telling me. &lt;Pause/&gt;About the Vessel, I mean.</key>
-    <value>Heyrðu, ég... ég er ekki mikill geimfari, en ég er mjög ánægt að ég hafi komið hingað til þess að sjá leifar Nómæanna í eigin persónu. Og, ömm, takk fyrir að segja mér frá þessu. &lt;Pause/&gt;Frá örkinni þeirra, meina ég.</value>
+    <value>Heyrðu, ég... ég er ekki mikill geimfari, en ég er mjög ánægt að ég hafi komið hingað til þess að sjá leifar Nómæjanna í eigin persónu. Og, ömm, takk fyrir að segja mér frá þessu. &lt;Pause/&gt;Frá örkinni þeirra, meina ég.</value>
   </entry>
   <entry>
     <key>RiebeckLearned_3Isn’t it amazing? Hard to believe the settlement is still standing, but there it is.</key>
@@ -8000,11 +8000,11 @@
   </entry>
   <entry>
     <key>RiebeckLearned_4The Hanging City is where the Nomai settled permanently on Brittle Hollow. It was their most advanced settlement here!</key>
-    <value>Hengiborgin var varanleg byggð Nómæa á Brotholi. Hún er háþróaðasta byggðin þeirra hérna!</value>
+    <value>Hengiborgin var varanleg byggð Nómæja á Brotholi. Hún er háþróaðasta byggðin þeirra hérna!</value>
   </entry>
   <entry>
     <key>RiebeckLearned_4Why they chose to build their most advanced settlement so close to a &lt;i&gt;you-know-what&lt;/i&gt; is beyond me. Maybe that kind of thing makes sense to a Nomai, though. ...Maybe they needed the &lt;size=20&gt;black hole&lt;/size&gt; for something?</key>
-    <value>Hvernig þeim datt í hug að reisa sína háþróuðustu byggð svo nálægt &lt;i&gt;þú-veist-hverju&lt;/i&gt; get ég ekki skilið. Kannski var eitthvað vit í því fyrir Nómæana, þú veist... kannski þurftu þeir &lt;size=20&gt;svartholið&lt;/size&gt; í eitthvað?</value>
+    <value>Hvernig þeim datt í hug að reisa sína háþróuðustu byggð svo nálægt &lt;i&gt;þú-veist-hverju&lt;/i&gt; get ég ekki skilið. Kannski var eitthvað vit í því fyrir Nómæjana, þú veist... kannski þurftu þeir &lt;size=20&gt;svartholið&lt;/size&gt; í eitthvað?</value>
   </entry>
   <entry>
     <key>RiebeckLearned_5You mean there’s another Nomai city &lt;i&gt;inside&lt;/i&gt; of Ember Twin? That’s incredible! A whole city, and I had no idea it existed! This is great!</key>
@@ -8012,27 +8012,27 @@
   </entry>
   <entry>
     <key>RiebeckLearned_5How did they keep the sand out? If it were me, I’d be nervous about getting buried in the caves by that awful river of sand. Gosh, the Nomai sure were ingenius, building an entire settlement underground. The Sunless City! ...Wow!</key>
-    <value>Hvernig héldu þeir sandinum í skefjum? Ef ég væri þarna yrði ég rosalega stressað yfir því að grafast niður. Jahá, Nómæarnir voru svo sannarlega snjallir, heil byggð neðanjarðar. Birtulausa Borgin! ...Vá!</value>
+    <value>Hvernig héldu þeir sandinum í skefjum? Ef ég væri þarna yrði ég rosalega stressað yfir því að grafast niður. Jahá, Nómæjarnir voru svo sannarlega snjallir, heil byggð neðanjarðar. Birtulausa Borgin! ...Vá!</value>
   </entry>
   <entry>
     <key>RiebeckLearned_5That means there were two groups of Nomai — one that lived on Ember Twin, and one that lived here on Brittle Hollow. But they must have traveled around the solar system, since Nomai writing can be found on other planets, too.</key>
-    <value>Það þýðir að það voru tveir hópar af Nómæum — einn á Blossabróður og annar sem bjó hér á Brotholi. En þeir hljóta að hafa ferðast um sólkerfið þar sem skrif þeirra má finna á öðrum plánetum líka.</value>
+    <value>Það þýðir að það voru tveir hópar af Nómæjum — einn á Blossabróður og annar sem bjó hér á Brotholi. En þeir hljóta að hafa ferðast um sólkerfið þar sem skrif þeirra má finna á öðrum plánetum líka.</value>
   </entry>
   <entry>
     <key>RiebeckLearned_6A pilgrimage to the Quantum Moon? The Nomai mentioned the Quantum Moon in a lot of their writing, so it was clearly special to them. And um, special enough to make a trip there by themselves!</key>
-    <value>Pílagrímsferð til Skammtatunglsins? Nómæarnir hafa minnst á Skammtatunglið í mörgum af sínum skrifum, þannig að það var klárlega mikilvægt í þeirra augum. Og ömm, nógu mikilvægt til þess að ferðast þangað persónulega!</value>
+    <value>Pílagrímsferð til Skammtatunglsins? Nómæjarnir hafa minnst á Skammtatunglið í mörgum af sínum skrifum, þannig að það var klárlega mikilvægt í þeirra augum. Og ömm, nógu mikilvægt til þess að ferðast þangað persónulega!</value>
   </entry>
   <entry>
     <key>RiebeckLearned_6It sounds like a coming-of-age ritual, like how hatchlings stay hatchlings until their stomachs are strong enough to drink sap wine.</key>
-    <value>Hljómar eins og helgisiður til að komast í fullorðinna Nómæa tölu, til dæmis eins og hvernig klaklingar eru klaklingar þar til þeir hafa nógu góðan maga til þess að drekka kvoðuvín.</value>
+    <value>Hljómar eins og helgisiður til að komast í fullorðinna Nómæja tölu, til dæmis eins og hvernig klaklingar eru klaklingar þar til þeir hafa nógu góðan maga til þess að drekka kvoðuvín.</value>
   </entry>
   <entry>
     <key>RiebeckLearned_6Maybe once a Nomai journeyed to the Quantum Moon, they were considered an adult?</key>
-    <value>Kannski var Nómæi ekki talinn vera fullorðin þar til hann ferðaðist til Skammtatunglsins?</value>
+    <value>Kannski var Nómæji ekki talinn vera fullorðin þar til hann ferðaðist til Skammtatunglsins?</value>
   </entry>
   <entry>
     <key>RiebeckLearned_7Oh, wow. &lt;i&gt;Wow.&lt;/i&gt; So that’s how the Nomai died?</key>
-    <value>Ó vá. &lt;i&gt;Vá.&lt;/i&gt; Svo þannig dóu Nómæarnir?</value>
+    <value>Ó vá. &lt;i&gt;Vá.&lt;/i&gt; Svo þannig dóu Nómæjarnir?</value>
   </entry>
   <entry>
     <key>RiebeckLearned_7That’s... really sad, isn’t it? I know it was a long time ago, but still...</key>
@@ -8064,7 +8064,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_8...What? On the Quantum Moon, you said?&lt;Pause&gt; There’s a sort of-living Nomai on the Quantum Moon?!</key>
-    <value>...Bíddu? Á Skammtatunglinu segirðu?&lt;Pause&gt; Það er eins konar lifandi Nómæi á Skammtatunglinu?</value>
+    <value>...Bíddu? Á Skammtatunglinu segirðu?&lt;Pause&gt; Það er eins konar lifandi Nómæji á Skammtatunglinu?</value>
   </entry>
   <entry>
     <key>RiebeckLearned_8WELL, WHY DIDN’T YOU SAY SO?!</key>
@@ -8072,7 +8072,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_8Oh wow! &lt;i&gt;Wow&lt;/i&gt;! This is the best thing that’s ever happened in the history of Outer Wilds Ventures! I can’t believe you talked to an actual Nomai!</key>
-    <value>Ó vá! &lt;i&gt;Vá&lt;/i&gt;! Þetta er það besta sem hefur gerst í sögu Vegferðar Fjarlægra Firninda! Ég trúi ekki að þú hafir talað við alvöru Nómæa!</value>
+    <value>Ó vá! &lt;i&gt;Vá&lt;/i&gt;! Þetta er það besta sem hefur gerst í sögu Vegferðar Fjarlægra Firninda! Ég trúi ekki að þú hafir talað við alvöru Nómæja!</value>
   </entry>
   <entry>
     <key>RiebeckLearned_8Great! So I just have to go back into space, fly to the Quantum Moon with zero visibility, find a spooky ruin, and travel through a few different types of dangerous terrain to get there.</key>
@@ -8084,27 +8084,27 @@
   </entry>
   <entry>
     <key>SignThis piece of Nomai writing was essential to deciphering their unique language.</key>
-    <value>Þetta eintak af skrifum Nómæa var ómissandi liður í því að ráða fram úr þeirra einstæða tungumáli.</value>
+    <value>Þetta eintak af skrifum Nómæja var ómissandi liður í því að ráða fram úr þeirra einstæða tungumáli.</value>
   </entry>
   <entry>
     <key>SignAlthough this text is linear, Nomai text often branches off from a central point. Interestingly, each branch tends to be written by a different author.</key>
-    <value>Þótt þessi texti sé línulegur, þá kvíslast skrif Nómæa oft frá sameiginlegum miðpunkti. Merkilegt þykir að hver angi er gjarnan skrifaður af nýjum höfundi.</value>
+    <value>Þótt þessi texti sé línulegur, þá kvíslast skrif Nómæja oft frá sameiginlegum miðpunkti. Merkilegt þykir að hver angi er gjarnan skrifaður af nýjum höfundi.</value>
   </entry>
   <entry>
     <key>SignWhat you see here are parts of the Nomai skeleton. We can tell from their skulls that they possessed antlers and, quite unusually, only three eyes.</key>
-    <value>Hér má sjá brot úr beinagrind Nómæa. Við getum séð af hauskúpum þeirra að þeir höfðu horn og, merkilega, eingöngu þrjú augu.</value>
+    <value>Hér má sjá brot úr beinagrind Nómæja. Við getum séð af hauskúpum þeirra að þeir höfðu horn og, merkilega, eingöngu þrjú augu.</value>
   </entry>
   <entry>
     <key>SignThe Nomai body was most likely adapted for living exclusively on land. The differences in the Nomai’s anatomy, such as their shockingly fragile bone structure, show us that Hearthians couldn’t have descended from Nomaian ancestors.</key>
-    <value>Líkami Nómæa var líklegast til þess fallinn að lifa eingöngu á landi. Munurinn á þeirra líkamsbyggingu, eins og til dæmis hve sláandi veik bein þeirra voru, sýnir okkur að Bjálkabælingar geta ekki verið af þeim komnir.</value>
+    <value>Líkami Nómæja var líklegast til þess fallinn að lifa eingöngu á landi. Munurinn á þeirra líkamsbyggingu, eins og til dæmis hve sláandi veik bein þeirra voru, sýnir okkur að Bjálkabælingar geta ekki verið af þeim komnir.</value>
   </entry>
   <entry>
     <key>SignIt’s not clear where the Nomai originated from, or why they disappeared. We hope to find more clues to this puzzle as we explore our solar system.</key>
-    <value>Óskýrt er hvaðan Nómæarnir komu, eða af hverju þeir hurfu. Við vonumst til þess að finna fleiri vísbendingar um það er við höldum áfram að kanna sólkerfið.</value>
+    <value>Óskýrt er hvaðan Nómæjarnir komu, eða af hverju þeir hurfu. Við vonumst til þess að finna fleiri vísbendingar um það er við höldum áfram að kanna sólkerfið.</value>
   </entry>
   <entry>
     <key>SignThe Nomai who came to our solar system were following a signal from the Eye of the universe.</key>
-    <value>Nómæarnir sem komu hingað í sólkerfið okkar voru að elta merki frá Auga alheimsins.</value>
+    <value>Nómæjarnir sem komu hingað í sólkerfið okkar voru að elta merki frá Auga alheimsins.</value>
   </entry>
   <entry>
     <key>SignThey perished when the Interloper arrived, bringing with it the deadly substance we called ghost matter that flooded the entire solar system almost instantly and without warning.</key>
@@ -8222,7 +8222,7 @@
   </entry>
   <entry>
     <key>PLUME: No Nomai clan has ever encountered anything like it! How can anything in this universe be older than the universe itself?</key>
-    <value>PLUME: Enginn ættbálkur Nómæa hefur kynnst nokkru þessu líkt! Hvernig getur eitthvað í þessum alheimi verið eldra en alheimurinn sjálfur?</value>
+    <value>PLUME: Enginn ættbálkur Nómæja hefur kynnst nokkru þessu líkt! Hvernig getur eitthvað í þessum alheimi verið eldra en alheimurinn sjálfur?</value>
   </entry>
   <entry>
     <key>THATCH: Imagine what rare and profound knowledge it might offer. We &lt;i&gt;must&lt;/i&gt; find this &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
@@ -8487,11 +8487,11 @@
   </entry>
   <entry>
     <key>DAZ: Each statue will send a single Nomai’s memories to his or her own storage unit within &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-    <value>DAZ: Hver stytta mun senda minningar þeirra Nómæa til minnisgeymslu sinnar inni í &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;.</value>
+    <value>DAZ: Hver stytta mun senda minningar þeirra Nómæja til minnisgeymslu sinnar inni í &lt;color=lightblue&gt;Sótsystur&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>PHLOX: Each storage unit will be equipped with a mask, the statue’s counterpart, which will be able to send those stored memories back to the corresponding Nomai.</key>
-    <value>PHLOX: Hver minnishirsla mun vera útbúin grímu, hliðstæðu styttunnar, sem getur síðan sent þessar minningar til baka á viðeigandi Nómæa.</value>
+    <value>PHLOX: Hver minnishirsla mun vera útbúin grímu, hliðstæðu styttunnar, sem getur síðan sent þessar minningar til baka á viðeigandi Nómæja.</value>
   </entry>
   <entry>
     <key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Request to launch probe received from &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
@@ -8567,7 +8567,7 @@
   </entry>
   <entry>
     <key>SOLANUM: I am on my first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. All Nomai in my clan make this journey when we come of age.</key>
-    <value>SOLANUM: Ég er á minni fyrstu pílagrímsferð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;. Allir Nómæar í mínum ættbálk þreyta þessa ferð þegar við fullorðnumst.</value>
+    <value>SOLANUM: Ég er á minni fyrstu pílagrímsferð til &lt;color=lightblue&gt;Skammtatunglsins&lt;/color&gt;. Allir Nómæjar í mínum ættbálk þreyta þessa ferð þegar við fullorðnumst.</value>
   </entry>
   <entry>
     <key>SOLANUM: Even though the &lt;color=lightblue&gt;Eye&lt;/color&gt; cannot be reached from here, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; remains special to us, as it carries us nearer to the &lt;color=lightblue&gt;Eye&lt;/color&gt; than any other place we know.</key>
@@ -8623,7 +8623,7 @@
   </entry>
   <entry>
     <key>SOLANUM: These are the two tenets of Nomai philosophy; to seek out and to understand is our way of living.</key>
-    <value>SOLANUM: Þetta eru tvær meginreglur heimspeki Nómæa; að leita uppi og skilja er okkar lífsmáti.</value>
+    <value>SOLANUM: Þetta eru tvær meginreglur heimspeki Nómæja; að leita uppi og skilja er okkar lífsmáti.</value>
   </entry>
   <entry>
     <key>SOLANUM: We are orbiting the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; now, although we cannot see it (only the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of it). The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself, and my clan believes it dwells in an extremely distant orbit around this star system.</key>
@@ -8647,7 +8647,7 @@
   </entry>
   <entry>
     <key>SOLANUM: I am Solanum, a Nomai. My clan arrived in this star system before my birth, and we now call it home.</key>
-    <value>SOLANUM: Ég er Solanum. Nómæi. Ættbálkur minn kom til þessa stjörnukerfis fyrir fæðingu mína, og nú köllum við það heimili okkar.</value>
+    <value>SOLANUM: Ég er Solanum. Nómæji. Ættbálkur minn kom til þessa stjörnukerfis fyrir fæðingu mína, og nú köllum við það heimili okkar.</value>
   </entry>
   <entry>
     <key>SOLANUM: Is this your first time on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;? It’s my first time here.</key>
@@ -8869,7 +8869,7 @@
   </entry>
   <entry>
     <key>Chert2You’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</key>
-    <value>Rústir Nómæa finnast víðs vegar um Sandsystkinin, en undarlegt er að það finnast engin þorp! Trúðu mér, ef það væri þorp hérna væri ég búið að koma auga á það með Litla Kannanum.</value>
+    <value>Rústir Nómæja finnast víðs vegar um Sandsystkinin, en undarlegt er að það finnast engin þorp! Trúðu mér, ef það væri þorp hérna væri ég búið að koma auga á það með Litla Kannanum.</value>
   </entry>
   <entry>
     <key>Chert2So where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
@@ -8933,7 +8933,7 @@
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found modern Nomai transmissions saying the universe is dying.</key>
-    <value>Ég fann nútímasamskipti milli Nómæa sem segja að alheimurinn sé að deyja.</value>
+    <value>Ég fann nútímasamskipti milli Nómæja sem segja að alheimurinn sé að deyja.</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuActually, nevermind.</key>
@@ -9001,7 +9001,7 @@
   </entry>
   <entry>
     <key>FoundSomething5Quite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</key>
-    <value>Frekar snjallt af Nómæunum að finna leið til þess að rannsaka sólina svona nálægt henni. Hlýtur að hafa verið gífurlega erfitt að smíða hana. ...Og hitinn inni í henni. Ég get rétt ímyndað mér!</value>
+    <value>Frekar snjallt af Nómæjunum að finna leið til þess að rannsaka sólina svona nálægt henni. Hlýtur að hafa verið gífurlega erfitt að smíða hana. ...Og hitinn inni í henni. Ég get rétt ímyndað mér!</value>
   </entry>
   <entry>
     <key>FoundSomething5I wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
@@ -9013,7 +9013,7 @@
   </entry>
   <entry>
     <key>FoundSomething6You mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-    <value>Þú vilt meina að það séu nútímaNómæar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
+    <value>Þú vilt meina að það séu nútímaNómæjar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
   </entry>
   <entry>
     <key>FoundSomething6If... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
@@ -9089,7 +9089,7 @@
   </entry>
   <entry>
     <key>Chert2bYou’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</key>
-    <value>Rústir Nómæa finnast víðs vegar um Sandsystkinin, en undarlegt er að það finnast engin þorp! Trúðu mér, ef það væri þorp hérna væri ég búið að koma auga á það með Litla Kannanum.</value>
+    <value>Rústir Nómæja finnast víðs vegar um Sandsystkinin, en undarlegt er að það finnast engin þorp! Trúðu mér, ef það væri þorp hérna væri ég búið að koma auga á það með Litla Kannanum.</value>
   </entry>
   <entry>
     <key>Chert2bSo where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
@@ -9185,7 +9185,7 @@
   </entry>
   <entry>
     <key>FoundSomething5bQuite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</key>
-    <value>Frekar snjallt af Nómæunum að finna leið til þess að rannsaka sólina svona nálægt henni. Hlýtur að hafa verið gífurlega erfitt að smíða hana. ...Og hitinn inni í henni. Ég get rétt ímyndað mér!</value>
+    <value>Frekar snjallt af Nómæjunum að finna leið til þess að rannsaka sólina svona nálægt henni. Hlýtur að hafa verið gífurlega erfitt að smíða hana. ...Og hitinn inni í henni. Ég get rétt ímyndað mér!</value>
   </entry>
   <entry>
     <key>FoundSomething5bI wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
@@ -9197,7 +9197,7 @@
   </entry>
   <entry>
     <key>FoundSomething6bYou mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-    <value>Þú vilt meina að það séu nútímaNómæar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
+    <value>Þú vilt meina að það séu nútímaNómæjar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
   </entry>
   <entry>
     <key>FoundSomething6bIf... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
@@ -9665,7 +9665,7 @@
   </entry>
   <entry>
     <key>Explanation1One of the islands on Giant’s Deep has a Nomai statue on the beach - ever seen one? I brought one back to Timber Hearth with me. Big stone sculpture of a Nomai’s head, three eyes and everything. Beautifully carved, too.</key>
-    <value>Ein eyjanna hér á Jötunsdýpi er með Nómæ styttu á ströndinni - hefurðu séð þær einhvern tíma? Ég tók með mér eina til baka á Bjálkaból. Stór höggmynd af andliti Nómæa, þrjú augu og allt saman. Frábærlega meitlað líka.</value>
+    <value>Ein eyjanna hér á Jötunsdýpi er með Nómæ styttu á ströndinni - hefurðu séð þær einhvern tíma? Ég tók með mér eina til baka á Bjálkaból. Stór höggmynd af andliti Nómæja, þrjú augu og allt saman. Frábærlega meitlað líka.</value>
   </entry>
   <entry>
     <key>Explanation1So one minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</key>
@@ -10049,7 +10049,7 @@
   </entry>
   <entry>
     <key>Curator1We’re better equipped than ever to unravel the mysteries of the Nomai. You and Hal should be very proud of your work!</key>
-    <value>Við erum nú betur undirbúin til þess að ráða fram úr ráðgátum Nómæanna. Þú og Hal ættuð að vera mjög stolt.</value>
+    <value>Við erum nú betur undirbúin til þess að ráða fram úr ráðgátum Nómæjanna. Þú og Hal ættuð að vera mjög stolt.</value>
   </entry>
   <entry>
     <key>Curator1Tell me, what’s your plan once you’re in space?</key>
@@ -10057,7 +10057,7 @@
   </entry>
   <entry>
     <key>HornfelsCurator1I’m going to learn more about the Nomai.</key>
-    <value>Ég ætla að læra meira um Nómæana.</value>
+    <value>Ég ætla að læra meira um Nómæjana.</value>
   </entry>
   <entry>
     <key>HornfelsCurator1I’ll meet up with the other travelers.</key>
@@ -10085,7 +10085,7 @@
   </entry>
   <entry>
     <key>Curator2We’ve barely scratched the surface of the Nomai writing in our solar system, so we still know very little about them. We’ve no idea if they originated here or traveled here, or why they disappeared.</key>
-    <value>Við höfum varla kannað brotabrot af þeim skrifum Nómæa sem eru í sólkerfinu okkar, þannig að við vitum enn mjög lítið um þá. Við vitum ekki hvort þeir komu héðan eða ferðuðust hingað, né vitum við neitt um hvarf þeirra.</value>
+    <value>Við höfum varla kannað brotabrot af þeim skrifum Nómæja sem eru í sólkerfinu okkar, þannig að við vitum enn mjög lítið um þá. Við vitum ekki hvort þeir komu héðan eða ferðuðust hingað, né vitum við neitt um hvarf þeirra.</value>
   </entry>
   <entry>
     <key>Curator2That tool of yours should prove indispensible in solving the mystery of this ancient species!</key>
@@ -10831,19 +10831,19 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai MinesThe Nomai were mining ore somewhere on Timber Hearth.</key>
-      <value>Nómæarnir voru að vinna járngrýti einhvers staðar á Bjálkabóli.</value>
+      <value>Nómæjarnir voru að vinna járngrýti einhvers staðar á Bjálkabóli.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai MinesThe Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</key>
-      <value>Nómæarnir unnu járngrýti frá þessu svæði til þess að smíða varnarskel sérstaklega hannaða til þess að innsigla miðjuhvelfinguna inni í Sótsystur.</value>
+      <value>Nómæjarnir unnu járngrýti frá þessu svæði til þess að smíða varnarskel sérstaklega hannaða til þess að innsigla miðjuhvelfinguna inni í Sótsystur.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai MinesOnce the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.</key>
-      <value>Þegar skelin var tilbúin, sáu Nómæarnir til þess að það væru ekki lengur neinir sýnilegir inngangar eftir, né sprungur.</value>
+      <value>Þegar skelin var tilbúin, sáu Nómæjarnir til þess að það væru ekki lengur neinir sýnilegir inngangar eftir, né sprungur.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai MinesThe Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine.</key>
-      <value>Nómæarnir uppgötvuðu fjóreygða tegund í rennslunum nálægt námunum. Tegundin var hálfgert lagardýr, hálfgert landdýr.</value>
+      <value>Nómæjarnir uppgötvuðu fjóreygða tegund í rennslunum nálægt námunum. Tegundin var hálfgert lagardýr, hálfgert landdýr.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Grove</key>
@@ -10859,7 +10859,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum GroveThe Nomai detected a quantum signal coming from somewhere on Timber Hearth.</key>
-      <value>Nómæarnir greindu skammtamerki komandi einhvers staðar frá Bjálkabóli.</value>
+      <value>Nómæjarnir greindu skammtamerki komandi einhvers staðar frá Bjálkabóli.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum GroveThere is a strange rock shard in this grove that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
@@ -10887,7 +10887,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Riebeck’s CampRiebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.</key>
-      <value>Riebeck fór til Brothols til þess að rannsaka eitthvað sem Nómæarnir voru að gera á suðurpólnum.</value>
+      <value>Riebeck fór til Brothols til þess að rannsaka eitthvað sem Nómæjarnir voru að gera á suðurpólnum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Riebeck’s CampRiebeck landed their ship near the big dome at the south pole. The door leading inside was broken, so they decided to head north to the ruins on the equator in search of a way beneath the surface.</key>
@@ -10903,7 +10903,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Riebeck’s CampRiebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole.</key>
-      <value>Riebeck sló upp tjaldbúðum við botn Vegamótanna. Spenningur háns að vera umkringt svo mikilli sögu Nómæa er eingöngu jafnaður af ofsahræðslu háns við svartholið.</value>
+      <value>Riebeck sló upp tjaldbúðum við botn Vegamótanna. Spenningur háns að vera umkringt svo mikilli sögu Nómæja er eingöngu jafnaður af ofsahræðslu háns við svartholið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Riebeck’s CampRiebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture.</key>
@@ -10927,19 +10927,19 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum KnowledgeThis tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</key>
-      <value>Þessi turn (staðsettur við miðbaug Brothols) innihélt mikilvæga vitneskju fyrir Nómæa á leið í sína fyrstu pílagrímsferð til Skammtatunglsins.</value>
+      <value>Þessi turn (staðsettur við miðbaug Brothols) innihélt mikilvæga vitneskju fyrir Nómæja á leið í sína fyrstu pílagrímsferð til Skammtatunglsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum KnowledgeA Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</key>
-      <value>Nómæa, að nafni Solanum, var sagt að leita til Skammtaskilningsturnins (á miðbaugi Brothols) til þess að læra eina lokareglu áður en hún færi í pílagrímsferðina sína til Skammtatunglsins.</value>
+      <value>Nómæja, að nafni Solanum, var sagt að leita til Skammtaskilningsturnins (á miðbaugi Brothols) til þess að læra eina lokareglu áður en hún færi í pílagrímsferðina sína til Skammtatunglsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum KnowledgeThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. "Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole."</key>
-      <value>Nómæarnir byggðu helgiskrín á Skammtatunglinu sem hjálpar til við að finna sjöttu staðsetninguna á því. "Mundu þessa lokareglu: Til að kanna sjötta svæðið þarf helgiskrínið að vera á norðurpól tunglsins."</value>
+      <value>Nómæjarnir byggðu helgiskrín á Skammtatunglinu sem hjálpar til við að finna sjöttu staðsetninguna á því. "Mundu þessa lokareglu: Til að kanna sjötta svæðið þarf helgiskrínið að vera á norðurpól tunglsins."</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum KnowledgeThe pilgrimage to the Quantum Moon was a deeply significant journey for the Nomai.</key>
-      <value>Pílagrímsförin til Skammtatunglsins var afar þýðingarmikið ferðalag í augum Nómæa.</value>
+      <value>Pílagrímsförin til Skammtatunglsins var afar þýðingarmikið ferðalag í augum Nómæja.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum KnowledgeAfter the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon.</key>
@@ -10951,15 +10951,15 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShardThe Nomai noticed a strange rock shard that appeared to wander when no one was watching.</key>
-      <value>Nómæarnir tóku eftir skrítnu grjóti sem virtist ráfa um ef enginn fylgdist með því.</value>
+      <value>Nómæjarnir tóku eftir skrítnu grjóti sem virtist ráfa um ef enginn fylgdist með því.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShardA strange rock shard that wanders when no one is watching. The Nomai determined this shard is the reason objects in this grove behave in a quantum manner.</key>
-      <value>Skrítinn grjóthnullungur sem ráfar um þegar enginn fylgist með honum. Nómæarnir ályktuðu þetta grjót vera ástæðuna fyrir því að skammtaeðli sýndi sig í öðrum hlutum í lundinum.</value>
+      <value>Skrítinn grjóthnullungur sem ráfar um þegar enginn fylgist með honum. Nómæjarnir ályktuðu þetta grjót vera ástæðuna fyrir því að skammtaeðli sýndi sig í öðrum hlutum í lundinum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShardThe Nomai hypothesized that this shard is actually a piece of the Quantum Moon.</key>
-      <value>Nómæarnir settu fram þá tilgátu að grjótið væri í raun brot af Skammtatunglinu.</value>
+      <value>Nómæjarnir settu fram þá tilgátu að grjótið væri í raun brot af Skammtatunglinu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShardThis shard emits the same signal as the Quantum Moon.</key>
@@ -10975,7 +10975,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Northern GlacierThe Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</key>
-      <value>Nómæarnir gátu varpað hingað frá Hvítholsstöðinni. Hérna er hvar þeir fyrst léku eftir varptækni sína.</value>
+      <value>Nómæjarnir gátu varpað hingað frá Hvítholsstöðinni. Hérna er hvar þeir fyrst léku eftir varptækni sína.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Escape Pod 1</key>
@@ -11003,11 +11003,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Old SettlementThe Nomai survivors who crashed on Brittle Hollow climbed down the cliff to a shelter site below the surface.</key>
-      <value>Eftirlifandi Nómæar, sem brotlentu á Brotholi, klifruðu niður klettaveggina og í skjól fyrir neðan yfirborðið.</value>
+      <value>Eftirlifandi Nómæjar, sem brotlentu á Brotholi, klifruðu niður klettaveggina og í skjól fyrir neðan yfirborðið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Old SettlementThe Nomai constructed a temporary settlement beneath their crashed escape pod.</key>
-      <value>Nómæarnir byggðu skammtímaskjól fyrir neðan brotlenta björgunarbátinn þeirra.</value>
+      <value>Nómæjarnir byggðu skammtímaskjól fyrir neðan brotlenta björgunarbátinn þeirra.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Old SettlementThe Nomai worked together to recall an eye-shaped signal they encountered while aboard the Vessel.</key>
@@ -11015,11 +11015,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Old SettlementThe signal was somehow older than the universe itself. The Nomai decided to call it the "Eye of the universe."</key>
-      <value>Merkið var einhvern veginn eldra en sjálfur alheimurinn. Nómæarnir ákváðu að kalla merkið "Auga alheimsins".</value>
+      <value>Merkið var einhvern veginn eldra en sjálfur alheimurinn. Nómæjarnir ákváðu að kalla merkið "Auga alheimsins".</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Old SettlementThe Nomai abandoned this settlement over growing concerns about its stability.</key>
-      <value>Nómæarnir yfirgáfu þessa byggð vegna aukinna áhyggja yfir stöðugleika hennar.</value>
+      <value>Nómæjarnir yfirgáfu þessa byggð vegna aukinna áhyggja yfir stöðugleika hennar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Mural (Panel 3)</key>
@@ -11027,7 +11027,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Mural (Panel 3)A mural of three escape pods evacuating the Nomai vessel.</key>
-      <value>Veggmynd af þeim þremur björgunarbátum sem yfirgáfu Örk Nómæanna.</value>
+      <value>Veggmynd af þeim þremur björgunarbátum sem yfirgáfu Örk Nómæjanna.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Mural (Panel 2)</key>
@@ -11055,7 +11055,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Hanging CityThe Nomai decided to migrate from the Old Settlement to the northern glacier. They used gravity crystals to craft a stable path beneath the surface.</key>
-      <value>Nómæarnir ákváðu að flytjast frá Gömlu Byggðinni að norðurjöklinum. Þeir notuðu þyngdaraflskristala til þess að búa til stöðugan slóða undir yfirborðinu.</value>
+      <value>Nómæjarnir ákváðu að flytjast frá Gömlu Byggðinni að norðurjöklinum. Þeir notuðu þyngdaraflskristala til þess að búa til stöðugan slóða undir yfirborðinu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Hanging CityThere's a huge Nomai city just to the north of Riebeck's campsite.</key>
@@ -11071,11 +11071,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Hanging CityThe Nomai debated how to obtain the powerful, highly advanced warp core required for the Ash Twin Project.</key>
-      <value>Nómæarnir rökræddu um hvernig þeir ættu að verða sér úti um kraftmikinn og háþróaðan varpkjarna fyrir Sótsysturverkefnið.</value>
+      <value>Nómæjarnir rökræddu um hvernig þeir ættu að verða sér úti um kraftmikinn og háþróaðan varpkjarna fyrir Sótsysturverkefnið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Hanging CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
-      <value>Nómæarnir ferðuðust til þessa sólkerfis í leit að merki frá einhverju sem er eldra en sjálfur alheimurinn. Þeir skýrðu upptök þessa merkis "Auga alheimsins."</value>
+      <value>Nómæjarnir ferðuðust til þessa sólkerfis í leit að merki frá einhverju sem er eldra en sjálfur alheimurinn. Þeir skýrðu upptök þessa merkis "Auga alheimsins."</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole Forge</key>
@@ -11091,11 +11091,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeA Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</key>
-      <value>Nómæi, að nafni Poke, ætlaði sér að skapa nýjan háþróaðan varpkjarna í Svartholssmiðjunni.</value>
+      <value>Nómæji, að nafni Poke, ætlaði sér að skapa nýjan háþróaðan varpkjarna í Svartholssmiðjunni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeThe Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</key>
-      <value>Nómæarnir smíðuðu varpkjarna í Svartholssmiðjunni og sendu þá síðan til Sótsystur.</value>
+      <value>Nómæjarnir smíðuðu varpkjarna í Svartholssmiðjunni og sendu þá síðan til Sótsystur.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeA warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</key>
@@ -11115,7 +11115,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
-      <value>Nómæi, að nafni Poke, tókst að smíða háþróaðan varpkjarna fyrir Sótsysturverkefnið.</value>
+      <value>Nómæji, að nafni Poke, tókst að smíða háþróaðan varpkjarna fyrir Sótsysturverkefnið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Alignment Angle Diagram</key>
@@ -11143,7 +11143,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Southern ObservatoryThe Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.</key>
-      <value>Nómæarnir ákváðu að byggja stærri og háþróaðri staðsetjara fyrir merki Augans á suðurpól Brothols.</value>
+      <value>Nómæjarnir ákváðu að byggja stærri og háþróaðri staðsetjara fyrir merki Augans á suðurpól Brothols.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Southern ObservatoryThere are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</key>
@@ -11159,15 +11159,15 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Southern ObservatoryThe new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal.</key>
-      <value>Hinn nýi og næmari staðsetjari sem Nómæarnir byggðu í athugunarstöðinni gat ekki fundið nein ummerki um merki Augans.</value>
+      <value>Hinn nýi og næmari staðsetjari sem Nómæjarnir byggðu í athugunarstöðinni gat ekki fundið nein ummerki um merki Augans.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Southern ObservatoryBased on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun.</key>
-      <value>Byggt á vitneskju sinni um Skammtatunglið, þá trúðu Nómæarnir því að Augað var á fjarlægri braut um sólina.</value>
+      <value>Byggt á vitneskju sinni um Skammtatunglið, þá trúðu Nómæjarnir því að Augað var á fjarlægri braut um sólina.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Southern ObservatoryThe Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.</key>
-      <value>Nómæarnir ákváðu að hætta að leita að merki Augans og fóru frekar að leita að því sjónrænt með því að senda út könnunarhnött.</value>
+      <value>Nómæjarnir ákváðu að hætta að leita að merki Augans og fóru frekar að leita að því sjónrænt með því að senda út könnunarhnött.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Southern ObservatoryThere were concerns that the probability of launching a probe in the correct direction would be absurdly small.</key>
@@ -11183,11 +11183,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tornado SimulationThe Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.</key>
-      <value>Nómæarnir á Suður Athugunarstöðinni bjuggu til líkan af Jötunsdýpi sem leiddi í ljós hvernig hlutur gæti sokkið niður fyrir sterka sjávarstrauminn.</value>
+      <value>Nómæjarnir á Suður Athugunarstöðinni bjuggu til líkan af Jötunsdýpi sem leiddi í ljós hvernig hlutur gæti sokkið niður fyrir sterka sjávarstrauminn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tornado SimulationMost cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</key>
-      <value>Flestir hvirfilbyljir á Jötunsdýpi snúast réttsælis. Þessa hvirfilbylji notuðu Nómæarnir til þess að hífa parta upp á sporbraut.</value>
+      <value>Flestir hvirfilbyljir á Jötunsdýpi snúast réttsælis. Þessa hvirfilbylji notuðu Nómæjarnir til þess að hífa parta upp á sporbraut.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tornado SimulationThere also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
@@ -11291,7 +11291,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai GraveThe Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod.</key>
-      <value>Þar gátu Nómæarnir heyrt dauft neyðarmerki Arkarinnar innan úr fræinu, en opið á því var of lítið til þess að stakur Nómæi gæti skriðið í gegn, hvað þá björgunarbátur.</value>
+      <value>Þar gátu Nómæjarnir heyrt dauft neyðarmerki Arkarinnar innan úr fræinu, en opið á því var of lítið til þess að stakur Nómæji gæti skriðið í gegn, hvað þá björgunarbátur.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai GraveThe Vessel's beacon was dying, and would soon be gone completely.</key>
@@ -11307,7 +11307,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The VesselThe Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</key>
-      <value>Nómæarnir vörpuðu til þessa sólkerfis um borð í geimskipi sem var kallað Örkin. Þeir voru að reyna að elta uppi merki frá Auga alheimsins.</value>
+      <value>Nómæjarnir vörpuðu til þessa sólkerfis um borð í geimskipi sem var kallað Örkin. Þeir voru að reyna að elta uppi merki frá Auga alheimsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The VesselThe Vessel crashed somewhere in Dark Bramble.</key>
@@ -11335,7 +11335,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The VesselThe Nomai tried to call for help, but the Vessel's outgoing message system broke during the crash.</key>
-      <value>Nómæarnir reyndu að kalla á hjálp, en útsendingakerfi Arkarinnar eyðilagðist við brotlendinguna.</value>
+      <value>Nómæjarnir reyndu að kalla á hjálp, en útsendingakerfi Arkarinnar eyðilagðist við brotlendinguna.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The VesselThe Vessel can still hear incoming messages from other Nomai vessels. The remaining Nomai clans are regrouping in response to the impending death of the universe.</key>
@@ -11343,7 +11343,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The VesselI found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going.</key>
-      <value>Ég fann upptökur af upprunalega merkinu sem Nómæarnir rákust á fyrir Auga alheimsins. Nómæarnir voru hræddir um að merkið gæti horfið, þannig að þeir vörpuðu áður en þeir gátu látið annan ættbálk vita hvert þeir væru að fara.</value>
+      <value>Ég fann upptökur af upprunalega merkinu sem Nómæjarnir rákust á fyrir Auga alheimsins. Nómæjarnir voru hræddir um að merkið gæti horfið, þannig að þeir vörpuðu áður en þeir gátu látið annan ættbálk vita hvert þeir væru að fara.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Orbital Probe Cannon</key>
@@ -11351,7 +11351,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Orbital Probe CannonThe Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.</key>
-      <value>Nómæarnir kláruðu að smíða síðustu eininguna fyrir Geimflaugavörpuna og hófu hana á loft umhverfis Jötunsdýpi.</value>
+      <value>Nómæjarnir kláruðu að smíða síðustu eininguna fyrir Geimflaugavörpuna og hófu hana á loft umhverfis Jötunsdýpi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Orbital Probe CannonI used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.</key>
@@ -11359,7 +11359,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Orbital Probe CannonThe Nomai decided to construct a probe cannon in orbit around Giant’s Deep.</key>
-      <value>Nómæarnir ákváðu að byggja geimflaugavörpu á braut um Jötunsdýpi.</value>
+      <value>Nómæjarnir ákváðu að byggja geimflaugavörpu á braut um Jötunsdýpi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Orbital Flash</key>
@@ -11379,7 +11379,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Orbital Probe CannonThe Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe.</key>
-      <value>Nómæarnir stilltu Geimflaugavörpuna vel yfir þolmörk hennar til þess að fá betri líkur á því að finna Auga alheimsins.</value>
+      <value>Nómæjarnir stilltu Geimflaugavörpuna vel yfir þolmörk hennar til þess að fá betri líkur á því að finna Auga alheimsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Probe Tracking Module</key>
@@ -11395,7 +11395,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Probe Tracking ModuleAny Nomai aboard the Probe Tracking Module would be the first to see the coordinates of the Eye of the universe.</key>
-      <value>Sá Nómæi um borð í Rakningareiningunni yrði sá fyrsti til þess að sjá hnitin fyrir Auga alheimsins.</value>
+      <value>Sá Nómæji um borð í Rakningareiningunni yrði sá fyrsti til þess að sjá hnitin fyrir Auga alheimsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Probe Tracking ModuleA Nomai computer reports the Probe Tracking Module as "missing."</key>
@@ -11443,11 +11443,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch ModuleA Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</key>
-      <value>Nómæi, að nafni Mallow, hélt því fram að veiking á burðarlagi vörpunnar skipti ekki máli þar sem hún myndi eingöngu skjóta kanna á loft einu sinni.</value>
+      <value>Nómæji, að nafni Mallow, hélt því fram að veiking á burðarlagi vörpunnar skipti ekki máli þar sem hún myndi eingöngu skjóta kanna á loft einu sinni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Launch ModuleA Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</key>
-      <value>Nómæi, að nafni Privet, kom með þau mótrök að þau gætu ekki tekið á móti gögnum könnunarhnattarins ef Rakningareiningin skyldi eyðileggjast.</value>
+      <value>Nómæji, að nafni Privet, kom með þau mótrök að þau gætu ekki tekið á móti gögnum könnunarhnattarins ef Rakningareiningin skyldi eyðileggjast.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Control Module</key>
@@ -11471,7 +11471,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
-      <value>Risastór hringlaga og tilbúin veröld sem falin er af einhvers konar hulinssviði. Virðist ekki vera smíð Bjálkabælinga né Nómæa.</value>
+      <value>Risastór hringlaga og tilbúin veröld sem falin er af einhvers konar hulinssviði. Virðist ekki vera smíð Bjálkabælinga né Nómæja.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>River Lowlands</key>
@@ -11983,7 +11983,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Moon LocatorThe Nomai hypothesized that the Quantum Moon might be a form of macroscopic quantum mechanics.</key>
-      <value>Nómæarnir lögðu fram þá tilgátu að Skammtatunglið væri í heild sinni eitt stórt skammtakerfi.</value>
+      <value>Nómæjarnir lögðu fram þá tilgátu að Skammtatunglið væri í heild sinni eitt stórt skammtakerfi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Moon LocatorThe Quantum Moon travels to at least five locations, but sometimes the locator can't tell where the moon is.</key>
@@ -12043,15 +12043,15 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>High Energy LabThe Nomai successfully reproduced the temporal anomaly first observed at the White Hole Station (warped objects appear to arrive before they depart).</key>
-      <value>Nómæunum tókst að endurskapa tímafrávikið sem fyrst var tekið eftir á Hvítholsstöðinni (varpaðir hlutir virðast koma áður en þeir fara).</value>
+      <value>Nómæjunum tókst að endurskapa tímafrávikið sem fyrst var tekið eftir á Hvítholsstöðinni (varpaðir hlutir virðast koma áður en þeir fara).</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>High Energy LabThe Nomai discovered they could increase the negative time interval between arrival and departure by adding energy to the warp cores.</key>
-      <value>Nómæarnir uppgötvuðu að þeir gátu aukið neikvæða tímamismuninn milli komu og brottfarar með því að auka orkuflæði í varpkjarnana.</value>
+      <value>Nómæjarnir uppgötvuðu að þeir gátu aukið neikvæða tímamismuninn milli komu og brottfarar með því að auka orkuflæði í varpkjarnana.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>High Energy LabThe Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project.</key>
-      <value>Nómæarnir vildu vita hvort hægt væri að búa til neikvæðan tímamismun upp á 22 mínútur. Þeir komust að þeirri niðurstöðu að þeir myndu þurfa nýja tækni til þess að framleiða orkuna sem til þarf ásamt því að smíða háþróaða varpkjarna til þess að höndla slíka orku. Sótsystir var tilnefnd sem staðsetning þess verkefnis.</value>
+      <value>Nómæjarnir vildu vita hvort hægt væri að búa til neikvæðan tímamismun upp á 22 mínútur. Þeir komust að þeirri niðurstöðu að þeir myndu þurfa nýja tækni til þess að framleiða orkuna sem til þarf ásamt því að smíða háþróaða varpkjarna til þess að höndla slíka orku. Sótsystir var tilnefnd sem staðsetning þess verkefnis.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin Tower Designs</key>
@@ -12067,7 +12067,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin Tower DesignsEach tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet).</key>
-      <value>Hver turn varpar farþega sínum á mismunandi plánetur (þótt margir Nómæar voru fljótir að benda á það að sólin er reyndar ekki pláneta).</value>
+      <value>Hver turn varpar farþega sínum á mismunandi plánetur (þótt margir Nómæjar voru fljótir að benda á það að sólin er reyndar ekki pláneta).</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin Tower DesignsEach tower was designed to visually reflect its warp destination.</key>
@@ -12075,7 +12075,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin Tower DesignsThe towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project.</key>
-      <value>Turnarnir gerðu Nómæum kleift að ferðast hratt á milli Sótsystur og allra þeirra staða sem voru mikilvægir Sótsysturverkefninu.</value>
+      <value>Turnarnir gerðu Nómæjum kleift að ferðast hratt á milli Sótsystur og allra þeirra staða sem voru mikilvægir Sótsysturverkefninu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Sunless City</key>
@@ -12087,7 +12087,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Sunless CityThe Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.</key>
-      <value>Nómæarnir fundu skjólsvæði sem lofaði langtímabyggð góðu. Þeir fundu þetta svæði við enda eins ganganna fyrir neðan björgunarbátinn.</value>
+      <value>Nómæjarnir fundu skjólsvæði sem lofaði langtímabyggð góðu. Þeir fundu þetta svæði við enda eins ganganna fyrir neðan björgunarbátinn.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Underground Settlement</key>
@@ -12095,7 +12095,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Sunless CityChert thinks the lack of surface ruins means the Nomai must have lived somewhere underground.</key>
-      <value>Chert heldur því fram að skortur á rústum Nómæa á yfirborðinu þýði að þeir hljóti að hafa lifað einhvers staðar neðanjarðar.</value>
+      <value>Chert heldur því fram að skortur á rústum Nómæja á yfirborðinu þýði að þeir hljóti að hafa lifað einhvers staðar neðanjarðar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Sunless CityThere is a path leading to the High Energy Lab from the Sunless City.</key>
@@ -12111,11 +12111,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Sunless CityThe Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</key>
-      <value>Nómæarnir rökræddu það að byggja Sólstöð með því markmiði að knýja Sótsysturverkefnið. Nokkrir Nómæar voru á móti byggingu hennar, og héldu því fram að mistök myndu verða til þess að sólkerfið myndi tortímast.</value>
+      <value>Nómæjarnir rökræddu það að byggja Sólstöð með því markmiði að knýja Sótsysturverkefnið. Nokkrir Nómæjar voru á móti byggingu hennar, og héldu því fram að mistök myndu verða til þess að sólkerfið myndi tortímast.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Sunless CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
-      <value>Nómæarnir ferðuðust til þessa sólkerfis í leit að merki frá einhverju sem var eldra en alheimurinn sjálfur. Þeir skírðu upptök þessa merkis "Auga alheimsins."</value>
+      <value>Nómæjarnir ferðuðust til þessa sólkerfis í leit að merki frá einhverju sem var eldra en alheimurinn sjálfur. Þeir skírðu upptök þessa merkis "Auga alheimsins."</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Anglerfish Fossil</key>
@@ -12127,7 +12127,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Anglerfish FossilThe Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.</key>
-      <value>Nómæarnir lærðu hvernig forðast mætti fiskskrattana (að minnsta kosti fræðilega séð) með því að rannsaka steingervinginn sem þeir fundu á Blossabróður.</value>
+      <value>Nómæjarnir lærðu hvernig forðast mætti fiskskrattana (að minnsta kosti fræðilega séð) með því að rannsaka steingervinginn sem þeir fundu á Blossabróður.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Fossil Fish Cave</key>
@@ -12151,7 +12151,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Anglerfish FossilThe adult Nomai were delighted to see the children incorporate their research into the game's rules.</key>
-      <value>Fullorðnu Nómæarnir voru hæstánægðir með það að börnin þeirra gerðu rannsóknir á steingervingnum hluta af leikreglunum.</value>
+      <value>Fullorðnu Nómæjarnir voru hæstánægðir með það að börnin þeirra gerðu rannsóknir á steingervingnum hluta af leikreglunum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Caves</key>
@@ -12159,11 +12159,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum CavesThe Nomai detected a quantum signal coming from somewhere on the Hourglass Twins.</key>
-      <value>Nómæarnir uppgötvuðu skammtamerki koma einhvers staðar frá Sandsystkinunum.</value>
+      <value>Nómæjarnir uppgötvuðu skammtamerki koma einhvers staðar frá Sandsystkinunum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum CavesThe Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere.</key>
-      <value>Nómæarnir tóku eftir skrítnu flökkugrjóti birtast í þónokkrum hellum á norðurhveli Blossabróður.</value>
+      <value>Nómæjarnir tóku eftir skrítnu flökkugrjóti birtast í þónokkrum hellum á norðurhveli Blossabróður.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum CavesI found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
@@ -12179,11 +12179,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Lakebed CaveA Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-      <value>Nómæi, að nafni Coleus, hvarf á dularfullan hátt úr hellinum við þurra vatnsbotninn á norðurpól Blossabróður.</value>
+      <value>Nómæji, að nafni Coleus, hvarf á dularfullan hátt úr hellinum við þurra vatnsbotninn á norðurpól Blossabróður.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Lakebed CaveA Nomai named Coleus was standing on the wandering rock when another Nomai's lantern died. When they relit the lantern, Coleus and the rock were both gone.</key>
-      <value>Nómæi, að nafni Coleus, stóð á flökkugrjótinu þegar lampi annars Nómæa dó. Þegar hann kveikti aftur á lampanum voru Coleus og hnullungurinn báðir horfnir.</value>
+      <value>Nómæji, að nafni Coleus, stóð á flökkugrjótinu þegar lampi annars Nómæja dó. Þegar hann kveikti aftur á lampanum voru Coleus og hnullungurinn báðir horfnir.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Lakebed CaveTo travel with a quantum object, I must stand on the object and cease to observe my surroundings (meaning I must be in complete darkness). Coleus used this quantum rule to escape the cave he was trapped in.</key>
@@ -12203,15 +12203,15 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Frozen Nomai ShuttleThe Nomai landed on the Interloper not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-      <value>Nómæarnir lentu á Raskaranum ekki löngu eftir að hann kom inn í sólkerfið. Búnaður geimferjunnar nam furðulegar orkumælingar sem komu einhvers staðar fyrir neðan yfirborð halastjörnunnar.</value>
+      <value>Nómæjarnir lentu á Raskaranum ekki löngu eftir að hann kom inn í sólkerfið. Búnaður geimferjunnar nam furðulegar orkumælingar sem komu einhvers staðar fyrir neðan yfirborð halastjörnunnar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Frozen Nomai ShuttleThere were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper.</key>
-      <value>Þrír Nómæar voru um borð í geimferjunni. Einn þeirra var eftir í geimferjunni til þess að halda henni heitri á meðan hinir tveir könnuðu Raskarann.</value>
+      <value>Þrír Nómæjar voru um borð í geimferjunni. Einn þeirra var eftir í geimferjunni til þess að halda henni heitri á meðan hinir tveir könnuðu Raskarann.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Frozen Nomai ShuttleClary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface.</key>
-      <value>Clary, Nómæinn sem var eftir, missti samband við hina tvo eftir að þeir ferðuðust undir yfirborð Raskarans.</value>
+      <value>Clary, Nómæjinn sem var eftir, missti samband við hina tvo eftir að þeir ferðuðust undir yfirborð Raskarans.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ruptured Core</key>
@@ -12227,7 +12227,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ruptured CoreTwo of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.</key>
-      <value>Tveir Nómæanna fundu sprungu í ísnum á sólarhlið Raskarans. Þeir ferðuðust undir yfirborðið í gegnum hana til þess að kanna málin.</value>
+      <value>Tveir Nómæjanna fundu sprungu í ísnum á sólarhlið Raskarans. Þeir ferðuðust undir yfirborðið í gegnum hana til þess að kanna málin.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ruptured CoreI found the two missing members of the Nomai shuttle crew near a large ruptured stone that looks like it exploded from the inside.</key>
@@ -12235,7 +12235,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ruptured CoreThe Nomai traced the strange energy readings to a spherical stone casing filled with some form of exotic matter.</key>
-      <value>Nómæarnir ráku slóð hinna skrítnu orkumælinga að hnöttóttu steinhylki fullt af einhvers konar framandi efni.</value>
+      <value>Nómæjarnir ráku slóð hinna skrítnu orkumælinga að hnöttóttu steinhylki fullt af einhvers konar framandi efni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ruptured CoreThey determined the exotic matter was both lethal and under extreme pressure. If the stone were to rupture, the exotic matter within would rapidly expand, completely blanketing the solar system almost instantaneously.</key>
@@ -12243,7 +12243,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ruptured CoreOne of the Nomai stayed behind to examine the alien matter while the other rushed back to the surface to warn the rest of the Nomai.</key>
-      <value>Einn Nómæanna varð eftir til þess að skoða hið framandi efni betur á meðan hinn flýtti sér til baka á yfirborðið til þess að vara alla hina Nómæana við.</value>
+      <value>Einn Nómæjanna varð eftir til þess að skoða hið framandi efni betur á meðan hinn flýtti sér til baka á yfirborðið til þess að vara alla hina Nómæjana við.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ocean Depths</key>
@@ -12255,7 +12255,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ocean DepthsThe Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible.</key>
-      <value>Nómæarnir á Smíðaverkstæðinu sáu eitthvað sökkva niður fyrir strauminn, sem þeir héldu fyrir það að væri ómögulegt.</value>
+      <value>Nómæjarnir á Smíðaverkstæðinu sáu eitthvað sökkva niður fyrir strauminn, sem þeir héldu fyrir það að væri ómögulegt.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ocean DepthsFeldspar found a way to reach the core of Giant’s Deep.</key>
@@ -12303,15 +12303,15 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Construction YardThe Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.</key>
-      <value>Nómæarnir byggðu Geimflaugavörpu á Smíðaverkstæði á Jötunsdýpi.</value>
+      <value>Nómæjarnir byggðu Geimflaugavörpu á Smíðaverkstæði á Jötunsdýpi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Construction YardThis island is where the Nomai built the Orbital Probe Cannon.</key>
-      <value>Á þessari eyju smíðuðu Nómæarnir Geimflaugavörpuna.</value>
+      <value>Á þessari eyju smíðuðu Nómæjarnir Geimflaugavörpuna.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Construction YardFor some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire.</key>
-      <value>Af einhverri ástæðu létu Nómæarnir Geimflaugavörpuverkefnið sitja á hakanum um óákveðinn tíma. Varpan var aldrei beðin um að skjóta.</value>
+      <value>Af einhverri ástæðu létu Nómæjarnir Geimflaugavörpuverkefnið sitja á hakanum um óákveðinn tíma. Varpan var aldrei beðin um að skjóta.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Construction YardAccording to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon.</key>
@@ -12339,7 +12339,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Statue IslandThis island must be where the Nomai created statues like the one in our observatory.</key>
-      <value>Þessi eyja hlýtur að vera staðurinn þar sem Nómæarnir bjuggu til stytturnar eins og þá sem er í athugunarstöðinni.</value>
+      <value>Þessi eyja hlýtur að vera staðurinn þar sem Nómæjarnir bjuggu til stytturnar eins og þá sem er í athugunarstöðinni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Statue IslandI found a Nomai statue lying on the beach. It looks just like the one in our observatory.</key>
@@ -12367,7 +12367,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Statue WorkshopNomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.</key>
-      <value>Styttur Nómæa voru hannaðar til þess að parast einum notanda, taka upp minningar þeirra og senda þessar minningar í minnishirslu inni í Sótsysturverkefninu.</value>
+      <value>Styttur Nómæja voru hannaðar til þess að parast einum notanda, taka upp minningar þeirra og senda þessar minningar í minnishirslu inni í Sótsysturverkefninu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Statue WorkshopEach storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</key>
@@ -12383,11 +12383,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum TrialsThe Nomai detected a Quantum signal coming from somewhere on Giant’s Deep.</key>
-      <value>Nómæarnir fundu skammtamerki koma einhvers staðar frá Jötunsdýpi.</value>
+      <value>Nómæjarnir fundu skammtamerki koma einhvers staðar frá Jötunsdýpi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum TrialsThis tower held knowledge a Nomai needed to make his or her first quantum journey.</key>
-      <value>Þessi turn innihélt þá vitneskju sem Nómæi myndi þurfa til þess að fara í sína fyrstu skammtaferð.</value>
+      <value>Þessi turn innihélt þá vitneskju sem Nómæji myndi þurfa til þess að fara í sína fyrstu skammtaferð.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum Trials"Observing a quantum object; observing an image of a quantum object. These are the same."</key>
@@ -12395,7 +12395,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum TrialsThe Nomai called this the "Rule of Quantum Imaging."</key>
-      <value>Nómæarnir skírðu þetta "Regluna um Skammtamyndun."</value>
+      <value>Nómæjarnir skírðu þetta "Regluna um Skammtamyndun."</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Tower of Quantum Trials"Remember, the other quantum shards have other lessons to teach."</key>
@@ -12407,15 +12407,15 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum MoonThe Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</key>
-      <value>Nómæarnir á Brotholi urðu varir við draugatungl sem stundum birtist á himni þeirra.</value>
+      <value>Nómæjarnir á Brotholi urðu varir við draugatungl sem stundum birtist á himni þeirra.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum MoonThe Nomai on Ember Twin observed a moon that would disappear when no one was watching.</key>
-      <value>Nómæarnir á Blossabróður tóku eftir tungli sem hvarf þegar enginn fylgdist með því.</value>
+      <value>Nómæjarnir á Blossabróður tóku eftir tungli sem hvarf þegar enginn fylgdist með því.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum MoonA Nomai named Solanum landed a shuttle on the Quantum Moon.</key>
-      <value>Nómæi, að nafni Solanum, lenti geimferju á Skammtatunglinu.</value>
+      <value>Nómæji, að nafni Solanum, lenti geimferju á Skammtatunglinu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum MoonChert’s research notes mention a Quantum Moon that no Hearthian has been able to land on.</key>
@@ -12427,7 +12427,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum MoonI found a dead Nomai in a space suit near the south pole.</key>
-      <value>Ég fann dáinn Nómæa í geimbúning nálægt suðurpólnum.</value>
+      <value>Ég fann dáinn Nómæja í geimbúning nálægt suðurpólnum.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Solanum's Shuttle</key>
@@ -12435,11 +12435,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Solanum's ShuttleA Nomai named Solanum landed her shuttle at the Quantum Moon's south pole and prepared to make the rest of the journey on foot.</key>
-      <value>Nómæi, að nafni Solanum, lenti geimferjunni sinni á suðurpól Skammtatunglsins og bjó sig undir að fara restina af för sinni fótgangandi.</value>
+      <value>Nómæji, að nafni Solanum, lenti geimferjunni sinni á suðurpól Skammtatunglsins og bjó sig undir að fara restina af för sinni fótgangandi.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Solanum's ShuttleVisitors to the Quantum Moon always arrive at the south pole (for reasons unknown to the Nomai).</key>
-      <value>Þeir sem heimsækja Skammtatunglið virðast alltaf lenda á suðurpól þess (af óþekktum ástæðum, jafnvel fyrir Nómæunum).</value>
+      <value>Þeir sem heimsækja Skammtatunglið virðast alltaf lenda á suðurpól þess (af óþekktum ástæðum, jafnvel fyrir Nómæjunum).</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Shrine</key>
@@ -12447,7 +12447,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShrineThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location.</key>
-      <value>Nómæarnir byggðu helgiskrín á Skammtatunglinu til þess að hjálpa þeim á pílagrímsför sinni til sjöttu staðsetningarinnar.</value>
+      <value>Nómæjarnir byggðu helgiskrín á Skammtatunglinu til þess að hjálpa þeim á pílagrímsför sinni til sjöttu staðsetningarinnar.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShrineA Nomai shrine that wanders about the Quantum Moon.</key>
@@ -12475,7 +12475,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth LocationMany Nomai went on a pilgrimage during which the Quantum Moon carried them to its sixth and most secret location.</key>
-      <value>Margir Nómæar fóru í pílagrímsferð sem á Skammtatunglinu færi með þá á sjöttu og mest leyndu staðsetningar þess.</value>
+      <value>Margir Nómæjar fóru í pílagrímsferð sem á Skammtatunglinu færi með þá á sjöttu og mest leyndu staðsetningar þess.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth LocationTo explore the sixth location, the shrine on the Quantum Moon must be on the moon’s north pole.</key>
@@ -12483,7 +12483,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth LocationI met a living Nomai named Solanum at the south pole!</key>
-      <value>Ég hitti lifandi Nómæa, að nafni Solanum, á suðurpólnum!</value>
+      <value>Ég hitti lifandi Nómæja, að nafni Solanum, á suðurpólnum!</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth LocationThe Quantum Moon is the Eye of the universe's moon.</key>
@@ -12515,11 +12515,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sun StationThe Nomai debated building a Sun Station in order to power the Ash Twin Project.</key>
-      <value>Nómæarnir rökræddu um að byggja Sólstöð til þess að knýja Sótsysturverkefnið.</value>
+      <value>Nómæjarnir rökræddu um að byggja Sólstöð til þess að knýja Sótsysturverkefnið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sun StationThe Nomai built something called the Sun Station, but not everyone supported its construction.</key>
-      <value>Nómæarnir byggðu eitthvað sem þeir kölluðu Sólstöðina, en ekki voru allir sammála um að byggja hana.</value>
+      <value>Nómæjarnir byggðu eitthvað sem þeir kölluðu Sólstöðina, en ekki voru allir sammála um að byggja hana.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sun StationThe Sun Station was designed to make the sun go supernova.</key>
@@ -12527,11 +12527,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sun StationThe Nomai fired the Sun Station but it had no effect on the sun. They concluded that the Sun Station could never cause the sun to go supernova.</key>
-      <value>Nómæarnir kveiktu á Sólstöðinni en hún hafði engin áhrif á sólina. Þeir ályktuðu að Sólstöðin gæti aldrei orðið til þess að breyta sólinni í sprengistjörnu.</value>
+      <value>Nómæjarnir kveiktu á Sólstöðinni en hún hafði engin áhrif á sólina. Þeir ályktuðu að Sólstöðin gæti aldrei orðið til þess að breyta sólinni í sprengistjörnu.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sun StationAfter the failure of the Sun Station, the Nomai took a break to investigate the newly arrived comet.</key>
-      <value>Eftir að Sólstöðin bar ekki árangur, sneru Nómæarnir sér að því að rannsaka halastjörnu sem var nýkomin inn í sólkerfið.</value>
+      <value>Eftir að Sólstöðin bar ekki árangur, sneru Nómæjarnir sér að því að rannsaka halastjörnu sem var nýkomin inn í sólkerfið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sun StationAccording to a Nomai computer, our sun has reached the end of its natural life cycle.</key>
@@ -12583,7 +12583,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Eye Signal LocatorThe Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe.</key>
-      <value>Nómæarnir urðu fyrir vonbrigðum þegar þeim tókst ekki að nema merki frá einhverju sem þeir kölluðu Auga alheimsins.</value>
+      <value>Nómæjarnir urðu fyrir vonbrigðum þegar þeim tókst ekki að nema merki frá einhverju sem þeir kölluðu Auga alheimsins.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin Towers</key>
@@ -12607,7 +12607,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin ProjectThe Nomai planned to construct technology capable of producing a 22-minute negative time interval on Ash Twin.</key>
-      <value>Nómæarnir plönuðu að skapa tæknilega aðferð til þess að búa til neikvæðan tímamismun upp á 22 mínútur á Sótsystur.</value>
+      <value>Nómæjarnir plönuðu að skapa tæknilega aðferð til þess að búa til neikvæðan tímamismun upp á 22 mínútur á Sótsystur.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin ProjectEvery memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.</key>
@@ -12631,7 +12631,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin ProjectThe Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.</key>
-      <value>Sólstöðin virkaði ekki. Þótt Sótsysturverkefnið gengi fræðilega upp, þá gátu Nómæarnir ekki knúið það.</value>
+      <value>Sólstöðin virkaði ekki. Þótt Sótsysturverkefnið gengi fræðilega upp, þá gátu Nómæjarnir ekki knúið það.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Ash Twin ProjectThere is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project.</key>
@@ -12647,7 +12647,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Volcanic Testing SiteThe Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.</key>
-      <value>Nómæarnir reyndu að smíða skel sem gæti staðist sprengistjörnu (í skamman tíma) til þess að umlykja Sótsysturverkefnið.</value>
+      <value>Nómæjarnir reyndu að smíða skel sem gæti staðist sprengistjörnu (í skamman tíma) til þess að umlykja Sótsysturverkefnið.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Volcanic Testing SiteEven the smallest crack or opening in the protective shell would destroy everything.</key>
@@ -12663,7 +12663,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>White Hole StationSeveral Nomai returned to the station to investigate an equipment reading that appeared to violate causality.</key>
-      <value>Nokkrir Nómæar fóru til stöðvarinnar til þess að rannsaka aflestur tækis sem virtist benda til þess að orsakalögmál væru brotin.</value>
+      <value>Nokkrir Nómæjar fóru til stöðvarinnar til þess að rannsaka aflestur tækis sem virtist benda til þess að orsakalögmál væru brotin.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>White Hole StationThe experiments at the High Energy Lab were based on extraordinary findings from the White Hole Station.</key>
@@ -12683,11 +12683,11 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>White Hole StationThe Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.</key>
-      <value>Nómæarnir tóku eftir svolitlu furðulegu: Hlutir sem varpast virðast koma til varpmóttakarans á Brotholi örlitlu áður en þeir fóru frá Hvítholsstöðinni.</value>
+      <value>Nómæjarnir tóku eftir svolitlu furðulegu: Hlutir sem varpast virðast koma til varpmóttakarans á Brotholi örlitlu áður en þeir fóru frá Hvítholsstöðinni.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>White Hole StationThis negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree.</key>
-      <value>Þessi neikvæði tímamismunur milli komu og brottfarar hluta var ótrúlega smávægilegur (rúmlega ein hundraðþúsundasti úr sekúndu). Nómæarnir efuðust um hvort tækjabúnaður þeirra gæti yfirhöfuð mælt tímamismun á þeim tímaskala.</value>
+      <value>Þessi neikvæði tímamismunur milli komu og brottfarar hluta var ótrúlega smávægilegur (rúmlega ein hundraðþúsundasti úr sekúndu). Nómæjarnir efuðust um hvort tækjabúnaður þeirra gæti yfirhöfuð mælt tímamismun á þeim tímaskala.</value>
     </TranslationTableEntry>
   </table_shipLog>
   <table_ui>
