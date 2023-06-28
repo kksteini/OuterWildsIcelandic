@@ -13333,7 +13333,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>292</key>
-      <value>Use Medkit</value>
+      <value>Nota Sjúkrakassa</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>293</key>
@@ -13385,19 +13385,19 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>310</key>
-      <value>Taka Upp </value>
+      <value>Taka Upp: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>311</key>
-      <value>Sleppa </value>
+      <value>Sleppa: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>312</key>
-      <value>Fjarlægja </value>
+      <value>Fjarlægja: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>313</key>
-      <value>Setja Inn </value>
+      <value>Setja Inn: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>314</key>
@@ -13405,7 +13405,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>315</key>
-      <value>Þegar Haldandi Á </value>
+      <value>Þegar haldandi á: </value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>316</key>
@@ -14690,7 +14690,7 @@ HLEÐ...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>970</key>
-      <value> SKEMMD</value>
+      <value>: SKAÐI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>971</key>
