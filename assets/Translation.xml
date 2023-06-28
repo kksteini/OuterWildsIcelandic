@@ -4170,7 +4170,7 @@
   <entry>
     <key>SECCA: Our &lt;color=orange&gt;escape pod&lt;/color&gt; crashed as we tried to flee this place, destroying our movement and communication capabilities in the process.
 		</key>
-    <value>SECCA: &lt;color=orange&gt;Björgunarbáturinn &lt;/color&gt; okkar brotlendi þegar við reyndum að flýja þennan stað, og gerði þannig út af við ferða- og samskiptagetu okkar í leiðinni.</value>
+    <value>SECCA: &lt;color=orange&gt;Björgunarbáturinn&lt;/color&gt; okkar brotlenti þegar við reyndum að flýja þennan stað, og gerði þannig út af við ferða- og samskiptagetu okkar í leiðinni.</value>
   </entry>
   <entry>
     <key>
@@ -4283,7 +4283,7 @@
   </entry>
   <entry>
     <key>FILIX: Escall, wait, I need more time to send an outgoing message! Shouldn’t we tell another clan where we’re going?</key>
-    <value>FILIX: Escall, bíddu, ég þarf meiri tíma til þess að senda frá okkur tíðindin! Ættum við ekki að hinum ættbálkunum hvert við ætlum?</value>
+    <value>FILIX: Escall, bíddu, ég þarf meiri tíma til þess að senda frá okkur tíðindin! Ættum við ekki að segja hinum ættbálkunum hvert við ætlum?</value>
   </entry>
   <entry>
     <key>ESCALL: We can send the message upon our arrival. This extraordinary signal appeared suddenly; it may disappear just as quickly, and we can’t lose a discovery this incredible! Focus on preparing for the warp, instead.</key>
@@ -7896,7 +7896,7 @@
   </entry>
   <entry>
     <key>RiebeckArcheologistIf you have any questions about the Brittle Hollow Nomai, I’m your Hearthian! Or, um... I have some knowledge of them, I mean. So. &lt;size=20&gt;Maybe I can help?&lt;/size&gt;</key>
-    <value>Ef þú hefur einhverjar spurningar um BrotholsNómæjana, þá ertu að tala við réttan Bjálkabæling! Eða, ömm... Ég veit eitthvað um þá, meina ég. Svo. &lt;size=20&gt;Kannski get ég hjálpað?&lt;/size&gt;</value>
+    <value>Ef þú hefur einhverjar spurningar um Brotholsnómæjana, þá ertu að tala við réttan Bjálkabæling! Eða, ömm... Ég veit eitthvað um þá, meina ég. Svo. &lt;size=20&gt;Kannski get ég hjálpað?&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>RiebeckExploreOh wow, where &lt;i&gt;shouldn’t&lt;/i&gt; you explore here?&lt;Pause&gt; Um, not the &lt;size=20&gt;black hole&lt;/size&gt;, actually. That’s... very no.</key>
@@ -8817,7 +8817,7 @@
   </entry>
   <entry>
     <key>ChertIntroExplanationWhat’s weird is I’ve actually seen a couple of supernovae today. Usually, I’d be fortunate to see just one. Keep an eye or four on the stars, and maybe you’ll spot one yourself!</key>
-    <value>Frekar furðulega, þá hef ég komið auga á nokkrar sprengistjörnur í dag. Venjulega væri ég stórheppið ef ég sæi bara eina. Hafða annað augað eða öll fjögur opin fyrir þessu, og kannski nærðu að sjá eina sjálft!</value>
+    <value>Frekar furðulega, þá hef ég komið auga á nokkrar sprengistjörnur í dag. Venjulega væri ég stórheppið ef ég sæi bara eina. Hafðu annað augað eða öll fjögur opin fyrir þessu, og kannski nærðu að sjá eina sjálft!</value>
   </entry>
   <entry>
     <key>QuestionsTell me, what can I do for you?</key>
@@ -9013,7 +9013,7 @@
   </entry>
   <entry>
     <key>FoundSomething6You mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-    <value>Þú vilt meina að það séu nútímaNómæjar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
+    <value>Þú vilt meina að það séu nútímanómæjar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
   </entry>
   <entry>
     <key>FoundSomething6If... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
@@ -9197,7 +9197,7 @@
   </entry>
   <entry>
     <key>FoundSomething6bYou mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-    <value>Þú vilt meina að það séu nútímaNómæjar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
+    <value>Þú vilt meina að það séu nútímanómæjar annars staðar í geimnum? Og að þeir trúa því að alheimurinn - eins og hann leggur sig - sé að deyja? &lt;Pause/&gt;Sem stendur? &lt;Pause/&gt;...Akkúrat núna?</value>
   </entry>
   <entry>
     <key>FoundSomething6bIf... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
@@ -11495,7 +11495,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelSeveral slides have been burned and cannot be viewed.</key>
-      <value>Nokkrar slæðuspólur hafa verið brenndar og ekki er hægt að skoða þær.</value>
+      <value>Nokkrar slæður hafa verið brenndar og ekki er hægt að skoða þær.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Slide Burning Room</key>
@@ -11707,7 +11707,7 @@ HLEÐ...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide ReelNearly all of the slides have been burned and cannot be viewed.</key>
-      <value>Nær allar slæðuspólurnar hafa verið brenndar og ekki er hægt að skoða þær.</value>
+      <value>Nær allar slæðurnar hafa verið brenndar og ekki er hægt að skoða þær.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Submerged Structure</key>
