@@ -11,4 +11,4 @@ A mod that adds icelandic as a localization option to Outer Wilds
 
 ## Screenshots
 
-[Very early game screenshot](/screens/screen1.png)
+![Very early game screenshot](/screens/screen1.png)
