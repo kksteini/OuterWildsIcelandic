@@ -18,7 +18,7 @@ namespace IcelandicTranslation
             ModHelper.Console.WriteLine($"{nameof(IcelandicTranslation)} is loaded!", MessageType.Success);
 
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
-            api.RegisterLanguage(this, "Icelandic", "assets/Translation.xml");
+            api.RegisterLanguage(this, "Íslenska", "assets/Translation.xml");
         }
     }
 }
